@@ -1,0 +1,199 @@
+{
+  "title": "Average daily intake per capita in 2030",
+  "description": "The average daily intake of water per capita in 2030, based on the 2020 baseline scenario.",
+  "axisY": "kcal / cap / day",
+  "axisX": "country",
+  "minYValue": 2356.97098,
+  "maxYValue": 3575.17699,
+  "graphType": "bar",
+  "legend": [
+    {
+      "id": 1,
+      "label": "Average daily intake per capita"
+    },
+    {
+      "id": 2,
+      "label": "Lower bound"
+    },
+    {
+      "id": 3,
+      "label": "Upper bound"
+    }
+  ],
+  "data": [
+    {
+      "valueX": "ARG",
+      "avg_intake": 2959.20313,
+      "lowerBound": 2048.6247727,
+      "upperBound": 2793.5792355
+    },
+    {
+      "valueX": "AUS",
+      "avg_intake": 2564.802321,
+      "lowerBound": 2051.3668758000003,
+      "upperBound": 2797.318467
+    },
+    {
+      "valueX": "BRA",
+      "avg_intake": 3119.331808,
+      "lowerBound": 2307.1237376000004,
+      "upperBound": 3146.077824
+    },
+    {
+      "valueX": "CAN",
+      "avg_intake": 3065.434484,
+      "lowerBound": 2056.5776088000002,
+      "upperBound": 2804.424012
+    },
+    {
+      "valueX": "CHN",
+      "avg_intake": 2996.599876,
+      "lowerBound": 2342.780506,
+      "upperBound": 3194.7006899999997
+    },
+    {
+      "valueX": "COL",
+      "avg_intake": 2419.796456,
+      "lowerBound": 2052.0517908,
+      "upperBound": 2798.252442
+    },
+    {
+      "valueX": "DEU",
+      "avg_intake": 2862.403281,
+      "lowerBound": 2293.5707817,
+      "upperBound": 3127.5965205
+    },
+    {
+      "valueX": "DNK",
+      "avg_intake": 2755.064389,
+      "lowerBound": 2288.9283846,
+      "upperBound": 3121.265979
+    },
+    {
+      "valueX": "ETH",
+      "avg_intake": 2623.205876,
+      "lowerBound": 2196.1325683000005,
+      "upperBound": 2994.7262295
+    },
+    {
+      "valueX": "FIN",
+      "avg_intake": 2736.202745,
+      "lowerBound": 2307.6591373,
+      "upperBound": 3146.8079145
+    },
+    {
+      "valueX": "GBR",
+      "avg_intake": 2825.395332,
+      "lowerBound": 2302.6888489,
+      "upperBound": 3140.0302484999997
+    },
+    {
+      "valueX": "GRC",
+      "avg_intake": 2708.265463,
+      "lowerBound": 2304.2391867,
+      "upperBound": 3142.1443455
+    },
+    {
+      "valueX": "IDN",
+      "avg_intake": 2515.739408,
+      "lowerBound": 2294.9883693,
+      "upperBound": 3129.5295945
+    },
+    {
+      "valueX": "IND",
+      "avg_intake": 2410.025079,
+      "lowerBound": 2299.0292545,
+      "upperBound": 3135.0398925
+    },
+    {
+      "valueX": "MEX",
+      "avg_intake": 2724.642895,
+      "lowerBound": 2045.0982343000003,
+      "upperBound": 2788.7703195000004
+    },
+    {
+      "valueX": "NOR",
+      "avg_intake": 2920.218197,
+      "lowerBound": 2311.2721885,
+      "upperBound": 3151.7348025
+    },
+    {
+      "valueX": "NPL",
+      "avg_intake": 2690.305719,
+      "lowerBound": 2267.3532310000005,
+      "upperBound": 3091.8453150000005
+    },
+    {
+      "valueX": "R_ASP",
+      "avg_intake": 2705.534379,
+      "lowerBound": 2299.0106524000003,
+      "upperBound": 3135.014526
+    },
+    {
+      "valueX": "R_CSA",
+      "avg_intake": 2430.044464,
+      "lowerBound": 2300.1044825,
+      "upperBound": 3136.5061124999997
+    },
+    {
+      "valueX": "R_NMC",
+      "avg_intake": 2753.134344,
+      "lowerBound": 2258.5967855,
+      "upperBound": 3079.9047075
+    },
+    {
+      "valueX": "R_NEU",
+      "avg_intake": 2594.557524,
+      "lowerBound": 2306.6338614000006,
+      "upperBound": 3145.4098110000004
+    },
+    {
+      "valueX": "R_OEU",
+      "avg_intake": 3049.061816,
+      "lowerBound": 2296.8132407000003,
+      "upperBound": 3132.0180554999997
+    },
+    {
+      "valueX": "R_SSA",
+      "avg_intake": 2356.97098,
+      "lowerBound": 2303.2102775000003,
+      "upperBound": 3140.7412875
+    },
+    {
+      "valueX": "RUS",
+      "avg_intake": 2768.933632,
+      "lowerBound": 2047.1809908000002,
+      "upperBound": 2791.610442
+    },
+    {
+      "valueX": "RWA",
+      "avg_intake": 2535.243033,
+      "lowerBound": 2206.0583226000003,
+      "upperBound": 3008.261349
+    },
+    {
+      "valueX": "SWE",
+      "avg_intake": 2787.024476,
+      "lowerBound": 2303.2102775000003,
+      "upperBound": 3140.7412875
+    },
+    {
+      "valueX": "TUR",
+      "avg_intake": 3575.17699,
+      "lowerBound": 2302.1989133000006,
+      "upperBound": 3139.3621545000005
+    },
+    {
+      "valueX": "USA",
+      "avg_intake": 3006.753545,
+      "lowerBound": 2299.0106524000003,
+      "upperBound": 3135.014526
+    },
+    {
+      "valueX": "WORLD",
+      "avg_intake": 2695.66514681218,
+      "lowerBound": 2286.53929392834,
+      "upperBound": 3118.0081280840996
+    }
+  ]
+}
