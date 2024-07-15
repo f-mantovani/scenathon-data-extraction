@@ -1,0 +1,26 @@
+[
+  {
+    "pathway": "CT",
+    "adjustement": "No"
+  },
+  {
+    "pathway": "CT",
+    "adjustement": "Yes"
+  },
+  {
+    "pathway": "NC",
+    "adjustement": "No"
+  },
+  {
+    "pathway": "NC",
+    "adjustement": "Yes"
+  },
+  {
+    "pathway": "GS",
+    "adjustement": "No"
+  },
+  {
+    "pathway": "GS",
+    "adjustement": "Yes"
+  }
+]
