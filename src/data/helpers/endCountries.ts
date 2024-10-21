@@ -1,0 +1,1 @@
+export const endCountries = new Set(['R_OEU', 'R_SSA', 'R_NMC', 'WORLD', 'R_NMC', "R_CSA", 'R_NEU', 'R_ASP', 'RAFR', 'RASIPAC', 'RLAM', 'RMECAS', 'RNEU', 'RoEU']);

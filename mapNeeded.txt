@@ -1,0 +1,29 @@
+# 2021
+
+## GHG Emissions
+    Annual GHG emissions from crops and livestock.
+    => The visual pattern seems to be the same
+    => All the values don't match with what's displayed on the website
+        (sum of CalcAllAgriCO2e for all the countries in the same year)
+    => Seems that India is being added to the values in the AFTER,
+        but we only have the values for the BEFORE.
+
+    Average annual GHG emissions from land use change and peat oxidation.
+    => Couldn't figure out how to get the values.
+
+## Land Use
+    Net Forest change
+    => Both world values and Countries were extract directly from the website
+         The values are 0 in the excel
+    Biodiversity
+    => Values for countries were extract directly from the website
+         The values are 0 in the excel => For some reason it's called ProtectedLand in the csv download
+
+## Water
+    Water Use
+    => Values for water irrigation for the world?
+
+## Trade Report
+    => Values for trades.
+
+TODO: Get the values for biodiversity and forest change on 2020 - website
