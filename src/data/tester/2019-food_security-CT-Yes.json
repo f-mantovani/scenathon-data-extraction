@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Evolution of calories intake by country",
+    "description": "The average daily intake of calories per capita in 2019, based on the 2019 baseline scenario.",
+    "axisY": "kcal / cap / day",
+    "axisX": "year",
+    "legend": [
+      {
+        "label": "Figure description",
+        "description": "\"This figure compares the average per capita kilocalorie intake in countries and regions with their respective Minimum Dietary Energy Requirement (MDER).\n\n            The average per capita kilocalorie intake reflects the food actually consumed, calculated after accounting for food waste. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, we target an average daily energy intake per capita that exceeds the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.\n\n            While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security."
+      },
+      {
+        "key": "Computed",
+        "inGraph": true,
+        "inLegend": true,
+        "color": "hsl(240, 70%, 50%)"
+      },
+      {
+        "key": "MDER",
+        "inLegend": true,
+        "color": "#6de8b8",
+        "type": "lower"
+      },
+      {
+        "key": "Historical",
+        "inLegend": true,
+        "color": "#ce9300",
+        "type": "upper"
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "Historical": 2349.61216693624,
+        "Computed": 2316.7685190863776,
+        "MDER": 2042.7560938372176
+      },
+      {
+        "valueX": 2005,
+        "Historical": 2390.4112537433234,
+        "Computed": 2349.005138094793,
+        "MDER": 2054.474773340491
+      },
+      {
+        "valueX": 2010,
+        "Historical": 2434.5697211256697,
+        "Computed": 2390.1315019996023,
+        "MDER": 2059.0062881660187
+      },
+      {
+        "valueX": 2015,
+        "Historical": 2503.831234280136,
+        "Computed": 2447.489307303609,
+        "MDER": 2059.569603663271
+      },
+      {
+        "valueX": 2020,
+        "Historical": 2530.246778698848,
+        "Computed": 2465.24208786795,
+        "MDER": 2061.86013026507
+      },
+      {
+        "valueX": 2025,
+        "Historical": 2553.5521485602226,
+        "Computed": 2482.6065332302696,
+        "MDER": 2066.175745798255
+      },
+      {
+        "valueX": 2030,
+        "Historical": 2572.817955254716,
+        "Computed": 2501.18900328971,
+        "MDER": 2070.972524489764
+      },
+      {
+        "valueX": 2035,
+        "Historical": 2583.1278099189776,
+        "Computed": 2509.587771861382,
+        "MDER": 2073.8810972756187
+      },
+      {
+        "valueX": 2040,
+        "Historical": 2589.925956664089,
+        "Computed": 2517.2079622393,
+        "MDER": 2074.3095472619116
+      },
+      {
+        "valueX": 2045,
+        "Historical": 2597.4210247714605,
+        "Computed": 2528.207459236345,
+        "MDER": 2073.915793140202
+      },
+      {
+        "valueX": 2050,
+        "Historical": 2603.353075227672,
+        "Computed": 2540.8246331841997,
+        "MDER": 2073.9438506460997
+      }
+    ],
+    "keys": [
+      "Computed"
+    ],
+    "upperLower": true,
+    "notes": "Source: FAOSTAT is used for historical data, it is not accounting for food loss and waste and might be different than values on FAOSTAT because of merging differences"
+  }
+]

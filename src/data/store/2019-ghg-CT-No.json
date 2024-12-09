@@ -1,3 +1,240 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f15713ed688bd6ea91f0b0677a28309c6914b6a6b4afc86b876956bff4fe88a
-size 7076
+[
+  {
+    "title": "Annual GHG emissions from crops and livestock",
+    "description": "Annual GHG emissions from crops and livestock.",
+    "axisY": "Gt CO2e",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 3.253665654256568,
+        "Livestock N2O": 3.4037979877694373,
+        "Crop N2O": 1.3008491020843524,
+        "Crop CH4": 0.5002172327507431,
+        "Crop CO2": 1.003189280446301,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2005,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 3.5523627137852154,
+        "Livestock N2O": 3.606999657153335,
+        "Crop N2O": 1.499713844592914,
+        "Crop CH4": 0.49750905311037374,
+        "Crop CO2": 1.0940961896073162,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2010,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 3.880134141436203,
+        "Livestock N2O": 3.8126917519366246,
+        "Crop N2O": 1.870111787428078,
+        "Crop CH4": 0.5246039185343485,
+        "Crop CO2": 1.2942564622316406,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2015,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 4.254184964152751,
+        "Livestock N2O": 4.102422304587868,
+        "Crop N2O": 1.9089480672809158,
+        "Crop CH4": 0.5371697626203783,
+        "Crop CO2": 1.334126867189686,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2020,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 4.458952944483628,
+        "Livestock N2O": 4.281384682521098,
+        "Crop N2O": 1.9761205953869256,
+        "Crop CH4": 0.5461038576256042,
+        "Crop CO2": 1.3731310165002524,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2025,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 4.58452816227765,
+        "Livestock N2O": 4.368411237275013,
+        "Crop N2O": 2.004576555517262,
+        "Crop CH4": 0.54800252647289,
+        "Crop CO2": 1.3842673798794018,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2030,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 4.638893007708195,
+        "Livestock N2O": 4.396774760464992,
+        "Crop N2O": 2.0093263840757203,
+        "Crop CH4": 0.5387202308082406,
+        "Crop CO2": 1.3667162683869825,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2035,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 4.638757647887173,
+        "Livestock N2O": 4.378009731035634,
+        "Crop N2O": 2.0080929745246663,
+        "Crop CH4": 0.5295050627213586,
+        "Crop CO2": 1.3452204985222247,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2040,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 4.5827689159643015,
+        "Livestock N2O": 4.3077016452267385,
+        "Crop N2O": 1.9947571464253278,
+        "Crop CH4": 0.5152325435081084,
+        "Crop CO2": 1.3105032465174353,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2045,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 4.503561434749654,
+        "Livestock N2O": 4.218215498764493,
+        "Crop N2O": 1.9691261855648923,
+        "Crop CH4": 0.4920972811516459,
+        "Crop CO2": 1.266253884217601,
+        "Biofuel": null
+      },
+      {
+        "valueX": 2050,
+        "Total GHG Agriculture": null,
+        "Livestock CH4": 4.408088773067768,
+        "Livestock N2O": 4.124804544206748,
+        "Crop N2O": 1.9312281313013482,
+        "Crop CH4": 0.46494373949154344,
+        "Crop CO2": 1.2133712310261138,
+        "Biofuel": null,
+        "targets": [
+          {
+            "value": 4,
+            "byYear": 2050
+          }
+        ]
+      }
+    ],
+    "keys": [
+      "Total GHG Agriculture",
+      "Livestock CH4",
+      "Livestock N2O",
+      "Crop N2O",
+      "Crop CH4",
+      "Crop CO2",
+      "Biofuel"
+    ]
+  },
+  {
+    "title": "Average annual GHG emissions from land use change and peat oxidation in Gt CO2e by country.",
+    "description": "Average annual GHG emissions from land use change and peat oxidation in Gt CO2e by country.",
+    "axisY": "Gt CO2e",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "Total GHG Land": 0,
+        "Forest Loss": 0,
+        "Other LUC": 0,
+        "Sequestration": 0,
+        "Peat": 0
+      },
+      {
+        "valueX": 2005,
+        "Total GHG Land": 5.821431607313229,
+        "Forest Loss": 5.1075679209667,
+        "Other LUC": 0.906263266889866,
+        "Sequestration": -0.28984460828295766,
+        "Peat": 0.0974450277396205
+      },
+      {
+        "valueX": 2010,
+        "Total GHG Land": 4.129386640915302,
+        "Forest Loss": 3.4961030936217834,
+        "Other LUC": 0.8184240745617931,
+        "Sequestration": -0.49416098402377145,
+        "Peat": 0.309020456755499
+      },
+      {
+        "valueX": 2015,
+        "Total GHG Land": 3.926374343848776,
+        "Forest Loss": 3.5199345966031776,
+        "Other LUC": 0.7130739437572278,
+        "Sequestration": -0.6789492139274602,
+        "Peat": 0.37231501741583
+      },
+      {
+        "valueX": 2020,
+        "Total GHG Land": 2.8140193527998822,
+        "Forest Loss": 2.6941202806834794,
+        "Other LUC": 0.6006260332638653,
+        "Sequestration": -0.9200199907134738,
+        "Peat": 0.439293029566012
+      },
+      {
+        "valueX": 2025,
+        "Total GHG Land": 1.8075433873448774,
+        "Forest Loss": 2.1592900275871867,
+        "Other LUC": 0.346962282002797,
+        "Sequestration": -1.200966263886467,
+        "Peat": 0.502257341641361
+      },
+      {
+        "valueX": 2030,
+        "Total GHG Land": 0.6408248269738833,
+        "Forest Loss": 1.3287934440685154,
+        "Other LUC": 0.41474254656756715,
+        "Sequestration": -1.6661295372515208,
+        "Peat": 0.563418373589321
+      },
+      {
+        "valueX": 2035,
+        "Total GHG Land": -0.43644720660451886,
+        "Forest Loss": 0.746310954268344,
+        "Other LUC": 0.40837136607409086,
+        "Sequestration": -2.158441097956735,
+        "Peat": 0.567311571009781
+      },
+      {
+        "valueX": 2040,
+        "Total GHG Land": -1.1242827627588932,
+        "Forest Loss": 0.6722826536776655,
+        "Other LUC": 0.4109610382267275,
+        "Sequestration": -2.7766604977371454,
+        "Peat": 0.569134043073859
+      },
+      {
+        "valueX": 2045,
+        "Total GHG Land": -1.8733206260741446,
+        "Forest Loss": 0.685344731476378,
+        "Other LUC": 0.3851769317205552,
+        "Sequestration": -3.514977621912757,
+        "Peat": 0.571135332641681
+      },
+      {
+        "valueX": 2050,
+        "Total GHG Land": -3.0132194471945972,
+        "Forest Loss": 0.7031889563494066,
+        "Other LUC": 0.11765780370452883,
+        "Sequestration": -4.40739919219623,
+        "Peat": 0.573332984947699
+      }
+    ],
+    "keys": [
+      "Total GHG Land",
+      "Forest Loss",
+      "Other LUC",
+      "Sequestration",
+      "Peat"
+    ]
+  }
+]

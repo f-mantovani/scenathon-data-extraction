@@ -9,12 +9,21 @@ import { sortByYear } from "./sortByYear";
 import { generateAverageData } from "./generateAverageData";
 import { generateTradeReport } from "./generateTradeReport";
 
-type Base = {
+export type LegendItem = {
+  key: string;
+  color: string;
+  type?: 'upper' | 'mark' | 'lower' | 'historical' | 'under';
+  inLegend?: boolean;
+  inGraph?: boolean;
+  description?: string;
+} | { label: 'Figure description'; description: string; }
+
+export type Base = {
   title: string;
   description: string;
   axisY: string;
   axisX: string;
-  legend: any[];
+  legend: LegendItem[];
   data: any[];
   maxYAxis?: number;
   withMarker?: any; // { value: number } | undefined;
@@ -27,7 +36,10 @@ type Base = {
   withTarget?: any;
   keys: string[];
   groupMode?: "stacked" | "grouped";
+  notes?: string;
 };
+
+
 
 export const formatter = (filter: any[], identifier: Identifiers) => {
   const base: Base = {

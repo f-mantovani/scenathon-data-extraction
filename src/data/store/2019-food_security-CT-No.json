@@ -1,3 +1,81 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a155a05fdd3ff0d80897754d57ae6883c05a7bca2352464b60fa89da930c488
-size 2209
+[
+  {
+    "title": "Zero Hunger - Energy intake and Minimum Dietary Energy Requirement (MDER) in kilocalories per capita per day.",
+    "description": "The average daily intake of calories per capita in 2019, based on the 2019 baseline scenario.",
+    "axisY": "kcal / cap / day",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "avg_intake": 2316.7685190863776,
+        "lowerBound": 2042.7560938372176,
+        "upperBound": 2349.61216693624
+      },
+      {
+        "valueX": 2005,
+        "avg_intake": 2349.005138094793,
+        "lowerBound": 2054.474773340491,
+        "upperBound": 2390.4112537433234
+      },
+      {
+        "valueX": 2010,
+        "avg_intake": 2390.1315019996023,
+        "lowerBound": 2059.0062881660187,
+        "upperBound": 2434.5697211256697
+      },
+      {
+        "valueX": 2015,
+        "avg_intake": 2447.489307303609,
+        "lowerBound": 2059.569603663271,
+        "upperBound": 2503.831234280136
+      },
+      {
+        "valueX": 2020,
+        "avg_intake": 2465.24208786795,
+        "lowerBound": 2061.86013026507,
+        "upperBound": 2530.246778698848
+      },
+      {
+        "valueX": 2025,
+        "avg_intake": 2482.6065332302696,
+        "lowerBound": 2066.175745798255,
+        "upperBound": 2553.5521485602226
+      },
+      {
+        "valueX": 2030,
+        "avg_intake": 2501.18900328971,
+        "lowerBound": 2070.972524489764,
+        "upperBound": 2572.817955254716
+      },
+      {
+        "valueX": 2035,
+        "avg_intake": 2509.587771861382,
+        "lowerBound": 2073.8810972756187,
+        "upperBound": 2583.1278099189776
+      },
+      {
+        "valueX": 2040,
+        "avg_intake": 2517.2079622393,
+        "lowerBound": 2074.3095472619116,
+        "upperBound": 2589.925956664089
+      },
+      {
+        "valueX": 2045,
+        "avg_intake": 2528.207459236345,
+        "lowerBound": 2073.915793140202,
+        "upperBound": 2597.4210247714605
+      },
+      {
+        "valueX": 2050,
+        "avg_intake": 2540.8246331841997,
+        "lowerBound": 2073.9438506460997,
+        "upperBound": 2603.353075227672
+      }
+    ],
+    "keys": [
+      "avg_intake"
+    ],
+    "upperLower": true
+  }
+]

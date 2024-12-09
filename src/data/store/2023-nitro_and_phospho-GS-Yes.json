@@ -1,3 +1,4192 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a184301ee8fbc85fb4f13621df2c6a36f4c94261941a3501bc8caf1fffc105b8
-size 135071
+[
+  {
+    "title": "Nitrogen application",
+    "description": "Share of nitrogen application",
+    "axisY": "1000 tons",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.47311265859999996,
+        "Organic nitrogen application on agricultural soils": 0.1583258141,
+        "Nitrogen application through manure left on pasture": 2.21842149770265,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 1.015490488,
+        "Organic nitrogen application on agricultural soils": 0.1532507439,
+        "Nitrogen application through manure left on pasture": 3.93722450439276,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 1.352971626,
+        "Organic nitrogen application on agricultural soils": 0.9833469836000001,
+        "Nitrogen application through manure left on pasture": 7.48891950046313,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 1.501742184,
+        "Organic nitrogen application on agricultural soils": 0.2332836081,
+        "Nitrogen application through manure left on pasture": 0.587969416426551,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 24.558735430000002,
+        "Organic nitrogen application on agricultural soils": 4.253312947,
+        "Nitrogen application through manure left on pasture": 8.338208695110058,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.204449796,
+        "Organic nitrogen application on agricultural soils": 0.1763336912,
+        "Nitrogen application through manure left on pasture": 1.09838771722093,
+        "location": "COL"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 1.282198039,
+        "Organic nitrogen application on agricultural soils": 0.7010327333,
+        "Nitrogen application through manure left on pasture": 0.6891330598630689,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.1793222106,
+        "Organic nitrogen application on agricultural soils": 0.16022720229999998,
+        "Nitrogen application through manure left on pasture": 0.117966320353485,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.19181515089999998,
+        "Organic nitrogen application on agricultural soils": 0.052114175400000004,
+        "Nitrogen application through manure left on pasture": 1.68374263003248,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.1133466181,
+        "Organic nitrogen application on agricultural soils": 0.05026522734,
+        "Nitrogen application through manure left on pasture": 0.0432074185776425,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.5416884486,
+        "Organic nitrogen application on agricultural soils": 0.5556396138,
+        "Nitrogen application through manure left on pasture": 0.901245801714206,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.2855023942,
+        "Organic nitrogen application on agricultural soils": 0.06286638345000001,
+        "Nitrogen application through manure left on pasture": 0.230351841956307,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 1.281763618,
+        "Organic nitrogen application on agricultural soils": 0.3926280215,
+        "Nitrogen application through manure left on pasture": 0.761500395999893,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 10.561543069999999,
+        "Organic nitrogen application on agricultural soils": 1.867590891,
+        "Nitrogen application through manure left on pasture": 5.39461411028748,
+        "location": "IND"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.3880547348,
+        "Organic nitrogen application on agricultural soils": 0.3967939055,
+        "Nitrogen application through manure left on pasture": 1.4844941139923802,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.0261490914,
+        "Organic nitrogen application on agricultural soils": 0.03691301912,
+        "Nitrogen application through manure left on pasture": 0.07746948636572369,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.05722204182,
+        "Organic nitrogen application on agricultural soils": 0.0447556412,
+        "Nitrogen application through manure left on pasture": 0.237670139470269,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 5.312198886,
+        "Organic nitrogen application on agricultural soils": 1.4637368819999999,
+        "Nitrogen application through manure left on pasture": 3.84066847868274,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.9846366384,
+        "Organic nitrogen application on agricultural soils": 0.8380565301,
+        "Nitrogen application through manure left on pasture": 3.5472292646347,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 4.0414608549999995,
+        "Organic nitrogen application on agricultural soils": 1.191155151,
+        "Nitrogen application through manure left on pasture": 5.6659171840255,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.1269708901,
+        "Organic nitrogen application on agricultural soils": 1.067964105,
+        "Nitrogen application through manure left on pasture": 0.77054809627854,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 9.115684454,
+        "Organic nitrogen application on agricultural soils": 3.855213653,
+        "Nitrogen application through manure left on pasture": 3.60760078610876,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 1.484108854,
+        "Organic nitrogen application on agricultural soils": 0.7113062207,
+        "Nitrogen application through manure left on pasture": 9.56647822288573,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.8127139125,
+        "Organic nitrogen application on agricultural soils": 1.3778578179999998,
+        "Nitrogen application through manure left on pasture": 1.3857857053523,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.000991493692,
+        "Organic nitrogen application on agricultural soils": 0.004150245765,
+        "Nitrogen application through manure left on pasture": 0.0462183943017762,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 0.06645145754000001,
+        "Organic nitrogen application on agricultural soils": 0.06042109422,
+        "Nitrogen application through manure left on pasture": 0.0654583265189527,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 1.346046308,
+        "Organic nitrogen application on agricultural soils": 0.06035015154,
+        "Nitrogen application through manure left on pasture": 1.13176538807943,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 7.310738462000001,
+        "Organic nitrogen application on agricultural soils": 1.8386286729999999,
+        "Nitrogen application through manure left on pasture": 4.36172481505709,
+        "location": "USA"
+      },
+      {
+        "valueX": 2000,
+        "Synthetic nitrogen application": 74.61710981125199,
+        "Organic nitrogen application on agricultural soils": 22.747521126135002,
+        "Nitrogen application through manure left on pasture": 69.27992131185451,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.6753825621,
+        "Organic nitrogen application on agricultural soils": 0.1469600341,
+        "Nitrogen application through manure left on pasture": 2.62090121068273,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.7994033596000001,
+        "Organic nitrogen application on agricultural soils": 0.11486290889999999,
+        "Nitrogen application through manure left on pasture": 3.67126876776872,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 2.198860882,
+        "Organic nitrogen application on agricultural soils": 1.2379805400000001,
+        "Nitrogen application through manure left on pasture": 8.97909546290883,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 1.451283316,
+        "Organic nitrogen application on agricultural soils": 0.25876492459999995,
+        "Nitrogen application through manure left on pasture": 0.665405723143634,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 31.75047135,
+        "Organic nitrogen application on agricultural soils": 4.649024472,
+        "Nitrogen application through manure left on pasture": 8.11453531077053,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.2802821107,
+        "Organic nitrogen application on agricultural soils": 0.2134289062,
+        "Nitrogen application through manure left on pasture": 1.13413510074582,
+        "location": "COL"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 1.063974025,
+        "Organic nitrogen application on agricultural soils": 0.6325698917,
+        "Nitrogen application through manure left on pasture": 0.6613751779617141,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.1778541057,
+        "Organic nitrogen application on agricultural soils": 0.16021424410000001,
+        "Nitrogen application through manure left on pasture": 0.112988394705795,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.20789189630000002,
+        "Organic nitrogen application on agricultural soils": 0.05762617096,
+        "Nitrogen application through manure left on pasture": 2.25746094676714,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.10511115089999999,
+        "Organic nitrogen application on agricultural soils": 0.04727436675,
+        "Nitrogen application through manure left on pasture": 0.0397188666717228,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.4307188939,
+        "Organic nitrogen application on agricultural soils": 0.49602546940000003,
+        "Nitrogen application through manure left on pasture": 0.815242052564034,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.23553591969999998,
+        "Organic nitrogen application on agricultural soils": 0.06252353505,
+        "Nitrogen application through manure left on pasture": 0.22830337769585,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 1.7061523079999998,
+        "Organic nitrogen application on agricultural soils": 0.4578932385,
+        "Nitrogen application through manure left on pasture": 0.818460729621005,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 14.82173732,
+        "Organic nitrogen application on agricultural soils": 1.979331169,
+        "Nitrogen application through manure left on pasture": 5.6915665170550405,
+        "location": "IND"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.9494712582,
+        "Organic nitrogen application on agricultural soils": 0.4182790748,
+        "Nitrogen application through manure left on pasture": 1.5350408949448,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.02597992133,
+        "Organic nitrogen application on agricultural soils": 0.036715766999999996,
+        "Nitrogen application through manure left on pasture": 0.0746770835103655,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.008235979304000001,
+        "Organic nitrogen application on agricultural soils": 0.04709889794,
+        "Nitrogen application through manure left on pasture": 0.256633963996318,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 5.961356261,
+        "Organic nitrogen application on agricultural soils": 1.58955194,
+        "Nitrogen application through manure left on pasture": 4.056813294684241,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 1.195244182,
+        "Organic nitrogen application on agricultural soils": 0.9973967513,
+        "Nitrogen application through manure left on pasture": 3.69655915307333,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 5.108642801,
+        "Organic nitrogen application on agricultural soils": 1.374793597,
+        "Nitrogen application through manure left on pasture": 6.30402970262967,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 1.335878158,
+        "Organic nitrogen application on agricultural soils": 0.7750867875,
+        "Nitrogen application through manure left on pasture": 0.714970285953717,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 7.9157618670000005,
+        "Organic nitrogen application on agricultural soils": 3.603663131,
+        "Nitrogen application through manure left on pasture": 3.42729774408354,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 1.7815603260000001,
+        "Organic nitrogen application on agricultural soils": 0.7518490538999999,
+        "Nitrogen application through manure left on pasture": 10.8105607087942,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.9263106870000001,
+        "Organic nitrogen application on agricultural soils": 1.120964369,
+        "Nitrogen application through manure left on pasture": 1.27168888415782,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.007390821407,
+        "Organic nitrogen application on agricultural soils": 0.007878868495,
+        "Nitrogen application through manure left on pasture": 0.0737879587700322,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 0.06283893856,
+        "Organic nitrogen application on agricultural soils": 0.06342847954,
+        "Nitrogen application through manure left on pasture": 0.058806930056772004,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 1.460083829,
+        "Organic nitrogen application on agricultural soils": 0.06407632393,
+        "Nitrogen application through manure left on pasture": 1.02091673437405,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 7.496258395,
+        "Organic nitrogen application on agricultural soils": 1.87953102,
+        "Nitrogen application through manure left on pasture": 4.2218151301087,
+        "location": "USA"
+      },
+      {
+        "valueX": 2005,
+        "Synthetic nitrogen application": 90.13967262470099,
+        "Organic nitrogen application on agricultural soils": 23.244793932665,
+        "Nitrogen application through manure left on pasture": 73.33405610820009,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.8849763472,
+        "Organic nitrogen application on agricultural soils": 0.1336310789,
+        "Nitrogen application through manure left on pasture": 2.9555822887326597,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 1.69021894,
+        "Organic nitrogen application on agricultural soils": 0.2574317127,
+        "Nitrogen application through manure left on pasture": 0.53796967223324,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 39.78314881,
+        "Organic nitrogen application on agricultural soils": 4.9498774569999995,
+        "Nitrogen application through manure left on pasture": 7.64948451791562,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 1.066706814,
+        "Organic nitrogen application on agricultural soils": 0.7180990945,
+        "Nitrogen application through manure left on pasture": 0.551864933263285,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.14456422459999999,
+        "Organic nitrogen application on agricultural soils": 0.15930748919999999,
+        "Nitrogen application through manure left on pasture": 0.111304239305138,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.4600885575,
+        "Organic nitrogen application on agricultural soils": 0.5204475602,
+        "Nitrogen application through manure left on pasture": 0.681250933273977,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.1962844725,
+        "Organic nitrogen application on agricultural soils": 0.06646167911,
+        "Nitrogen application through manure left on pasture": 0.221121771519593,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.02221274997,
+        "Organic nitrogen application on agricultural soils": 0.04040760434,
+        "Nitrogen application through manure left on pasture": 0.0674951573108481,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 2.20885549,
+        "Organic nitrogen application on agricultural soils": 0.7790615382,
+        "Nitrogen application through manure left on pasture": 0.6219949077924619,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 5.650226432999999,
+        "Organic nitrogen application on agricultural soils": 3.558835724,
+        "Nitrogen application through manure left on pasture": 3.27352202916111,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.9344949099000001,
+        "Organic nitrogen application on agricultural soils": 1.022203884,
+        "Nitrogen application through manure left on pasture": 1.31460874233458,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 1.3056149339999998,
+        "Organic nitrogen application on agricultural soils": 0.05954364315,
+        "Nitrogen application through manure left on pasture": 0.96759323287111,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 8.47003403,
+        "Organic nitrogen application on agricultural soils": 2.0946166809999998,
+        "Nitrogen application through manure left on pasture": 3.96688744230064,
+        "location": "USA"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.0065099732379999995,
+        "Organic nitrogen application on agricultural soils": 0.01241716452,
+        "Nitrogen application through manure left on pasture": 0.10718557608991701,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 2.091346732,
+        "Organic nitrogen application on agricultural soils": 0.8124688096999999,
+        "Nitrogen application through manure left on pasture": 12.930827546491601,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.40981245639999997,
+        "Organic nitrogen application on agricultural soils": 0.10665330299999999,
+        "Nitrogen application through manure left on pasture": 2.95496645538135,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 17.59286054,
+        "Organic nitrogen application on agricultural soils": 1.990706772,
+        "Nitrogen application through manure left on pasture": 5.95125292835523,
+        "location": "IND"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.4930274809,
+        "Organic nitrogen application on agricultural soils": 0.3358951912,
+        "Nitrogen application through manure left on pasture": 1.14315102107101,
+        "location": "COL"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 2.628196379,
+        "Organic nitrogen application on agricultural soils": 0.5753863665,
+        "Nitrogen application through manure left on pasture": 0.967861126287729,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 1.415130483,
+        "Organic nitrogen application on agricultural soils": 0.9526473744999999,
+        "Nitrogen application through manure left on pasture": 3.92858312389597,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 103.079980456198,
+        "Organic nitrogen application on agricultural soils": 24.365938263489998,
+        "Nitrogen application through manure left on pasture": 76.17072939887319,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 6.382597609,
+        "Organic nitrogen application on agricultural soils": 1.658495872,
+        "Nitrogen application through manure left on pasture": 4.39205617731875,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 4.905439037,
+        "Organic nitrogen application on agricultural soils": 1.561024993,
+        "Nitrogen application through manure left on pasture": 7.3684280525845,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.04030879732,
+        "Organic nitrogen application on agricultural soils": 0.05120176488,
+        "Nitrogen application through manure left on pasture": 0.278627340622929,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.06883904141,
+        "Organic nitrogen application on agricultural soils": 0.06744189579,
+        "Nitrogen application through manure left on pasture": 0.0505262632818528,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.5527924828,
+        "Organic nitrogen application on agricultural soils": 0.1625009909,
+        "Nitrogen application through manure left on pasture": 2.2745601000779803,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.9484955394,
+        "Organic nitrogen application on agricultural soils": 0.4253347063,
+        "Nitrogen application through manure left on pasture": 1.6287191336384501,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 2.642836077,
+        "Organic nitrogen application on agricultural soils": 1.2468050350000002,
+        "Nitrogen application through manure left on pasture": 9.23817803131063,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2010,
+        "Synthetic nitrogen application": 0.08436111506,
+        "Organic nitrogen application on agricultural soils": 0.047032877900000006,
+        "Nitrogen application through manure left on pasture": 0.0351266544510319,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.7256296128999999,
+        "Organic nitrogen application on agricultural soils": 0.1880141709,
+        "Nitrogen application through manure left on pasture": 2.39695906643941,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 1.1072122119999999,
+        "Organic nitrogen application on agricultural soils": 0.1477913027,
+        "Nitrogen application through manure left on pasture": 3.039517344569,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 3.194464365,
+        "Organic nitrogen application on agricultural soils": 1.127807604,
+        "Nitrogen application through manure left on pasture": 9.675710345965442,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 2.462771332,
+        "Organic nitrogen application on agricultural soils": 0.2569103437,
+        "Nitrogen application through manure left on pasture": 0.493825733502474,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 47.275962910000004,
+        "Organic nitrogen application on agricultural soils": 4.741550612,
+        "Nitrogen application through manure left on pasture": 7.44239852089414,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 1.094812784,
+        "Organic nitrogen application on agricultural soils": 0.7274332671,
+        "Nitrogen application through manure left on pasture": 0.547369658809397,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.17092531930000002,
+        "Organic nitrogen application on agricultural soils": 0.1600146158,
+        "Nitrogen application through manure left on pasture": 0.10216014362383799,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.08104100403,
+        "Organic nitrogen application on agricultural soils": 0.045604474310000004,
+        "Nitrogen application through manure left on pasture": 0.0385347879539339,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.522882383,
+        "Organic nitrogen application on agricultural soils": 0.5523396199,
+        "Nitrogen application through manure left on pasture": 0.6762227778478951,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.1539439092,
+        "Organic nitrogen application on agricultural soils": 0.0614950867,
+        "Nitrogen application through manure left on pasture": 0.205545337739161,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.02376403417,
+        "Organic nitrogen application on agricultural soils": 0.04167669626,
+        "Nitrogen application through manure left on pasture": 0.06487891754371419,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 2.5664767630000003,
+        "Organic nitrogen application on agricultural soils": 0.7478003538,
+        "Nitrogen application through manure left on pasture": 0.608853797710282,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 6.725749609,
+        "Organic nitrogen application on agricultural soils": 3.607413488,
+        "Nitrogen application through manure left on pasture": 3.1505596084932197,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 1.190238797,
+        "Organic nitrogen application on agricultural soils": 0.9455917522,
+        "Nitrogen application through manure left on pasture": 1.3938832012349,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 1.505185153,
+        "Organic nitrogen application on agricultural soils": 0.07466029679,
+        "Nitrogen application through manure left on pasture": 1.3583865972290101,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 9.232463054,
+        "Organic nitrogen application on agricultural soils": 2.109761841,
+        "Nitrogen application through manure left on pasture": 3.74243598787467,
+        "location": "USA"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.024906131590000002,
+        "Organic nitrogen application on agricultural soils": 0.02237273159,
+        "Nitrogen application through manure left on pasture": 0.109091950532976,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 2.725136692,
+        "Organic nitrogen application on agricultural soils": 0.9117694459000001,
+        "Nitrogen application through manure left on pasture": 15.0904518453625,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 17.32088223,
+        "Organic nitrogen application on agricultural soils": 2.045736278,
+        "Nitrogen application through manure left on pasture": 5.88212413513085,
+        "location": "IND"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 3.2452580330000003,
+        "Organic nitrogen application on agricultural soils": 0.7211306271,
+        "Nitrogen application through manure left on pasture": 1.22772027165776,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.6448084346,
+        "Organic nitrogen application on agricultural soils": 0.11564191800000001,
+        "Nitrogen application through manure left on pasture": 3.28767179839511,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 1.690374956,
+        "Organic nitrogen application on agricultural soils": 0.9615376792,
+        "Nitrogen application through manure left on pasture": 4.06325051779234,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 119.28158050045,
+        "Organic nitrogen application on agricultural soils": 24.87790634115,
+        "Nitrogen application through manure left on pasture": 80.1410411797074,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 5.8873813440000005,
+        "Organic nitrogen application on agricultural soils": 1.78572443,
+        "Nitrogen application through manure left on pasture": 7.854808612048481,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.6638127628,
+        "Organic nitrogen application on agricultural soils": 0.24484059679999998,
+        "Nitrogen application through manure left on pasture": 0.9919947058628049,
+        "location": "COL"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 7.741717633,
+        "Organic nitrogen application on agricultural soils": 1.9085115559999999,
+        "Nitrogen application through manure left on pasture": 4.71960738285693,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.1239658494,
+        "Organic nitrogen application on agricultural soils": 0.05912211109,
+        "Nitrogen application through manure left on pasture": 0.30707052069615703,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 0.06268498446000001,
+        "Organic nitrogen application on agricultural soils": 0.05657707141,
+        "Nitrogen application through manure left on pasture": 0.0576768103774684,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2015,
+        "Synthetic nitrogen application": 1.117128208,
+        "Organic nitrogen application on agricultural soils": 0.5090763709,
+        "Nitrogen application through manure left on pasture": 1.61233080156349,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.9679213353,
+        "Organic nitrogen application on agricultural soils": 0.1320786846,
+        "Nitrogen application through manure left on pasture": 2.68305030411944,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 3.162854103,
+        "Organic nitrogen application on agricultural soils": 0.2643160008,
+        "Nitrogen application through manure left on pasture": 0.490621356774501,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 39.99229399,
+        "Organic nitrogen application on agricultural soils": 4.67679419,
+        "Nitrogen application through manure left on pasture": 7.0125374719914,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.8614141035999999,
+        "Organic nitrogen application on agricultural soils": 0.6976739477,
+        "Nitrogen application through manure left on pasture": 0.457305927786661,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.15147832249999998,
+        "Organic nitrogen application on agricultural soils": 0.1533230222,
+        "Nitrogen application through manure left on pasture": 0.116764901003323,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.08482803121,
+        "Organic nitrogen application on agricultural soils": 0.04483270264,
+        "Nitrogen application through manure left on pasture": 0.035409733006681,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.4455033909,
+        "Organic nitrogen application on agricultural soils": 0.5281205999999999,
+        "Nitrogen application through manure left on pasture": 0.68051828098081,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.1438575631,
+        "Organic nitrogen application on agricultural soils": 0.05443653361,
+        "Nitrogen application through manure left on pasture": 0.183082447734932,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 1.217497932,
+        "Organic nitrogen application on agricultural soils": 0.5786227759,
+        "Nitrogen application through manure left on pasture": 1.70036211030347,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.027896065549999998,
+        "Organic nitrogen application on agricultural soils": 0.04461500583,
+        "Nitrogen application through manure left on pasture": 0.06315483107316,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 7.012170183,
+        "Organic nitrogen application on agricultural soils": 3.572547918,
+        "Nitrogen application through manure left on pasture": 3.1019044345212,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 1.776738734,
+        "Organic nitrogen application on agricultural soils": 0.9354417848000001,
+        "Nitrogen application through manure left on pasture": 1.34674079508922,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 1.686917606,
+        "Organic nitrogen application on agricultural soils": 0.09937674759,
+        "Nitrogen application through manure left on pasture": 1.72706600466606,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 9.03815787,
+        "Organic nitrogen application on agricultural soils": 2.270789486,
+        "Nitrogen application through manure left on pasture": 3.92700200333229,
+        "location": "USA"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.03680920616,
+        "Organic nitrogen application on agricultural soils": 0.01865373992,
+        "Nitrogen application through manure left on pasture": 0.10281531560231301,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 3.972855653,
+        "Organic nitrogen application on agricultural soils": 0.9579791986,
+        "Nitrogen application through manure left on pasture": 17.4527115286875,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.8384355083,
+        "Organic nitrogen application on agricultural soils": 0.12007984349999999,
+        "Nitrogen application through manure left on pasture": 4.36574277180903,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 20.17929092,
+        "Organic nitrogen application on agricultural soils": 2.041262215,
+        "Nitrogen application through manure left on pasture": 6.32444267134231,
+        "location": "IND"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 3.6559069020000003,
+        "Organic nitrogen application on agricultural soils": 1.099127293,
+        "Nitrogen application through manure left on pasture": 1.30249906481577,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 1.751759983,
+        "Organic nitrogen application on agricultural soils": 1.019936374,
+        "Nitrogen application through manure left on pasture": 4.02389251263938,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 6.916700096,
+        "Organic nitrogen application on agricultural soils": 2.2421871500000004,
+        "Nitrogen application through manure left on pasture": 8.590732736656369,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 122.9973732346,
+        "Organic nitrogen application on agricultural soils": 25.62397839865,
+        "Nitrogen application through manure left on pasture": 85.1875163522206,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.8561604599999999,
+        "Organic nitrogen application on agricultural soils": 0.34237662490000004,
+        "Nitrogen application through manure left on pasture": 1.1538869110837,
+        "location": "COL"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.24977471259999998,
+        "Organic nitrogen application on agricultural soils": 0.09540258274,
+        "Nitrogen application through manure left on pasture": 0.327530971037683,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 0.07014235038,
+        "Organic nitrogen application on agricultural soils": 0.05909180292,
+        "Nitrogen application through manure left on pasture": 0.0490475953147997,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 4.643368594,
+        "Organic nitrogen application on agricultural soils": 0.8587361949,
+        "Nitrogen application through manure left on pasture": 10.1920089847064,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 8.4984442,
+        "Organic nitrogen application on agricultural soils": 1.851729609,
+        "Nitrogen application through manure left on pasture": 4.69818557319626,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 1.2437960860000001,
+        "Organic nitrogen application on agricultural soils": 0.17878293450000002,
+        "Nitrogen application through manure left on pasture": 2.52107470883027,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2020,
+        "Synthetic nitrogen application": 3.5143993329999996,
+        "Organic nitrogen application on agricultural soils": 0.685663436,
+        "Nitrogen application through manure left on pasture": 0.55742440411566,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.9884743872,
+        "Organic nitrogen application on agricultural soils": 0.13491332209999998,
+        "Nitrogen application through manure left on pasture": 2.7369389353420903,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 3.2947040419999998,
+        "Organic nitrogen application on agricultural soils": 0.2781229852,
+        "Nitrogen application through manure left on pasture": 0.47627944237181497,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 35.07835729,
+        "Organic nitrogen application on agricultural soils": 4.119182648,
+        "Nitrogen application through manure left on pasture": 7.3208969576411,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.7878069058,
+        "Organic nitrogen application on agricultural soils": 0.6463629884,
+        "Nitrogen application through manure left on pasture": 0.298676955676888,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.1453888307,
+        "Organic nitrogen application on agricultural soils": 0.14972701559999999,
+        "Nitrogen application through manure left on pasture": 0.0835505067728006,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.08245151694000001,
+        "Organic nitrogen application on agricultural soils": 0.04345135929,
+        "Nitrogen application through manure left on pasture": 0.029932838515072897,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.3815991641,
+        "Organic nitrogen application on agricultural soils": 0.5195666871,
+        "Nitrogen application through manure left on pasture": 0.6221771910267501,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.1507656499,
+        "Organic nitrogen application on agricultural soils": 0.061303266450000005,
+        "Nitrogen application through manure left on pasture": 0.17218684327651598,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.023602337680000002,
+        "Organic nitrogen application on agricultural soils": 0.039521287610000004,
+        "Nitrogen application through manure left on pasture": 0.06696696193749349,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 6.522723119,
+        "Organic nitrogen application on agricultural soils": 3.800536482,
+        "Nitrogen application through manure left on pasture": 2.34196302238606,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 1.700320065,
+        "Organic nitrogen application on agricultural soils": 0.9397172885999999,
+        "Nitrogen application through manure left on pasture": 1.28835725507961,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 1.5727378550000002,
+        "Organic nitrogen application on agricultural soils": 0.1076121692,
+        "Nitrogen application through manure left on pasture": 1.71567455681259,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 9.10609659,
+        "Organic nitrogen application on agricultural soils": 2.404436091,
+        "Nitrogen application through manure left on pasture": 3.55840830121122,
+        "location": "USA"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 4.159546199,
+        "Organic nitrogen application on agricultural soils": 1.11064836,
+        "Nitrogen application through manure left on pasture": 18.0979913946694,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.8869055309,
+        "Organic nitrogen application on agricultural soils": 0.10649156650000001,
+        "Nitrogen application through manure left on pasture": 4.5974778310399795,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 21.65048766,
+        "Organic nitrogen application on agricultural soils": 2.191524347,
+        "Nitrogen application through manure left on pasture": 6.03889701769022,
+        "location": "IND"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.05995190697,
+        "Organic nitrogen application on agricultural soils": 0.02366959279,
+        "Nitrogen application through manure left on pasture": 0.24617636513296098,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 6.222258026,
+        "Organic nitrogen application on agricultural soils": 2.464832263,
+        "Nitrogen application through manure left on pasture": 8.52078469203848,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 1.798582464,
+        "Organic nitrogen application on agricultural soils": 1.065106492,
+        "Nitrogen application through manure left on pasture": 3.8310541409020002,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 118.64544183737,
+        "Organic nitrogen application on agricultural soils": 26.78681356457,
+        "Nitrogen application through manure left on pasture": 84.51585877099839,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.8830945848999999,
+        "Organic nitrogen application on agricultural soils": 0.3553503087,
+        "Nitrogen application through manure left on pasture": 1.14174027763381,
+        "location": "COL"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 4.0513141070000005,
+        "Organic nitrogen application on agricultural soils": 1.2547056399999998,
+        "Nitrogen application through manure left on pasture": 1.3328755823311702,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.2750904287,
+        "Organic nitrogen application on agricultural soils": 0.1049048764,
+        "Nitrogen application through manure left on pasture": 0.346854765460196,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 7.438443907,
+        "Organic nitrogen application on agricultural soils": 2.226294782,
+        "Nitrogen application through manure left on pasture": 4.5330272412429,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 0.06473829358000001,
+        "Organic nitrogen application on agricultural soils": 0.05394146683,
+        "Nitrogen application through manure left on pasture": 0.0473068408393867,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 5.149649814,
+        "Organic nitrogen application on agricultural soils": 0.9625887274,
+        "Nitrogen application through manure left on pasture": 10.4020983546501,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 1.131732218,
+        "Organic nitrogen application on agricultural soils": 0.2037404617,
+        "Nitrogen application through manure left on pasture": 2.5994520555569802,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 1.293437557,
+        "Organic nitrogen application on agricultural soils": 0.6303395435,
+        "Nitrogen application through manure left on pasture": 1.70577314014258,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2025,
+        "Synthetic nitrogen application": 3.745181387,
+        "Organic nitrogen application on agricultural soils": 0.7882215462000001,
+        "Nitrogen application through manure left on pasture": 0.36233930361831396,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.9018869856999999,
+        "Organic nitrogen application on agricultural soils": 0.123746092,
+        "Nitrogen application through manure left on pasture": 2.59953999663492,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 3.369721836,
+        "Organic nitrogen application on agricultural soils": 0.28561835339999997,
+        "Nitrogen application through manure left on pasture": 0.429383667663362,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 32.12054194,
+        "Organic nitrogen application on agricultural soils": 3.800405243,
+        "Nitrogen application through manure left on pasture": 7.58278956106383,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.7574943648,
+        "Organic nitrogen application on agricultural soils": 0.6353304470000001,
+        "Nitrogen application through manure left on pasture": 0.238210706708153,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.1438310541,
+        "Organic nitrogen application on agricultural soils": 0.1507572087,
+        "Nitrogen application through manure left on pasture": 0.0675001120698099,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.07917861014000001,
+        "Organic nitrogen application on agricultural soils": 0.04166597805,
+        "Nitrogen application through manure left on pasture": 0.0272531751325221,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.33271074170000003,
+        "Organic nitrogen application on agricultural soils": 0.5037471076,
+        "Nitrogen application through manure left on pasture": 0.511815298904861,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.14819011969999998,
+        "Organic nitrogen application on agricultural soils": 0.06269417186,
+        "Nitrogen application through manure left on pasture": 0.142446869435684,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.02380278478,
+        "Organic nitrogen application on agricultural soils": 0.03991553056,
+        "Nitrogen application through manure left on pasture": 0.0647108056078808,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 6.192297255000001,
+        "Organic nitrogen application on agricultural soils": 3.853399946,
+        "Nitrogen application through manure left on pasture": 1.73988863917245,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 1.702593716,
+        "Organic nitrogen application on agricultural soils": 0.9719164599,
+        "Nitrogen application through manure left on pasture": 1.1923562925426199,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 1.676693463,
+        "Organic nitrogen application on agricultural soils": 0.1340185921,
+        "Nitrogen application through manure left on pasture": 1.65819784095162,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 8.502650522,
+        "Organic nitrogen application on agricultural soils": 2.403821453,
+        "Nitrogen application through manure left on pasture": 3.41464616137374,
+        "location": "USA"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.9223679038,
+        "Organic nitrogen application on agricultural soils": 0.11533178250000001,
+        "Nitrogen application through manure left on pasture": 4.93326958921152,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 4.458629682,
+        "Organic nitrogen application on agricultural soils": 1.2338011530000002,
+        "Nitrogen application through manure left on pasture": 18.2640602604646,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 23.27606322,
+        "Organic nitrogen application on agricultural soils": 2.354247198,
+        "Nitrogen application through manure left on pasture": 5.5735995079696,
+        "location": "IND"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.05617432059,
+        "Organic nitrogen application on agricultural soils": 0.02509686762,
+        "Nitrogen application through manure left on pasture": 0.284470348053423,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 5.941619714000001,
+        "Organic nitrogen application on agricultural soils": 2.783444301,
+        "Nitrogen application through manure left on pasture": 8.687046155918429,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 1.823863249,
+        "Organic nitrogen application on agricultural soils": 1.087866161,
+        "Nitrogen application through manure left on pasture": 3.52887454275574,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 116.62296942964,
+        "Organic nitrogen application on agricultural soils": 27.466415088549997,
+        "Nitrogen application through manure left on pasture": 82.009420921614,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.9139344151000001,
+        "Organic nitrogen application on agricultural soils": 0.3697511014,
+        "Nitrogen application through manure left on pasture": 1.1211132501285699,
+        "location": "COL"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 4.259182521,
+        "Organic nitrogen application on agricultural soils": 1.3284323690000002,
+        "Nitrogen application through manure left on pasture": 1.19521426632874,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 1.1339401580000001,
+        "Organic nitrogen application on agricultural soils": 0.21542485830000002,
+        "Nitrogen application through manure left on pasture": 2.24926228040413,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.287543313,
+        "Organic nitrogen application on agricultural soils": 0.1096930647,
+        "Nitrogen application through manure left on pasture": 0.371199154137863,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 7.202391285,
+        "Organic nitrogen application on agricultural soils": 2.29944908,
+        "Nitrogen application through manure left on pasture": 4.67429570263377,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 5.464991091,
+        "Organic nitrogen application on agricultural soils": 1.022565076,
+        "Nitrogen application through manure left on pasture": 9.3629674085352,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 0.07317396823,
+        "Organic nitrogen application on agricultural soils": 0.060081742560000005,
+        "Nitrogen application through manure left on pasture": 0.045165628059281406,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 1.2683478620000002,
+        "Organic nitrogen application on agricultural soils": 0.6552933468,
+        "Nitrogen application through manure left on pasture": 1.78613963896505,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2030,
+        "Synthetic nitrogen application": 3.589153334,
+        "Organic nitrogen application on agricultural soils": 0.7989004035,
+        "Nitrogen application through manure left on pasture": 0.264004060786571,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.8286940978999999,
+        "Organic nitrogen application on agricultural soils": 0.11421531459999999,
+        "Nitrogen application through manure left on pasture": 2.41501176397403,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 3.411382422,
+        "Organic nitrogen application on agricultural soils": 0.28949080909999997,
+        "Nitrogen application through manure left on pasture": 0.35319688385092096,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 30.64717331,
+        "Organic nitrogen application on agricultural soils": 3.627949443,
+        "Nitrogen application through manure left on pasture": 7.59580910738248,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.7187161507,
+        "Organic nitrogen application on agricultural soils": 0.6162471191,
+        "Nitrogen application through manure left on pasture": 0.155581393970861,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.1418559505,
+        "Organic nitrogen application on agricultural soils": 0.1514230224,
+        "Nitrogen application through manure left on pasture": 0.0483580544598033,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.07584601992000001,
+        "Organic nitrogen application on agricultural soils": 0.03984864596,
+        "Nitrogen application through manure left on pasture": 0.0244412187063519,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.2933486186,
+        "Organic nitrogen application on agricultural soils": 0.4994321032,
+        "Nitrogen application through manure left on pasture": 0.41534698407057197,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.1464811646,
+        "Organic nitrogen application on agricultural soils": 0.06494504694,
+        "Nitrogen application through manure left on pasture": 0.10363724130964,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.023930363910000002,
+        "Organic nitrogen application on agricultural soils": 0.04015677601,
+        "Nitrogen application through manure left on pasture": 0.0629767735117261,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 6.0631585779999995,
+        "Organic nitrogen application on agricultural soils": 3.79547924,
+        "Nitrogen application through manure left on pasture": 1.22716844632839,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 1.698079323,
+        "Organic nitrogen application on agricultural soils": 1.00465434,
+        "Nitrogen application through manure left on pasture": 1.08061769407098,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 1.7605100379999998,
+        "Organic nitrogen application on agricultural soils": 0.16269786790000001,
+        "Nitrogen application through manure left on pasture": 1.58753356010752,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 7.728884656,
+        "Organic nitrogen application on agricultural soils": 2.344618465,
+        "Nitrogen application through manure left on pasture": 3.0358760183142097,
+        "location": "USA"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.9671859785,
+        "Organic nitrogen application on agricultural soils": 0.125143329,
+        "Nitrogen application through manure left on pasture": 5.2338093715559,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 4.747650386,
+        "Organic nitrogen application on agricultural soils": 1.340315574,
+        "Nitrogen application through manure left on pasture": 18.4554306261918,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 23.04956012,
+        "Organic nitrogen application on agricultural soils": 2.333606582,
+        "Nitrogen application through manure left on pasture": 5.48057384748211,
+        "location": "IND"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 4.198038873000001,
+        "Organic nitrogen application on agricultural soils": 1.30298978,
+        "Nitrogen application through manure left on pasture": 0.9987848138199981,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.05369149848,
+        "Organic nitrogen application on agricultural soils": 0.025251754940000003,
+        "Nitrogen application through manure left on pasture": 0.287747203755199,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 5.9474898089999995,
+        "Organic nitrogen application on agricultural soils": 2.971790103,
+        "Nitrogen application through manure left on pasture": 8.85712051758678,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 113.89426997209999,
+        "Organic nitrogen application on agricultural soils": 27.606984491,
+        "Nitrogen application through manure left on pasture": 78.7479674313497,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 1.831256793,
+        "Organic nitrogen application on agricultural soils": 1.0972533089999998,
+        "Nitrogen application through manure left on pasture": 3.13883997221461,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.9539022366000001,
+        "Organic nitrogen application on agricultural soils": 0.38750924909999995,
+        "Nitrogen application through manure left on pasture": 1.083611554416,
+        "location": "COL"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.288559014,
+        "Organic nitrogen application on agricultural soils": 0.1095810661,
+        "Nitrogen application through manure left on pasture": 0.401046659077105,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 6.921124953,
+        "Organic nitrogen application on agricultural soils": 2.352451955,
+        "Nitrogen application through manure left on pasture": 4.69148408048732,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 1.1042363439999998,
+        "Organic nitrogen application on agricultural soils": 0.22046989479999998,
+        "Nitrogen application through manure left on pasture": 2.23389525460282,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 5.531260228,
+        "Organic nitrogen application on agricultural soils": 1.036703152,
+        "Nitrogen application through manure left on pasture": 7.82400499092084,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 1.2305285510000001,
+        "Organic nitrogen application on agricultural soils": 0.6763253562999999,
+        "Nitrogen application through manure left on pasture": 1.78980152466781,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 0.08139736439,
+        "Organic nitrogen application on agricultural soils": 0.06598434975,
+        "Nitrogen application through manure left on pasture": 0.041227730434434104,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2035,
+        "Synthetic nitrogen application": 3.4503271300000002,
+        "Organic nitrogen application on agricultural soils": 0.8104508428,
+        "Nitrogen application through manure left on pasture": 0.125034144079523,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.7707061297,
+        "Organic nitrogen application on agricultural soils": 0.1066607675,
+        "Nitrogen application through manure left on pasture": 2.2287075113206303,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 3.414845375,
+        "Organic nitrogen application on agricultural soils": 0.28984579450000003,
+        "Nitrogen application through manure left on pasture": 0.249382982690446,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 29.43081255,
+        "Organic nitrogen application on agricultural soils": 3.480143833,
+        "Nitrogen application through manure left on pasture": 7.51672508087382,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.6591295550999999,
+        "Organic nitrogen application on agricultural soils": 0.5772853708,
+        "Nitrogen application through manure left on pasture": 0.00469274226364632,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.1392989944,
+        "Organic nitrogen application on agricultural soils": 0.1515621204,
+        "Nitrogen application through manure left on pasture": 0.026703015127596,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.07240237745,
+        "Organic nitrogen application on agricultural soils": 0.03797437057,
+        "Nitrogen application through manure left on pasture": 0.0214451055486987,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.14645592300000002,
+        "Organic nitrogen application on agricultural soils": 0.06861254759,
+        "Nitrogen application through manure left on pasture": 0.0571733262279321,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.02402007184,
+        "Organic nitrogen application on agricultural soils": 0.04031855361,
+        "Nitrogen application through manure left on pasture": 0.0614142873576127,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 5.9313002599999995,
+        "Organic nitrogen application on agricultural soils": 3.734633689,
+        "Nitrogen application through manure left on pasture": 0.711850934989679,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 1.6953498489999999,
+        "Organic nitrogen application on agricultural soils": 1.040604645,
+        "Nitrogen application through manure left on pasture": 0.956495836776535,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 1.8482265480000002,
+        "Organic nitrogen application on agricultural soils": 0.1972000923,
+        "Nitrogen application through manure left on pasture": 1.49474531949171,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 7.040748116,
+        "Organic nitrogen application on agricultural soils": 2.287956426,
+        "Nitrogen application through manure left on pasture": 2.4280470134205103,
+        "location": "USA"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 1.0106564519999999,
+        "Organic nitrogen application on agricultural soils": 0.1345658371,
+        "Nitrogen application through manure left on pasture": 5.4910446189391,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 4.13070882,
+        "Organic nitrogen application on agricultural soils": 1.276239723,
+        "Nitrogen application through manure left on pasture": 0.780883160327271,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 5.082334696,
+        "Organic nitrogen application on agricultural soils": 1.4654779089999999,
+        "Nitrogen application through manure left on pasture": 18.593364852102898,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 22.4215157,
+        "Organic nitrogen application on agricultural soils": 2.273960436,
+        "Nitrogen application through manure left on pasture": 5.330810975639469,
+        "location": "IND"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.05220351081,
+        "Organic nitrogen application on agricultural soils": 0.02681515671,
+        "Nitrogen application through manure left on pasture": 0.28323583280500797,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 6.065231729,
+        "Organic nitrogen application on agricultural soils": 3.1586257260000004,
+        "Nitrogen application through manure left on pasture": 8.90296859556889,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.30321631530000004,
+        "Organic nitrogen application on agricultural soils": 0.11509742369999999,
+        "Nitrogen application through manure left on pasture": 0.42588569441034796,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 110.93649660882001,
+        "Organic nitrogen application on agricultural soils": 27.6620300507,
+        "Nitrogen application through manure left on pasture": 74.1918343965362,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 1.8438633560000002,
+        "Organic nitrogen application on agricultural soils": 1.110930721,
+        "Nitrogen application through manure left on pasture": 2.6986010903882898,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 6.623114782,
+        "Organic nitrogen application on agricultural soils": 2.4058071070000002,
+        "Nitrogen application through manure left on pasture": 4.59093367351111,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.8486987189999999,
+        "Organic nitrogen application on agricultural soils": 0.3496150348,
+        "Nitrogen application through manure left on pasture": 1.08622705606283,
+        "location": "COL"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 5.531566355,
+        "Organic nitrogen application on agricultural soils": 1.035237795,
+        "Nitrogen application through manure left on pasture": 5.84757384190795,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 1.18799846,
+        "Organic nitrogen application on agricultural soils": 0.6980821693,
+        "Nitrogen application through manure left on pasture": 1.75972831396573,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 1.078030027,
+        "Organic nitrogen application on agricultural soils": 0.22370898,
+        "Nitrogen application through manure left on pasture": 2.29003293932131,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.08972790512,
+        "Organic nitrogen application on agricultural soils": 0.07191814422000001,
+        "Nitrogen application through manure left on pasture": 0.035787663795352996,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 3.2384551459999997,
+        "Organic nitrogen application on agricultural soils": 0.8075441412000001,
+        "Nitrogen application through manure left on pasture": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2040,
+        "Synthetic nitrogen application": 0.2558788861,
+        "Organic nitrogen application on agricultural soils": 0.4956055364,
+        "Nitrogen application through manure left on pasture": 0.31737293170175,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.7195562892,
+        "Organic nitrogen application on agricultural soils": 0.09996923597999999,
+        "Nitrogen application through manure left on pasture": 1.97357989499321,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 3.387652715,
+        "Organic nitrogen application on agricultural soils": 0.2877339341,
+        "Nitrogen application through manure left on pasture": 0.119466265548489,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 28.142040010000002,
+        "Organic nitrogen application on agricultural soils": 3.324060904,
+        "Nitrogen application through manure left on pasture": 7.39244753535577,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.136032801,
+        "Organic nitrogen application on agricultural soils": 0.1510279926,
+        "Nitrogen application through manure left on pasture": 0.00293371603808799,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.06984207986,
+        "Organic nitrogen application on agricultural soils": 0.03656609707,
+        "Nitrogen application through manure left on pasture": 0.0177989989487909,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.1409317133,
+        "Organic nitrogen application on agricultural soils": 0.06993983739,
+        "Nitrogen application through manure left on pasture": 0.00838875965941543,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.02420056822,
+        "Organic nitrogen application on agricultural soils": 0.040685389690000004,
+        "Nitrogen application through manure left on pasture": 0.0592846701113293,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 5.7718892539999995,
+        "Organic nitrogen application on agricultural soils": 3.652399375,
+        "Nitrogen application through manure left on pasture": 0.210389504861506,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 1.6921613480000002,
+        "Organic nitrogen application on agricultural soils": 1.079104601,
+        "Nitrogen application through manure left on pasture": 0.824560539445602,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 1.9300078109999999,
+        "Organic nitrogen application on agricultural soils": 0.2374015536,
+        "Nitrogen application through manure left on pasture": 1.37911257979988,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 6.0316169330000005,
+        "Organic nitrogen application on agricultural soils": 2.1681176730000002,
+        "Nitrogen application through manure left on pasture": 1.64822980050966,
+        "location": "USA"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 3.939653383,
+        "Organic nitrogen application on agricultural soils": 1.2047286320000001,
+        "Nitrogen application through manure left on pasture": 0.661444574717738,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 1.039297833,
+        "Organic nitrogen application on agricultural soils": 0.1398963688,
+        "Nitrogen application through manure left on pasture": 5.682214973494959,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 5.247837338999999,
+        "Organic nitrogen application on agricultural soils": 1.520307682,
+        "Nitrogen application through manure left on pasture": 18.934550794473598,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 22.24101027,
+        "Organic nitrogen application on agricultural soils": 2.255819469,
+        "Nitrogen application through manure left on pasture": 5.0518984413465295,
+        "location": "IND"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.3208589691,
+        "Organic nitrogen application on agricultural soils": 0.1217305279,
+        "Nitrogen application through manure left on pasture": 0.45046664847958,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.0550791134,
+        "Organic nitrogen application on agricultural soils": 0.029524149609999998,
+        "Nitrogen application through manure left on pasture": 0.295075237497185,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 6.166836676,
+        "Organic nitrogen application on agricultural soils": 3.348169359,
+        "Nitrogen application through manure left on pasture": 8.80545503232684,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 6.369934843,
+        "Organic nitrogen application on agricultural soils": 2.404029065,
+        "Nitrogen application through manure left on pasture": 4.37258980046653,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 107.78310784815,
+        "Organic nitrogen application on agricultural soils": 27.527015068879997,
+        "Nitrogen application through manure left on pasture": 68.9305500318184,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 1.141397169,
+        "Organic nitrogen application on agricultural soils": 0.7214250632,
+        "Nitrogen application through manure left on pasture": 1.6887013392066899,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 5.535818475,
+        "Organic nitrogen application on agricultural soils": 1.032674307,
+        "Nitrogen application through manure left on pasture": 3.50142599511965,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 1.8525338059999998,
+        "Organic nitrogen application on agricultural soils": 1.122751662,
+        "Nitrogen application through manure left on pasture": 2.22550935571354,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.8427066597,
+        "Organic nitrogen application on agricultural soils": 0.3494150418,
+        "Nitrogen application through manure left on pasture": 1.03846810483275,
+        "location": "COL"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.09787533587,
+        "Organic nitrogen application on agricultural soils": 0.07761730194000001,
+        "Nitrogen application through manure left on pasture": 0.026921577303563003,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 3.023613842,
+        "Organic nitrogen application on agricultural soils": 0.8043629706000001,
+        "Nitrogen application through manure left on pasture": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 1.052511414,
+        "Organic nitrogen application on agricultural soils": 0.2263081941,
+        "Nitrogen application through manure left on pasture": 2.34368082787806,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.2202033783,
+        "Organic nitrogen application on agricultural soils": 0.49222194259999996,
+        "Nitrogen application through manure left on pasture": 0.215955063689455,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2045,
+        "Synthetic nitrogen application": 0.5900078192,
+        "Organic nitrogen application on agricultural soils": 0.5290267389000001,
+        "Nitrogen application through manure left on pasture": 0,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.6732573089,
+        "Organic nitrogen application on agricultural soils": 0.09390596424,
+        "Nitrogen application through manure left on pasture": 1.7548459605831699,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 26.43635441,
+        "Organic nitrogen application on agricultural soils": 3.123351632,
+        "Nitrogen application through manure left on pasture": 7.24244510125331,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.1343853505,
+        "Organic nitrogen application on agricultural soils": 0.1520637854,
+        "Nitrogen application through manure left on pasture": 0,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.06703874329,
+        "Organic nitrogen application on agricultural soils": 0.035024135059999996,
+        "Nitrogen application through manure left on pasture": 0.0142207652995871,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.1459511788,
+        "Organic nitrogen application on agricultural soils": 0.07565548124999999,
+        "Nitrogen application through manure left on pasture": 0,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.024337897940000002,
+        "Organic nitrogen application on agricultural soils": 0.040961185659999996,
+        "Nitrogen application through manure left on pasture": 0.0571845019177972,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 5.608227759,
+        "Organic nitrogen application on agricultural soils": 3.56779141,
+        "Nitrogen application through manure left on pasture": 0,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 1.6709880940000001,
+        "Organic nitrogen application on agricultural soils": 1.109232654,
+        "Nitrogen application through manure left on pasture": 0.6955053497311989,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 1.988584667,
+        "Organic nitrogen application on agricultural soils": 0.2778331058,
+        "Nitrogen application through manure left on pasture": 1.2503181174634699,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 5.299524488,
+        "Organic nitrogen application on agricultural soils": 2.081273297,
+        "Nitrogen application through manure left on pasture": 1.60286118154304,
+        "location": "USA"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 3.71861189,
+        "Organic nitrogen application on agricultural soils": 1.12346744,
+        "Nitrogen application through manure left on pasture": 0.525596152117355,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 1.0639171120000002,
+        "Organic nitrogen application on agricultural soils": 0.1462809786,
+        "Nitrogen application through manure left on pasture": 5.77215413619711,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 5.329554888,
+        "Organic nitrogen application on agricultural soils": 1.548525564,
+        "Nitrogen application through manure left on pasture": 18.9801629716097,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 21.93337249,
+        "Organic nitrogen application on agricultural soils": 2.225268513,
+        "Nitrogen application through manure left on pasture": 4.74143670648553,
+        "location": "IND"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.33071682010000003,
+        "Organic nitrogen application on agricultural soils": 0.1255690384,
+        "Nitrogen application through manure left on pasture": 0.44813629526439,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 1.091135795,
+        "Organic nitrogen application on agricultural soils": 0.7460419826,
+        "Nitrogen application through manure left on pasture": 1.6036181672521599,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 6.143100588,
+        "Organic nitrogen application on agricultural soils": 2.4174091119999996,
+        "Nitrogen application through manure left on pasture": 4.05131729759258,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.05697156023,
+        "Organic nitrogen application on agricultural soils": 0.03219223943,
+        "Nitrogen application through manure left on pasture": 0.29788308476236103,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 6.147667171,
+        "Organic nitrogen application on agricultural soils": 3.590926541,
+        "Nitrogen application through manure left on pasture": 8.505259433341589,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 104.14189314656001,
+        "Organic nitrogen application on agricultural soils": 27.419115303850003,
+        "Nitrogen application through manure left on pasture": 65.9601584734857,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 68,
+            "byYear": 2050
+          }
+        ]
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 5.451675003,
+        "Organic nitrogen application on agricultural soils": 1.017955963,
+        "Nitrogen application through manure left on pasture": 3.15937428468475,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.8359653141,
+        "Organic nitrogen application on agricultural soils": 0.3486921061,
+        "Nitrogen application through manure left on pasture": 0.985682375727453,
+        "location": "COL"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 1.854609093,
+        "Organic nitrogen application on agricultural soils": 1.13147777,
+        "Nitrogen application through manure left on pasture": 1.77120019242853,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.1033115693,
+        "Organic nitrogen application on agricultural soils": 0.08113257331,
+        "Nitrogen application through manure left on pasture": 0.0126069926617085,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.1859795154,
+        "Organic nitrogen application on agricultural soils": 0.4885532354,
+        "Nitrogen application through manure left on pasture": 0.11413438116813,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 2.8450007139999998,
+        "Organic nitrogen application on agricultural soils": 0.7974254566,
+        "Nitrogen application through manure left on pasture": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 1.032623239,
+        "Organic nitrogen application on agricultural soils": 0.22925772370000003,
+        "Nitrogen application through manure left on pasture": 2.27345813833787,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 0.5700612559999999,
+        "Organic nitrogen application on agricultural soils": 0.5232138765,
+        "Nitrogen application through manure left on pasture": 0,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2050,
+        "Synthetic nitrogen application": 3.398969231,
+        "Organic nitrogen application on agricultural soils": 0.28863253980000003,
+        "Nitrogen application through manure left on pasture": 0.100756886062857,
+        "location": "CAN"
+      }
+    ],
+    "keys": [
+      "Synthetic nitrogen application",
+      "Organic nitrogen application on agricultural soils",
+      "Nitrogen application through manure left on pasture"
+    ],
+    "byCountry": true,
+    "withTarget": true
+  },
+  {
+    "title": "Phosphorus application",
+    "description": "Share of phosphorus application",
+    "axisY": "1000 tons",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "Total phosphorus": 186.677959,
+        "historical": 333.8,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 423.2953519,
+        "historical": 1116.33865,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 1338.758688,
+        "historical": 2338,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 303.3677882,
+        "historical": 570.532,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 4673.04172,
+        "historical": 8609.7,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 80.01110602,
+        "historical": 131.8,
+        "location": "COL"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 224.1322724,
+        "historical": 351.317,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 41.08153702,
+        "historical": 36,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 34.53929232,
+        "historical": 80.98,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 24.24445844,
+        "historical": 52,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 104.1409811,
+        "historical": 279,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 62.05036042,
+        "historical": 113,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 153.3745147,
+        "historical": 263.1,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 1940.681399,
+        "historical": 4214.6,
+        "location": "IND"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 97.33541264,
+        "historical": 315,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 11.00729622,
+        "historical": 30,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 8.280946855,
+        "historical": 18.161,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 1395.926368,
+        "historical": 2752.978,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 349.2363975,
+        "historical": 565.583,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 483.1734178,
+        "historical": 1979.635,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 27.35052909,
+        "historical": 193.947,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 1885.296961,
+        "historical": 2723.211,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 313.8607707,
+        "historical": 473.099,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 130.3024826,
+        "historical": 280,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 0.0902667414836914,
+        "historical": 0.1,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 33.0814073,
+        "historical": 39.042,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 224.4449834,
+        "historical": 628.639,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 2605.162199,
+        "historical": 3882.64538,
+        "location": "USA"
+      },
+      {
+        "valueX": 2000,
+        "Total phosphorus": 17153.9468673665,
+        "historical": 32372.20803,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 278.1884258,
+        "historical": 513.245,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 295.8626094,
+        "historical": 1041.7396,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 2055.721366,
+        "historical": 2879.51109,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 324.9092299,
+        "historical": 693.121,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 6463.194222,
+        "historical": 11637.78679,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 133.1551826,
+        "historical": 171.88038,
+        "location": "COL"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 172.8061678,
+        "historical": 273.937,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 42.40609419,
+        "historical": 41.662,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 26.93234341,
+        "historical": 59.3,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 21.82927631,
+        "historical": 44,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 84.02918438,
+        "historical": 259,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 48.80066086,
+        "historical": 87.0922,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 204.3909333,
+        "historical": 327.794,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 2706.556859,
+        "historical": 5209.967,
+        "location": "IND"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 166.2676447,
+        "historical": 380.7,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 10.63313265,
+        "historical": 28.64,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 2.447829505,
+        "historical": 4.994,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 1552.885291,
+        "historical": 2896.0304,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 450.5220062,
+        "historical": 674.14981,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 558.8162876,
+        "historical": 2203.15189,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 178.4793925,
+        "historical": 372.26456,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 1633.084914,
+        "historical": 2554.984,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 291.1614457,
+        "historical": 426.81965,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 142.643871,
+        "historical": 346.84,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 0.871867119,
+        "historical": 1.087,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 26.98638256,
+        "historical": 35.3,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 221.9060354,
+        "historical": 601.606,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 2665.181273,
+        "historical": 4062.9174,
+        "location": "USA"
+      },
+      {
+        "valueX": 2005,
+        "Total phosphorus": 20760.669927884,
+        "historical": 37829.52077,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 314.4082352,
+        "historical": 823.64239,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 372.5840667,
+        "historical": 650.749,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 8291.754588,
+        "historical": 14392.79527,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 172.0911442,
+        "historical": 286.348,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 33.30912661,
+        "historical": 32.982,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 83.60530662,
+        "historical": 184,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 39.46344244,
+        "historical": 68.92431,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 8.193621942,
+        "historical": 18.064,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 280.218369,
+        "historical": 524.8267,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 1112.529219,
+        "historical": 1814.946,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 142.7894852,
+        "historical": 436.98,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 200.4527496,
+        "historical": 605.668,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 2953.722726,
+        "historical": 3896.44901,
+        "location": "USA"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 2.984453973,
+        "historical": 4.20052,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 318.2284523,
+        "historical": 561.46928,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 65.36317762,
+        "historical": 162.062,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 4279.336009,
+        "historical": 8195.773,
+        "location": "IND"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 236.9844218,
+        "historical": 198.05613,
+        "location": "COL"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 372.8370832,
+        "historical": 499.22,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 474.633528,
+        "historical": 778.27261,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 24555.880720607,
+        "historical": 43153.32685,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 1452.506233,
+        "historical": 2669.66096,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 498.5213212,
+        "historical": 1993.95864,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 5.566821812,
+        "historical": 10.13,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 21.99895398,
+        "historical": 22.387,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 213.678511,
+        "historical": 683.667,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 158.5571415,
+        "historical": 303.5,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 2433.618187,
+        "historical": 3307.59503,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2010,
+        "Total phosphorus": 15.94434471,
+        "historical": 27,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 299.0149109,
+        "historical": 424.76128,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 356.7432751,
+        "historical": 928.05448,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 3068.872425,
+        "historical": 4323.01382,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 621.453875,
+        "historical": 1004,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 8641.478154,
+        "historical": 12765.57258,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 177.0803219,
+        "historical": 287.762,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 37.75967075,
+        "historical": 33.093,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 15.43516763,
+        "historical": 25.17194,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 93.57615498,
+        "historical": 196,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 31.88661264,
+        "historical": 50.483,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 8.179837768,
+        "historical": 21.269,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 307.0882388,
+        "historical": 485.55923,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 1302.756314,
+        "historical": 2045.92776,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 184.0331939,
+        "historical": 467.89,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 215.2177675,
+        "historical": 584.569,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 3232.527275,
+        "historical": 3944.392,
+        "location": "USA"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 7.312302889,
+        "historical": 7.31404,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 444.5838888,
+        "historical": 736.24916,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 3729.7111,
+        "historical": 6978.8,
+        "location": "IND"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 964.7714269,
+        "historical": 1436.73553,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 77.0987118,
+        "historical": 196.58484,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 612.3882661,
+        "historical": 970.73883,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 27417.196281317,
+        "historical": 43876.69622,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 607.5135814,
+        "historical": 2223.77772,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 323.8078216,
+        "historical": 231.52222,
+        "location": "COL"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 1780.341288,
+        "historical": 2969.42037,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 29.91151436,
+        "historical": 46.82662,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 21.1795899,
+        "historical": 28.602,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2015,
+        "Total phosphorus": 225.4735947,
+        "historical": 462.6058,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 316.397578,
+        "historical": 957.50311,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 780.3901953,
+        "historical": 1194,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 6949.501791,
+        "historical": 9918.63544,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 140.888683,
+        "historical": 192.182,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 34.30942473,
+        "historical": 37.23275,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 15.8974642,
+        "historical": 26.27205,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 81.76918042,
+        "historical": 174,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 31.07528908,
+        "historical": 64.87911,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 232.7899865,
+        "historical": 454.18265,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 8.831505933,
+        "historical": 20.618,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 1412.224526,
+        "historical": 2329.73271,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 259.7418037,
+        "historical": 686.451,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 261.6886101,
+        "historical": 763.639,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 3174.908769,
+        "historical": 3973.50993,
+        "location": "USA"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 13.64906207,
+        "historical": 15.16473,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 621.4136861,
+        "historical": 1030.86693,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 58.5792274,
+        "historical": 164.3652,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 4905.139459,
+        "historical": 8977.9,
+        "location": "IND"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 795.5691614,
+        "historical": 1211.22482,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 648.3542566,
+        "historical": 1018.45556,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 669.7009635,
+        "historical": 2406.40919,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 29378.133734063,
+        "historical": 48069.7346,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 408.7542188,
+        "historical": 257.02816,
+        "location": "COL"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 51.87573716,
+        "historical": 73.73708,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 27.19096037,
+        "historical": 38.11,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 4586.468772,
+        "historical": 7233.80979,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 1958.092192,
+        "historical": 3273.47859,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 507.8012993,
+        "historical": 868.63509,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2020,
+        "Total phosphorus": 425.1299314,
+        "historical": 707.71171,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 343.9126027,
+        "historical": 0,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 849.087372,
+        "historical": 0,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 6227.307747,
+        "historical": 0,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 127.802373,
+        "historical": 0,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 32.55492191,
+        "historical": 0,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 15.67090616,
+        "historical": 0,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 69.38232751,
+        "historical": 0,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 31.47101471,
+        "historical": 0,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 7.92798887,
+        "historical": 0,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 1382.521368,
+        "historical": 0,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 247.1486311,
+        "historical": 0,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 242.6370517,
+        "historical": 0,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 3217.758168,
+        "historical": 0,
+        "location": "USA"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 737.3243828,
+        "historical": 0,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 66.01496788,
+        "historical": 0,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 5959.727785,
+        "historical": 0,
+        "location": "IND"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 14.59750968,
+        "historical": 0,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 671.9775684,
+        "historical": 0,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 672.6490322,
+        "historical": 0,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 30531.21255733,
+        "historical": 0,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 422.0526669,
+        "historical": 0,
+        "location": "COL"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 942.8634157,
+        "historical": 0,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 66.11724034,
+        "historical": 0,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 1926.908713,
+        "historical": 0,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 26.71319257,
+        "historical": 0,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 5063.417105,
+        "historical": 0,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 460.2956296,
+        "historical": 0,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 251.2749733,
+        "historical": 0,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2025,
+        "Total phosphorus": 454.0959023,
+        "historical": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 327.9658186,
+        "historical": 0,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 875.8970112,
+        "historical": 0,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 5789.11139,
+        "historical": 0,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 123.4183857,
+        "historical": 0,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 32.26355352,
+        "historical": 0,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 15.221599,
+        "historical": 0,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 63.31617104,
+        "historical": 0,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 32.39426286,
+        "historical": 0,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 7.999713011,
+        "historical": 0,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 1343.048368,
+        "historical": 0,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 245.8793156,
+        "historical": 0,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 273.5543884,
+        "historical": 0,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 3066.736749,
+        "historical": 0,
+        "location": "USA"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 75.06167781,
+        "historical": 0,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 837.3502486,
+        "historical": 0,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 7028.173338,
+        "historical": 0,
+        "location": "IND"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 15.72684723,
+        "historical": 0,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 712.6159444,
+        "historical": 0,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 685.7915705,
+        "historical": 0,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 31558.774786991,
+        "historical": 0,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 435.7456568,
+        "historical": 0,
+        "location": "COL"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 1006.748625,
+        "historical": 0,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 435.0331091,
+        "historical": 0,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 71.26478044,
+        "historical": 0,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 1948.709772,
+        "historical": 0,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 5381.482795,
+        "historical": 0,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 29.27270788,
+        "historical": 0,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 260.4791016,
+        "historical": 0,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2030,
+        "Total phosphorus": 438.5118867,
+        "historical": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 313.1786927,
+        "historical": 0,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 888.3341514,
+        "historical": 0,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 5512.793787,
+        "historical": 0,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 117.5550941,
+        "historical": 0,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 31.85298486,
+        "historical": 0,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 14.76125203,
+        "historical": 0,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 58.77659841,
+        "historical": 0,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 33.70763068,
+        "historical": 0,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 8.038408809,
+        "historical": 0,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 1324.032884,
+        "historical": 0,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 243.9638116,
+        "historical": 0,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 297.5546079,
+        "historical": 0,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 2831.634398,
+        "historical": 0,
+        "location": "USA"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 84.74652129,
+        "historical": 0,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 919.2660945,
+        "historical": 0,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 6908.121648,
+        "historical": 0,
+        "location": "IND"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 980.3249959,
+        "historical": 0,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 15.53667266,
+        "historical": 0,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 751.781958,
+        "historical": 0,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 31197.995552329,
+        "historical": 0,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 693.0110447,
+        "historical": 0,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 453.9150733,
+        "historical": 0,
+        "location": "COL"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 77.54695687,
+        "historical": 0,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 1955.245313,
+        "historical": 0,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 414.9490548,
+        "historical": 0,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 5546.996437,
+        "historical": 0,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 266.5516092,
+        "historical": 0,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 31.69623202,
+        "historical": 0,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2035,
+        "Total phosphorus": 422.1216396,
+        "historical": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 301.6369331,
+        "historical": 0,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 887.2851723,
+        "historical": 0,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 5264.689429,
+        "historical": 0,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 108.3291787,
+        "historical": 0,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 31.28407181,
+        "historical": 0,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 14.27652265,
+        "historical": 0,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 35.76456708,
+        "historical": 0,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 8.060141597,
+        "historical": 0,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 1303.881335,
+        "historical": 0,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 242.5291002,
+        "historical": 0,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 325.1822033,
+        "historical": 0,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 2609.837459,
+        "historical": 0,
+        "location": "USA"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 94.03463843,
+        "historical": 0,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 953.5868087,
+        "historical": 0,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 1016.061358,
+        "historical": 0,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 6627.23694,
+        "historical": 0,
+        "location": "IND"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 16.53145326,
+        "historical": 0,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 804.3878895,
+        "historical": 0,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 85.41388352,
+        "historical": 0,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 30603.602335977,
+        "historical": 0,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 704.3033948,
+        "historical": 0,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 1956.958849,
+        "historical": 0,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 401.7371753,
+        "historical": 0,
+        "location": "COL"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 5651.058802,
+        "historical": 0,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 272.2204346,
+        "historical": 0,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 399.4192659,
+        "historical": 0,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 34.10740727,
+        "historical": 0,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 399.2764409,
+        "historical": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2040,
+        "Total phosphorus": 54.51148106,
+        "historical": 0,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 290.968026,
+        "historical": 0,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 877.0742787,
+        "historical": 0,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 5007.931379,
+        "historical": 0,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 30.52633948,
+        "historical": 0,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 13.92326815,
+        "historical": 0,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 36.16892542,
+        "historical": 0,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 8.137191323,
+        "historical": 0,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 1276.105872,
+        "historical": 0,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 241.2328622,
+        "historical": 0,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 354.8480833,
+        "historical": 0,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 2301.189334,
+        "historical": 0,
+        "location": "USA"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 886.8298219,
+        "historical": 0,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 98.80327639,
+        "historical": 0,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 1057.091032,
+        "historical": 0,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 6572.523111,
+        "historical": 0,
+        "location": "IND"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 95.17944098,
+        "historical": 0,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 17.80089738,
+        "historical": 0,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 855.978346,
+        "historical": 0,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 1940.072023,
+        "historical": 0,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 30062.033448113,
+        "historical": 0,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 279.7754016,
+        "historical": 0,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 5759.917915,
+        "historical": 0,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 714.5150897,
+        "historical": 0,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 397.7664442,
+        "historical": 0,
+        "location": "COL"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 36.50252341,
+        "historical": 0,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 376.5712556,
+        "historical": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 386.357113,
+        "historical": 0,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 50.51072765,
+        "historical": 0,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2045,
+        "Total phosphorus": 97.73346973,
+        "historical": 0,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 280.888554,
+        "historical": 0,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 4696.409747,
+        "historical": 0,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 30.26827183,
+        "historical": 0,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 13.52782743,
+        "historical": 0,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 38.86951387,
+        "historical": 0,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 8.19472286,
+        "historical": 0,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 1247.134315,
+        "historical": 0,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 238.4298367,
+        "historical": 0,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 377.3465614,
+        "historical": 0,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 2066.456862,
+        "historical": 0,
+        "location": "USA"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 812.3420278,
+        "historical": 0,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 105.5117302,
+        "historical": 0,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 1078.630673,
+        "historical": 0,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 6482.803924,
+        "historical": 0,
+        "location": "IND"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 99.10241376,
+        "historical": 0,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 286.7907246,
+        "historical": 0,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 1939.828237,
+        "historical": 0,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 19.10355074,
+        "historical": 0,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 906.906097,
+        "historical": 0,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 29302.1994542,
+        "historical": 0,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 16000,
+            "byYear": 2050
+          }
+        ]
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 5665.142035,
+        "historical": 0,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 393.5300642,
+        "historical": 0,
+        "location": "COL"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 721.8894886,
+        "historical": 0,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 38.1601203,
+        "historical": 0,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 46.68687937,
+        "historical": 0,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 357.3436849,
+        "historical": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 372.9440609,
+        "historical": 0,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 95.12666004,
+        "historical": 0,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2050,
+        "Total phosphorus": 882.8308707,
+        "historical": 0,
+        "location": "CAN"
+      }
+    ],
+    "keys": [
+      "Total phosphorus"
+    ],
+    "withHistorical": true,
+    "byCountry": true,
+    "withTarget": true
+  }
+]

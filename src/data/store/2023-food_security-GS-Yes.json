@@ -1,3 +1,4347 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d212fe848cf1b39d320548ead65609c136d6d18af76d21206f1ff3172c1a2e6
-size 117968
+[
+  {
+    "title": "Prevalence of undernourishment in 2030",
+    "description": "Food Security",
+    "axisY": "% of total population undernourished",
+    "axisX": "country",
+    "legend": [],
+    "data": [
+      {
+        "valueX": "ARG",
+        "Prevalence of undernourishment": 6.5
+      },
+      {
+        "valueX": "AUS",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "BRA",
+        "Prevalence of undernourishment": 4.53
+      },
+      {
+        "valueX": "CAN",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "CHN",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "COL",
+        "Prevalence of undernourishment": 7.919999999999999
+      },
+      {
+        "valueX": "DEU",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "DNK",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "ETH",
+        "Prevalence of undernourishment": 22.52
+      },
+      {
+        "valueX": "FIN",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "GBR",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "GRC",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "IDN",
+        "Prevalence of undernourishment": 7.449999999999999
+      },
+      {
+        "valueX": "IND",
+        "Prevalence of undernourishment": 15.340000000000002
+      },
+      {
+        "valueX": "MEX",
+        "Prevalence of undernourishment": 4.06
+      },
+      {
+        "valueX": "NOR",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "NPL",
+        "Prevalence of undernourishment": 5.99
+      },
+      {
+        "valueX": "RUS",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "RWA",
+        "Prevalence of undernourishment": 12.68
+      },
+      {
+        "valueX": "SWE",
+        "Prevalence of undernourishment": 4.11
+      },
+      {
+        "valueX": "TUR",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "USA",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "R_ASP",
+        "Prevalence of undernourishment": 5.67
+      },
+      {
+        "valueX": "R_CSA",
+        "Prevalence of undernourishment": 9.17
+      },
+      {
+        "valueX": "R_NEU",
+        "Prevalence of undernourishment": 3.16
+      },
+      {
+        "valueX": "R_NMC",
+        "Prevalence of undernourishment": 9.85
+      },
+      {
+        "valueX": "R_OEU",
+        "Prevalence of undernourishment": 2.5
+      },
+      {
+        "valueX": "R_SSA",
+        "Prevalence of undernourishment": 22.12
+      }
+    ],
+    "keys": [
+      "Prevalence of undernourishment"
+    ],
+    "withMarker": {
+      "value": 5
+    },
+    "withUnder": true
+  },
+  {
+    "title": "Average daily intake per capita in 2030",
+    "description": "The average daily intake of calories per capita in 2030, based on the 2020 baseline scenario.",
+    "axisY": "kcal / cap / day",
+    "axisX": "country",
+    "legend": [],
+    "data": [
+      {
+        "valueX": "ARG",
+        "Kcal Feasability": 2722.986955,
+        "upperBound": 2887.117845450015,
+        "lowerBound": 2117.2197533300114
+      },
+      {
+        "valueX": "AUS",
+        "Kcal Feasability": 2505.250774,
+        "upperBound": 2945.5597679661446,
+        "lowerBound": 2160.077163175173
+      },
+      {
+        "valueX": "BRA",
+        "Kcal Feasability": 2905.300439,
+        "upperBound": 2918.7714162781353,
+        "lowerBound": 2140.432371937299
+      },
+      {
+        "valueX": "CAN",
+        "Kcal Feasability": 2882.748367,
+        "upperBound": 2950.05188978559,
+        "lowerBound": 2163.371385842766
+      },
+      {
+        "valueX": "CHN",
+        "Kcal Feasability": 2921.962135,
+        "upperBound": 2967.9380179824448,
+        "lowerBound": 2176.487879853793
+      },
+      {
+        "valueX": "COL",
+        "Kcal Feasability": 2350.741389,
+        "upperBound": 2840.2113852804155,
+        "lowerBound": 2082.821682538971
+      },
+      {
+        "valueX": "DEU",
+        "Kcal Feasability": 2899.871125,
+        "upperBound": 2957.496059615535,
+        "lowerBound": 2168.8304437180586
+      },
+      {
+        "valueX": "DNK",
+        "Kcal Feasability": 2929.021239,
+        "upperBound": 2985.664349004285,
+        "lowerBound": 2189.4871892698093
+      },
+      {
+        "valueX": "ETH",
+        "Kcal Feasability": 2623.226928,
+        "upperBound": 2607.75595587603,
+        "lowerBound": 1912.354367642422
+      },
+      {
+        "valueX": "FIN",
+        "Kcal Feasability": 2834.87356,
+        "upperBound": 2978.870989245405,
+        "lowerBound": 2184.505392113297
+      },
+      {
+        "valueX": "GBR",
+        "Kcal Feasability": 2737.173306,
+        "upperBound": 2932.902867053415,
+        "lowerBound": 2150.795435839171
+      },
+      {
+        "valueX": "GRC",
+        "Kcal Feasability": 2620.436475,
+        "upperBound": 2973.32579203746,
+        "lowerBound": 2180.438914160804
+      },
+      {
+        "valueX": "IDN",
+        "Kcal Feasability": 2631.115217,
+        "upperBound": 2748.815574259155,
+        "lowerBound": 2015.798087790047
+      },
+      {
+        "valueX": "IND",
+        "Kcal Feasability": 2370.954651,
+        "upperBound": 2750.95044192045,
+        "lowerBound": 2017.3636574083298
+      },
+      {
+        "valueX": "MEX",
+        "Kcal Feasability": 2634.327716,
+        "upperBound": 2820.0576468242402,
+        "lowerBound": 2068.042274337776
+      },
+      {
+        "valueX": "NOR",
+        "Kcal Feasability": 2933.491491,
+        "upperBound": 2986.180874210685,
+        "lowerBound": 2189.865974421169
+      },
+      {
+        "valueX": "NPL",
+        "Kcal Feasability": 2640.385364,
+        "upperBound": 2676.1837219827153,
+        "lowerBound": 1962.534729453991
+      },
+      {
+        "valueX": "RUS",
+        "Kcal Feasability": 2988.093715,
+        "upperBound": 2928.1824683809655,
+        "lowerBound": 2147.333810146041
+      },
+      {
+        "valueX": "RWA",
+        "Kcal Feasability": 2539.456977,
+        "upperBound": 2585.817966983805,
+        "lowerBound": 1896.2665091214571
+      },
+      {
+        "valueX": "SWE",
+        "Kcal Feasability": 2563.863847,
+        "upperBound": 2970.693947295675,
+        "lowerBound": 2178.508894683495
+      },
+      {
+        "valueX": "TUR",
+        "Kcal Feasability": 3373.056632,
+        "upperBound": 2901.8982518847897,
+        "lowerBound": 2128.058718048846
+      },
+      {
+        "valueX": "USA",
+        "Kcal Feasability": 2991.352205,
+        "upperBound": 2917.863231580935,
+        "lowerBound": 2139.766369826019
+      },
+      {
+        "valueX": "R_ASP",
+        "Kcal Feasability": 2563.23837,
+        "upperBound": 2800.42923526443,
+        "lowerBound": 2053.648105860582
+      },
+      {
+        "valueX": "R_CSA",
+        "Kcal Feasability": 2355.621313,
+        "upperBound": 2820.749850737085,
+        "lowerBound": 2068.549890540529
+      },
+      {
+        "valueX": "R_NEU",
+        "Kcal Feasability": 2585.436186,
+        "upperBound": 2980.92890836782,
+        "lowerBound": 2186.014532803068
+      },
+      {
+        "valueX": "R_NMC",
+        "Kcal Feasability": 2582.739581,
+        "upperBound": 2756.965921288065,
+        "lowerBound": 2021.7750089445808
+      },
+      {
+        "valueX": "R_OEU",
+        "Kcal Feasability": 2925.935464,
+        "upperBound": 2938.4249714797647,
+        "lowerBound": 2154.844979085161
+      },
+      {
+        "valueX": "R_SSA",
+        "Kcal Feasability": 2315.565033,
+        "upperBound": 2813.470011127845,
+        "lowerBound": 2063.211341493753
+      }
+    ],
+    "keys": [
+      "Kcal Feasability"
+    ],
+    "upperLower": true
+  },
+  {
+    "title": "Evolution of prevalence of undernourishment by country",
+    "description": "Food Security",
+    "axisY": "% of total population undernourished",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "COL"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "IND"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2000,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "COL"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "IND"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2005,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 29.26,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 19.79,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 19.02,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 16.04,
+        "location": "IND"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 12.809999999999999,
+        "location": "COL"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 12.32,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 8.05,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 6.94,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 6.9,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 6.79,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 3.9699999999999998,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 3.2799999999999994,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 3.27,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 3.12,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2010,
+        "Prevalence of undernourishment": 2.76,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 27.42,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 21.44,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 14.34,
+        "location": "IND"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 11.51,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 11.39,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 7.359999999999999,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 6.84,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 5.84,
+        "location": "COL"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 4.73,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 4.71,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 3.73,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2015,
+        "Prevalence of undernourishment": 3.4300000000000006,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 29.14,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 22.97,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 21.39,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 15.17,
+        "location": "IND"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 9.62,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 8.69,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 8.36,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 7.290000000000001,
+        "location": "COL"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 4.23,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 3.8699999999999997,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 3.49,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 3.46,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 3.1300000000000003,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2020,
+        "Prevalence of undernourishment": 2.72,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 22.78,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 21.92,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 15.36,
+        "location": "IND"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 14.74,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 9.08,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 9.04,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 7.6,
+        "location": "COL"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 5.92,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 4.83,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 4.5,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 4.05,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 3.82,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 3.4799999999999995,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 3.42,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2025,
+        "Prevalence of undernourishment": 2.85,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 22.52,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 22.12,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 15.340000000000002,
+        "location": "IND"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 12.68,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 9.85,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 9.17,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 7.919999999999999,
+        "location": "COL"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 7.449999999999999,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 6.5,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 5.99,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 5.67,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 4.53,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 4.11,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 4.06,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2030,
+        "Prevalence of undernourishment": 3.16,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 23.27,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 21.43,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 15.75,
+        "location": "IND"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 13.119999999999997,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 12.710000000000003,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 10.51,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 9.12,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 8.26,
+        "location": "COL"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 7.95,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 7.08,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 5.94,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 5.58,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 5.39,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 4.42,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2035,
+        "Prevalence of undernourishment": 3.42,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 24.02,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 21.61,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 20.65,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 16.12,
+        "location": "IND"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 12.65,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 11.03,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 11.01,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 8.94,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 8.79,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 8.54,
+        "location": "COL"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 7.1,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 7.04,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 4.71,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 4.65,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 3.6799999999999997,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2040,
+        "Prevalence of undernourishment": 2.75,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 28.050000000000004,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 24.59,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 20.62,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 16.38,
+        "location": "IND"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 15.7,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 12.5,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 11.51,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 10.86,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 9.81,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 9.32,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 8.78,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 8.76,
+        "location": "COL"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 4.85,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 3.9800000000000004,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 3.64,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 3.37,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2045,
+        "Prevalence of undernourishment": 3.2099999999999995,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.5,
+        "location": "USA"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 37.03,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 24.98,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 20.51,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 16.54,
+        "location": "IND"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 16.36,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 13.43,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 13.37,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 12.879999999999999,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 12.05,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 9.86,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 8.92,
+        "location": "COL"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 8.65,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 4.93,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 4.12,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 3.9699999999999998,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 3.6000000000000005,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 3.25,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2050,
+        "Prevalence of undernourishment": 2.81,
+        "location": "CAN"
+      }
+    ],
+    "keys": [
+      "Prevalence of undernourishment"
+    ],
+    "byCountry": true,
+    "withMarker": {
+      "value": 5
+    },
+    "withUnder": true
+  },
+  {
+    "title": "Evolution of daily calories intake per capita by country",
+    "description": "The average daily intake of calories per capita in 2030, based on the 2020 baseline scenario.",
+    "axisY": "kcal / cap / day",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2856.257232,
+        "lowerBound": 2058.102299733678,
+        "upperBound": 2806.5031360004696,
+        "location": "ARG",
+        "historical": 2872.559752
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2297.809705,
+        "lowerBound": 2154.7893077095,
+        "upperBound": 2938.3490559675,
+        "location": "AUS",
+        "historical": 2308.907387
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2588.422012,
+        "lowerBound": 2074.6259115355842,
+        "upperBound": 2829.0353339121602,
+        "location": "BRA",
+        "historical": 2591.256723
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2720.957013,
+        "lowerBound": 2169.812238685157,
+        "upperBound": 2958.834870934305,
+        "location": "CAN",
+        "historical": 2737.102471
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2406.556277,
+        "lowerBound": 2140.091669816232,
+        "upperBound": 2918.30682247668,
+        "location": "CHN",
+        "historical": 2410.832403
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2006.597472,
+        "lowerBound": 2000.9565108484271,
+        "upperBound": 2728.577060247855,
+        "location": "COL",
+        "historical": 2025.992893
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2877.953816,
+        "lowerBound": 2190.593768430892,
+        "upperBound": 2987.1733205875803,
+        "location": "DEU",
+        "historical": 2907.786827
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2801.464025,
+        "lowerBound": 2199.13855631899,
+        "upperBound": 2998.8253040713503,
+        "location": "DNK",
+        "historical": 2811.698437
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 1681.417955,
+        "lowerBound": 1804.5846136466612,
+        "upperBound": 2460.797200427265,
+        "location": "ETH",
+        "historical": 1888.435071
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2689.625388,
+        "lowerBound": 2182.329254151046,
+        "upperBound": 2975.9035283877897,
+        "location": "FIN",
+        "historical": 2703.917642
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2928.365326,
+        "lowerBound": 2142.890746229079,
+        "upperBound": 2922.123744857835,
+        "location": "GBR",
+        "historical": 2934.263704
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2824.101766,
+        "lowerBound": 2196.514495804431,
+        "upperBound": 2995.247039733315,
+        "location": "GRC",
+        "historical": 2841.323506
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 1953.899561,
+        "lowerBound": 1958.587570710188,
+        "upperBound": 2670.80123278662,
+        "location": "IDN",
+        "historical": 1976.252281
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2136.549919,
+        "lowerBound": 1931.869188407356,
+        "upperBound": 2634.3670751009404,
+        "location": "IND",
+        "historical": 2140.296781
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 1928.73444,
+        "lowerBound": 1977.5519876420221,
+        "upperBound": 2696.66180133003,
+        "location": "MEX",
+        "historical": 1926.573671
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2952.439533,
+        "lowerBound": 2169.316974626593,
+        "upperBound": 2958.1595108544448,
+        "location": "NOR",
+        "historical": 2897.670138
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2108.676933,
+        "lowerBound": 1855.7426003832538,
+        "upperBound": 2530.55809143171,
+        "location": "NPL",
+        "historical": 2095.319285
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2299.147709,
+        "lowerBound": 2043.463406037229,
+        "upperBound": 2786.541008232585,
+        "location": "R_ASP",
+        "historical": 2297.095276
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2024.923089,
+        "lowerBound": 2008.126619355208,
+        "upperBound": 2738.35448093892,
+        "location": "R_CSA",
+        "historical": 2024.279382
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2390.35922,
+        "lowerBound": 1950.581624098602,
+        "upperBound": 2659.8840328617302,
+        "location": "R_NMC",
+        "historical": 2392.317541
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2459.151711,
+        "lowerBound": 2174.879937629069,
+        "upperBound": 2965.745369494185,
+        "location": "R_NEU",
+        "historical": 2500.467983
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2910.001356,
+        "lowerBound": 2164.459618049487,
+        "upperBound": 2951.535842794755,
+        "location": "R_OEU",
+        "historical": 2921.184222
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2102.686218,
+        "lowerBound": 2063.009954237606,
+        "upperBound": 2813.1953921421896,
+        "location": "R_SSA",
+        "historical": 2106.999249
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2754.824368,
+        "lowerBound": 2152.1572815477352,
+        "upperBound": 2934.759929383275,
+        "location": "RUS",
+        "historical": 2792.582457
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 1655.236861,
+        "lowerBound": 1799.271217579055,
+        "upperBound": 2453.551660335075,
+        "location": "RWA",
+        "historical": 1677.680767
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2412.817433,
+        "lowerBound": 2178.940181706574,
+        "upperBound": 2971.28206596351,
+        "location": "SWE",
+        "historical": 2656.557684
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 3271.178102,
+        "lowerBound": 2058.4411991199318,
+        "upperBound": 2806.96527152718,
+        "location": "TUR",
+        "historical": 3278.088981
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2903.823834,
+        "lowerBound": 2132.645368269383,
+        "upperBound": 2908.1527749127954,
+        "location": "USA",
+        "historical": 2912.382004
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2714.690227,
+        "lowerBound": 2069.213362104064,
+        "upperBound": 2821.6545846873596,
+        "location": "ARG",
+        "historical": 2731.6537
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2418.780749,
+        "lowerBound": 2160.6509135417577,
+        "upperBound": 2946.3421548296697,
+        "location": "AUS",
+        "historical": 2429.232962
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2773.63484,
+        "lowerBound": 2096.0458035880442,
+        "upperBound": 2858.24427762006,
+        "location": "BRA",
+        "historical": 2776.198305
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2692.187747,
+        "lowerBound": 2180.463343443902,
+        "upperBound": 2973.35910469623,
+        "location": "CAN",
+        "historical": 2705.337478
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2472.972002,
+        "lowerBound": 2163.821570508675,
+        "upperBound": 2950.6657779663747,
+        "location": "CHN",
+        "historical": 2478.686629
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2012.008782,
+        "lowerBound": 2023.063204240155,
+        "upperBound": 2758.7225512365753,
+        "location": "COL",
+        "historical": 2018.362559
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 3029.983223,
+        "lowerBound": 2194.298520146986,
+        "upperBound": 2992.22525474589,
+        "location": "DEU",
+        "historical": 2998.004136
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2868.209007,
+        "lowerBound": 2197.082196274009,
+        "upperBound": 2996.021176737285,
+        "location": "DNK",
+        "historical": 2878.96904
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 1853.066764,
+        "lowerBound": 1816.88143583023,
+        "upperBound": 2477.56559431395,
+        "location": "ETH",
+        "historical": 2067.26662
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2707.771276,
+        "lowerBound": 2186.1053558454882,
+        "upperBound": 2981.05275797112,
+        "location": "FIN",
+        "historical": 2721.944775
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2952.271955,
+        "lowerBound": 2151.232419039935,
+        "upperBound": 2933.4987532362748,
+        "location": "GBR",
+        "historical": 2962.054481
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2800.248273,
+        "lowerBound": 2196.373627546714,
+        "upperBound": 2995.05494665461,
+        "location": "GRC",
+        "historical": 2816.953764
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2017.915243,
+        "lowerBound": 1973.459437077491,
+        "upperBound": 2691.0810505602153,
+        "location": "IDN",
+        "historical": 2023.306094
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2035.583081,
+        "lowerBound": 1948.562758885314,
+        "upperBound": 2657.1310348436105,
+        "location": "IND",
+        "historical": 2042.285254
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2886.008572,
+        "lowerBound": 1994.227915369492,
+        "upperBound": 2719.40170277658,
+        "location": "MEX",
+        "historical": 2892.336342
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 3090.460141,
+        "lowerBound": 2175.071547124025,
+        "upperBound": 2966.0066551691248,
+        "location": "NOR",
+        "historical": 3009.669141
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2246.42091,
+        "lowerBound": 1873.713814018992,
+        "upperBound": 2555.0642918440803,
+        "location": "NPL",
+        "historical": 2254.522227
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2379.676357,
+        "lowerBound": 2048.616108666666,
+        "upperBound": 2793.56742090909,
+        "location": "R_ASP",
+        "historical": 2379.003349
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2091.006008,
+        "lowerBound": 2019.213598404013,
+        "upperBound": 2753.4730887327455,
+        "location": "R_CSA",
+        "historical": 2090.957366
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2402.407907,
+        "lowerBound": 1974.827720704773,
+        "upperBound": 2692.9468918701446,
+        "location": "R_NMC",
+        "historical": 2401.075935
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2604.258311,
+        "lowerBound": 2191.8313493232313,
+        "upperBound": 2988.860930895315,
+        "location": "R_NEU",
+        "historical": 2658.286748
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2913.643407,
+        "lowerBound": 2168.350268532184,
+        "upperBound": 2956.8412752711597,
+        "location": "R_OEU",
+        "historical": 2923.383198
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2190.916517,
+        "lowerBound": 2066.666182804861,
+        "upperBound": 2818.181158370265,
+        "location": "R_SSA",
+        "historical": 2191.269259
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2988.955273,
+        "lowerBound": 2169.652508185811,
+        "upperBound": 2958.617056617015,
+        "location": "RUS",
+        "historical": 3027.098937
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 1822.881304,
+        "lowerBound": 1814.677894102733,
+        "upperBound": 2474.560764685545,
+        "location": "RWA",
+        "historical": 1854.04057
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2395.61971,
+        "lowerBound": 2182.219321009442,
+        "upperBound": 2975.75361955833,
+        "location": "SWE",
+        "historical": 2652.57697
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 3231.38671,
+        "lowerBound": 2080.9920654485486,
+        "upperBound": 2837.7164528843846,
+        "location": "TUR",
+        "historical": 3239.426177
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 3016.553533,
+        "lowerBound": 2137.386759508836,
+        "upperBound": 2914.61830842114,
+        "location": "USA",
+        "historical": 2974.014253
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2610.308097,
+        "lowerBound": 2157.813623653512,
+        "upperBound": 2942.4731231638802,
+        "location": "AUS",
+        "historical": 2620.718998
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2857.889396,
+        "lowerBound": 2177.144978088058,
+        "upperBound": 2968.83406102917,
+        "location": "CAN",
+        "historical": 2823.876738
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2604.626644,
+        "lowerBound": 2165.568594724249,
+        "upperBound": 2953.0480837148853,
+        "location": "CHN",
+        "historical": 2610.346238
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 3012.657101,
+        "lowerBound": 2199.619331669617,
+        "upperBound": 2999.4809068222053,
+        "location": "DEU",
+        "historical": 3037.123143
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2828.643589,
+        "lowerBound": 2195.444865029636,
+        "upperBound": 2993.78845231314,
+        "location": "DNK",
+        "historical": 2854.270679
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2839.875174,
+        "lowerBound": 2145.690506363756,
+        "upperBound": 2925.9415995869404,
+        "location": "GBR",
+        "historical": 2851.910346
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2752.168447,
+        "lowerBound": 2185.2849869674887,
+        "upperBound": 2979.934073137485,
+        "location": "GRC",
+        "historical": 2771.576983
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2857.815115,
+        "lowerBound": 2177.116515477629,
+        "upperBound": 2968.7952483785853,
+        "location": "NOR",
+        "historical": 2780.864791
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2634.673107,
+        "lowerBound": 2188.3457839527127,
+        "upperBound": 2984.1078872082453,
+        "location": "R_NEU",
+        "historical": 2701.934751
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2905.685049,
+        "lowerBound": 2161.864097269591,
+        "upperBound": 2947.9964962767144,
+        "location": "R_OEU",
+        "historical": 2918.099234
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 3040.011208,
+        "lowerBound": 2159.3631219397053,
+        "upperBound": 2944.586075372325,
+        "location": "RUS",
+        "historical": 3080.962685
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 3357.388531,
+        "lowerBound": 2096.385753610467,
+        "upperBound": 2858.7078458324554,
+        "location": "TUR",
+        "historical": 3364.873004
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2907.595961,
+        "lowerBound": 2137.20269504423,
+        "upperBound": 2914.36731142395,
+        "location": "USA",
+        "historical": 2909.408575
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 1869.409867,
+        "lowerBound": 1825.773815526782,
+        "upperBound": 2489.6915666274303,
+        "location": "RWA",
+        "historical": 1903.506262
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2293.282197,
+        "lowerBound": 2060.240110832508,
+        "upperBound": 2809.41833295342,
+        "location": "R_SSA",
+        "historical": 2287.373791
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2382.208826,
+        "lowerBound": 1837.176353264791,
+        "upperBound": 2505.2404817247148,
+        "location": "ETH",
+        "historical": 2409.247593
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2200.775051,
+        "lowerBound": 1965.6340800457792,
+        "upperBound": 2680.4101091533353,
+        "location": "IND",
+        "historical": 2210.08626
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 1986.251631,
+        "lowerBound": 2046.289150522463,
+        "upperBound": 2790.3942961669945,
+        "location": "COL",
+        "historical": 2043.065688
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2393.000522,
+        "lowerBound": 1981.592163118403,
+        "upperBound": 2702.171131525095,
+        "location": "IDN",
+        "historical": 2422.635944
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2254.991669,
+        "lowerBound": 2027.461929530741,
+        "upperBound": 2764.720812996465,
+        "location": "R_CSA",
+        "historical": 2256.848562
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2488.419811,
+        "lowerBound": 2048.885649265048,
+        "upperBound": 2793.93497627052,
+        "location": "R_ASP",
+        "historical": 2489.94268
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2550.411434,
+        "lowerBound": 1988.7825801124159,
+        "upperBound": 2711.97624560784,
+        "location": "R_NMC",
+        "historical": 2554.215208
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2444.722244,
+        "lowerBound": 1894.714873544218,
+        "upperBound": 2583.7021002875704,
+        "location": "NPL",
+        "historical": 2440.762801
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2422.356565,
+        "lowerBound": 2175.01631804688,
+        "upperBound": 2965.9313427912,
+        "location": "SWE",
+        "historical": 2693.562482
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2717.531961,
+        "lowerBound": 2077.109021302579,
+        "upperBound": 2832.421392685335,
+        "location": "ARG",
+        "historical": 2729.333937
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2762.281786,
+        "lowerBound": 2010.9773372940354,
+        "upperBound": 2742.241823582775,
+        "location": "MEX",
+        "historical": 2789.244301
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2953.915426,
+        "lowerBound": 2113.993417028779,
+        "upperBound": 2882.718295948335,
+        "location": "BRA",
+        "historical": 2956.714651
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2443.275248,
+        "lowerBound": 2177.263756629148,
+        "upperBound": 2968.9960317670198,
+        "location": "FIN",
+        "historical": 2630.678101
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2870.261966,
+        "lowerBound": 2081.003175014412,
+        "upperBound": 2837.7316022923796,
+        "location": "ARG",
+        "historical": 2877.880119
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2600.708991,
+        "lowerBound": 2152.721522673832,
+        "upperBound": 2935.52934910068,
+        "location": "AUS",
+        "historical": 2591.775856
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2949.279762,
+        "lowerBound": 2125.84135933268,
+        "upperBound": 2898.8745809082,
+        "location": "BRA",
+        "historical": 2951.965394
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2903.106464,
+        "lowerBound": 2170.775230049668,
+        "upperBound": 2960.14804097682,
+        "location": "CAN",
+        "historical": 2828.931472
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2765.740767,
+        "lowerBound": 2154.934325779477,
+        "upperBound": 2938.5468078811055,
+        "location": "CHN",
+        "historical": 2766.271476
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2996.04341,
+        "lowerBound": 2196.783909470579,
+        "upperBound": 2995.6144220053347,
+        "location": "DEU",
+        "historical": 3017.23563
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2887.842122,
+        "lowerBound": 2203.039791711737,
+        "upperBound": 3004.1451705160052,
+        "location": "DNK",
+        "historical": 2897.374549
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2668.198145,
+        "lowerBound": 2171.736653040878,
+        "upperBound": 2961.45907232847,
+        "location": "FIN",
+        "historical": 2702.546379
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2850.406893,
+        "lowerBound": 2141.358973796966,
+        "upperBound": 2920.03496426859,
+        "location": "GBR",
+        "historical": 2864.415565
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2721.563463,
+        "lowerBound": 2181.3149739038568,
+        "upperBound": 2974.520418959805,
+        "location": "GRC",
+        "historical": 2737.983781
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2822.469898,
+        "lowerBound": 2182.3839502079672,
+        "upperBound": 2975.9781139199554,
+        "location": "NOR",
+        "historical": 2725.232966
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2637.331109,
+        "lowerBound": 2177.973109608912,
+        "upperBound": 2969.9633312848805,
+        "location": "R_NEU",
+        "historical": 2614.753175
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2891.731559,
+        "lowerBound": 2157.8648111430193,
+        "upperBound": 2942.542924285935,
+        "location": "R_OEU",
+        "historical": 2899.742004
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 3022.519811,
+        "lowerBound": 2136.483474435673,
+        "upperBound": 2913.3865560486447,
+        "location": "RUS",
+        "historical": 3069.064739
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 3446.331094,
+        "lowerBound": 2106.697960477517,
+        "upperBound": 2872.769946105705,
+        "location": "TUR",
+        "historical": 3452.957153
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2929.556549,
+        "lowerBound": 2137.0605744963973,
+        "upperBound": 2914.173510676905,
+        "location": "USA",
+        "historical": 2935.15857
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 1918.843036,
+        "lowerBound": 1843.396992131134,
+        "upperBound": 2513.72317108791,
+        "location": "RWA",
+        "historical": 1940.894642
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2253.789294,
+        "lowerBound": 2054.937294180738,
+        "upperBound": 2802.1872193373697,
+        "location": "R_SSA",
+        "historical": 2245.324189
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2264.677898,
+        "lowerBound": 1984.883442501542,
+        "upperBound": 2706.65923977483,
+        "location": "IND",
+        "historical": 2275.752706
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2435.510291,
+        "lowerBound": 1988.723082603103,
+        "upperBound": 2711.895112640595,
+        "location": "IDN",
+        "historical": 2541.491858
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2618.424015,
+        "lowerBound": 1864.890252791588,
+        "upperBound": 2543.03216289762,
+        "location": "ETH",
+        "historical": 2642.411864
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2303.80587,
+        "lowerBound": 2031.7530161807779,
+        "upperBound": 2770.57229479197,
+        "location": "R_CSA",
+        "historical": 2305.526533
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2585.819282,
+        "lowerBound": 1987.297502587463,
+        "upperBound": 2709.951139891995,
+        "location": "R_NMC",
+        "historical": 2582.425437
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2206.833702,
+        "lowerBound": 2062.939013908443,
+        "upperBound": 2813.0986553296952,
+        "location": "COL",
+        "historical": 2261.582766
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2582.650113,
+        "lowerBound": 2048.966778361998,
+        "upperBound": 2794.04560685727,
+        "location": "R_ASP",
+        "historical": 2583.441607
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2575.102161,
+        "lowerBound": 1907.818018916953,
+        "upperBound": 2601.570025795845,
+        "location": "NPL",
+        "historical": 2594.037553
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2446.872449,
+        "lowerBound": 2169.779594484161,
+        "upperBound": 2958.790356114765,
+        "location": "SWE",
+        "historical": 2724.817985
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2775.318452,
+        "lowerBound": 2027.296749260728,
+        "upperBound": 2764.4955671737202,
+        "location": "MEX",
+        "historical": 2814.358535
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2546.406121,
+        "lowerBound": 2154.411403024771,
+        "upperBound": 2937.833731397415,
+        "location": "AUS",
+        "historical": 2552.404805
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3117.959959,
+        "lowerBound": 2168.196417929487,
+        "upperBound": 2956.6314789947555,
+        "location": "CAN",
+        "historical": 2970.961035
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2820.903899,
+        "lowerBound": 2156.182574041672,
+        "upperBound": 2940.24896460228,
+        "location": "CHN",
+        "historical": 2815.910688
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3098.077237,
+        "lowerBound": 2183.9978385934282,
+        "upperBound": 2978.1788708092204,
+        "location": "DEU",
+        "historical": 3127.236156
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3027.11313,
+        "lowerBound": 2203.120580393128,
+        "upperBound": 3004.25533689972,
+        "location": "DNK",
+        "historical": 3043.846673
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2734.030781,
+        "lowerBound": 2178.20711205196,
+        "upperBound": 2970.2824255254004,
+        "location": "FIN",
+        "historical": 2783.448444
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2828.013902,
+        "lowerBound": 2142.771326011404,
+        "upperBound": 2921.96089910646,
+        "location": "GBR",
+        "historical": 2844.944384
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2717.221171,
+        "lowerBound": 2180.142422952516,
+        "upperBound": 2972.92148584434,
+        "location": "GRC",
+        "historical": 2744.878427
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2802.361119,
+        "lowerBound": 2043.8110283525,
+        "upperBound": 2787.0150386625,
+        "location": "MEX",
+        "historical": 2903.128775
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2944.419988,
+        "lowerBound": 2187.446269872963,
+        "upperBound": 2982.881277099495,
+        "location": "NOR",
+        "historical": 2858.092866
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3050.160552,
+        "lowerBound": 2157.1480767936546,
+        "upperBound": 2941.565559264075,
+        "location": "R_OEU",
+        "historical": 3066.441705
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2988.658233,
+        "lowerBound": 2128.870778919654,
+        "upperBound": 2903.0056076177098,
+        "location": "RUS",
+        "historical": 3032.43829
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3590.233824,
+        "lowerBound": 2110.263752457971,
+        "upperBound": 2877.632389715415,
+        "location": "TUR",
+        "historical": 3586.631917
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3065.841594,
+        "lowerBound": 2138.326663069355,
+        "upperBound": 2915.899995094575,
+        "location": "USA",
+        "historical": 3076.599587
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 1941.953868,
+        "lowerBound": 1860.743058417727,
+        "upperBound": 2537.376897842355,
+        "location": "RWA",
+        "historical": 1978.712961
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2281.754697,
+        "lowerBound": 2054.781771473332,
+        "upperBound": 2801.97514291818,
+        "location": "R_SSA",
+        "historical": 2278.516061
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2634.792072,
+        "lowerBound": 1882.920833769844,
+        "upperBound": 2567.61931877706,
+        "location": "ETH",
+        "historical": 2664.200865
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2373.906867,
+        "lowerBound": 1998.818873791498,
+        "upperBound": 2725.6621006247697,
+        "location": "IND",
+        "historical": 2386.375465
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2508.397336,
+        "lowerBound": 1999.668075207231,
+        "upperBound": 2726.8201025553153,
+        "location": "IDN",
+        "historical": 2716.947195
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2328.343358,
+        "lowerBound": 2042.7597342563618,
+        "upperBound": 2785.5814558041297,
+        "location": "R_CSA",
+        "historical": 2330.40645
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2618.61159,
+        "lowerBound": 1992.219732150351,
+        "upperBound": 2716.663271114115,
+        "location": "R_NMC",
+        "historical": 2620.738685
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2340.225627,
+        "lowerBound": 2074.805149239548,
+        "upperBound": 2829.2797489630198,
+        "location": "COL",
+        "historical": 2357.209424
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2740.959828,
+        "lowerBound": 1929.1183778512468,
+        "upperBound": 2630.6159697971552,
+        "location": "NPL",
+        "historical": 2751.447724
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2502.477903,
+        "lowerBound": 2170.055516466992,
+        "upperBound": 2959.16661336408,
+        "location": "SWE",
+        "historical": 2777.235217
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2940.865712,
+        "lowerBound": 2132.029636084062,
+        "upperBound": 2907.31314011463,
+        "location": "BRA",
+        "historical": 2945.569357
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2676.026525,
+        "lowerBound": 2050.50404233587,
+        "upperBound": 2796.14187591255,
+        "location": "R_ASP",
+        "historical": 2674.719861
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2961.161012,
+        "lowerBound": 2092.026890335338,
+        "upperBound": 2852.7639413663696,
+        "location": "ARG",
+        "historical": 2972.556997
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2594.957792,
+        "lowerBound": 2177.457604526809,
+        "upperBound": 2969.260369809285,
+        "location": "R_NEU",
+        "historical": 2655.45628
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2532.634086,
+        "lowerBound": 2157.970060736105,
+        "upperBound": 2942.686446458325,
+        "location": "AUS",
+        "historical": 2538.50006
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2946.387994,
+        "lowerBound": 2165.368809559318,
+        "upperBound": 2952.77564939907,
+        "location": "CAN",
+        "historical": 2970.961035
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2869.194966,
+        "lowerBound": 2173.761750530975,
+        "upperBound": 2964.220568905875,
+        "location": "CHN",
+        "historical": 2869.325878
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2911.894581,
+        "lowerBound": 2174.417605654426,
+        "upperBound": 2965.11491680149,
+        "location": "DEU",
+        "historical": 3127.236156
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 3024.153279,
+        "lowerBound": 2197.2654357954957,
+        "upperBound": 2996.2710488120397,
+        "location": "DNK",
+        "historical": 3043.846673
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2783.096401,
+        "lowerBound": 2183.249795399244,
+        "upperBound": 2977.1588119080598,
+        "location": "FIN",
+        "historical": 2849.014341
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2781.562498,
+        "lowerBound": 2148.690734592413,
+        "upperBound": 2930.032819898745,
+        "location": "GBR",
+        "historical": 2799.555849
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2708.898852,
+        "lowerBound": 2183.429962257566,
+        "upperBound": 2977.40449398759,
+        "location": "GRC",
+        "historical": 2744.878427
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2942.742104,
+        "lowerBound": 2192.081212140028,
+        "upperBound": 2989.20165291822,
+        "location": "NOR",
+        "historical": 2858.092866
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2987.55558,
+        "lowerBound": 2157.888368895325,
+        "upperBound": 2942.5750484936248,
+        "location": "R_OEU",
+        "historical": 3004.09223
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2988.192561,
+        "lowerBound": 2136.7424922549862,
+        "upperBound": 2913.7397621658897,
+        "location": "RUS",
+        "historical": 3032.43829
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 3474.899191,
+        "lowerBound": 2120.044074025229,
+        "upperBound": 2890.969191852585,
+        "location": "TUR",
+        "historical": 3493.67593
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2988.210558,
+        "lowerBound": 2140.63402855577,
+        "upperBound": 2919.0464025760502,
+        "location": "USA",
+        "historical": 3076.599587
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2293.513327,
+        "lowerBound": 2059.734966493281,
+        "upperBound": 2808.7294997635645,
+        "location": "R_SSA",
+        "historical": 2300.387046
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2627.738035,
+        "lowerBound": 1895.9057165308152,
+        "upperBound": 2585.325977087475,
+        "location": "ETH",
+        "historical": 2659.097213
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2370.801681,
+        "lowerBound": 2009.456122331108,
+        "upperBound": 2740.1674395424197,
+        "location": "IND",
+        "historical": 2393.910801
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2414.970948,
+        "lowerBound": 1878.482546300877,
+        "upperBound": 2561.5671085921053,
+        "location": "RWA",
+        "historical": 2445.859536
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2599.636534,
+        "lowerBound": 2006.3715926399748,
+        "upperBound": 2735.9612626908747,
+        "location": "R_NMC",
+        "historical": 2603.702766
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2341.314095,
+        "lowerBound": 2058.796622573537,
+        "upperBound": 2807.449939873005,
+        "location": "R_CSA",
+        "historical": 2343.922042
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2345.149419,
+        "lowerBound": 2078.521511789987,
+        "upperBound": 2834.347516077255,
+        "location": "COL",
+        "historical": 2362.422611
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2709.542799,
+        "lowerBound": 2009.439759767165,
+        "upperBound": 2740.1451269552254,
+        "location": "IDN",
+        "historical": 2716.947195
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2689.172215,
+        "lowerBound": 1947.7996483985492,
+        "upperBound": 2656.090429634385,
+        "location": "NPL",
+        "historical": 2718.667724
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2617.78553,
+        "lowerBound": 2053.493665641297,
+        "upperBound": 2800.2186349654053,
+        "location": "R_ASP",
+        "historical": 2620.433218
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2527.763385,
+        "lowerBound": 2175.027516460205,
+        "upperBound": 2965.946613354825,
+        "location": "SWE",
+        "historical": 2791.815195
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2939.093556,
+        "lowerBound": 2137.495160129527,
+        "upperBound": 2914.766127449355,
+        "location": "BRA",
+        "historical": 2945.569357
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2945.904877,
+        "lowerBound": 2108.035071699029,
+        "upperBound": 2874.593279589585,
+        "location": "ARG",
+        "historical": 2972.556997
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2674.571225,
+        "lowerBound": 2059.656252253611,
+        "upperBound": 2808.6221621640148,
+        "location": "MEX",
+        "historical": 2813.169544
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2594.477871,
+        "lowerBound": 2180.232648211783,
+        "upperBound": 2973.044520288795,
+        "location": "R_NEU",
+        "historical": 2655.45628
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2505.250774,
+        "lowerBound": 2160.077163175173,
+        "upperBound": 2945.5597679661446,
+        "location": "AUS",
+        "historical": 2510.69057
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2882.748367,
+        "lowerBound": 2163.371385842766,
+        "upperBound": 2950.05188978559,
+        "location": "CAN",
+        "historical": 2906.596274
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2921.962135,
+        "lowerBound": 2176.487879853793,
+        "upperBound": 2967.9380179824448,
+        "location": "CHN",
+        "historical": 2922.741068
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2899.871125,
+        "lowerBound": 2168.8304437180586,
+        "upperBound": 2957.496059615535,
+        "location": "DEU",
+        "historical": 3043.829133
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2929.021239,
+        "lowerBound": 2189.4871892698093,
+        "upperBound": 2985.664349004285,
+        "location": "DNK",
+        "historical": 2993.553165
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2834.87356,
+        "lowerBound": 2184.505392113297,
+        "upperBound": 2978.870989245405,
+        "location": "FIN",
+        "historical": 2914.580237
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2737.173306,
+        "lowerBound": 2150.795435839171,
+        "upperBound": 2932.902867053415,
+        "location": "GBR",
+        "historical": 2754.167315
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2620.436475,
+        "lowerBound": 2180.438914160804,
+        "upperBound": 2973.32579203746,
+        "location": "GRC",
+        "historical": 2653.232025
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2933.491491,
+        "lowerBound": 2189.865974421169,
+        "upperBound": 2986.180874210685,
+        "location": "NOR",
+        "historical": 2858.092866
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2925.935464,
+        "lowerBound": 2154.844979085161,
+        "upperBound": 2938.4249714797647,
+        "location": "R_OEU",
+        "historical": 2941.742755
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2988.093715,
+        "lowerBound": 2147.333810146041,
+        "upperBound": 2928.1824683809655,
+        "location": "RUS",
+        "historical": 3032.43829
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 3373.056632,
+        "lowerBound": 2128.058718048846,
+        "upperBound": 2901.8982518847897,
+        "location": "TUR",
+        "historical": 3400.719944
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2991.352205,
+        "lowerBound": 2139.766369826019,
+        "upperBound": 2917.863231580935,
+        "location": "USA",
+        "historical": 3004.332822
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2623.226928,
+        "lowerBound": 1912.354367642422,
+        "upperBound": 2607.75595587603,
+        "location": "ETH",
+        "historical": 2653.993561
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2315.565033,
+        "lowerBound": 2063.211341493753,
+        "upperBound": 2813.470011127845,
+        "location": "R_SSA",
+        "historical": 2322.258031
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2370.954651,
+        "lowerBound": 2017.3636574083298,
+        "upperBound": 2750.95044192045,
+        "location": "IND",
+        "historical": 2401.446137
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2539.456977,
+        "lowerBound": 1896.2665091214571,
+        "upperBound": 2585.817966983805,
+        "location": "RWA",
+        "historical": 2568.036333
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2582.739581,
+        "lowerBound": 2021.7750089445808,
+        "upperBound": 2756.965921288065,
+        "location": "R_NMC",
+        "historical": 2586.666846
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2355.621313,
+        "lowerBound": 2068.549890540529,
+        "upperBound": 2820.749850737085,
+        "location": "R_CSA",
+        "historical": 2357.437633
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2350.741389,
+        "lowerBound": 2082.821682538971,
+        "upperBound": 2840.2113852804155,
+        "location": "COL",
+        "historical": 2367.635797
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2631.115217,
+        "lowerBound": 2015.798087790047,
+        "upperBound": 2748.815574259155,
+        "location": "IDN",
+        "historical": 2716.947195
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2722.986955,
+        "lowerBound": 2117.2197533300114,
+        "upperBound": 2887.117845450015,
+        "location": "ARG",
+        "historical": 2972.556997
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2640.385364,
+        "lowerBound": 1962.534729453991,
+        "upperBound": 2676.1837219827153,
+        "location": "NPL",
+        "historical": 2669.612143
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2563.23837,
+        "lowerBound": 2053.648105860582,
+        "upperBound": 2800.42923526443,
+        "location": "R_ASP",
+        "historical": 2566.146574
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2905.300439,
+        "lowerBound": 2140.432371937299,
+        "upperBound": 2918.7714162781353,
+        "location": "BRA",
+        "historical": 2910.437841
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2563.863847,
+        "lowerBound": 2178.508894683495,
+        "upperBound": 2970.693947295675,
+        "location": "SWE",
+        "historical": 2806.395173
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2634.327716,
+        "lowerBound": 2068.042274337776,
+        "upperBound": 2820.0576468242402,
+        "location": "MEX",
+        "historical": 2723.210314
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2585.436186,
+        "lowerBound": 2186.014532803068,
+        "upperBound": 2980.92890836782,
+        "location": "R_NEU",
+        "historical": 2646.284317
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2477.868626,
+        "lowerBound": 2161.279065536118,
+        "upperBound": 2947.19872573107,
+        "location": "AUS",
+        "historical": 2482.881081
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2789.497611,
+        "lowerBound": 2162.334615011494,
+        "upperBound": 2948.63811137931,
+        "location": "CAN",
+        "historical": 2812.294414
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2974.548225,
+        "lowerBound": 2171.390129175718,
+        "upperBound": 2960.98653978507,
+        "location": "CHN",
+        "historical": 2976.156258
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2882.062122,
+        "lowerBound": 2171.498753354645,
+        "upperBound": 2961.1346636654253,
+        "location": "DEU",
+        "historical": 2921.628147
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2829.77375,
+        "lowerBound": 2186.9352816490077,
+        "upperBound": 2982.1844749759202,
+        "location": "DNK",
+        "historical": 2919.867327
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2886.766065,
+        "lowerBound": 2184.000007654674,
+        "upperBound": 2978.18182862001,
+        "location": "FIN",
+        "historical": 2980.146134
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2692.63565,
+        "lowerBound": 2151.101831413084,
+        "upperBound": 2933.32067919966,
+        "location": "GBR",
+        "historical": 2708.77878
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2490.503632,
+        "lowerBound": 2172.56769649337,
+        "upperBound": 2962.59231340005,
+        "location": "GRC",
+        "historical": 2518.959389
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2928.775762,
+        "lowerBound": 2185.7210157681247,
+        "upperBound": 2980.528657865625,
+        "location": "NOR",
+        "historical": 2858.092866
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2864.28777,
+        "lowerBound": 2149.614013880366,
+        "upperBound": 2931.29183710959,
+        "location": "R_OEU",
+        "historical": 2879.393279
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2987.948646,
+        "lowerBound": 2149.527135132168,
+        "upperBound": 2931.17336608932,
+        "location": "RUS",
+        "historical": 3032.43829
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 3270.872374,
+        "lowerBound": 2133.785841751179,
+        "upperBound": 2909.707966024335,
+        "location": "TUR",
+        "historical": 3307.763957
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2884.475988,
+        "lowerBound": 2137.854407765747,
+        "upperBound": 2915.256010589655,
+        "location": "USA",
+        "historical": 2898.453609
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2618.717559,
+        "lowerBound": 1932.2244504000018,
+        "upperBound": 2634.85152327273,
+        "location": "ETH",
+        "historical": 2648.889908
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2337.659794,
+        "lowerBound": 2065.4055379014862,
+        "upperBound": 2816.46209713839,
+        "location": "R_SSA",
+        "historical": 2344.129015
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2370.9592,
+        "lowerBound": 2024.766416668886,
+        "upperBound": 2761.04511363939,
+        "location": "IND",
+        "historical": 2401.446137
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2409.603755,
+        "lowerBound": 2017.869432136558,
+        "upperBound": 2751.64013473167,
+        "location": "IDN",
+        "historical": 2716.947195
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2568.860649,
+        "lowerBound": 1913.8122549923082,
+        "upperBound": 2609.74398408042,
+        "location": "RWA",
+        "historical": 2596.783814
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2565.8417,
+        "lowerBound": 2031.866802379887,
+        "upperBound": 2770.7274577907547,
+        "location": "R_NMC",
+        "historical": 2569.630927
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2369.344659,
+        "lowerBound": 2071.73448272131,
+        "upperBound": 2825.0924764381502,
+        "location": "R_CSA",
+        "historical": 2370.953225
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2356.228682,
+        "lowerBound": 2087.392955346215,
+        "upperBound": 2846.4449391084754,
+        "location": "COL",
+        "historical": 2372.848984
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2568.831005,
+        "lowerBound": 1979.055604585521,
+        "upperBound": 2698.712188071165,
+        "location": "NPL",
+        "historical": 2597.740013
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2508.710296,
+        "lowerBound": 2052.698245023657,
+        "upperBound": 2799.133970486805,
+        "location": "R_ASP",
+        "historical": 2511.859931
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2763.799774,
+        "lowerBound": 2119.804293815505,
+        "upperBound": 2890.6422188393253,
+        "location": "ARG",
+        "historical": 2972.556997
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2855.029627,
+        "lowerBound": 2141.2337034808606,
+        "upperBound": 2919.864141110265,
+        "location": "BRA",
+        "historical": 2858.966084
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2548.638055,
+        "lowerBound": 2070.227523209087,
+        "upperBound": 2823.037531648755,
+        "location": "MEX",
+        "historical": 2633.251083
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2585.790411,
+        "lowerBound": 2180.38058303725,
+        "upperBound": 2973.24624959625,
+        "location": "SWE",
+        "historical": 2820.97515
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2571.984166,
+        "lowerBound": 2182.9742197109003,
+        "upperBound": 2976.7830268785,
+        "location": "R_NEU",
+        "historical": 2632.846325
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2450.488328,
+        "lowerBound": 2161.8709949166,
+        "upperBound": 2948.005902159,
+        "location": "AUS",
+        "historical": 2455.071591
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2666.636835,
+        "lowerBound": 2161.552905733793,
+        "upperBound": 2947.572144182445,
+        "location": "CAN",
+        "historical": 2688.055455
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 3026.955929,
+        "lowerBound": 2163.322619226879,
+        "upperBound": 2949.9853898548345,
+        "location": "CHN",
+        "historical": 3029.571449
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2744.075921,
+        "lowerBound": 2173.750286117366,
+        "upperBound": 2964.20493561459,
+        "location": "DEU",
+        "historical": 2760.633196
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2728.24443,
+        "lowerBound": 2189.7550755295383,
+        "upperBound": 2986.02964844937,
+        "location": "DNK",
+        "historical": 2822.78916
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2938.776798,
+        "lowerBound": 2179.9079171728317,
+        "upperBound": 2972.60170523568,
+        "location": "FIN",
+        "historical": 3045.71203
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2318.974325,
+        "lowerBound": 2161.735274183133,
+        "upperBound": 2947.820828431545,
+        "location": "GRC",
+        "historical": 2342.06052
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2926.3773,
+        "lowerBound": 2182.198223523956,
+        "upperBound": 2975.72485025994,
+        "location": "NOR",
+        "historical": 2858.092866
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2802.63808,
+        "lowerBound": 2143.4527202957993,
+        "upperBound": 2922.890073130635,
+        "location": "R_OEU",
+        "historical": 2817.043804
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2987.745789,
+        "lowerBound": 2141.174556580906,
+        "upperBound": 2919.7834862466902,
+        "location": "RUS",
+        "historical": 3032.43829
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 3168.612242,
+        "lowerBound": 2132.346558493888,
+        "upperBound": 2907.74530703712,
+        "location": "TUR",
+        "historical": 3214.807971
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2743.621116,
+        "lowerBound": 2136.3395809031867,
+        "upperBound": 2913.190337595255,
+        "location": "USA",
+        "historical": 2758.961947
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2614.209914,
+        "lowerBound": 1951.866773460703,
+        "upperBound": 2661.636509264595,
+        "location": "ETH",
+        "historical": 2643.786256
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2196.086909,
+        "lowerBound": 2017.8344258391219,
+        "upperBound": 2751.59239887153,
+        "location": "IDN",
+        "historical": 2716.947195
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2359.796792,
+        "lowerBound": 2065.23311914656,
+        "upperBound": 2816.2269806544,
+        "location": "R_SSA",
+        "historical": 2366
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2370.947653,
+        "lowerBound": 2031.435337240023,
+        "upperBound": 2770.139096236395,
+        "location": "IND",
+        "historical": 2401.446137
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2598.28735,
+        "lowerBound": 1928.56458796155,
+        "upperBound": 2629.86080176575,
+        "location": "RWA",
+        "historical": 2625.531296
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2548.942758,
+        "lowerBound": 2036.659001581776,
+        "upperBound": 2777.26227488424,
+        "location": "R_NMC",
+        "historical": 2552.595008
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2474.53241,
+        "lowerBound": 1992.9778934934109,
+        "upperBound": 2717.697127491015,
+        "location": "NPL",
+        "historical": 2503.051333
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2382.998978,
+        "lowerBound": 2070.452911094689,
+        "upperBound": 2823.3448787654847,
+        "location": "R_CSA",
+        "historical": 2384.468817
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2454.194709,
+        "lowerBound": 2051.865125147805,
+        "upperBound": 2797.9978979288253,
+        "location": "R_ASP",
+        "historical": 2457.573287
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2361.590963,
+        "lowerBound": 2089.288083434827,
+        "upperBound": 2849.029204683855,
+        "location": "COL",
+        "historical": 2378.062171
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2788.472576,
+        "lowerBound": 2139.138843041365,
+        "upperBound": 2917.007513238225,
+        "location": "BRA",
+        "historical": 2791.154088
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2462.914607,
+        "lowerBound": 2070.483022556311,
+        "upperBound": 2823.385939849515,
+        "location": "MEX",
+        "historical": 2543.291852
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2853.73727,
+        "lowerBound": 2118.055842384944,
+        "upperBound": 2888.2579668885596,
+        "location": "ARG",
+        "historical": 2972.556997
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2612.790471,
+        "lowerBound": 2179.506683724942,
+        "upperBound": 2972.05456871583,
+        "location": "SWE",
+        "historical": 2835.555128
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2554.261451,
+        "lowerBound": 2174.11550889115,
+        "upperBound": 2964.7029666697504,
+        "location": "R_NEU",
+        "historical": 2615.142303
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2648.154566,
+        "lowerBound": 2149.282110102259,
+        "upperBound": 2930.839241048535,
+        "location": "GBR",
+        "historical": 2663.390245
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2423.109743,
+        "lowerBound": 2159.177459030284,
+        "upperBound": 2944.3328986776596,
+        "location": "AUS",
+        "historical": 2427.262101
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2514.167156,
+        "lowerBound": 2160.279378745268,
+        "upperBound": 2945.8355164708196,
+        "location": "CAN",
+        "historical": 2533.879399
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 3079.184125,
+        "lowerBound": 2151.049114253402,
+        "upperBound": 2933.24879216373,
+        "location": "CHN",
+        "historical": 3082.986639
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2622.391099,
+        "lowerBound": 2195.922764383524,
+        "upperBound": 2994.44013325026,
+        "location": "DNK",
+        "historical": 2702.318664
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2990.931303,
+        "lowerBound": 2175.951259633371,
+        "upperBound": 2967.206263136415,
+        "location": "FIN",
+        "historical": 3111.277926
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2105.865847,
+        "lowerBound": 2154.4820757081707,
+        "upperBound": 2937.9301032384146,
+        "location": "GRC",
+        "historical": 2122.535417
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2919.108795,
+        "lowerBound": 2179.887088495248,
+        "upperBound": 2972.57330249352,
+        "location": "NOR",
+        "historical": 2858.092866
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2740.987152,
+        "lowerBound": 2138.381574111574,
+        "upperBound": 2915.9748737885097,
+        "location": "R_OEU",
+        "historical": 2754.694329
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2987.479897,
+        "lowerBound": 2126.41870256046,
+        "upperBound": 2899.6618671278998,
+        "location": "RUS",
+        "historical": 3032.43829
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 3066.324596,
+        "lowerBound": 2126.4069250238103,
+        "upperBound": 2899.64580685065,
+        "location": "TUR",
+        "historical": 3121.851984
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2568.796328,
+        "lowerBound": 2135.869121279091,
+        "upperBound": 2912.548801744215,
+        "location": "USA",
+        "historical": 2585.857837
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2075.986501,
+        "lowerBound": 2017.982908781466,
+        "upperBound": 2751.79487561109,
+        "location": "IDN",
+        "historical": 2716.947195
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2609.703981,
+        "lowerBound": 1967.2846188406509,
+        "upperBound": 2682.660843873615,
+        "location": "ETH",
+        "historical": 2638.682604
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2360.062627,
+        "lowerBound": 2062.506308615885,
+        "upperBound": 2812.5086026580248,
+        "location": "R_SSA",
+        "historical": 2366
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2370.935487,
+        "lowerBound": 2035.3754130505397,
+        "upperBound": 2775.5119268871,
+        "location": "IND",
+        "historical": 2401.446137
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2357.491768,
+        "lowerBound": 2001.538677675427,
+        "upperBound": 2729.370924102855,
+        "location": "NPL",
+        "historical": 2385.546104
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2627.732702,
+        "lowerBound": 1940.109039986678,
+        "upperBound": 2645.60323634547,
+        "location": "RWA",
+        "historical": 2654.278778
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2532.046293,
+        "lowerBound": 2039.477227601528,
+        "upperBound": 2781.10531036572,
+        "location": "R_NMC",
+        "historical": 2535.559089
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2399.731206,
+        "lowerBound": 2051.650783864044,
+        "upperBound": 2797.70561436006,
+        "location": "R_ASP",
+        "historical": 2403.286644
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2348.630951,
+        "lowerBound": 2071.453089574649,
+        "upperBound": 2824.7087585108848,
+        "location": "MEX",
+        "historical": 2423.346212
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2705.786584,
+        "lowerBound": 2135.4066752324898,
+        "upperBound": 2911.91819349885,
+        "location": "BRA",
+        "historical": 2707.001851
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2396.65885,
+        "lowerBound": 2070.167279826932,
+        "upperBound": 2822.95538158218,
+        "location": "R_CSA",
+        "historical": 2397.984408
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2366.850893,
+        "lowerBound": 2088.34437657076,
+        "upperBound": 2847.7423316874,
+        "location": "COL",
+        "historical": 2383.275358
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2597.956732,
+        "lowerBound": 2176.234440549279,
+        "upperBound": 2967.592418930835,
+        "location": "SWE",
+        "historical": 2850.135106
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2532.268663,
+        "lowerBound": 2162.7585865333253,
+        "upperBound": 2949.216254363625,
+        "location": "R_NEU",
+        "historical": 2593.172253
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2954.947107,
+        "lowerBound": 2117.337352233466,
+        "upperBound": 2887.27820759109,
+        "location": "ARG",
+        "historical": 2972.556997
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2603.75582,
+        "lowerBound": 2145.36235772595,
+        "upperBound": 2925.49412417175,
+        "location": "GBR",
+        "historical": 2618.001711
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2546.788286,
+        "lowerBound": 2172.0427579157563,
+        "upperBound": 2961.87648806694,
+        "location": "DEU",
+        "historical": 2560.844282
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2395.739612,
+        "lowerBound": 2155.706572817842,
+        "upperBound": 2939.59987202433,
+        "location": "AUS",
+        "historical": 2399.452611
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 3131.227858,
+        "lowerBound": 2137.6974172084297,
+        "upperBound": 2915.04193255695,
+        "location": "CHN",
+        "historical": 3136.401829
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2594.905411,
+        "lowerBound": 2198.7824351713552,
+        "upperBound": 2998.3396843245746,
+        "location": "DNK",
+        "historical": 2692.961732
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 3043.20585,
+        "lowerBound": 2174.966187235259,
+        "upperBound": 2965.862982593535,
+        "location": "FIN",
+        "historical": 3176.843823
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2089.516416,
+        "lowerBound": 2154.556821794564,
+        "upperBound": 2938.0320297198605,
+        "location": "GRC",
+        "historical": 2105.484924
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2913.768073,
+        "lowerBound": 2178.568497143621,
+        "upperBound": 2970.7752233776646,
+        "location": "NOR",
+        "historical": 2858.092866
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2679.333904,
+        "lowerBound": 2135.217639793425,
+        "upperBound": 2911.660417900125,
+        "location": "R_OEU",
+        "historical": 2692.344853
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2987.189428,
+        "lowerBound": 2113.607324039871,
+        "upperBound": 2882.191805508915,
+        "location": "RUS",
+        "historical": 3032.43829
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2963.73452,
+        "lowerBound": 2120.615412392356,
+        "upperBound": 2891.74828962594,
+        "location": "TUR",
+        "historical": 3028.895998
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2555.248517,
+        "lowerBound": 2136.481664708787,
+        "upperBound": 2913.3840882392547,
+        "location": "USA",
+        "historical": 2572.412857
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 1939.102945,
+        "lowerBound": 2020.185265653379,
+        "upperBound": 2754.7980895273354,
+        "location": "IDN",
+        "historical": 2716.947195
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2605.199746,
+        "lowerBound": 1978.794430831405,
+        "upperBound": 2698.3560420428253,
+        "location": "ETH",
+        "historical": 2633.578951
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2360.321783,
+        "lowerBound": 2058.3275340668038,
+        "upperBound": 2806.81027372746,
+        "location": "R_SSA",
+        "historical": 2366
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2370.897767,
+        "lowerBound": 2036.8271956843469,
+        "upperBound": 2777.4916304786548,
+        "location": "IND",
+        "historical": 2401.446137
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2348.509924,
+        "lowerBound": 2005.790943398,
+        "upperBound": 2735.16946827,
+        "location": "NPL",
+        "historical": 2376.419484
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2234.385272,
+        "lowerBound": 2072.1966733584823,
+        "upperBound": 2825.7227363979305,
+        "location": "MEX",
+        "historical": 2303.400571
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2345.283906,
+        "lowerBound": 2052.3272785739023,
+        "upperBound": 2798.6281071462304,
+        "location": "R_ASP",
+        "historical": 2349
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2627.97922,
+        "lowerBound": 1950.546716197409,
+        "upperBound": 2659.8364311782852,
+        "location": "RWA",
+        "historical": 2654.278778
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2515.147889,
+        "lowerBound": 2043.3522706154472,
+        "upperBound": 2786.3894599301548,
+        "location": "R_NMC",
+        "historical": 2518.52317
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2699.390617,
+        "lowerBound": 2131.253991283153,
+        "upperBound": 2906.255442658845,
+        "location": "BRA",
+        "historical": 2700.465754
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2371.960883,
+        "lowerBound": 2084.8497052644907,
+        "upperBound": 2842.976870815215,
+        "location": "COL",
+        "historical": 2388.488545
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2410.323306,
+        "lowerBound": 2070.24146189113,
+        "upperBound": 2823.05653894245,
+        "location": "R_CSA",
+        "historical": 2411.5
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2587.86615,
+        "lowerBound": 2171.934728376875,
+        "upperBound": 2961.729175059375,
+        "location": "SWE",
+        "historical": 2864.715084
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2559.304045,
+        "lowerBound": 2142.903415675682,
+        "upperBound": 2922.1410213759295,
+        "location": "GBR",
+        "historical": 2572.613176
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2530.564417,
+        "lowerBound": 2154.471350878902,
+        "upperBound": 2937.91547847123,
+        "location": "R_NEU",
+        "historical": 2591.465841
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2959.281744,
+        "lowerBound": 2117.09649654679,
+        "upperBound": 2886.94976801835,
+        "location": "ARG",
+        "historical": 2972.556997
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2531.483592,
+        "lowerBound": 2166.3912210594613,
+        "upperBound": 2954.169846899265,
+        "location": "DEU",
+        "historical": 2545.326696
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2502.331373,
+        "lowerBound": 2159.135572183733,
+        "upperBound": 2944.275780250545,
+        "location": "CAN",
+        "historical": 2521.904559
+      }
+    ],
+    "keys": [
+      "Kcal Feasability"
+    ],
+    "byCountry": true,
+    "upperLower": true,
+    "withHistorical": true
+  }
+]

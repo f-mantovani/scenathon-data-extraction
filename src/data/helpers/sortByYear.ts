@@ -15,6 +15,21 @@ export const sortByCountry = (array: any[]) => {
   });
 };
 
+export const sortByCountryKeys = (array: any[]) => {
+  return array.sort((a, b) => {
+    // If 'a' is in the endCountries set and 'b' is not, 'a' should come after 'b'
+    if (endCountries.has(a) && !endCountries.has(b)) {
+      return 1;
+    }
+    // If 'b' is in the endCountries set and 'a' is not, 'b' should come after 'a'
+    if (!endCountries.has(a) && endCountries.has(b)) {
+      return -1;
+    }
+    // If both or neither are in the endCountries set, sort alphabetically
+    return a.localeCompare(b);
+  });
+};
+
 export const sortByYear = (array: any[]) => {
   return array.sort((a, b) => a!.valueX - b!.valueX);
 };

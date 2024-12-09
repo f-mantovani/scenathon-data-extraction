@@ -1,3 +1,139 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d5ebc9ad2055efb53222cd8b003b5eb5e97b6c5b6c6982b878f46ec1dc0ce9cb
-size 2983
+[
+  {
+    "title": "Biodiversity",
+    "description": "Biodiversity",
+    "axisY": "% of total land",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "biodiversity": 57.343469624823165
+      },
+      {
+        "valueX": 2005,
+        "biodiversity": 58.23618021196082
+      },
+      {
+        "valueX": 2010,
+        "biodiversity": 58.07396918218857
+      },
+      {
+        "valueX": 2015,
+        "biodiversity": 56.48044443605571
+      },
+      {
+        "valueX": 2020,
+        "biodiversity": 55.60580130501786
+      },
+      {
+        "valueX": 2025,
+        "biodiversity": 55.43295582038124
+      },
+      {
+        "valueX": 2030,
+        "biodiversity": 55.94629885792063
+      },
+      {
+        "valueX": 2035,
+        "biodiversity": 56.87048518308045
+      },
+      {
+        "valueX": 2040,
+        "biodiversity": 58.03789562051441
+      },
+      {
+        "valueX": 2045,
+        "biodiversity": 59.28704149080729
+      },
+      {
+        "valueX": 2050,
+        "biodiversity": 60.56832373436468
+      }
+    ],
+    "keys": [
+      "biodiversity"
+    ]
+  },
+  {
+    "title": "Forest change",
+    "description": "Forest change",
+    "axisY": "1000ha per 5 years",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "lowerBound": 0,
+        "Forest gain": 0,
+        "Forest loss": 0
+      },
+      {
+        "valueX": 2005,
+        "lowerBound": -58910.99,
+        "Forest gain": 32086.44,
+        "Forest loss": -90997.43
+      },
+      {
+        "valueX": 2010,
+        "lowerBound": -42415.12,
+        "Forest gain": 16832.21,
+        "Forest loss": -59247.33
+      },
+      {
+        "valueX": 2015,
+        "lowerBound": -30818,
+        "Forest gain": 34836.55,
+        "Forest loss": -65654.55
+      },
+      {
+        "valueX": 2020,
+        "lowerBound": 9660.05,
+        "Forest gain": 48165.54,
+        "Forest loss": -38505.49
+      },
+      {
+        "valueX": 2025,
+        "lowerBound": -7918.76,
+        "Forest gain": 33780.36,
+        "Forest loss": -41699.11
+      },
+      {
+        "valueX": 2030,
+        "lowerBound": 18355.34,
+        "Forest gain": 46580.05,
+        "Forest loss": -28224.71
+      },
+      {
+        "valueX": 2035,
+        "lowerBound": 29247.97,
+        "Forest gain": 42399.74,
+        "Forest loss": -13151.78
+      },
+      {
+        "valueX": 2040,
+        "lowerBound": 41157.22,
+        "Forest gain": 50899.44,
+        "Forest loss": -9742.22
+      },
+      {
+        "valueX": 2045,
+        "lowerBound": 40941.44,
+        "Forest gain": 49539.74,
+        "Forest loss": -8598.31
+      },
+      {
+        "valueX": 2050,
+        "lowerBound": 26410.83,
+        "Forest gain": 33220.97,
+        "Forest loss": -6810.14
+      }
+    ],
+    "keys": [
+      "Net Forest Change",
+      "Forest gain",
+      "Forest loss"
+    ],
+    "upperLower": true
+  }
+]

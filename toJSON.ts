@@ -2,7 +2,7 @@ import XLSX from "xlsx";
 import path from "path";
 import { promises as fsp } from "node:fs";
 
-const file = path.join(__dirname, "Scenathon2020DB_forFelipe.xlsx");
+const file = path.join(__dirname, "scenathon_db2023_dc_v3.xlsx");
 
 export const excelToJson = ({
   file,
@@ -19,11 +19,11 @@ export const excelToJson = ({
 };
 
 console.log("Reading...");
-const json = excelToJson({ file, sheet: "Products" });
+const json = excelToJson({ file, sheet: "Product level indicators" });
 
 (async function () {
   await fsp
-    .writeFile(`2020-products-data-full.json`, JSON.stringify(json, null, 2))
+    .writeFile(`2023-products-data-full.json`, JSON.stringify(json, null, 2))
     .catch((e) => console.error(`Something went wrong: ${e}`));
 })();
 

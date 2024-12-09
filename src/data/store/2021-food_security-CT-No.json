@@ -1,3 +1,1876 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:449a2959d5ba11895a007f1ce21ae38874c08e0092b81ee49e53adeebf672037
-size 48385
+[
+  {
+    "title": "Average daily intake per capita in 2030",
+    "description": "The average daily intake of calories per capita in 2030, based on the 2020 baseline scenario.",
+    "axisY": "kcal / cap / day",
+    "axisX": "country",
+    "legend": [],
+    "data": [
+      {
+        "valueX": "ARG",
+        "Kcal Feasability": 2791.278671894768,
+        "lowerBound": 2069.673890270048
+      },
+      {
+        "valueX": "AUS",
+        "Kcal Feasability": 3094.481900215387,
+        "lowerBound": 2080.968587816183
+      },
+      {
+        "valueX": "BRA",
+        "Kcal Feasability": 3192.264477548829,
+        "lowerBound": 2098.675387963503
+      },
+      {
+        "valueX": "CAN",
+        "Kcal Feasability": 2960.784505601441,
+        "lowerBound": 2091.953117461633
+      },
+      {
+        "valueX": "CHN",
+        "Kcal Feasability": 2884.968558946831,
+        "lowerBound": 2109.632242626842
+      },
+      {
+        "valueX": "COL",
+        "Kcal Feasability": 2673.936283235254,
+        "lowerBound": 2092.372169773299
+      },
+      {
+        "valueX": "DEU",
+        "Kcal Feasability": 3032.872278681019,
+        "lowerBound": 2082.619145196242
+      },
+      {
+        "valueX": "ETH",
+        "Kcal Feasability": 2150.628783979139,
+        "lowerBound": 2019.809532328554
+      },
+      {
+        "valueX": "FIN",
+        "Kcal Feasability": 2728.129595311251,
+        "lowerBound": 2077.463424111293
+      },
+      {
+        "valueX": "GBR",
+        "Kcal Feasability": 2785.112112193889,
+        "lowerBound": 2078.447879986526
+      },
+      {
+        "valueX": "IDN",
+        "Kcal Feasability": 2464.871908370955,
+        "lowerBound": 2080.906721837245
+      },
+      {
+        "valueX": "IND",
+        "Kcal Feasability": 2259.8471,
+        "lowerBound": 2251.8503265227
+      },
+      {
+        "valueX": "MEX",
+        "Kcal Feasability": 2523.854684449953,
+        "lowerBound": 1857.541569403296
+      },
+      {
+        "valueX": "MYS",
+        "Kcal Feasability": 2717.852622285145,
+        "lowerBound": 2092.031250112044
+      },
+      {
+        "valueX": "NOR",
+        "Kcal Feasability": 2630.011890765272,
+        "lowerBound": 2092.724261826485
+      },
+      {
+        "valueX": "RUS",
+        "Kcal Feasability": 2977.378993995451,
+        "lowerBound": 2073.225786848492
+      },
+      {
+        "valueX": "RWA",
+        "Kcal Feasability": 2073.235499664238,
+        "lowerBound": 2021.20963049956
+      },
+      {
+        "valueX": "SWE",
+        "Kcal Feasability": 2815.905682066265,
+        "lowerBound": 2080.831958547194
+      },
+      {
+        "valueX": "USA",
+        "Kcal Feasability": 2803.928324486139,
+        "lowerBound": 2075.432667563327
+      },
+      {
+        "valueX": "ZAF",
+        "Kcal Feasability": 2845.699317923837,
+        "lowerBound": 1844.827363924265
+      },
+      {
+        "valueX": "R_ASP",
+        "Kcal Feasability": 2601.541466518097,
+        "lowerBound": 2066.20719661444
+      },
+      {
+        "valueX": "R_CSA",
+        "Kcal Feasability": 2528.655052397436,
+        "lowerBound": 2082.816176590056
+      },
+      {
+        "valueX": "R_NEU",
+        "Kcal Feasability": 3175.735923823144,
+        "lowerBound": 2086.732940217104
+      },
+      {
+        "valueX": "R_NMC",
+        "Kcal Feasability": 2783.960470720549,
+        "lowerBound": 2138.793190276037
+      },
+      {
+        "valueX": "R_OEU",
+        "Kcal Feasability": 3134.570741236207,
+        "lowerBound": 2015.088303791277
+      },
+      {
+        "valueX": "R_SSA",
+        "Kcal Feasability": 2426.86112188934,
+        "lowerBound": 1929.150258666505
+      }
+    ],
+    "keys": [
+      "Kcal Feasability"
+    ],
+    "upperLower": true
+  },
+  {
+    "title": "Evolution of daily calories intake per capita by country",
+    "description": "The average daily intake of calories per capita in 2030, based on the 2020 baseline scenario.",
+    "axisY": "kcal / cap / day",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2983.006465746247,
+        "location": "ARG",
+        "historical": 3002.344545121724
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2567.722504275486,
+        "location": "AUS",
+        "historical": 2566.574649543261
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2780.060589298355,
+        "location": "BRA",
+        "historical": 2800.769469052978
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2787.582035706946,
+        "location": "CAN",
+        "historical": 2793.273026025905
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2362.204030607299,
+        "location": "CHN",
+        "historical": 2366.877002976491
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2550.558373694755,
+        "location": "COL",
+        "historical": 2548.417893623475
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 3043.491298561964,
+        "location": "DEU",
+        "historical": 3106.102242647318
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 1661.711910285276,
+        "location": "ETH",
+        "historical": 1668.811676460219
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2686.237024612765,
+        "location": "FIN",
+        "historical": 2698.965561257671
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2919.356634843776,
+        "location": "GBR",
+        "historical": 2926.032299114663
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2331.488283548039,
+        "location": "IDN",
+        "historical": 2340.786492834691
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2040.8825,
+        "location": "IND",
+        "historical": 2040.8825
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2744.385343205757,
+        "location": "MEX",
+        "historical": 2753.292739099914
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2788.774861471199,
+        "location": "ARG",
+        "historical": 2811.919988595528
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2645.184684377296,
+        "location": "AUS",
+        "historical": 2644.582186771618
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2960.454633065102,
+        "location": "BRA",
+        "historical": 2997.705599530871
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2796.356015727262,
+        "location": "CAN",
+        "historical": 2806.387826557024
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2440.007403268283,
+        "location": "CHN",
+        "historical": 2446.009854275308
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2518.625699617579,
+        "location": "COL",
+        "historical": 2517.531806149674
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 3141.229803330369,
+        "location": "DEU",
+        "historical": 3190.131121563781
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 1817.622357587751,
+        "location": "ETH",
+        "historical": 1825.673286098729
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2674.440332554128,
+        "location": "FIN",
+        "historical": 2689.734936025502
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2981.102673222507,
+        "location": "GBR",
+        "historical": 2993.613501601186
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2365.906417544357,
+        "location": "IDN",
+        "historical": 2378.025495848895
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2070.4376,
+        "location": "IND",
+        "historical": 2070.4376
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2777.667347178189,
+        "location": "MEX",
+        "historical": 2786.22537568155
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2790.874893018914,
+        "location": "ARG",
+        "historical": 2806.698043287785
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2780.795811058028,
+        "location": "AUS",
+        "historical": 2780.453476409599
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 3022.505204190024,
+        "location": "BRA",
+        "historical": 3054.15666399525
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2641.091569497481,
+        "location": "CAN",
+        "historical": 2647.336732903902
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2671.742314374559,
+        "location": "CHN",
+        "historical": 2576.396149509499
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2522.48419776052,
+        "location": "COL",
+        "historical": 2521.776565382163
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 3145.133551363058,
+        "location": "DEU",
+        "historical": 3193.751001679387
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 1975.97293057163,
+        "location": "ETH",
+        "historical": 1985.647978477735
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2728.073522773241,
+        "location": "FIN",
+        "historical": 2744.840356105688
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2907.677311784698,
+        "location": "GBR",
+        "historical": 2915.041919820392
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2561.240221158381,
+        "location": "IDN",
+        "historical": 2570.513137301604
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2097.3923,
+        "location": "IND",
+        "historical": 2097.3923
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2651.120218543072,
+        "location": "MEX",
+        "historical": 2658.763715074491
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2791.008514562665,
+        "location": "ARG",
+        "historical": 2806.698043287785
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2806.86693437599,
+        "location": "AUS",
+        "historical": 2806.568021493931
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2939.874713076964,
+        "location": "BRA",
+        "historical": 2970.680672039831
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2720.786819896647,
+        "location": "CAN",
+        "historical": 2727.331197683672
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2706.079197300611,
+        "location": "CHN",
+        "historical": 2608.629769710076
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2560.377366209656,
+        "location": "COL",
+        "historical": 2559.473525810998
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 3128.847472862488,
+        "location": "DEU",
+        "historical": 3177.78224667099
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2019.627715182207,
+        "location": "ETH",
+        "historical": 2030.962420799519
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2728.087432705081,
+        "location": "FIN",
+        "historical": 2744.840356105688
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2903.737727532929,
+        "location": "GBR",
+        "historical": 2915.041919820392
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2540.020721574311,
+        "location": "IDN",
+        "historical": 2555.154841442163
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2170.2213,
+        "location": "IND",
+        "historical": 2170.2213
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2650.557402013841,
+        "location": "MEX",
+        "historical": 2658.236805786806
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2791.10829362915,
+        "location": "ARG",
+        "historical": 2806.698043287785
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2911.505173283906,
+        "location": "AUS",
+        "historical": 2911.026201831261
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3107.94097224489,
+        "location": "BRA",
+        "historical": 3142.108055578514
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2800.790212973723,
+        "location": "CAN",
+        "historical": 2807.325662463442
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2708.083857749791,
+        "location": "CHN",
+        "historical": 2640.863389910653
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2598.230337141045,
+        "location": "COL",
+        "historical": 2597.170486239831
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3107.980101959051,
+        "location": "DEU",
+        "historical": 3161.813491662594
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2063.293638377558,
+        "location": "ETH",
+        "historical": 2076.276863121302
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2728.101612347967,
+        "location": "FIN",
+        "historical": 2744.840356105688
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2893.657121796633,
+        "location": "GBR",
+        "historical": 2915.041919820392
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2500.968356794547,
+        "location": "IDN",
+        "historical": 2539.796545582723
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2200.6943,
+        "location": "IND",
+        "historical": 2200.6943
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2593.703528877971,
+        "location": "MEX",
+        "historical": 2622.798632341991
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2791.198188776611,
+        "location": "ARG",
+        "historical": 2806.698043287785
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2989.950359174167,
+        "location": "AUS",
+        "historical": 2989.369837084259
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 3150.309853482051,
+        "location": "BRA",
+        "historical": 3186.083751370145
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2880.788955646888,
+        "location": "CAN",
+        "historical": 2887.320127243212
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2772.931213514311,
+        "location": "CHN",
+        "historical": 2705.330630311805
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2636.083309480704,
+        "location": "COL",
+        "historical": 2634.867446668665
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 3080.859895599897,
+        "location": "DEU",
+        "historical": 3129.8759816458
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2106.960630712556,
+        "location": "ETH",
+        "historical": 2121.591305443085
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2728.116069772295,
+        "location": "FIN",
+        "historical": 2744.840356105688
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2832.969434501778,
+        "location": "GBR",
+        "historical": 2915.041919820392
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2488.997059944786,
+        "location": "IDN",
+        "historical": 2524.438249723283
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2231.6763,
+        "location": "IND",
+        "historical": 2231.6763
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2550.809279711382,
+        "location": "MEX",
+        "historical": 2586.833549609491
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2791.278671894768,
+        "location": "ARG",
+        "historical": 2806.698043287785
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 3094.481900215387,
+        "location": "AUS",
+        "historical": 3093.82801742159
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 3192.264477548829,
+        "location": "BRA",
+        "historical": 3230.059447161777
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2960.784505601441,
+        "location": "CAN",
+        "historical": 2967.314592022983
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2884.968558946831,
+        "location": "CHN",
+        "historical": 2802.031490913535
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2673.936283235254,
+        "location": "COL",
+        "historical": 2672.564407097499
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 3032.872278681019,
+        "location": "DEU",
+        "historical": 3081.969716620609
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2150.628783979139,
+        "location": "ETH",
+        "historical": 2166.905747764867
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2728.129595311251,
+        "location": "FIN",
+        "historical": 2744.840356105688
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2785.112112193889,
+        "location": "GBR",
+        "historical": 2915.041919820392
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2464.871908370955,
+        "location": "IDN",
+        "historical": 2509.079953863842
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2259.8471,
+        "location": "IND",
+        "historical": 2259.8471
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2523.854684449953,
+        "location": "MEX",
+        "historical": 2532.885925510742
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2791.349248272643,
+        "location": "ARG",
+        "historical": 2806.698043287785
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 3198.992895940953,
+        "location": "AUS",
+        "historical": 3198.286197758921
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 3233.994724332668,
+        "location": "BRA",
+        "historical": 3274.035142953409
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 3040.777879958835,
+        "location": "CAN",
+        "historical": 3047.309056802753
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 3032.575317772539,
+        "location": "CHN",
+        "historical": 2930.965971715842
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2711.789258410341,
+        "location": "COL",
+        "historical": 2710.261367526332
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2968.888793294052,
+        "location": "DEU",
+        "historical": 3018.09469658702
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2193.105909530996,
+        "location": "ETH",
+        "historical": 2212.22019008665
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2728.141712841483,
+        "location": "FIN",
+        "historical": 2744.840356105688
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2740.386215150628,
+        "location": "GBR",
+        "historical": 2915.041919820392
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2483.427179002455,
+        "location": "IDN",
+        "historical": 2493.721658004402
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2281.1575,
+        "location": "IND",
+        "historical": 2281.1575
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2452.371890378843,
+        "location": "MEX",
+        "historical": 2460.955760045741
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2791.411612176016,
+        "location": "ARG",
+        "historical": 2806.698043287785
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 3303.483805878435,
+        "location": "AUS",
+        "historical": 3302.744378096251
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 3275.411029535001,
+        "location": "BRA",
+        "historical": 3318.010838745041
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 3120.769595705163,
+        "location": "CAN",
+        "historical": 3127.303521582523
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 3223.369927798051,
+        "location": "CHN",
+        "historical": 3092.134072718724
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2749.642235013728,
+        "location": "COL",
+        "historical": 2747.958327955165
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2888.909443423677,
+        "location": "DEU",
+        "historical": 2938.250921545037
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2191.362817698318,
+        "location": "ETH",
+        "historical": 2212.22019008665
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2727.996296271875,
+        "location": "FIN",
+        "historical": 2744.840356105688
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2698.373057288247,
+        "location": "GBR",
+        "historical": 2915.041919820392
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2469.218226793272,
+        "location": "IDN",
+        "historical": 2478.363362144961
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2296.6304,
+        "location": "IND",
+        "historical": 2296.6304
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2363.262636011055,
+        "location": "MEX",
+        "historical": 2371.043053214491
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2791.471948545525,
+        "location": "ARG",
+        "historical": 2806.698043287785
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 3297.154400299552,
+        "location": "AUS",
+        "historical": 3302.744378096251
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 3316.739887820002,
+        "location": "BRA",
+        "historical": 3361.986534536672
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 3200.759955934553,
+        "location": "CAN",
+        "historical": 3207.297986362292
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 3419.078663587168,
+        "location": "CHN",
+        "historical": 3221.06855352103
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2787.495213050568,
+        "location": "COL",
+        "historical": 2785.655288384
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2840.921836237297,
+        "location": "DEU",
+        "historical": 2890.344656519846
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2189.812086578608,
+        "location": "ETH",
+        "historical": 2212.22019008665
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2727.577719976035,
+        "location": "FIN",
+        "historical": 2744.840356105688
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2666.669777929483,
+        "location": "GBR",
+        "historical": 2915.041919820392
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2454.385245323156,
+        "location": "IDN",
+        "historical": 2463.005066285521
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2310.198,
+        "location": "IND",
+        "historical": 2310.198
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2291.026495495079,
+        "location": "MEX",
+        "historical": 2299.112887749492
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2791.538237319889,
+        "location": "ARG",
+        "historical": 2806.698043287785
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 3303.443311369912,
+        "location": "AUS",
+        "historical": 3302.744378096251
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 3357.758389071052,
+        "location": "BRA",
+        "historical": 3405.962230328305
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 3280.74915689301,
+        "location": "CAN",
+        "historical": 3287.292451142062
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 3537.043686197944,
+        "location": "CHN",
+        "historical": 3221.06855352103
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2825.348192523331,
+        "location": "COL",
+        "historical": 2823.352248812833
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2824.925965979175,
+        "location": "DEU",
+        "historical": 2874.375901511449
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2188.630487898084,
+        "location": "ETH",
+        "historical": 2212.22019008665
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2727.078647567825,
+        "location": "FIN",
+        "historical": 2744.840356105688
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2637.275963419858,
+        "location": "GBR",
+        "historical": 2915.041919820392
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2439.569943545075,
+        "location": "IDN",
+        "historical": 2447.64677042608
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2324.6455,
+        "location": "IND",
+        "historical": 2324.6455
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2676.565186755503,
+        "location": "MYS",
+        "historical": 2676.392211983789
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2882.275642342004,
+        "location": "NOR",
+        "historical": 2828.999896054161
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2329.441066334768,
+        "location": "R_ASP",
+        "historical": 2331.388432087265
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2272.354599580845,
+        "location": "R_CSA",
+        "historical": 2276.454258623884
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 3206.917571095081,
+        "location": "R_NEU",
+        "historical": 3214.390273290934
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2619.528769135163,
+        "location": "R_NMC",
+        "historical": 2622.797900120459
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2909.426773949363,
+        "location": "R_OEU",
+        "historical": 2921.607044170547
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2137.553708900919,
+        "location": "R_SSA",
+        "historical": 2143.683304748352
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2562.26960666195,
+        "location": "RUS",
+        "historical": 2571.24385102055
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 1574.129420557865,
+        "location": "RWA",
+        "historical": 1598.662997899858
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 3548.529341979837,
+        "location": "SWE",
+        "historical": 3624.567913030035
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2868.001522574422,
+        "location": "USA",
+        "historical": 2879.044124527151
+      },
+      {
+        "valueX": 2000,
+        "Kcal Feasability": 2725.656177807283,
+        "location": "ZAF",
+        "historical": 2734.219197618816
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2644.75379970588,
+        "location": "MYS",
+        "historical": 2644.281583406715
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 3021.223710412145,
+        "location": "NOR",
+        "historical": 2956.531338018341
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2403.089745517166,
+        "location": "R_ASP",
+        "historical": 2405.269159914072
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2260.897973515986,
+        "location": "R_CSA",
+        "historical": 2265.697748359134
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 3287.52519699957,
+        "location": "R_NEU",
+        "historical": 3297.555305906785
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2646.113337174506,
+        "location": "R_NMC",
+        "historical": 2649.529854603638
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2915.85531293536,
+        "location": "R_OEU",
+        "historical": 2926.687481287589
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2222.894062164115,
+        "location": "R_SSA",
+        "historical": 2229.150435806318
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2825.598668479034,
+        "location": "RUS",
+        "historical": 2834.040366898524
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 1726.225357550469,
+        "location": "RWA",
+        "historical": 1758.974527250002
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 3587.944804541456,
+        "location": "SWE",
+        "historical": 3729.745734319266
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2928.446176927916,
+        "location": "USA",
+        "historical": 2896.626488333171
+      },
+      {
+        "valueX": 2005,
+        "Kcal Feasability": 2789.446851221479,
+        "location": "ZAF",
+        "historical": 2799.814082078727
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2718.829249945292,
+        "location": "MYS",
+        "historical": 2717.345529829077
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2922.654061720973,
+        "location": "NOR",
+        "historical": 2851.903502413115
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2370.085322179526,
+        "location": "R_ASP",
+        "historical": 2372.290043698054
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2266.897815437532,
+        "location": "R_CSA",
+        "historical": 2271.055450278904
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2966.509387836046,
+        "location": "R_NEU",
+        "historical": 2975.587745541004
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2619.551164787528,
+        "location": "R_NMC",
+        "historical": 2623.516829499896
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2558.376964115372,
+        "location": "R_OEU",
+        "historical": 2570.889345521137
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2247.505458243978,
+        "location": "R_SSA",
+        "historical": 2253.791780520599
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2977.841674516927,
+        "location": "RUS",
+        "historical": 2989.620362783258
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 1899.429342202678,
+        "location": "RWA",
+        "historical": 1937.69631344076
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 3524.795383942441,
+        "location": "SWE",
+        "historical": 3599.833148171124
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2803.94001673912,
+        "location": "USA",
+        "historical": 2803.306582292023
+      },
+      {
+        "valueX": 2010,
+        "Kcal Feasability": 2861.457718293945,
+        "location": "ZAF",
+        "historical": 2875.068157489256
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2718.04612531587,
+        "location": "MYS",
+        "historical": 2717.345529829077
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2870.501541814681,
+        "location": "NOR",
+        "historical": 2797.332238625905
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2474.790424502075,
+        "location": "R_ASP",
+        "historical": 2477.918867044045
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2380.584164125974,
+        "location": "R_CSA",
+        "historical": 2385.195602643874
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 3157.1988589383,
+        "location": "R_NEU",
+        "historical": 3166.477835295789
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2724.210533838929,
+        "location": "R_NMC",
+        "historical": 2728.405880913286
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2964.35391655369,
+        "location": "R_OEU",
+        "historical": 2977.380009644111
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2277.301656230126,
+        "location": "R_SSA",
+        "historical": 2286.495168747717
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2977.343837262694,
+        "location": "RUS",
+        "historical": 2989.620362783258
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 1943.914360393034,
+        "location": "RWA",
+        "historical": 1978.142316538471
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 3172.758070374054,
+        "location": "SWE",
+        "historical": 3254.867538898345
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2803.928324625901,
+        "location": "USA",
+        "historical": 2803.306582292023
+      },
+      {
+        "valueX": 2015,
+        "Kcal Feasability": 2877.478554413194,
+        "location": "ZAF",
+        "historical": 2891.91117192682
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2717.981586862117,
+        "location": "MYS",
+        "historical": 2717.345529829077
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2787.395396199929,
+        "location": "NOR",
+        "historical": 2742.760974838693
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2537.668553999796,
+        "location": "R_ASP",
+        "historical": 2541.493531373931
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2453.680926853809,
+        "location": "R_CSA",
+        "historical": 2458.827515891791
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3163.376825932552,
+        "location": "R_NEU",
+        "historical": 3172.658368375026
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2744.139026390561,
+        "location": "R_NMC",
+        "historical": 2748.419086373325
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 3021.182014190089,
+        "location": "R_OEU",
+        "historical": 3034.652934878481
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2351.283514614374,
+        "location": "R_SSA",
+        "historical": 2361.415372945794
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2977.355554165922,
+        "location": "RUS",
+        "historical": 2989.620362783258
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 1987.021406816769,
+        "location": "RWA",
+        "historical": 2018.588319636182
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2993.598902304549,
+        "location": "SWE",
+        "historical": 3068.261112277095
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2803.928324578407,
+        "location": "USA",
+        "historical": 2803.306582292023
+      },
+      {
+        "valueX": 2020,
+        "Kcal Feasability": 2828.479383870413,
+        "location": "ZAF",
+        "historical": 2908.754186364385
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2717.917086028241,
+        "location": "MYS",
+        "historical": 2717.345529829077
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2709.309044199597,
+        "location": "NOR",
+        "historical": 2688.189711051481
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2569.61873780809,
+        "location": "R_ASP",
+        "historical": 2574.095923337975
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2491.167719211527,
+        "location": "R_CSA",
+        "historical": 2496.587471403544
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 3169.555900063142,
+        "location": "R_NEU",
+        "historical": 3178.838901454263
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2764.049771549939,
+        "location": "R_NMC",
+        "historical": 2768.432291833364
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 3077.883439449211,
+        "location": "R_OEU",
+        "historical": 3091.925860112849
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2389.034188613511,
+        "location": "R_SSA",
+        "historical": 2399.835990483269
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2977.367273079944,
+        "location": "RUS",
+        "historical": 2989.620362783258
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2028.33550260118,
+        "location": "RWA",
+        "historical": 2059.034322733894
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2815.754843605361,
+        "location": "SWE",
+        "historical": 2891.131042988932
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2803.928324472678,
+        "location": "USA",
+        "historical": 2803.306582292023
+      },
+      {
+        "valueX": 2025,
+        "Kcal Feasability": 2820.996931609653,
+        "location": "ZAF",
+        "historical": 2925.597200801948
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2717.852622285145,
+        "location": "MYS",
+        "historical": 2717.345529829077
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2630.011890765272,
+        "location": "NOR",
+        "historical": 2633.618447264269
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2601.541466518097,
+        "location": "R_ASP",
+        "historical": 2606.69831530202
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2528.655052397436,
+        "location": "R_CSA",
+        "historical": 2534.347426915297
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 3175.735923823144,
+        "location": "R_NEU",
+        "historical": 3185.019434533501
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2783.960470720549,
+        "location": "R_NMC",
+        "historical": 2788.445497293402
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 3134.570741236207,
+        "location": "R_OEU",
+        "historical": 3149.198785347218
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2426.86112188934,
+        "location": "R_SSA",
+        "historical": 2438.256608020744
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2977.378993995451,
+        "location": "RUS",
+        "historical": 2989.620362783258
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2073.235499664238,
+        "location": "RWA",
+        "historical": 2099.480325831604
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2815.905682066265,
+        "location": "SWE",
+        "historical": 2891.011446783776
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2803.928324486139,
+        "location": "USA",
+        "historical": 2803.306582292023
+      },
+      {
+        "valueX": 2030,
+        "Kcal Feasability": 2845.699317923837,
+        "location": "ZAF",
+        "historical": 2942.440215239514
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2717.788195101844,
+        "location": "MYS",
+        "historical": 2717.345529829077
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2553.724507308727,
+        "location": "NOR",
+        "historical": 2579.047183477058
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2633.444040337829,
+        "location": "R_ASP",
+        "historical": 2639.300707266063
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2566.143044398977,
+        "location": "R_CSA",
+        "historical": 2572.10738242705
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 3181.916768778364,
+        "location": "R_NEU",
+        "historical": 3191.199967612738
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2803.8711374368,
+        "location": "R_NMC",
+        "historical": 2808.458702753441
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 3191.259108853209,
+        "location": "R_OEU",
+        "historical": 3206.471710581586
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2464.723950866859,
+        "location": "R_SSA",
+        "historical": 2476.677225558219
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2977.390716902735,
+        "location": "RUS",
+        "historical": 2989.620362783258
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2116.342546087973,
+        "location": "RWA",
+        "historical": 2139.926328929316
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2815.977625893384,
+        "location": "SWE",
+        "historical": 2891.080509924516
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2803.928324498434,
+        "location": "USA",
+        "historical": 2803.306582292023
+      },
+      {
+        "valueX": 2035,
+        "Kcal Feasability": 2875.405539420819,
+        "location": "ZAF",
+        "historical": 2959.283229677078
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2717.72380394545,
+        "location": "MYS",
+        "historical": 2717.345529829077
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2481.519957549153,
+        "location": "NOR",
+        "historical": 2524.475919689847
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2665.331436117123,
+        "location": "R_ASP",
+        "historical": 2671.903099230107
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2603.631712144347,
+        "location": "R_CSA",
+        "historical": 2609.867337938802
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 3188.06975851825,
+        "location": "R_NEU",
+        "historical": 3197.380500691975
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2823.7817786049,
+        "location": "R_NMC",
+        "historical": 2828.47190821348
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 3247.949913038706,
+        "location": "R_OEU",
+        "historical": 3263.744635815956
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2502.606819339921,
+        "location": "R_SSA",
+        "historical": 2515.097843095695
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2977.402441791963,
+        "location": "RUS",
+        "historical": 2989.620362783258
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2159.449592511708,
+        "location": "RWA",
+        "historical": 2180.372332027027
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2815.966463060652,
+        "location": "SWE",
+        "historical": 2891.300257943316
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2803.928324509343,
+        "location": "USA",
+        "historical": 2803.306582292023
+      },
+      {
+        "valueX": 2040,
+        "Kcal Feasability": 2931.133587325552,
+        "location": "ZAF",
+        "historical": 2976.126244114643
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2717.655887205849,
+        "location": "MYS",
+        "historical": 2717.345529829077
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2413.85453276821,
+        "location": "NOR",
+        "historical": 2469.904655902636
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2697.207110862089,
+        "location": "R_ASP",
+        "historical": 2704.505491194151
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2641.121028391376,
+        "location": "R_CSA",
+        "historical": 2647.627293450555
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 3194.007099011902,
+        "location": "R_NEU",
+        "historical": 3203.561033771213
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2843.692390138558,
+        "location": "R_NMC",
+        "historical": 2848.485113673518
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 3304.644680822179,
+        "location": "R_OEU",
+        "historical": 3321.017561050326
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2540.502183785765,
+        "location": "R_SSA",
+        "historical": 2553.51846063317
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2977.414168653618,
+        "location": "RUS",
+        "historical": 2989.620362783258
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2202.556638935442,
+        "location": "RWA",
+        "historical": 2220.818335124738
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2815.884936021802,
+        "location": "SWE",
+        "historical": 2891.653781287438
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2803.928324518852,
+        "location": "USA",
+        "historical": 2803.306582292023
+      },
+      {
+        "valueX": 2045,
+        "Kcal Feasability": 2972.502588725677,
+        "location": "ZAF",
+        "historical": 2992.969258552206
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2288.075459726339,
+        "location": "MEX",
+        "historical": 2299.112887749492
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2717.58388247439,
+        "location": "MYS",
+        "historical": 2717.345529829077
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2347.941898539964,
+        "location": "NOR",
+        "historical": 2415.333392115424
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2729.073603746083,
+        "location": "R_ASP",
+        "historical": 2737.107883158195
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2678.610976099254,
+        "location": "R_CSA",
+        "historical": 2685.387248962307
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 3199.951323169494,
+        "location": "R_NEU",
+        "historical": 3209.74156685045
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2863.602965255452,
+        "location": "R_NMC",
+        "historical": 2868.498319133557
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 3361.344599884462,
+        "location": "R_OEU",
+        "historical": 3378.290486284694
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2578.301978257455,
+        "location": "R_SSA",
+        "historical": 2591.939078170644
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2977.425897479054,
+        "location": "RUS",
+        "historical": 2989.620362783258
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2245.663685359177,
+        "location": "RWA",
+        "historical": 2261.264338222449
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2816.005145207949,
+        "location": "SWE",
+        "historical": 2892.161227612236
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2803.928324527595,
+        "location": "USA",
+        "historical": 2803.306582292023
+      },
+      {
+        "valueX": 2050,
+        "Kcal Feasability": 2988.341841640347,
+        "location": "ZAF",
+        "historical": 3009.812272989771
+      }
+    ],
+    "keys": [
+      "Kcal Feasability"
+    ],
+    "byCountry": true,
+    "upperLower": true,
+    "withHistorical": true
+  }
+]

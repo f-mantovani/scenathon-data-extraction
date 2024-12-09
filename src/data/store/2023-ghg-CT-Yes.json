@@ -1,3 +1,5207 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26bd7e5a3744369a6899b0525449c9babf3ad3b0521fbdf5a5f8b3eb28ab9bbb
-size 141765
+[
+  {
+    "title": "Annual CO2 emissions from land use change and on-farm energy use by source",
+    "description": "annual CO2 emissions from land use change and on-farm energy use by source",
+    "axisY": "Gt CO2",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.008510628652999999,
+        "CO2 equivalent from all sources": 0,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.00597383526,
+        "CO2 equivalent from all sources": 0,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.012975379260000001,
+        "CO2 equivalent from all sources": 0,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.01516457226,
+        "CO2 equivalent from all sources": 0,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.20142925299999997,
+        "CO2 equivalent from all sources": 0,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.002376635325,
+        "CO2 equivalent from all sources": 0,
+        "location": "COL"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.009307982608999999,
+        "CO2 equivalent from all sources": 0,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.0033113391619999997,
+        "CO2 equivalent from all sources": 0,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.0000988308668608123,
+        "CO2 equivalent from all sources": 0,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.0019453328750000001,
+        "CO2 equivalent from all sources": 0,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.004464984335,
+        "CO2 equivalent from all sources": 0,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.0048502097190000005,
+        "CO2 equivalent from all sources": 0,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.008497356837,
+        "CO2 equivalent from all sources": 0,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.09724414225,
+        "CO2 equivalent from all sources": 0,
+        "location": "IND"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.01144904586,
+        "CO2 equivalent from all sources": 0.08314017756,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.001382934512,
+        "CO2 equivalent from all sources": 0,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.00020137086600000001,
+        "CO2 equivalent from all sources": 0,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.04738814762,
+        "CO2 equivalent from all sources": 0,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.01603890518,
+        "CO2 equivalent from all sources": 0,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.062128786320000004,
+        "CO2 equivalent from all sources": 0,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.01528165484,
+        "CO2 equivalent from all sources": 0,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.07857970168999999,
+        "CO2 equivalent from all sources": 0,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.01708896917,
+        "CO2 equivalent from all sources": 0,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.04345828288,
+        "CO2 equivalent from all sources": 0,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.0000318441970970808,
+        "CO2 equivalent from all sources": 0,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.000962424868,
+        "CO2 equivalent from all sources": 0,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.01220845233,
+        "CO2 equivalent from all sources": 0,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.06968948152,
+        "CO2 equivalent from all sources": 0,
+        "location": "USA"
+      },
+      {
+        "valueX": 2000,
+        "CO2 from crops": 0.752040484264958,
+        "CO2 equivalent from all sources": 0.08314017756,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.01454595434,
+        "CO2 equivalent from all sources": 0.1825721414,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.005428451558,
+        "CO2 equivalent from all sources": -0.01213825896,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.0151447144,
+        "CO2 equivalent from all sources": 1.3520430639999999,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.01503999573,
+        "CO2 equivalent from all sources": 0.1930646817,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.2198346278,
+        "CO2 equivalent from all sources": 0.07034818706,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.003126824281,
+        "CO2 equivalent from all sources": -0.008730850807,
+        "location": "COL"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.008832353476,
+        "CO2 equivalent from all sources": 0.004525072309999999,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.002929608832,
+        "CO2 equivalent from all sources": 0.000753914528,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.000153779249,
+        "CO2 equivalent from all sources": 0.1564949824,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.001860520701,
+        "CO2 equivalent from all sources": 0.001414923651,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.0033531965100000003,
+        "CO2 equivalent from all sources": 0.016861580310000002,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.004950056879,
+        "CO2 equivalent from all sources": -0.0005408897750000001,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.01077996375,
+        "CO2 equivalent from all sources": 0.1580092924,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.1052382229,
+        "CO2 equivalent from all sources": -0.00013618871799999998,
+        "location": "IND"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.01188771455,
+        "CO2 equivalent from all sources": 0.1020086241,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.001476860066,
+        "CO2 equivalent from all sources": 0.000261104776,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.000188007136,
+        "CO2 equivalent from all sources": -0.000826920306,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.05067227709,
+        "CO2 equivalent from all sources": -0.00033029517600000004,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.025896477690000003,
+        "CO2 equivalent from all sources": 0.07469571718,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.06732046102,
+        "CO2 equivalent from all sources": -0.02372255234,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.01088674754,
+        "CO2 equivalent from all sources": -0.0007022670519999999,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.07263141867,
+        "CO2 equivalent from all sources": -0.0107091253,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.01536069561,
+        "CO2 equivalent from all sources": 0.6100749303,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.03185782972,
+        "CO2 equivalent from all sources": -0.006379062513,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.0000319333695994476,
+        "CO2 equivalent from all sources": 0.002133955507,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.0017710920050000001,
+        "CO2 equivalent from all sources": 0.002744948796,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.01319947539,
+        "CO2 equivalent from all sources": 0.002828371997,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.07636815274,
+        "CO2 equivalent from all sources": -0.01689972991,
+        "location": "USA"
+      },
+      {
+        "valueX": 2005,
+        "CO2 from crops": 0.790767413002599,
+        "CO2 equivalent from all sources": 2.8497193515580004,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.0065489456759999995,
+        "CO2 equivalent from all sources": -0.04889467638,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.01808448542,
+        "CO2 equivalent from all sources": 0.001868853114,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.2524592061,
+        "CO2 equivalent from all sources": 0.060890951139999996,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.010338996579999999,
+        "CO2 equivalent from all sources": 0.001539102743,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.002891857963,
+        "CO2 equivalent from all sources": 0.000803494084,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.003821757639,
+        "CO2 equivalent from all sources": 0.015479098410000001,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.003932860129,
+        "CO2 equivalent from all sources": -0.00113487181,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.000966508229,
+        "CO2 equivalent from all sources": 0.000200417249,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.01247757622,
+        "CO2 equivalent from all sources": -0.001307202401,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.060380730040000004,
+        "CO2 equivalent from all sources": -0.019541029760000002,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.026138264589999998,
+        "CO2 equivalent from all sources": 0.000878278196,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.001830232821,
+        "CO2 equivalent from all sources": -0.001710584823,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.01756698791,
+        "CO2 equivalent from all sources": -0.0018337692269999998,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.07891419464,
+        "CO2 equivalent from all sources": -0.034558884059999996,
+        "location": "USA"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.0000248157636300697,
+        "CO2 equivalent from all sources": 0.000774429641,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.01534342615,
+        "CO2 equivalent from all sources": 0.556384698,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.000202553068,
+        "CO2 equivalent from all sources": 0.044235844819999995,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.1069061273,
+        "CO2 equivalent from all sources": -0.0000976,
+        "location": "IND"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.004459139238,
+        "CO2 equivalent from all sources": 0.013904418449999999,
+        "location": "COL"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.001918131676,
+        "CO2 equivalent from all sources": 0.31777268140000003,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.02223328238,
+        "CO2 equivalent from all sources": 0.11051012660000001,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.81313395418963,
+        "CO2 equivalent from all sources": 1.7121610273930001,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.05232306458,
+        "CO2 equivalent from all sources": 0.08658239528,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.07048841434,
+        "CO2 equivalent from all sources": 0.01050682531,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.000319896625,
+        "CO2 equivalent from all sources": -0.001779865329,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.0109345567,
+        "CO2 equivalent from all sources": 0.06880408525,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.01251309303,
+        "CO2 equivalent from all sources": 0.09410279819999999,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.01720809015,
+        "CO2 equivalent from all sources": 0.43728113150000003,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2010,
+        "CO2 from crops": 0.001906759232,
+        "CO2 equivalent from all sources": 0.0004998817959999999,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.012194516229999999,
+        "CO2 equivalent from all sources": -0.003873826352,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.0071841392309999995,
+        "CO2 equivalent from all sources": -0.043201730140000005,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.019515206599999998,
+        "CO2 equivalent from all sources": 0.5651181528,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.02152810421,
+        "CO2 equivalent from all sources": 0.007359473208,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.3025227369,
+        "CO2 equivalent from all sources": 0.02380266165,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.009887606657999998,
+        "CO2 equivalent from all sources": 0.004478283503,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.002080495572,
+        "CO2 equivalent from all sources": 0.00013080962400000001,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.001443956881,
+        "CO2 equivalent from all sources": 0.00000679614068704976,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.0044584617,
+        "CO2 equivalent from all sources": 0.01403263545,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.001521105317,
+        "CO2 equivalent from all sources": -0.002360395347,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.000983222157,
+        "CO2 equivalent from all sources": 0.000116556294,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.011969962439999999,
+        "CO2 equivalent from all sources": 0.000424785873,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.06053608063,
+        "CO2 equivalent from all sources": -0.023296010460000002,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.022769029790000003,
+        "CO2 equivalent from all sources": 0.008194951719,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.001380270643,
+        "CO2 equivalent from all sources": -0.001702957724,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.011227180909999999,
+        "CO2 equivalent from all sources": -0.002067051173,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.07305334829,
+        "CO2 equivalent from all sources": -0.01720184992,
+        "location": "USA"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.000048826967,
+        "CO2 equivalent from all sources": 0.001393729029,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.01853751822,
+        "CO2 equivalent from all sources": 0.5429307712,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.1344376753,
+        "CO2 equivalent from all sources": 0.005821507817999999,
+        "location": "IND"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0,
+        "CO2 equivalent from all sources": 0.1627236945,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.00033767368599999995,
+        "CO2 equivalent from all sources": 0.03881974618,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.01697621039,
+        "CO2 equivalent from all sources": 0.05845184035,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.881953220116,
+        "CO2 equivalent from all sources": 1.62358378836569,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.07328652583,
+        "CO2 equivalent from all sources": 0.006835953001,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.00390769292,
+        "CO2 equivalent from all sources": 0.06784862071,
+        "location": "COL"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.05406055643,
+        "CO2 equivalent from all sources": 0.1074061071,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.000369264864,
+        "CO2 equivalent from all sources": -0.00027397586800000003,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2015,
+        "CO2 from crops": 0.01573585135,
+        "CO2 equivalent from all sources": 0.1016645092,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.005828540824,
+        "CO2 equivalent from all sources": -0.04027224602,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.02000217847,
+        "CO2 equivalent from all sources": 0.002477384988,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.3080157824,
+        "CO2 equivalent from all sources": -0.05351827949,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.009619088696,
+        "CO2 equivalent from all sources": 0.0012904277099999998,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.001407474772,
+        "CO2 equivalent from all sources": 0.000147778989,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.001334794066,
+        "CO2 equivalent from all sources": 0.0000266899757293796,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.003915007097,
+        "CO2 equivalent from all sources": 0.01256454848,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.001357945768,
+        "CO2 equivalent from all sources": -0.002619400309,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.01195940212,
+        "CO2 equivalent from all sources": 0.1047949435,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.001294409194,
+        "CO2 equivalent from all sources": 0.000154081934,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.061848845480000005,
+        "CO2 equivalent from all sources": -0.02425840251,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.02296632593,
+        "CO2 equivalent from all sources": 0.0021332269410000004,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.0012883842480000002,
+        "CO2 equivalent from all sources": -0.001740292715,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.01629269445,
+        "CO2 equivalent from all sources": -0.002732234101,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.07399115726,
+        "CO2 equivalent from all sources": 0.03251773769,
+        "location": "USA"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.000120064793,
+        "CO2 equivalent from all sources": -0.000206855779,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.01550870151,
+        "CO2 equivalent from all sources": 0.3183238032,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.000487207456,
+        "CO2 equivalent from all sources": 0.05250908835,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.1497651833,
+        "CO2 equivalent from all sources": -0.000366359383,
+        "location": "IND"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0,
+        "CO2 equivalent from all sources": 0.06813118351,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.01543445623,
+        "CO2 equivalent from all sources": -0.02266052402,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.0740571458,
+        "CO2 equivalent from all sources": 0.01895762693,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.899214871616,
+        "CO2 equivalent from all sources": 0.895877659771729,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.005434397082,
+        "CO2 equivalent from all sources": 0.0625568927,
+        "location": "COL"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.0013034032099999999,
+        "CO2 equivalent from all sources": 0.02615984431,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.02013795543,
+        "CO2 equivalent from all sources": 0.3541516362,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.054193443960000004,
+        "CO2 equivalent from all sources": 0.01992359746,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.010386144659999999,
+        "CO2 equivalent from all sources": -0.033048882489999994,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2020,
+        "CO2 from crops": 0.01126473741,
+        "CO2 equivalent from all sources": 0.00048064372100000005,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.006660985885999999,
+        "CO2 equivalent from all sources": -0.05861710072,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.02171710309,
+        "CO2 equivalent from all sources": 0.053592722870000005,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.3018388089,
+        "CO2 equivalent from all sources": -0.06353288682,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.008309416586999999,
+        "CO2 equivalent from all sources": 0.01025643069,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.00137679692,
+        "CO2 equivalent from all sources": 0.000241677254,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.00442624034,
+        "CO2 equivalent from all sources": 0.06523537601,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.001522027167,
+        "CO2 equivalent from all sources": -0.002073112067,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.012691443319999999,
+        "CO2 equivalent from all sources": 0.117826875,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.001169976518,
+        "CO2 equivalent from all sources": -0.00007439999999999999,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.06426586596999999,
+        "CO2 equivalent from all sources": 0.02686242381,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.02296632593,
+        "CO2 equivalent from all sources": -0.005044572992,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.00146071946,
+        "CO2 equivalent from all sources": -0.0017384300280000001,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.01435074773,
+        "CO2 equivalent from all sources": -0.005657199166,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.07784140136,
+        "CO2 equivalent from all sources": 0.1595662146,
+        "location": "USA"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.01611310588,
+        "CO2 equivalent from all sources": 0.17401544459999999,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.000524254087,
+        "CO2 equivalent from all sources": 0.0336643978,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.1535337251,
+        "CO2 equivalent from all sources": 0.03859363182,
+        "location": "IND"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.000122413292,
+        "CO2 equivalent from all sources": 0.001010833116,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.01571633525,
+        "CO2 equivalent from all sources": 0.06671843066,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.914877497259,
+        "CO2 equivalent from all sources": 1.4343462247160002,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.07856553968999999,
+        "CO2 equivalent from all sources": 0.04242852746,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.00559132533,
+        "CO2 equivalent from all sources": -0.0022911140589999997,
+        "location": "COL"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0,
+        "CO2 equivalent from all sources": 0.01077608448,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.00110928638,
+        "CO2 equivalent from all sources": -0.001703131664,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.053140846779999994,
+        "CO2 equivalent from all sources": -0.05690459189,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.001366744292,
+        "CO2 equivalent from all sources": -0.000334129598,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.011753047130000001,
+        "CO2 equivalent from all sources": 0.01585598511,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.01301394438,
+        "CO2 equivalent from all sources": 0.08206868873999999,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2025,
+        "CO2 from crops": 0.02372907049,
+        "CO2 equivalent from all sources": 0.7336031497000001,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.00680944665,
+        "CO2 equivalent from all sources": -0.07390531934000001,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.0259878539,
+        "CO2 equivalent from all sources": 0.3626754159,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.02326166657,
+        "CO2 equivalent from all sources": 0.05781440678,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.3007620178,
+        "CO2 equivalent from all sources": -0.01992258021,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.008309416586999999,
+        "CO2 equivalent from all sources": -0.00039995127400000005,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.001408234511,
+        "CO2 equivalent from all sources": 0.00018746179399999998,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.004504862102,
+        "CO2 equivalent from all sources": 0.047494146540000004,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.001561683234,
+        "CO2 equivalent from all sources": -0.0025909618499999998,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.001169976518,
+        "CO2 equivalent from all sources": 0.000022538680935415198,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.06448058073999999,
+        "CO2 equivalent from all sources": -0.004019207169,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.001797914678,
+        "CO2 equivalent from all sources": -0.0017384300280000001,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.01437077501,
+        "CO2 equivalent from all sources": -0.006760360176,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.07567306063,
+        "CO2 equivalent from all sources": -0.016397217529999997,
+        "location": "USA"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.0005807536559999999,
+        "CO2 equivalent from all sources": 0.04638504189,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.01733871004,
+        "CO2 equivalent from all sources": 0.48235421780000004,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.1616598027,
+        "CO2 equivalent from all sources": 0.07360201646,
+        "location": "IND"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.00011323082299999999,
+        "CO2 equivalent from all sources": -0.0012321998910000001,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0,
+        "CO2 equivalent from all sources": 0.07373424441,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.9366212141429999,
+        "CO2 equivalent from all sources": 1.52716735057194,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.01588747499,
+        "CO2 equivalent from all sources": 0.001038432706,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.08653545590999999,
+        "CO2 equivalent from all sources": 0.07162086784999999,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.005831641416,
+        "CO2 equivalent from all sources": -0.0011876178850000001,
+        "location": "COL"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.001330567686,
+        "CO2 equivalent from all sources": -0.000521936926,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.001026076832,
+        "CO2 equivalent from all sources": -0.001586440908,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.013604167759999999,
+        "CO2 equivalent from all sources": 0.1028681352,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.02296632593,
+        "CO2 equivalent from all sources": -0.007549530547,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.05407478835,
+        "CO2 equivalent from all sources": 0.2125382913,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.012266126189999999,
+        "CO2 equivalent from all sources": 0.12854541860000002,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2030,
+        "CO2 from crops": 0.01330860293,
+        "CO2 equivalent from all sources": 0.004098468395000001,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.0069094932609999994,
+        "CO2 equivalent from all sources": -0.07863954013,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.02765857278,
+        "CO2 equivalent from all sources": 0.2435764158,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.02482274262,
+        "CO2 equivalent from all sources": 0.05944936914,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.2973624206,
+        "CO2 equivalent from all sources": -0.04471555376,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.008309416586999999,
+        "CO2 equivalent from all sources": -0.00039995127400000005,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.001443030254,
+        "CO2 equivalent from all sources": 0.00020517710999999998,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.004574702959,
+        "CO2 equivalent from all sources": 0.04536099674,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.001600998691,
+        "CO2 equivalent from all sources": -0.002715364247,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.001169976518,
+        "CO2 equivalent from all sources": 0.00000540523818169966,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.06477511706,
+        "CO2 equivalent from all sources": -0.001382780178,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.0019822648359999998,
+        "CO2 equivalent from all sources": -0.0017384300280000001,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.01443999272,
+        "CO2 equivalent from all sources": -0.007684070857,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.07338484823000001,
+        "CO2 equivalent from all sources": -0.06774518866,
+        "location": "USA"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.000635819541,
+        "CO2 equivalent from all sources": 0.04453341058,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.018699527539999997,
+        "CO2 equivalent from all sources": 0.5252111005000001,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.16925550620000002,
+        "CO2 equivalent from all sources": 0.06904108148,
+        "location": "IND"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0,
+        "CO2 equivalent from all sources": 0.12310241949999999,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.000107901149,
+        "CO2 equivalent from all sources": -0.001609492052,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.001296658543,
+        "CO2 equivalent from all sources": -0.00069602962,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.955239786544,
+        "CO2 equivalent from all sources": 1.5220469116531798,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.01601737019,
+        "CO2 equivalent from all sources": -0.011691630540000001,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.09477901067000001,
+        "CO2 equivalent from all sources": 0.0747702429,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.006115480896,
+        "CO2 equivalent from all sources": -0.001266016528,
+        "location": "COL"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.000980528129,
+        "CO2 equivalent from all sources": -0.001662906521,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.02296632593,
+        "CO2 equivalent from all sources": -0.01020325469,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.01169163299,
+        "CO2 equivalent from all sources": 0.14424149660000002,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.01535804164,
+        "CO2 equivalent from all sources": 0.08962678482,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.01398374061,
+        "CO2 equivalent from all sources": 0.01383501973,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2035,
+        "CO2 from crops": 0.054918665400000004,
+        "CO2 equivalent from all sources": 0.3212382006,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.007040018129,
+        "CO2 equivalent from all sources": -0.08100442245,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.02879407003,
+        "CO2 equivalent from all sources": 0.1244356504,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.02642422917,
+        "CO2 equivalent from all sources": 0.06031308186,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.2922922359,
+        "CO2 equivalent from all sources": -0.06214789944,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.008309416586999999,
+        "CO2 equivalent from all sources": -0.00039995127400000005,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.0014829989720000001,
+        "CO2 equivalent from all sources": 0.000232565465,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.004638908220000001,
+        "CO2 equivalent from all sources": 0.04357067074,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.001638797283,
+        "CO2 equivalent from all sources": -0.002821417048,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.001169976518,
+        "CO2 equivalent from all sources": -0.00000628,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.05563314875,
+        "CO2 equivalent from all sources": 0.3953485686,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.06499144174,
+        "CO2 equivalent from all sources": -0.001625456066,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.002148868903,
+        "CO2 equivalent from all sources": -0.0017384300280000001,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.01445388886,
+        "CO2 equivalent from all sources": -0.009028534969000001,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.07047698095,
+        "CO2 equivalent from all sources": -0.1214294496,
+        "location": "USA"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.000690266849,
+        "CO2 equivalent from all sources": 0.04345479886,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.02010899766,
+        "CO2 equivalent from all sources": 0.5254996542,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0,
+        "CO2 equivalent from all sources": 0.1688139795,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.17619353950000002,
+        "CO2 equivalent from all sources": 0.06344184019,
+        "location": "IND"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.001264927197,
+        "CO2 equivalent from all sources": -0.000869584467,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.00010527756100000001,
+        "CO2 equivalent from all sources": -0.00211444392,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.02296632593,
+        "CO2 equivalent from all sources": -0.0127526452,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.9697314803189999,
+        "CO2 equivalent from all sources": 1.357312581385,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.010959484850000001,
+        "CO2 equivalent from all sources": 0.13012638799999998,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.01603691989,
+        "CO2 equivalent from all sources": -0.0375787133,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.000950422866,
+        "CO2 equivalent from all sources": -0.001798422863,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.006384900644,
+        "CO2 equivalent from all sources": -0.003676012655,
+        "location": "COL"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.1032941045,
+        "CO2 equivalent from all sources": 0.07785155070000001,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.016909960850000003,
+        "CO2 equivalent from all sources": 0.06656222861000001,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2040,
+        "CO2 from crops": 0.01437137201,
+        "CO2 equivalent from all sources": -0.00334673246,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.0071010827120000005,
+        "CO2 equivalent from all sources": -0.0906034123,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.03045656687,
+        "CO2 equivalent from all sources": 0.1799998101,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.028088494329999998,
+        "CO2 equivalent from all sources": 0.06115246709,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.2857456007,
+        "CO2 equivalent from all sources": -0.07731288446000001,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.008309416586999999,
+        "CO2 equivalent from all sources": -0.00039995127400000005,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.001470845731,
+        "CO2 equivalent from all sources": 0.0000045288722355228795,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.004697070697,
+        "CO2 equivalent from all sources": 0.03604253783,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.0016730945129999999,
+        "CO2 equivalent from all sources": -0.002909415379,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.001169976518,
+        "CO2 equivalent from all sources": -0.000022116765,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.056412378779999994,
+        "CO2 equivalent from all sources": 0.3878438737,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.06489963641999999,
+        "CO2 equivalent from all sources": -0.007018981868,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.002292672954,
+        "CO2 equivalent from all sources": -0.0017384300280000001,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.01431412746,
+        "CO2 equivalent from all sources": -0.01037774071,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.06741794729999999,
+        "CO2 equivalent from all sources": -0.1862681958,
+        "location": "USA"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.000742696955,
+        "CO2 equivalent from all sources": 0.04153907673,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.001234389639,
+        "CO2 equivalent from all sources": -0.001037236916,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.02115804054,
+        "CO2 equivalent from all sources": 0.3245641224,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0,
+        "CO2 equivalent from all sources": 0.14752261290000002,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.1817769499,
+        "CO2 equivalent from all sources": 0.05239712917,
+        "location": "IND"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.01007617048,
+        "CO2 equivalent from all sources": 0.1355304565,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.02296632593,
+        "CO2 equivalent from all sources": -0.01510054663,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.00011196835600000001,
+        "CO2 equivalent from all sources": -0.0008761634299999999,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.980553517418,
+        "CO2 equivalent from all sources": 1.01524644999724,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.000930881308,
+        "CO2 equivalent from all sources": -0.001962522165,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.0160082274,
+        "CO2 equivalent from all sources": -0.06200575672,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.006531035488,
+        "CO2 equivalent from all sources": -0.01065574016,
+        "location": "COL"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.1118858477,
+        "CO2 equivalent from all sources": 0.07902956742,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.01835929475,
+        "CO2 equivalent from all sources": 0.05150080865,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2045,
+        "CO2 from crops": 0.0147227774,
+        "CO2 equivalent from all sources": -0.01359144676,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.007119352441,
+        "CO2 equivalent from all sources": -0.1001991738,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.031024783230000002,
+        "CO2 equivalent from all sources": 0.02934243652,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.029800185689999998,
+        "CO2 equivalent from all sources": 0.0619976124,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.27697158780000003,
+        "CO2 equivalent from all sources": -0.09673311242,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.008309416586999999,
+        "CO2 equivalent from all sources": -0.00039995127400000005,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.0014537351970000001,
+        "CO2 equivalent from all sources": 0.00000459099143682909,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.004738803266,
+        "CO2 equivalent from all sources": 0.02007864075,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.001731001168,
+        "CO2 equivalent from all sources": -0.002869155322,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.001169976518,
+        "CO2 equivalent from all sources": -0.0000389,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.055985862840000004,
+        "CO2 equivalent from all sources": -0.04808194161,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.06471674159,
+        "CO2 equivalent from all sources": -0.008223901447,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.002419145437,
+        "CO2 equivalent from all sources": -0.0017384300280000001,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.01407891474,
+        "CO2 equivalent from all sources": -0.01174895134,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.06558107936,
+        "CO2 equivalent from all sources": -0.19520255839999998,
+        "location": "USA"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.001205008495,
+        "CO2 equivalent from all sources": -0.0012046651740000001,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.000793262369,
+        "CO2 equivalent from all sources": 0.03951056811,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.02296632593,
+        "CO2 equivalent from all sources": -0.017548289130000002,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.02186707446,
+        "CO2 equivalent from all sources": 0.1267594443,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.000110255483,
+        "CO2 equivalent from all sources": -0.002920615405,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.009829673472999999,
+        "CO2 equivalent from all sources": 0.1428360439,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0,
+        "CO2 equivalent from all sources": 0.1324911577,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.1866399485,
+        "CO2 equivalent from all sources": 0.046485256120000006,
+        "location": "IND"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.986938901077,
+        "CO2 equivalent from all sources": 0.104984802174437,
+        "location": "WORLD"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.000920375551,
+        "CO2 equivalent from all sources": -0.002134869567,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.006665908062,
+        "CO2 equivalent from all sources": -0.01252489877,
+        "location": "COL"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.015911925650000002,
+        "CO2 equivalent from all sources": -0.08575438843000001,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.1203715452,
+        "CO2 equivalent from all sources": 0.07755468535,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.019729145729999998,
+        "CO2 equivalent from all sources": 0.03929424658,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2050,
+        "CO2 from crops": 0.01482786631,
+        "CO2 equivalent from all sources": -0.024046078430000003,
+        "location": "R_NEU"
+      }
+    ],
+    "keys": [
+      "CO2 from crops",
+      "CO2 equivalent from all sources"
+    ],
+    "byCountry": true
+  },
+  {
+    "title": "Annual CO2 emissions from land use change and on-farm energy use by country",
+    "description": "annual CO2 emissions from land use change and on-farm energy use by source",
+    "axisY": "Gt CO2e",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "ARG": 0.008510628652999999,
+        "AUS": 0.00597383526,
+        "BRA": 0.012975379260000001,
+        "CAN": 0.01516457226,
+        "CHN": 0.20142925299999997,
+        "COL": 0.002376635325,
+        "DEU": 0.009307982608999999,
+        "DNK": 0.0033113391619999997,
+        "ETH": 0.0000988308668608123,
+        "FIN": 0.0019453328750000001,
+        "GBR": 0.004464984335,
+        "GRC": 0.0048502097190000005,
+        "IDN": 0.008497356837,
+        "IND": 0.09724414225,
+        "MEX": 0.09458922342000001,
+        "NOR": 0.001382934512,
+        "NPL": 0.00020137086600000001,
+        "R_ASP": 0.04738814762,
+        "R_CSA": 0.01603890518,
+        "R_NMC": 0.062128786320000004,
+        "R_NEU": 0.01528165484,
+        "R_OEU": 0.07857970168999999,
+        "R_SSA": 0.01708896917,
+        "RUS": 0.04345828288,
+        "RWA": 0.0000318441970970808,
+        "SWE": 0.000962424868,
+        "TUR": 0.01220845233,
+        "USA": 0.06968948152
+      },
+      {
+        "valueX": 2005,
+        "ARG": 0.19711809574,
+        "AUS": -0.006709807402,
+        "BRA": 1.3671877784,
+        "CAN": 0.20810467743,
+        "CHN": 0.29018281485999997,
+        "COL": -0.005604026526,
+        "DEU": 0.013357425785999999,
+        "DNK": 0.00368352336,
+        "ETH": 0.15664876164900002,
+        "FIN": 0.003275444352,
+        "GBR": 0.020214776820000002,
+        "GRC": 0.004409167104,
+        "IDN": 0.16878925615,
+        "IND": 0.105102034182,
+        "MEX": 0.11389633865,
+        "NOR": 0.001737964842,
+        "NPL": -0.0006389131699999999,
+        "R_ASP": 0.050341981914,
+        "R_CSA": 0.10059219487,
+        "R_NMC": 0.04359790868,
+        "R_NEU": 0.010184480488,
+        "R_OEU": 0.061922293370000006,
+        "R_SSA": 0.62543562591,
+        "RUS": 0.025478767207,
+        "RWA": 0.0021658888765994475,
+        "SWE": 0.004516040801,
+        "TUR": 0.016027847387,
+        "USA": 0.05946842283
+      },
+      {
+        "valueX": 2010,
+        "AUS": -0.042345730704,
+        "CAN": 0.019953338534,
+        "CHN": 0.31335015724,
+        "DEU": 0.011878099323,
+        "DNK": 0.003695352047,
+        "GBR": 0.019300856049,
+        "GRC": 0.0027979883189999995,
+        "NOR": 0.001166925478,
+        "R_NEU": 0.011170373819,
+        "R_OEU": 0.04083970028,
+        "RUS": 0.027016542786,
+        "SWE": 0.00011964799799999998,
+        "TUR": 0.015733218683,
+        "USA": 0.04435531058000001,
+        "RWA": 0.0007992454046300698,
+        "R_SSA": 0.57172812415,
+        "ETH": 0.044438397888,
+        "IND": 0.1068085273,
+        "COL": 0.018363557688,
+        "IDN": 0.31969081307600006,
+        "R_CSA": 0.13274340898,
+        "R_ASP": 0.13890545986,
+        "R_NMC": 0.08099523965,
+        "NPL": -0.001459968704,
+        "ARG": 0.07973864195,
+        "MEX": 0.10661589123,
+        "BRA": 0.45448922165000005,
+        "FIN": 0.002406641028
+      },
+      {
+        "valueX": 2015,
+        "ARG": 0.008320689877999998,
+        "AUS": -0.036017590909,
+        "BRA": 0.5846333593999999,
+        "CAN": 0.028887577418,
+        "CHN": 0.32632539855,
+        "DEU": 0.014365890160999997,
+        "DNK": 0.002211305196,
+        "FIN": 0.0014507530216870499,
+        "GBR": 0.01849109715,
+        "GRC": -0.0008392900299999998,
+        "NOR": 0.001099778451,
+        "R_NEU": 0.012394748312999998,
+        "R_OEU": 0.03724007017,
+        "RUS": 0.030963981509000003,
+        "SWE": -0.000322687081,
+        "TUR": 0.009160129736999999,
+        "USA": 0.05585149837,
+        "RWA": 0.0014425559959999998,
+        "R_SSA": 0.56146828942,
+        "IND": 0.140259183118,
+        "IDN": 0.1627236945,
+        "ETH": 0.039157419866,
+        "R_CSA": 0.07542805074,
+        "R_NMC": 0.080122478831,
+        "COL": 0.07175631363,
+        "R_ASP": 0.16146666353,
+        "NPL": 0.00009528899599999999,
+        "MEX": 0.11740036055
+      },
+      {
+        "valueX": 2020,
+        "AUS": -0.034443705196,
+        "CAN": 0.022479563458,
+        "CHN": 0.25449750291,
+        "DEU": 0.010909516406,
+        "DNK": 0.0015552537610000001,
+        "FIN": 0.0013614840417293795,
+        "GBR": 0.016479555577,
+        "GRC": -0.0012614545410000002,
+        "MEX": 0.11675434562,
+        "NOR": 0.001448491128,
+        "R_OEU": 0.037590442970000006,
+        "RUS": 0.025099552871,
+        "SWE": -0.00045190846699999987,
+        "TUR": 0.013560460348999999,
+        "USA": 0.10650889494999999,
+        "RWA": -0.00008679098599999999,
+        "R_SSA": 0.33383250471,
+        "ETH": 0.052996295805999995,
+        "IND": 0.149398823917,
+        "IDN": 0.06813118351,
+        "R_CSA": -0.007226067789999999,
+        "R_NMC": 0.09301477273,
+        "COL": 0.067991289782,
+        "NPL": 0.027463247519999998,
+        "BRA": 0.37428959163000003,
+        "R_ASP": 0.07411704142,
+        "ARG": -0.022662737829999995,
+        "R_NEU": 0.011745381131
+      },
+      {
+        "valueX": 2025,
+        "AUS": -0.051956114834000006,
+        "CAN": 0.07530982596000001,
+        "CHN": 0.23830592207999998,
+        "DEU": 0.018565847277,
+        "FIN": 0.0016184741740000001,
+        "GBR": 0.06966161635,
+        "GRC": -0.0005510849,
+        "MEX": 0.13051831832,
+        "NOR": 0.001095576518,
+        "R_OEU": 0.09112828977999998,
+        "RUS": 0.017921752938,
+        "SWE": -0.00027771056800000014,
+        "TUR": 0.008693548564,
+        "USA": 0.23740761596,
+        "R_SSA": 0.19012855048,
+        "ETH": 0.034188651887,
+        "IND": 0.19212735692,
+        "RWA": 0.001133246408,
+        "R_CSA": 0.08243476591,
+        "R_NMC": 0.12099406715,
+        "COL": 0.003300211271,
+        "IDN": 0.01077608448,
+        "NPL": -0.0005938452840000001,
+        "R_ASP": -0.003763745110000008,
+        "DNK": 0.0010326146939999999,
+        "ARG": 0.027609032240000005,
+        "R_NEU": 0.09508263312,
+        "BRA": 0.75733222019
+      },
+      {
+        "valueX": 2030,
+        "AUS": -0.06709587269000002,
+        "BRA": 0.38866326980000004,
+        "CAN": 0.08107607335,
+        "CHN": 0.28083943759,
+        "DEU": 0.007909465312999998,
+        "FIN": 0.001595696305,
+        "GBR": 0.051999008642,
+        "GRC": -0.0010292786159999997,
+        "NOR": 0.0011925151989354151,
+        "R_OEU": 0.06046137357099999,
+        "SWE": 0.000059484649999999844,
+        "TUR": 0.0076104148339999995,
+        "USA": 0.0592758431,
+        "ETH": 0.046965795546,
+        "R_SSA": 0.49969292784,
+        "IND": 0.23526181916,
+        "RWA": -0.0011189690680000002,
+        "IDN": 0.07373424441,
+        "R_CSA": 0.016925907696,
+        "R_NMC": 0.15815632376,
+        "COL": 0.004644023531,
+        "DNK": 0.0008086307600000001,
+        "NPL": -0.000560364076,
+        "ARG": 0.11647230296,
+        "RUS": 0.015416795383,
+        "R_ASP": 0.26661307965,
+        "MEX": 0.14081154479000002,
+        "R_NEU": 0.017407071325000002
+      },
+      {
+        "valueX": 2035,
+        "AUS": -0.071730046869,
+        "BRA": 0.27123498858,
+        "CAN": 0.08427211176,
+        "CHN": 0.25264686684000004,
+        "DEU": 0.007909465312999998,
+        "FIN": 0.001648207364,
+        "GBR": 0.049935699699,
+        "GRC": -0.001114365556,
+        "NOR": 0.0011753817561816996,
+        "R_OEU": 0.063392336882,
+        "SWE": 0.00024383480799999965,
+        "TUR": 0.006755921862999999,
+        "USA": 0.005639659570000011,
+        "ETH": 0.045169230121,
+        "R_SSA": 0.5439106280400001,
+        "IND": 0.23829658768,
+        "IDN": 0.12310241949999999,
+        "RWA": -0.001501590903,
+        "DNK": 0.000600628923,
+        "R_CSA": 0.00432573965,
+        "R_NMC": 0.16954925357,
+        "COL": 0.004849464368,
+        "NPL": -0.0006823783920000001,
+        "RUS": 0.01276307124,
+        "MEX": 0.15593312959000002,
+        "ARG": 0.10498482646,
+        "R_NEU": 0.02781876034,
+        "R_ASP": 0.37615686600000003
+      },
+      {
+        "valueX": 2040,
+        "AUS": -0.073964404321,
+        "BRA": 0.15322972043,
+        "CAN": 0.08673731103,
+        "CHN": 0.23014433646,
+        "DEU": 0.007909465312999998,
+        "FIN": 0.0017155644370000001,
+        "GBR": 0.04820957896,
+        "GRC": -0.001182619765,
+        "NOR": 0.001163696518,
+        "R_ASP": 0.45098171735000003,
+        "R_OEU": 0.06336598567400001,
+        "SWE": 0.0004104388749999997,
+        "TUR": 0.0054253538909999986,
+        "USA": -0.05095246865,
+        "ETH": 0.044145065708999995,
+        "R_SSA": 0.54560865186,
+        "IDN": 0.1688139795,
+        "IND": 0.23963537969000004,
+        "DNK": 0.0003953427299999999,
+        "RWA": -0.002009166359,
+        "RUS": 0.01021368073,
+        "MEX": 0.14108587285,
+        "R_CSA": -0.021541793409999996,
+        "NPL": -0.000847999997,
+        "COL": 0.0027088879889999996,
+        "R_NMC": 0.1811456552,
+        "ARG": 0.08347218946000001,
+        "R_NEU": 0.01102463955
+      },
+      {
+        "valueX": 2045,
+        "AUS": -0.08350232958800001,
+        "BRA": 0.21045637697,
+        "CAN": 0.08924096142,
+        "CHN": 0.20843271623999998,
+        "DEU": 0.007909465312999998,
+        "FIN": 0.001475374603235523,
+        "GBR": 0.040739608526999996,
+        "GRC": -0.0012363208660000002,
+        "NOR": 0.001147859753,
+        "R_ASP": 0.44425625248,
+        "R_OEU": 0.05788065455199999,
+        "SWE": 0.0005542429259999999,
+        "TUR": 0.00393638675,
+        "USA": -0.11885024850000002,
+        "ETH": 0.042281773684999996,
+        "DNK": 0.00019715272300000006,
+        "R_SSA": 0.34572216293999997,
+        "IDN": 0.14752261290000002,
+        "IND": 0.23417407907,
+        "MEX": 0.14560662698000001,
+        "RUS": 0.0078657793,
+        "RWA": -0.0007641950739999999,
+        "NPL": -0.0010316408570000002,
+        "R_CSA": -0.04599752932,
+        "COL": -0.004124704672,
+        "R_NMC": 0.19091541512,
+        "ARG": 0.0698601034,
+        "R_NEU": 0.001131330639999999
+      },
+      {
+        "valueX": 2050,
+        "AUS": -0.093079821359,
+        "BRA": 0.060367219750000006,
+        "CAN": 0.09179779809,
+        "CHN": 0.18023847538000004,
+        "DEU": 0.007909465312999998,
+        "FIN": 0.0014583261884368293,
+        "GBR": 0.024817444016,
+        "GRC": -0.001138154154,
+        "NOR": 0.001131076518,
+        "R_ASP": 0.007903921230000006,
+        "R_OEU": 0.056492840143,
+        "SWE": 0.000680715409,
+        "TUR": 0.002329963400000001,
+        "USA": -0.12962147904,
+        "DNK": 3.433209999998896e-7,
+        "ETH": 0.040303830479,
+        "RUS": 0.005418036799999998,
+        "R_SSA": 0.14862651876,
+        "RWA": -0.002810359922,
+        "MEX": 0.152665717373,
+        "IDN": 0.1324911577,
+        "IND": 0.23312520462000003,
+        "NPL": -0.001214494016,
+        "COL": -0.005858990708000001,
+        "R_CSA": -0.06984246278,
+        "R_NMC": 0.19792623055,
+        "ARG": 0.05902339230999999,
+        "R_NEU": -0.009218212120000003
+      }
+    ],
+    "keys": [
+      "ARG",
+      "AUS",
+      "BRA",
+      "CAN",
+      "CHN",
+      "COL",
+      "DEU",
+      "DNK",
+      "ETH",
+      "FIN",
+      "GBR",
+      "GRC",
+      "IDN",
+      "IND",
+      "MEX",
+      "NOR",
+      "NPL",
+      "RUS",
+      "RWA",
+      "SWE",
+      "TUR",
+      "USA",
+      "R_ASP",
+      "R_CSA",
+      "R_NEU",
+      "R_NMC",
+      "R_OEU",
+      "R_SSA"
+    ],
+    "byCountry": true,
+    "byMultipleCountry": true
+  },
+  {
+    "title": "Methane emissions from land use change and on-farm energy use by source",
+    "description": "methane emissions from land use change and on-farm energy use by source",
+    "axisY": "Mt CH4",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 2.884911936,
+        "CH4 from crops": 0.0534570484087981,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 2.339554243,
+        "CH4 from crops": 0.0505357567647841,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 10.13356957,
+        "CH4 from crops": 0.238816294,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 1.026082327,
+        "CH4 from crops": 0.00458178909893059,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 8.431026782,
+        "CH4 from crops": 5.556196608,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 1.501683166,
+        "CH4 from crops": 0.101901,
+        "location": "COL"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 1.497829997,
+        "CH4 from crops": 0.00203932436505063,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 0.262281234,
+        "CH4 from crops": 0.000958930286172401,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 1.228449737,
+        "CH4 from crops": 0.00115353284052486,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 0.105092626,
+        "CH4 from crops": 0.000258022779856026,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 1.10314576,
+        "CH4 from crops": 0.000340807594097476,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 0.118086377,
+        "CH4 from crops": 0.0104083345352737,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 0.670038494,
+        "CH4 from crops": 2.493903629,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 13.5656762,
+        "CH4 from crops": 4.722878698,
+        "location": "IND"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 1.846482,
+        "CH4 from crops": 0.0102008394510507,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 0.101581341,
+        "CH4 from crops": 0.000117254178225803,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 0.40791709,
+        "CH4 from crops": 0.163379176,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 4.46130144,
+        "CH4 from crops": 7.624519903,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 4.445476643,
+        "CH4 from crops": 0.397312455,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 4.479127932,
+        "CH4 from crops": 0.735053935,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 1.975976526,
+        "CH4 from crops": 0.00924606843599332,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 6.807308581,
+        "CH4 from crops": 0.201260485,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 5.548861511,
+        "CH4 from crops": 0.727191633,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 2.667492979,
+        "CH4 from crops": 0.0485765948437362,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 0.0303596166880445,
+        "CH4 from crops": 0.000302952983078828,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 0.157041455,
+        "CH4 from crops": 0.000151991116445105,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 0.540911753,
+        "CH4 from crops": 0.0170426437429818,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 7.292276092,
+        "CH4 from crops": 0.439544711,
+        "location": "USA"
+      },
+      {
+        "valueX": 2000,
+        "CH4 from livestock": 85.6295434086881,
+        "CH4 from crops": 23.611330418425,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 3.379949544,
+        "CH4 from crops": 0.0453322525347622,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 2.277418767,
+        "CH4 from crops": 0.0238990228024391,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 12.34393178,
+        "CH4 from crops": 0.255231629,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 1.162983173,
+        "CH4 from crops": 0.00464547308191277,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 7.749788568,
+        "CH4 from crops": 5.369327038,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 1.585964834,
+        "CH4 from crops": 0.0987418735748591,
+        "location": "COL"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 1.366335132,
+        "CH4 from crops": 0.00155924484520749,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 0.247351367,
+        "CH4 from crops": 0.00142018559505618,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 1.53718535,
+        "CH4 from crops": 0.000882299524883112,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 0.0970332592807736,
+        "CH4 from crops": 0.000265289630931785,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 1.032926856,
+        "CH4 from crops": 0.000331579333040899,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 0.117833438,
+        "CH4 from crops": 0.0115172594713525,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 0.674140276,
+        "CH4 from crops": 2.503902427,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 14.12776668,
+        "CH4 from crops": 4.612642064,
+        "location": "IND"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 1.878375544,
+        "CH4 from crops": 0.0071939661494744,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 0.0975093391770326,
+        "CH4 from crops": 0.00012116680919739,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 0.428468076,
+        "CH4 from crops": 0.161460546,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 4.744394797,
+        "CH4 from crops": 7.837872743,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 4.723461258,
+        "CH4 from crops": 0.427670285,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 5.057278025,
+        "CH4 from crops": 0.782375568,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 1.550127911,
+        "CH4 from crops": 0.00740815040072067,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 6.395274866,
+        "CH4 from crops": 0.202004168,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 6.162757988,
+        "CH4 from crops": 0.869249876,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 2.226992979,
+        "CH4 from crops": 0.0395124202060901,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 0.0437215185366092,
+        "CH4 from crops": 0.000980173171319795,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 0.150386115,
+        "CH4 from crops": 0.000236585943395703,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 0.48774502,
+        "CH4 from crops": 0.0246291459922949,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 7.099737396,
+        "CH4 from crops": 0.490174514,
+        "location": "USA"
+      },
+      {
+        "valueX": 2005,
+        "CH4 from livestock": 88.7468398569944,
+        "CH4 from crops": 23.7805869470669,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 2.08192773,
+        "CH4 from crops": 0.015332318,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.986832022,
+        "CH4 from crops": 0.00568586146681292,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 7.14543877,
+        "CH4 from crops": 5.602574397,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 1.341888239,
+        "CH4 from crops": 0.0016527354289511,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.245487162,
+        "CH4 from crops": 0.00118159310929595,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.961933066,
+        "CH4 from crops": 0.00022989596440467,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.118227407,
+        "CH4 from crops": 0.015378577,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.0926426052871348,
+        "CH4 from crops": 0.0000956958590764766,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 1.375132507,
+        "CH4 from crops": 0.0101465862192361,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 6.264504034,
+        "CH4 from crops": 0.225041531,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 2.04823944,
+        "CH4 from crops": 0.0574593644910148,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.143544105,
+        "CH4 from crops": 0.000250795688491961,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.500057821,
+        "CH4 from crops": 0.0286262812588068,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 7.084269912,
+        "CH4 from crops": 0.521561976,
+        "location": "USA"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.0598480377351745,
+        "CH4 from crops": 0.000919343611650567,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 7.176301588,
+        "CH4 from crops": 1.094341721,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 2.031576778,
+        "CH4 from crops": 0.00419253951220608,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 14.65053069,
+        "CH4 from crops": 4.52646669,
+        "location": "IND"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 1.688276462,
+        "CH4 from crops": 0.101008055,
+        "location": "COL"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.826462061,
+        "CH4 from crops": 2.494466707,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 4.912248246,
+        "CH4 from crops": 0.457604061,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 90.9423310897662,
+        "CH4 from crops": 24.8982889970274,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 5.08035832,
+        "CH4 from crops": 8.481132301,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 6.215643033,
+        "CH4 from crops": 0.676384342,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.447664415,
+        "CH4 from crops": 0.15513878,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 2.909226112,
+        "CH4 from crops": 0.0610691211544294,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 1.973912412,
+        "CH4 from crops": 0.00539787392732397,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 12.48687117,
+        "CH4 from crops": 0.354674953,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2010,
+        "CH4 from livestock": 0.0932869447438749,
+        "CH4 from crops": 0.000274900335658262,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 3.06181528,
+        "CH4 from crops": 0.0658691710588601,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 2.137654287,
+        "CH4 from crops": 0.0322219354618624,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 12.83765084,
+        "CH4 from crops": 0.417717191,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.927687195,
+        "CH4 from crops": 0.00569614363658335,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 6.778570025,
+        "CH4 from crops": 5.85409277,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 1.336128352,
+        "CH4 from crops": 0.00159593840974497,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.23965919,
+        "CH4 from crops": 0.000728360317372389,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.09234928,
+        "CH4 from crops": 0.000192371448047657,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.958356198,
+        "CH4 from crops": 0.000403171452846255,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.112166613,
+        "CH4 from crops": 0.0146899490850982,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.0907702408332306,
+        "CH4 from crops": 0.00010031557819338,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 1.300200741,
+        "CH4 from crops": 0.00577371015331111,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 6.277176584,
+        "CH4 from crops": 0.204109898,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 1.956737365,
+        "CH4 from crops": 0.0567806713961647,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.134960404,
+        "CH4 from crops": 0.00019119675266085,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.677691425,
+        "CH4 from crops": 0.0330232856226694,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 6.81027265,
+        "CH4 from crops": 0.382996923,
+        "location": "USA"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.0617624191986022,
+        "CH4 from crops": 0.00213006243705697,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 8.37777983,
+        "CH4 from crops": 1.227133016,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 14.67958706,
+        "CH4 from crops": 4.582348132,
+        "location": "IND"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.986635798,
+        "CH4 from crops": 2.4079535,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 2.216773643,
+        "CH4 from crops": 0.00638250625035233,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 5.170231114,
+        "CH4 from crops": 0.451059682,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 93.0739698040318,
+        "CH4 from crops": 24.8302953147604,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 6.732608198,
+        "CH4 from crops": 0.747269867,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 1.392595499,
+        "CH4 from crops": 0.113548826,
+        "location": "COL"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 5.232930532,
+        "CH4 from crops": 8.061563499,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 0.465221272,
+        "CH4 from crops": 0.149283243,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2015,
+        "CH4 from livestock": 2.027997769,
+        "CH4 from crops": 0.00543997869961242,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 1.851512463,
+        "CH4 from crops": 0.00991559640263242,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.932517637,
+        "CH4 from crops": 0.0048491909857592,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 6.546572916,
+        "CH4 from crops": 5.681754494,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 1.185310576,
+        "CH4 from crops": 0.0015659788701765,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.241523523,
+        "CH4 from crops": 0.000187113315647126,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.0853340295345464,
+        "CH4 from crops": 0.00017593122244553,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.934906803,
+        "CH4 from crops": 0.000414842925893248,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.10836885,
+        "CH4 from crops": 0.018238537,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 2.160497087,
+        "CH4 from crops": 0.00598540262892385,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.0927682293499654,
+        "CH4 from crops": 0.000108307712730088,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 6.163818594,
+        "CH4 from crops": 0.196663403,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 1.871978316,
+        "CH4 from crops": 0.0561398628998236,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.127700736,
+        "CH4 from crops": 0.000153058597525481,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.860163978,
+        "CH4 from crops": 0.0358265354906143,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 7.225543493,
+        "CH4 from crops": 0.434910062,
+        "location": "USA"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.0678174492190113,
+        "CH4 from crops": 0.00209737339399801,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 9.40373023,
+        "CH4 from crops": 1.457896941,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 2.76051909,
+        "CH4 from crops": 0.0087843952498771,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 15.06085342,
+        "CH4 from crops": 4.760045343,
+        "location": "IND"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 1.032964504,
+        "CH4 from crops": 2.2532463,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 5.196551788,
+        "CH4 from crops": 0.440299908,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 7.606741261,
+        "CH4 from crops": 0.812887221,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 96.1115862891035,
+        "CH4 from crops": 24.9646231332504,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 1.721145248,
+        "CH4 from crops": 0.135440497,
+        "location": "COL"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 0.484467568,
+        "CH4 from crops": 0.15285167,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 13.00736232,
+        "CH4 from crops": 0.328027477,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 4.986236919,
+        "CH4 from crops": 8.1084817,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 3.218529118,
+        "CH4 from crops": 0.052578812,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2020,
+        "CH4 from livestock": 1.176150143,
+        "CH4 from crops": 0.0050971785543173,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 1.932835527,
+        "CH4 from crops": 0.013499905,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 0.997161265,
+        "CH4 from crops": 0.00526494554961022,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 6.782938942,
+        "CH4 from crops": 5.787420088,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 1.059943726,
+        "CH4 from crops": 0.00135276544487855,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 0.0815358894781628,
+        "CH4 from crops": 0.000181467367388755,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 1.022528009,
+        "CH4 from crops": 0.000469014346047385,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 0.104105694,
+        "CH4 from crops": 0.0178990727607751,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 2.226530211,
+        "CH4 from crops": 0.0309617244231325,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 0.0924066064271117,
+        "CH4 from crops": 0.0000978959986030183,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 6.137412165,
+        "CH4 from crops": 0.190619301,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 1.839869224,
+        "CH4 from crops": 0.0423849164618624,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 0.19438475,
+        "CH4 from crops": 0.000174706510272597,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 0.88105821,
+        "CH4 from crops": 0.0380781091030516,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 7.400896222,
+        "CH4 from crops": 0.373421502,
+        "location": "USA"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 9.921058748,
+        "CH4 from crops": 1.463179686,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 3.040892048,
+        "CH4 from crops": 0.000117323141481962,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 15.57891947,
+        "CH4 from crops": 4.911114,
+        "location": "IND"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 0.110140443,
+        "CH4 from crops": 0.00200813638612202,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 5.497349736,
+        "CH4 from crops": 0.49823646,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 100.623333324905,
+        "CH4 from crops": 25.55512776584,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 8.373847672,
+        "CH4 from crops": 0.822864414,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 1.74091906,
+        "CH4 from crops": 0.126974605,
+        "location": "COL"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 1.051066541,
+        "CH4 from crops": 2.688353083,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 0.523598897,
+        "CH4 from crops": 0.136159275,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 5.099117592,
+        "CH4 from crops": 7.994409125,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 0.224193338,
+        "CH4 from crops": 0.000181698500866488,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 3.488722227,
+        "CH4 from crops": 0.0564645054502015,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 1.099852812,
+        "CH4 from crops": 0.00450436939570609,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2025,
+        "CH4 from livestock": 14.1200483,
+        "CH4 from crops": 0.348735671,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 1.988166482,
+        "CH4 from crops": 0.0139323061555004,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 15.06446775,
+        "CH4 from crops": 0.368951131,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 1.082870123,
+        "CH4 from crops": 0.00563939892714035,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 7.178454198,
+        "CH4 from crops": 5.848850547,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 1.015350766,
+        "CH4 from crops": 0.00135276544487855,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 0.0795903082500352,
+        "CH4 from crops": 0.000185610968154462,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 1.031581009,
+        "CH4 from crops": 0.000477345284166866,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 0.100902196,
+        "CH4 from crops": 0.0189080713934191,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 0.0904870653885401,
+        "CH4 from crops": 0.0000978959986030183,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 6.098648635,
+        "CH4 from crops": 0.188441382,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 0.216115724,
+        "CH4 from crops": 0.0002085117001436,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 0.890883506,
+        "CH4 from crops": 0.0394560641674319,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 7.381323698,
+        "CH4 from crops": 0.381106932,
+        "location": "USA"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 3.465228074,
+        "CH4 from crops": 0.000127912429969146,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 10.63368102,
+        "CH4 from crops": 1.558795667,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 16.02869146,
+        "CH4 from crops": 5.19062032,
+        "location": "IND"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 0.147204674,
+        "CH4 from crops": 0.00166398334998525,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 1.075675264,
+        "CH4 from crops": 2.560119922,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 105.877966325639,
+        "CH4 from crops": 26.1150531351598,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 5.745150905,
+        "CH4 from crops": 0.522037789,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 9.308646321,
+        "CH4 from crops": 0.890470071,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 1.773123669,
+        "CH4 from crops": 0.127776484,
+        "location": "COL"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 0.217429835,
+        "CH4 from crops": 0.000176889089837684,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 0.554605784,
+        "CH4 from crops": 0.123532089,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 3.561820667,
+        "CH4 from crops": 0.0545860909747993,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 1.81246405,
+        "CH4 from crops": 0.0340898700725336,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 5.720878657,
+        "CH4 from crops": 8.149823229,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 2.527272878,
+        "CH4 from crops": 0.0291425572554584,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2030,
+        "CH4 from livestock": 1.087251607,
+        "CH4 from crops": 0.00448229894773039,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 2.043835853,
+        "CH4 from crops": 0.0142568945790261,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 15.95811546,
+        "CH4 from crops": 0.386130548,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 1.173582484,
+        "CH4 from crops": 0.00601785550035991,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 7.517204309,
+        "CH4 from crops": 5.858385197,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 0.971579455,
+        "CH4 from crops": 0.00135276544487855,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 0.0772482878274991,
+        "CH4 from crops": 0.000190197186968218,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 1.038998789,
+        "CH4 from crops": 0.000484745777893051,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 0.0975022719859064,
+        "CH4 from crops": 0.0199598042452234,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 0.0887689597216238,
+        "CH4 from crops": 0.0000978959986030183,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 6.056752528,
+        "CH4 from crops": 0.186185386,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 0.22912667,
+        "CH4 from crops": 0.000231701633978309,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 0.895487388,
+        "CH4 from crops": 0.0408935034348568,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 7.216369266,
+        "CH4 from crops": 0.386711349,
+        "location": "USA"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 3.880478881,
+        "CH4 from crops": 0.000137443064960254,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 11.1303273,
+        "CH4 from crops": 1.649165966,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 16.32849647,
+        "CH4 from crops": 5.446872604,
+        "location": "IND"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 1.096412153,
+        "CH4 from crops": 2.471542413,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 0.155837514,
+        "CH4 from crops": 0.00115758095220089,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 0.209909428,
+        "CH4 from crops": 0.000172381121175733,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 110.643781299535,
+        "CH4 from crops": 26.5552320760002,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 5.919811682,
+        "CH4 from crops": 0.541000602,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 10.23213991,
+        "CH4 from crops": 0.958586435,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 1.808260324,
+        "CH4 from crops": 0.128052543,
+        "location": "COL"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 0.582559965,
+        "CH4 from crops": 0.113826522,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 1.783311199,
+        "CH4 from crops": 0.0283874726120893,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 2.918184896,
+        "CH4 from crops": 0.0269182672052301,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 3.61892075,
+        "CH4 from crops": 0.0526878478731201,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 1.061852618,
+        "CH4 from crops": 0.00445927636967636,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2035,
+        "CH4 from livestock": 6.552706488,
+        "CH4 from crops": 8.231366878,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 2.110528036,
+        "CH4 from crops": 0.0146545079589742,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 16.70203809,
+        "CH4 from crops": 0.403543031,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 1.26494418,
+        "CH4 from crops": 0.006406109,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 7.812205497,
+        "CH4 from crops": 5.829461939,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 0.928740753,
+        "CH4 from crops": 0.00135276544487855,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 0.07463196,
+        "CH4 from crops": 0.000195465224699731,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 1.045204666,
+        "CH4 from crops": 0.000491549111214896,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 0.0939211268552818,
+        "CH4 from crops": 0.0212521728048582,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 0.0871779472557898,
+        "CH4 from crops": 0.0000978959986030183,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 7.594905534,
+        "CH4 from crops": 8.268196427,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 5.999409915,
+        "CH4 from crops": 0.183415127,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 0.240812232,
+        "CH4 from crops": 0.000252659236236723,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 0.891311172,
+        "CH4 from crops": 0.0422251277780438,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 6.910264533,
+        "CH4 from crops": 0.391705575,
+        "location": "USA"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 4.289936352,
+        "CH4 from crops": 0.000146177454262621,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 11.34998826,
+        "CH4 from crops": 1.728142607,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 1.118088071,
+        "CH4 from crops": 2.434543775,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 16.45718155,
+        "CH4 from crops": 5.681762784,
+        "location": "IND"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 0.20184601,
+        "CH4 from crops": 0.000168162674406049,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 0.156638892,
+        "CH4 from crops": 0.000591077162003628,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 1.755359479,
+        "CH4 from crops": 0.0241213287973705,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 114.490716245111,
+        "CH4 from crops": 26.9295674817581,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 3.092330255,
+        "CH4 from crops": 0.0242899643625376,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 6.034191686,
+        "CH4 from crops": 0.556695295,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 0.606320392,
+        "CH4 from crops": 0.105868784,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 1.843735185,
+        "CH4 from crops": 0.127449513,
+        "location": "COL"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 11.13327264,
+        "CH4 from crops": 1.02724602,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 3.66003805,
+        "CH4 from crops": 0.0508839843800053,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2040,
+        "CH4 from livestock": 1.035693781,
+        "CH4 from crops": 0.00440765737002208,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 2.143790037,
+        "CH4 from crops": 0.0148818368627733,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 17.39319433,
+        "CH4 from crops": 0.419109931,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 1.355066589,
+        "CH4 from crops": 0.00680958195000501,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 8.065116232,
+        "CH4 from crops": 5.764694333,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 0.886891823,
+        "CH4 from crops": 0.00135276544487855,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 0.0718719784081404,
+        "CH4 from crops": 0.000193863378593146,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 1.047015259,
+        "CH4 from crops": 0.000497712137655464,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 0.0898192042795628,
+        "CH4 from crops": 0.0235579039954871,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 0.0857700797485134,
+        "CH4 from crops": 0.0000978959986030183,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 8.783963831,
+        "CH4 from crops": 8.310485792,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 5.923981769,
+        "CH4 from crops": 0.180092473,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 0.249592443,
+        "CH4 from crops": 0.000270748759304942,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 0.878687279,
+        "CH4 from crops": 0.0434390176016823,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 6.479077884,
+        "CH4 from crops": 0.401940643,
+        "location": "USA"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 4.693549892,
+        "CH4 from crops": 0.000154190274949008,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 0.193227414,
+        "CH4 from crops": 0.00016410293300744,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 12.2131674,
+        "CH4 from crops": 1.843225342,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 1.137978342,
+        "CH4 from crops": 2.563431206,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 16.41034537,
+        "CH4 from crops": 5.870938276,
+        "location": "IND"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 3.270800864,
+        "CH4 from crops": 0.0213004724764866,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 1.729742429,
+        "CH4 from crops": 0.0208637931259256,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 0.168685708,
+        "CH4 from crops": 0.000632334297239704,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 118.537911454436,
+        "CH4 from crops": 27.4310820948563,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 0.627813788,
+        "CH4 from crops": 0.0994328157393054,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 6.085015515,
+        "CH4 from crops": 0.569072924,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 1.881896367,
+        "CH4 from crops": 0.125804781,
+        "location": "COL"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 11.98182515,
+        "CH4 from crops": 1.094596096,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 3.681716595,
+        "CH4 from crops": 0.0496946977503738,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2045,
+        "CH4 from livestock": 1.008307882,
+        "CH4 from crops": 0.0043465651300738,
+        "location": "R_NEU"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 2.166449649,
+        "CH4 from crops": 0.0150107088276955,
+        "location": "AUS"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 17.78325053,
+        "CH4 from crops": 0.432108646,
+        "location": "BRA"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 1.445142976,
+        "CH4 from crops": 0.0072245526664205,
+        "location": "CAN"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 8.254215233,
+        "CH4 from crops": 5.649639454,
+        "location": "CHN"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.845536025,
+        "CH4 from crops": 0.00135276544487855,
+        "location": "DEU"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.0690854137959476,
+        "CH4 from crops": 0.000191608141524117,
+        "location": "FIN"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 1.031509141,
+        "CH4 from crops": 0.000502134214142438,
+        "location": "GBR"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.0853456448678917,
+        "CH4 from crops": 0.0263664904146747,
+        "location": "GRC"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.0845610787765758,
+        "CH4 from crops": 0.0000978959986030183,
+        "location": "NOR"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 8.754048826,
+        "CH4 from crops": 8.305407086,
+        "location": "R_ASP"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 5.831734083,
+        "CH4 from crops": 0.176283527,
+        "location": "R_OEU"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.249869065,
+        "CH4 from crops": 0.000286658094920603,
+        "location": "SWE"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.857406823,
+        "CH4 from crops": 0.0444617749737633,
+        "location": "TUR"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 6.385878984,
+        "CH4 from crops": 0.409968863,
+        "location": "USA"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.184281484,
+        "CH4 from crops": 0.00016019692814749,
+        "location": "DNK"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 5.080321151,
+        "CH4 from crops": 0.000161237046766839,
+        "location": "ETH"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 1.702947913,
+        "CH4 from crops": 0.0183018005075966,
+        "location": "RUS"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 12.9960173,
+        "CH4 from crops": 1.934334313,
+        "location": "R_SSA"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.17637664,
+        "CH4 from crops": 0.000617967004043481,
+        "location": "RWA"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 3.462929396,
+        "CH4 from crops": 0.0203304314635376,
+        "location": "MEX"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 1.15715704,
+        "CH4 from crops": 2.691280862,
+        "location": "IDN"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 16.20864183,
+        "CH4 from crops": 6.036332242,
+        "location": "IND"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 120.87608042444,
+        "CH4 from crops": 27.7771261901362,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 93.07,
+            "byYear": 2050
+          },
+          {
+            "value": 101.07,
+            "byYear": 2030
+          }
+        ]
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.648571961,
+        "CH4 from crops": 0.0943310924609168,
+        "location": "NPL"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 1.926149066,
+        "CH4 from crops": 0.123459142,
+        "location": "COL"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 6.069733771,
+        "CH4 from crops": 0.577594706,
+        "location": "R_CSA"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 12.74571735,
+        "CH4 from crops": 1.158495541,
+        "location": "R_NMC"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 3.694236374,
+        "CH4 from crops": 0.0485665655105968,
+        "location": "ARG"
+      },
+      {
+        "valueX": 2050,
+        "CH4 from livestock": 0.978965676,
+        "CH4 from crops": 0.00425792843800017,
+        "location": "R_NEU"
+      }
+    ],
+    "keys": [
+      "CH4 from livestock",
+      "CH4 from crops"
+    ],
+    "byCountry": true,
+    "withTarget": true
+  },
+  {
+    "title": "Annual GHG emissions from crops and livestock in Gt CO2e by country",
+    "description": "annual GHG emissions from crops and livestock in Gt CO2e by country",
+    "axisY": "Gt CO2e",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "valueX": 2000,
+        "ARG": 117.6836824,
+        "AUS": 109.1415451,
+        "BRA": 414.3086944,
+        "CAN": 63.60133322,
+        "CHN": 839.2249157,
+        "COL": 58.29243091,
+        "DEU": 69.96117703,
+        "DNK": 14.23077439,
+        "ETH": 51.06513127,
+        "FIN": 6.545756153,
+        "GBR": 48.36069345,
+        "GRC": 11.81115483,
+        "IDN": 109.8299719,
+        "IND": 738.4120315,
+        "MEX": 83.14017756,
+        "NOR": 5.205024468,
+        "NPL": 18.50652888,
+        "R_ASP": 463.9657507,
+        "R_CSA": 195.3196699,
+        "R_NMC": 283.434261,
+        "R_NEU": 87.615396,
+        "R_OEU": 389.9135841,
+        "R_SSA": 285.4730832,
+        "RUS": 146.8291638,
+        "RWA": 1.365430286,
+        "SWE": 7.059526217,
+        "TUR": 47.50989752,
+        "USA": 423.099479
+      },
+      {
+        "valueX": 2005,
+        "ARG": 143.4276547,
+        "AUS": 102.8512573,
+        "BRA": 507.4407541,
+        "CAN": 67.97529695,
+        "CHN": 870.2660095,
+        "COL": 62.91573327,
+        "DEU": 61.33916804,
+        "DNK": 13.33076574,
+        "ETH": 63.88086691,
+        "FIN": 6.153173712,
+        "GBR": 43.46349169,
+        "GRC": 11.64641921,
+        "IDN": 114.2797714,
+        "IND": 786.6269474,
+        "MEX": 89.1418793,
+        "NOR": 5.174538743,
+        "NPL": 18.8761896,
+        "R_ASP": 488.3684592,
+        "R_CSA": 218.9074028,
+        "R_NMC": 321.2490087,
+        "R_NEU": 75.25318083,
+        "R_OEU": 361.0422097,
+        "R_SSA": 316.438558,
+        "RUS": 120.9276438,
+        "RWA": 2.02744227,
+        "SWE": 7.618039823,
+        "TUR": 47.84802891,
+        "USA": 415.9493281
+      },
+      {
+        "valueX": 2010,
+        "AUS": 97.49752463,
+        "CAN": 65.79779902,
+        "CHN": 933.8192729,
+        "DEU": 62.5522377,
+        "DNK": 12.99004781,
+        "GBR": 41.65042271,
+        "GRC": 10.45959366,
+        "NOR": 4.454574777,
+        "R_NEU": 77.27278541,
+        "R_OEU": 329.6694883,
+        "RUS": 108.0539844,
+        "SWE": 7.157385817,
+        "TUR": 51.94866718,
+        "USA": 362.8976781,
+        "RWA": 2.742611184,
+        "R_SSA": 369.1307117,
+        "ETH": 85.61565862,
+        "IND": 818.0312517,
+        "COL": 68.87640585,
+        "IDN": 111.6515136,
+        "R_CSA": 224.2652229,
+        "R_ASP": 523.649525,
+        "R_NMC": 361.4779053,
+        "NPL": 19.68616871,
+        "ARG": 120.8446131,
+        "MEX": 93.42339971,
+        "BRA": 521.5495656,
+        "FIN": 5.88382176
+      },
+      {
+        "valueX": 2015,
+        "ARG": 129.8665243,
+        "AUS": 102.8978373,
+        "BRA": 542.8945553,
+        "CAN": 72.32525586,
+        "CHN": 1019.236836,
+        "DEU": 62.33141441,
+        "DNK": 12.22238139,
+        "FIN": 5.397505312,
+        "GBR": 43.06558989,
+        "GRC": 7.315935534,
+        "NOR": 4.436476842,
+        "R_NEU": 77.44785048,
+        "R_OEU": 337.3138452,
+        "RUS": 105.2611184,
+        "SWE": 6.174158895,
+        "TUR": 54.16329815,
+        "USA": 340.1506473,
+        "RWA": 3.131255195,
+        "R_SSA": 429.8480413,
+        "IND": 848.4916888,
+        "IDN": 115.8014219,
+        "ETH": 95.15258139,
+        "R_CSA": 229.4263177,
+        "R_NMC": 393.4269922,
+        "COL": 58.53531683,
+        "R_ASP": 528.8974243,
+        "NPL": 20.85881968,
+        "MEX": 100.8650709
+      },
+      {
+        "valueX": 2020,
+        "AUS": 87.6316318,
+        "CAN": 75.69816071,
+        "CHN": 978.8570668,
+        "DEU": 55.54668519,
+        "DNK": 11.34018618,
+        "FIN": 5.086082045,
+        "GBR": 40.79698292,
+        "GRC": 6.903080574,
+        "MEX": 102.4830339,
+        "NOR": 4.882207902,
+        "R_OEU": 335.4408613,
+        "RUS": 107.3951953,
+        "SWE": 5.893904508,
+        "TUR": 68.68566424,
+        "USA": 349.0308161,
+        "RWA": 3.46674123,
+        "R_SSA": 487.2548939,
+        "ETH": 118.6760685,
+        "IND": 900.083775,
+        "IDN": 121.0272876,
+        "R_CSA": 228.4166145,
+        "R_NMC": 435.5897374,
+        "COL": 73.07647094,
+        "NPL": 23.9276134,
+        "BRA": 559.6494758,
+        "R_ASP": 525.2860826,
+        "ARG": 136.5043275,
+        "R_NEU": 78.26405867
+      },
+      {
+        "valueX": 2025,
+        "AUS": 93.3594972,
+        "CAN": 80.72739361,
+        "CHN": 982.3681705,
+        "DEU": 48.97630922,
+        "FIN": 5.046880077,
+        "GBR": 44.46307107,
+        "GRC": 7.080765966,
+        "MEX": 107.5678778,
+        "NOR": 4.68562409,
+        "R_OEU": 339.2114924,
+        "RUS": 106.263881,
+        "SWE": 8.404837539,
+        "TUR": 65.81520531,
+        "USA": 357.0969613,
+        "R_SSA": 516.9142406,
+        "ETH": 130.655646,
+        "IND": 928.3804446,
+        "RWA": 5.851014253,
+        "R_CSA": 242.0625524,
+        "R_NMC": 474.247509,
+        "COL": 73.8379085,
+        "IDN": 136.220545,
+        "NPL": 24.76424543,
+        "R_ASP": 522.7537079,
+        "DNK": 10.74198115,
+        "ARG": 147.6798399,
+        "R_NEU": 81.15721632,
+        "BRA": 614.17807
+      },
+      {
+        "valueX": 2030,
+        "AUS": 95.99194788,
+        "BRA": 658.4878973,
+        "CAN": 86.32597815,
+        "CHN": 999.6212547,
+        "DEU": 47.6035818,
+        "FIN": 5.045752333,
+        "GBR": 44.98824272,
+        "GRC": 7.068347918,
+        "NOR": 4.632501706,
+        "R_OEU": 338.7590116,
+        "SWE": 9.721179182,
+        "TUR": 66.00774744,
+        "USA": 360.1921633,
+        "ETH": 148.8891942,
+        "R_SSA": 560.3851916,
+        "IND": 966.5673721,
+        "RWA": 7.449121352,
+        "IDN": 134.0891104,
+        "R_CSA": 252.6521007,
+        "R_NMC": 527.6629691,
+        "COL": 75.44358385,
+        "DNK": 10.47213,
+        "NPL": 25.47130718,
+        "ARG": 154.3913536,
+        "RUS": 105.8362657,
+        "R_ASP": 550.3977018,
+        "MEX": 116.9486226,
+        "R_NEU": 81.63218767
+      },
+      {
+        "valueX": 2035,
+        "AUS": 98.54048071,
+        "BRA": 699.0185082,
+        "CAN": 92.02424485,
+        "CHN": 1008.453638,
+        "DEU": 46.22656976,
+        "FIN": 5.038194784,
+        "GBR": 45.44287572,
+        "GRC": 7.049984267,
+        "NOR": 4.585330155,
+        "R_OEU": 338.2014234,
+        "SWE": 10.50665965,
+        "TUR": 66.11110863,
+        "USA": 351.6481012,
+        "ETH": 166.7682284,
+        "R_SSA": 596.0320265,
+        "IND": 998.3864664,
+        "IDN": 132.7779063,
+        "RWA": 7.807945004,
+        "DNK": 10.18111178,
+        "R_CSA": 260.3917529,
+        "R_NMC": 581.6810771,
+        "COL": 77.14839422,
+        "NPL": 26.07704617,
+        "RUS": 105.2921719,
+        "MEX": 129.0204621,
+        "ARG": 160.3279428,
+        "R_NEU": 83.19401375,
+        "R_ASP": 583.2961209
+      },
+      {
+        "valueX": 2040,
+        "AUS": 101.627213,
+        "BRA": 732.214132,
+        "CAN": 97.77328113,
+        "CHN": 1011.014072,
+        "DEU": 44.87031246,
+        "FIN": 5.031334535,
+        "GBR": 45.84662783,
+        "GRC": 7.029716075,
+        "NOR": 4.541766816,
+        "R_ASP": 621.9996496,
+        "R_OEU": 336.9914164,
+        "SWE": 11.21707772,
+        "TUR": 65.74997398,
+        "USA": 335.9758612,
+        "ETH": 184.4406664,
+        "R_SSA": 620.6897715,
+        "IDN": 133.0924982,
+        "IND": 1022.980317,
+        "DNK": 9.876235332,
+        "RWA": 7.86078413,
+        "RUS": 104.838661,
+        "MEX": 133.1790067,
+        "R_CSA": 265.5687079,
+        "NPL": 26.70238248,
+        "COL": 78.8151731,
+        "R_NMC": 635.9272366,
+        "ARG": 165.3002539,
+        "R_NEU": 83.60665932
+      },
+      {
+        "valueX": 2045,
+        "AUS": 103.0325453,
+        "BRA": 765.4605441,
+        "CAN": 103.5131035,
+        "CHN": 1007.824666,
+        "DEU": 43.53567968,
+        "FIN": 4.923740014,
+        "GBR": 46.0759994,
+        "GRC": 7.011980374,
+        "NOR": 4.503495054,
+        "R_ASP": 665.8173806,
+        "R_OEU": 334.4901354,
+        "SWE": 11.78892575,
+        "TUR": 64.67605725,
+        "USA": 315.2693131,
+        "ETH": 201.892324,
+        "DNK": 9.554607422,
+        "R_SSA": 667.901398,
+        "IDN": 137.7941139,
+        "IND": 1038.25686,
+        "MEX": 137.0386538,
+        "RUS": 104.4669635,
+        "RWA": 8.393356175,
+        "NPL": 27.30657264,
+        "R_CSA": 268.2861879,
+        "COL": 80.46655408,
+        "R_NMC": 688.8895416,
+        "ARG": 169.3956418,
+        "R_NEU": 83.86815813
+      },
+      {
+        "valueX": 2050,
+        "AUS": 103.9197878,
+        "BRA": 783.5074252,
+        "CAN": 109.2439572,
+        "CHN": 996.2259613,
+        "DEU": 42.23245333,
+        "FIN": 4.805988422,
+        "GBR": 45.70135351,
+        "GRC": 7.03737213,
+        "NOR": 4.470912955,
+        "R_ASP": 662.6379893,
+        "R_OEU": 331.2589794,
+        "SWE": 12.05563059,
+        "TUR": 63.0929941,
+        "USA": 310.1202151,
+        "DNK": 9.222548354,
+        "ETH": 218.6707855,
+        "RUS": 104.0304642,
+        "R_SSA": 710.4991973,
+        "RWA": 8.675963643,
+        "MEX": 143.0379737,
+        "IDN": 142.4308727,
+        "IND": 1046.624065,
+        "NPL": 27.94202625,
+        "COL": 82.28305058,
+        "R_CSA": 268.3377417,
+        "R_NMC": 738.9550513,
+        "ARG": 172.930053,
+        "R_NEU": 83.1466868
+      }
+    ],
+    "keys": [
+      "ARG",
+      "AUS",
+      "BRA",
+      "CAN",
+      "CHN",
+      "COL",
+      "DEU",
+      "DNK",
+      "ETH",
+      "FIN",
+      "GBR",
+      "GRC",
+      "IDN",
+      "IND",
+      "MEX",
+      "NOR",
+      "NPL",
+      "RUS",
+      "RWA",
+      "SWE",
+      "TUR",
+      "USA",
+      "R_ASP",
+      "R_CSA",
+      "R_NEU",
+      "R_NMC",
+      "R_OEU",
+      "R_SSA"
+    ],
+    "byCountry": true,
+    "byMultipleCountry": true
+  },
+  {
+    "title": "Cummulative CO2 emissions",
+    "description": "",
+    "axisY": "Gt CO2 by 2050 ",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "location": "AUS",
+        "CO2 from LUC": -0.5232412147600001,
+        "CO2 from on-farm energy use": 0.047468919903000006,
+        "valueX": 2050
+      },
+      {
+        "location": "BRA",
+        "CO2 from LUC": 2.02778451462,
+        "CO2 from on-farm energy use": 0.18778887273,
+        "valueX": 2050
+      },
+      {
+        "location": "CAN",
+        "CO2 from LUC": 0.35679704512800003,
+        "CO2 from on-farm energy use": 0.17411659994,
+        "valueX": 2050
+      },
+      {
+        "location": "CHN",
+        "CO2 from LUC": -0.4178831966,
+        "CO2 from on-farm energy use": 2.0629884540999996,
+        "valueX": 2050
+      },
+      {
+        "location": "DEU",
+        "CO2 from LUC": 0.009547102029999997,
+        "CO2 from on-farm energy use": 0.05947558821799999,
+        "valueX": 2050
+      },
+      {
+        "location": "DNK",
+        "CO2 from LUC": -0.004515803712,
+        "CO2 from on-farm energy use": 0.009105770624,
+        "valueX": 2050
+      },
+      {
+        "location": "FIN",
+        "CO2 from LUC": 0.0009026914624017315,
+        "CO2 from on-farm energy use": 0.009970435651000002,
+        "valueX": 2050
+      },
+      {
+        "location": "GBR",
+        "CO2 from LUC": 0.27034691708999997,
+        "CO2 from on-farm energy use": 0.031495594681,
+        "valueX": 2050
+      },
+      {
+        "location": "GRC",
+        "CO2 from LUC": -0.018598826222,
+        "CO2 from on-farm energy use": 0.011085547824,
+        "valueX": 2050
+      },
+      {
+        "location": "MEX",
+        "CO2 from LUC": 0.9039016220999999,
+        "CO2 from on-farm energy use": 0.079473933423,
+        "valueX": 2050
+      },
+      {
+        "location": "NOR",
+        "CO2 from LUC": 0.00004032908811711488,
+        "CO2 from on-farm energy use": 0.008314268302000001,
+        "valueX": 2050
+      },
+      {
+        "location": "R_ASP",
+        "CO2 from LUC": 1.2319059981600002,
+        "CO2 from on-farm energy use": 0.38435913486000006,
+        "valueX": 2050
+      },
+      {
+        "location": "R_OEU",
+        "CO2 from LUC": -0.019666305428,
+        "CO2 from on-farm energy use": 0.449978229,
+        "valueX": 2050
+      },
+      {
+        "location": "RUS",
+        "CO2 from LUC": -0.06606561224799999,
+        "CO2 from on-farm energy use": 0.16076428151,
+        "valueX": 2050
+      },
+      {
+        "location": "SWE",
+        "CO2 from LUC": -0.012170872883000002,
+        "CO2 from on-farm energy use": 0.013389970515999999,
+        "valueX": 2050
+      },
+      {
+        "location": "TUR",
+        "CO2 from LUC": -0.053989091319,
+        "CO2 from on-farm energy use": 0.10230114097000001,
+        "valueX": 2050
+      },
+      {
+        "location": "USA",
+        "CO2 from LUC": -0.3949586577,
+        "CO2 from on-farm energy use": 0.50436647509,
+        "valueX": 2050
+      },
+      {
+        "location": "RWA",
+        "CO2 from LUC": -0.007948937361,
+        "CO2 from on-farm energy use": 0.0007911114570000001,
+        "valueX": 2050
+      },
+      {
+        "location": "ETH",
+        "CO2 from LUC": 0.30159638232,
+        "CO2 from on-farm energy use": 0.004454260913,
+        "valueX": 2050
+      },
+      {
+        "location": "R_SSA",
+        "CO2 from LUC": 2.476727787,
+        "CO2 from on-farm energy use": 0.13079415763,
+        "valueX": 2050
+      },
+      {
+        "location": "IDN",
+        "CO2 from LUC": 0.724571682,
+        "CO2 from on-farm energy use": 0,
+        "valueX": 2050
+      },
+      {
+        "location": "IND",
+        "CO2 from LUC": 0.34319459585699996,
+        "CO2 from on-farm energy use": 1.1788246552000001,
+        "valueX": 2050
+      },
+      {
+        "location": "R_CSA",
+        "CO2 from LUC": -0.151934149644,
+        "CO2 from on-farm energy use": 0.11101270960000002,
+        "valueX": 2050
+      },
+      {
+        "location": "R_NMC",
+        "CO2 from LUC": 0.44221306861,
+        "CO2 from on-farm energy use": 0.66948864947,
+        "valueX": 2050
+      },
+      {
+        "location": "WORLD",
+        "CO2 from LUC": 7.856981980269526,
+        "CO2 from on-farm energy use": 6.643177268375999,
+        "valueX": 2050,
+        "targets": [
+          {
+            "value": 40,
+            "byYear": 2050
+          }
+        ]
+      },
+      {
+        "location": "COL",
+        "CO2 from LUC": 0.030955492643000015,
+        "CO2 from on-farm energy use": 0.042554688918,
+        "valueX": 2050
+      },
+      {
+        "location": "NPL",
+        "CO2 from LUC": 0.015311550622,
+        "CO2 from on-farm energy use": 0.007220974275999999,
+        "valueX": 2050
+      },
+      {
+        "location": "ARG",
+        "CO2 from LUC": 0.3326593064800001,
+        "CO2 from on-farm energy use": 0.10609980252,
+        "valueX": 2050
+      },
+      {
+        "location": "R_NEU",
+        "CO2 from LUC": 0.05949856293599999,
+        "CO2 from on-farm energy use": 0.09549304105,
+        "valueX": 2050
+      }
+    ],
+    "keys": [
+      "CO2 from LUC",
+      "CO2 from on-farm energy use"
+    ],
+    "byCountry": true,
+    "withTarget": true
+  },
+  {
+    "title": "Agriculture emissions",
+    "description": "",
+    "axisY": "",
+    "axisX": "year",
+    "legend": [],
+    "data": [
+      {
+        "location": "AUS",
+        "CH4 from crops": 0.00040829128,
+        "N2O from crops": 0.01577625717,
+        "CO2 from crops": 0.007119352441,
+        "CH4 from livestock": 0.05892743046,
+        "N2O from livestock": 0.021956000769999998,
+        "valueX": 2050
+      },
+      {
+        "location": "BRA",
+        "CH4 from crops": 0.01175335516,
+        "N2O from crops": 0.07924012127999999,
+        "CO2 from crops": 0.031024783230000002,
+        "CH4 from livestock": 0.4837044144,
+        "N2O from livestock": 0.1777847511,
+        "valueX": 2050
+      },
+      {
+        "location": "CAN",
+        "CH4 from crops": 0.00019650783299999999,
+        "N2O from crops": 0.03301059502,
+        "CO2 from crops": 0.029800185689999998,
+        "CH4 from livestock": 0.03930788894,
+        "N2O from livestock": 0.008101468191000001,
+        "valueX": 2050
+      },
+      {
+        "location": "CHN",
+        "CH4 from crops": 0.15367019310000002,
+        "N2O from crops": 0.2680490008,
+        "CO2 from crops": 0.27697158780000003,
+        "CH4 from livestock": 0.22451465429999998,
+        "N2O from livestock": 0.08532479339,
+        "valueX": 2050
+      },
+      {
+        "location": "DEU",
+        "CH4 from crops": 0.0000367952201006966,
+        "N2O from crops": 0.0113600627,
+        "CO2 from crops": 0.008309416586999999,
+        "CH4 from livestock": 0.02299857989,
+        "N2O from livestock": 0.003377493582,
+        "valueX": 2050
+      },
+      {
+        "location": "FIN",
+        "CH4 from crops": 0.00000521174144945598,
+        "N2O from crops": 0.001203158767,
+        "CO2 from crops": 0.0014537351970000001,
+        "CH4 from livestock": 0.0018791232550000002,
+        "N2O from livestock": 0.000286550628,
+        "valueX": 2050
+      },
+      {
+        "location": "GBR",
+        "CH4 from crops": 0.0000136580506246743,
+        "N2O from crops": 0.007908035242,
+        "CO2 from crops": 0.004738803266,
+        "CH4 from livestock": 0.028057048640000002,
+        "N2O from livestock": 0.00532446268,
+        "valueX": 2050
+      },
+      {
+        "location": "GRC",
+        "CH4 from crops": 0.000717168539,
+        "N2O from crops": 0.001652316091,
+        "CO2 from crops": 0.001731001168,
+        "CH4 from livestock": 0.0023214015400000003,
+        "N2O from livestock": 0.000615484791,
+        "valueX": 2050
+      },
+      {
+        "location": "NOR",
+        "CH4 from crops": 0.0000026627711620021,
+        "N2O from crops": 0.0006024136919999999,
+        "CO2 from crops": 0.001169976518,
+        "CH4 from livestock": 0.002300061343,
+        "N2O from livestock": 0.000395798631,
+        "valueX": 2050
+      },
+      {
+        "location": "R_ASP",
+        "CH4 from crops": 0.2259070727,
+        "N2O from crops": 0.07349983979,
+        "CO2 from crops": 0.055985862840000004,
+        "CH4 from livestock": 0.23811012809999998,
+        "N2O from livestock": 0.07071331462000001,
+        "valueX": 2050
+      },
+      {
+        "location": "R_OEU",
+        "CH4 from crops": 0.004794911921,
+        "N2O from crops": 0.08148419794,
+        "CO2 from crops": 0.06471674159,
+        "CH4 from livestock": 0.1586231671,
+        "N2O from livestock": 0.0252254314,
+        "valueX": 2050
+      },
+      {
+        "location": "SWE",
+        "CH4 from crops": 0.00000779710018184039,
+        "N2O from crops": 0.002360192747,
+        "CO2 from crops": 0.002419145437,
+        "CH4 from livestock": 0.006796438578,
+        "N2O from livestock": 0.00109168053,
+        "valueX": 2050
+      },
+      {
+        "location": "TUR",
+        "CH4 from crops": 0.001209360279,
+        "N2O from crops": 0.01013661345,
+        "CO2 from crops": 0.01407891474,
+        "CH4 from livestock": 0.023321465580000002,
+        "N2O from livestock": 0.01434664006,
+        "valueX": 2050
+      },
+      {
+        "location": "USA",
+        "CH4 from crops": 0.01115115307,
+        "N2O from crops": 0.09606297374,
+        "CO2 from crops": 0.06558107936,
+        "CH4 from livestock": 0.17369590840000002,
+        "N2O from livestock": 0.03916309656,
+        "valueX": 2050
+      },
+      {
+        "location": "DNK",
+        "CH4 from crops": 0.00000435735644561174,
+        "N2O from crops": 0.002309036464,
+        "CO2 from crops": 0.001205008495,
+        "CH4 from livestock": 0.005012456373,
+        "N2O from livestock": 0.0006916896649999999,
+        "valueX": 2050
+      },
+      {
+        "location": "ETH",
+        "CH4 from crops": 0.00000438564767205802,
+        "N2O from crops": 0.01118501176,
+        "CO2 from crops": 0.000793262369,
+        "CH4 from livestock": 0.1381847353,
+        "N2O from livestock": 0.0685033904,
+        "valueX": 2050
+      },
+      {
+        "location": "RUS",
+        "CH4 from crops": 0.000497808974,
+        "N2O from crops": 0.02772894221,
+        "CO2 from crops": 0.02296632593,
+        "CH4 from livestock": 0.04632018324,
+        "N2O from livestock": 0.00682565552,
+        "valueX": 2050
+      },
+      {
+        "location": "R_SSA",
+        "CH4 from crops": 0.05261389331,
+        "N2O from crops": 0.07630510715,
+        "CO2 from crops": 0.02186707446,
+        "CH4 from livestock": 0.35349167060000003,
+        "N2O from livestock": 0.2062398968,
+        "valueX": 2050
+      },
+      {
+        "location": "RWA",
+        "CH4 from crops": 0.0000168087025099827,
+        "N2O from crops": 0.0008957289430000001,
+        "CO2 from crops": 0.000110255483,
+        "CH4 from livestock": 0.004797444604,
+        "N2O from livestock": 0.0028557259099999998,
+        "valueX": 2050
+      },
+      {
+        "location": "MEX",
+        "CH4 from crops": 0.000552987736,
+        "N2O from crops": 0.0115063144,
+        "CO2 from crops": 0.009829673472999999,
+        "CH4 from livestock": 0.09419167957999999,
+        "N2O from livestock": 0.02706010139,
+        "valueX": 2050
+      },
+      {
+        "location": "IDN",
+        "CH4 from crops": 0.07320283944,
+        "N2O from crops": 0.01566651606,
+        "CO2 from crops": 0,
+        "CH4 from livestock": 0.03147467148,
+        "N2O from livestock": 0.022086845719999998,
+        "valueX": 2050
+      },
+      {
+        "location": "IND",
+        "CH4 from crops": 0.164188237,
+        "N2O from crops": 0.18971949470000002,
+        "CO2 from crops": 0.1866399485,
+        "CH4 from livestock": 0.4408750577,
+        "N2O from livestock": 0.06520299383,
+        "valueX": 2050
+      },
+      {
+        "location": "WORLD",
+        "CH4 from crops": 0.755537832277146,
+        "N2O from crops": 1.229352905939,
+        "CO2 from crops": 0.986938901077,
+        "CH4 from livestock": 3.287829387633,
+        "N2O from livestock": 1.080380896746,
+        "valueX": 2050
+      },
+      {
+        "location": "NPL",
+        "CH4 from crops": 0.002565805715,
+        "N2O from crops": 0.003760029572,
+        "CO2 from crops": 0.000920375551,
+        "CH4 from livestock": 0.017641157339999998,
+        "N2O from livestock": 0.003054658072,
+        "valueX": 2050
+      },
+      {
+        "location": "COL",
+        "CH4 from crops": 0.0033580886740000003,
+        "N2O from crops": 0.009618740631,
+        "CO2 from crops": 0.006665908062,
+        "CH4 from livestock": 0.05239125461,
+        "N2O from livestock": 0.0125300841,
+        "valueX": 2050
+      },
+      {
+        "location": "R_CSA",
+        "CH4 from crops": 0.015710576,
+        "N2O from crops": 0.023978952069999997,
+        "CO2 from crops": 0.015911925650000002,
+        "CH4 from livestock": 0.16509675859999998,
+        "N2O from livestock": 0.0492489302,
+        "valueX": 2050
+      },
+      {
+        "location": "R_NMC",
+        "CH4 from crops": 0.03151107872,
+        "N2O from crops": 0.1092476932,
+        "CO2 from crops": 0.1203715452,
+        "CH4 from livestock": 0.34668351189999996,
+        "N2O from livestock": 0.13119642410000001,
+        "valueX": 2050
+      },
+      {
+        "location": "ARG",
+        "CH4 from crops": 0.001321010582,
+        "N2O from crops": 0.02728379732,
+        "CO2 from crops": 0.019729145729999998,
+        "CH4 from livestock": 0.1004832294,
+        "N2O from livestock": 0.027108524970000002,
+        "valueX": 2050
+      },
+      {
+        "location": "R_NEU",
+        "CH4 from crops": 0.000115815654,
+        "N2O from crops": 0.03780176303,
+        "CO2 from crops": 0.01482786631,
+        "CH4 from livestock": 0.02662786638,
+        "N2O from livestock": 0.004069009136,
+        "valueX": 2050
+      }
+    ],
+    "keys": [
+      "CH4 from crops",
+      "N2O from crops",
+      "CO2 from crops",
+      "CH4 from livestock",
+      "N2O from livestock"
+    ],
+    "byCountry": true,
+    "withTarget": true
+  }
+]

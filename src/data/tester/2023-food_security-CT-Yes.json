@@ -1,0 +1,4457 @@
+[
+  {
+    "title": "Prevalence of undernourishment in 2030",
+    "description": "The prevalence of unernourishment in 2030 based on each countries' 2020 population and inequalities characteristics",
+    "axisY": "Prevalence of undernourishment (%)",
+    "axisX": "country",
+    "legend": [
+      {
+        "key": "Computed",
+        "color": "hsl(240, 70%, 50%)",
+        "inLegend": true,
+        "inGraph": true
+      },
+      {
+        "key": "< 2.5",
+        "color": "#bfdcf8",
+        "type": "under",
+        "inLegend": true,
+        "description": "FAO considers national level PoU estimates lower than 2.5 percent as being insufficiently reliable to be reported"
+      },
+      {
+        "key": "Target",
+        "color": "red",
+        "type": "mark",
+        "inLegend": true,
+        "description": "Below 5% of the population"
+      },
+      {
+        "label": "Figure description",
+        "description": "The Prevalence of Undernourishment (PoU) is based on the distribution of habitual dietary energy consumption of hypothetical average individuals. The PoU calculates the probability that the habitual dietary energy consumption of individuals is below the lower limit of acceptable energy requirements to be in good health and have socially desirable physical activity."
+      }
+    ],
+    "data": [
+      {
+        "valueX": "ARG",
+        "computed": 3.51
+      },
+      {
+        "valueX": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": "BRA",
+        "computed": 2.5
+      },
+      {
+        "valueX": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": "COL",
+        "computed": 6.38
+      },
+      {
+        "valueX": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": "DNK",
+        "computed": 5.8
+      },
+      {
+        "valueX": "ETH",
+        "computed": 22.52
+      },
+      {
+        "valueX": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": "IDN",
+        "computed": 10.01
+      },
+      {
+        "valueX": "IND",
+        "computed": 14.92
+      },
+      {
+        "valueX": "MEX",
+        "computed": 3.02
+      },
+      {
+        "valueX": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": "NPL",
+        "computed": 5.14
+      },
+      {
+        "valueX": "RUS",
+        "computed": 3.32
+      },
+      {
+        "valueX": "RWA",
+        "computed": 12.47
+      },
+      {
+        "valueX": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": "R_ASP",
+        "computed": 3.16
+      },
+      {
+        "valueX": "R_CSA",
+        "computed": 7.470000000000001
+      },
+      {
+        "valueX": "R_NEU",
+        "computed": 3.02
+      },
+      {
+        "valueX": "R_NMC",
+        "computed": 6.77
+      },
+      {
+        "valueX": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": "R_SSA",
+        "computed": 20.82
+      }
+    ],
+    "keys": [
+      "computed"
+    ],
+    "withMarker": {
+      "value": 5
+    },
+    "withUnder": true,
+    "notes": "The prevalence of undernourishment assumes a lognormal distribution, defined by mean dietary energy consumption (DEC), CV (taken from the FAO and kept constant at 2020 levels), and MDER per capita"
+  },
+  {
+    "title": "Average daily intake per capita in 2030",
+    "description": "The average daily intake of calories per capita in 2030, based on the 2020 baseline scenario",
+    "axisY": "kcal / cap / day",
+    "axisX": "country",
+    "legend": [
+      {
+        "inLegend": false,
+        "label": "Figure description",
+        "description": "This figure compares the average per capita kilocalorie intake in countries and regions with their respective Minimum Dietary Energy Requirement (MDER). Our food security objective sets a target range of 10% to 50% above the MDER.\n              The average per capita kilocalorie intake reflects the food actually consumed, calculated after accounting for food waste. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, we target an average daily energy intake per capita that exceeds the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.\n              While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security."
+      },
+      {
+        "key": "Computed",
+        "color": "hsl(240, 70%, 50%)",
+        "inLegend": true,
+        "inGraph": true
+      },
+      {
+        "key": "Upper bound target",
+        "color": "#6de8b8",
+        "type": "upper",
+        "description": "50% above the MDER",
+        "inLegend": true
+      },
+      {
+        "key": "Lower bound target",
+        "color": "#ce9300",
+        "type": "lower",
+        "description": "10% above the MDER",
+        "inLegend": true
+      }
+    ],
+    "data": [
+      {
+        "valueX": "ARG",
+        "computed": 2959.20313,
+        "Upper bound target": 2887.117845450015,
+        "Lower bound target": 2117.2197533300114
+      },
+      {
+        "valueX": "AUS",
+        "computed": 2564.802321,
+        "Upper bound target": 2945.5597679661446,
+        "Lower bound target": 2160.077163175173
+      },
+      {
+        "valueX": "BRA",
+        "computed": 3119.331808,
+        "Upper bound target": 2918.7714162781353,
+        "Lower bound target": 2140.432371937299
+      },
+      {
+        "valueX": "CAN",
+        "computed": 3065.434484,
+        "Upper bound target": 2950.05188978559,
+        "Lower bound target": 2163.371385842766
+      },
+      {
+        "valueX": "CHN",
+        "computed": 2996.599876,
+        "Upper bound target": 2967.9380179824448,
+        "Lower bound target": 2176.487879853793
+      },
+      {
+        "valueX": "COL",
+        "computed": 2419.796456,
+        "Upper bound target": 2840.2113852804155,
+        "Lower bound target": 2082.821682538971
+      },
+      {
+        "valueX": "DEU",
+        "computed": 2862.403281,
+        "Upper bound target": 2957.496059615535,
+        "Lower bound target": 2168.8304437180586
+      },
+      {
+        "valueX": "DNK",
+        "computed": 2755.064389,
+        "Upper bound target": 2985.664349004285,
+        "Lower bound target": 2189.4871892698093
+      },
+      {
+        "valueX": "ETH",
+        "computed": 2623.205876,
+        "Upper bound target": 2607.75595587603,
+        "Lower bound target": 1912.354367642422
+      },
+      {
+        "valueX": "FIN",
+        "computed": 2736.202745,
+        "Upper bound target": 2978.870989245405,
+        "Lower bound target": 2184.505392113297
+      },
+      {
+        "valueX": "GBR",
+        "computed": 2825.395332,
+        "Upper bound target": 2932.902867053415,
+        "Lower bound target": 2150.795435839171
+      },
+      {
+        "valueX": "GRC",
+        "computed": 2708.265463,
+        "Upper bound target": 2973.32579203746,
+        "Lower bound target": 2180.438914160804
+      },
+      {
+        "valueX": "IDN",
+        "computed": 2515.739408,
+        "Upper bound target": 2748.815574259155,
+        "Lower bound target": 2015.798087790047
+      },
+      {
+        "valueX": "IND",
+        "computed": 2410.025079,
+        "Upper bound target": 2750.95044192045,
+        "Lower bound target": 2017.3636574083298
+      },
+      {
+        "valueX": "MEX",
+        "computed": 2724.642895,
+        "Upper bound target": 2820.0576468242402,
+        "Lower bound target": 2068.042274337776
+      },
+      {
+        "valueX": "NOR",
+        "computed": 2920.218197,
+        "Upper bound target": 2986.180874210685,
+        "Lower bound target": 2189.865974421169
+      },
+      {
+        "valueX": "NPL",
+        "computed": 2690.305719,
+        "Upper bound target": 2676.1837219827153,
+        "Lower bound target": 1962.534729453991
+      },
+      {
+        "valueX": "RUS",
+        "computed": 2768.933632,
+        "Upper bound target": 2928.1824683809655,
+        "Lower bound target": 2147.333810146041
+      },
+      {
+        "valueX": "RWA",
+        "computed": 2535.243033,
+        "Upper bound target": 2585.817966983805,
+        "Lower bound target": 1896.2665091214571
+      },
+      {
+        "valueX": "SWE",
+        "computed": 2787.024476,
+        "Upper bound target": 2970.693947295675,
+        "Lower bound target": 2178.508894683495
+      },
+      {
+        "valueX": "TUR",
+        "computed": 3575.17699,
+        "Upper bound target": 2901.8982518847897,
+        "Lower bound target": 2128.058718048846
+      },
+      {
+        "valueX": "USA",
+        "computed": 3006.753545,
+        "Upper bound target": 2917.863231580935,
+        "Lower bound target": 2139.766369826019
+      },
+      {
+        "valueX": "R_ASP",
+        "computed": 2705.534379,
+        "Upper bound target": 2800.42923526443,
+        "Lower bound target": 2053.648105860582
+      },
+      {
+        "valueX": "R_CSA",
+        "computed": 2430.044464,
+        "Upper bound target": 2820.749850737085,
+        "Lower bound target": 2068.549890540529
+      },
+      {
+        "valueX": "R_NEU",
+        "computed": 2594.557524,
+        "Upper bound target": 2980.92890836782,
+        "Lower bound target": 2186.014532803068
+      },
+      {
+        "valueX": "R_NMC",
+        "computed": 2753.134344,
+        "Upper bound target": 2756.965921288065,
+        "Lower bound target": 2021.7750089445808
+      },
+      {
+        "valueX": "R_OEU",
+        "computed": 3049.061816,
+        "Upper bound target": 2938.4249714797647,
+        "Lower bound target": 2154.844979085161
+      },
+      {
+        "valueX": "R_SSA",
+        "computed": 2356.97098,
+        "Upper bound target": 2813.470011127845,
+        "Lower bound target": 2063.211341493753
+      }
+    ],
+    "keys": [
+      "computed"
+    ],
+    "upperLower": true
+  },
+  {
+    "title": "Prevalence of undernourishment by country",
+    "description": "The evolution of prevalence of unernourishment by country based on the country's 2020 population and inequalities characteristics",
+    "axisY": "Prevalence of undernourishment (%)",
+    "axisX": "year",
+    "legend": [
+      {
+        "key": "Computed",
+        "color": "hsl(240, 70%, 50%)",
+        "inLegend": true,
+        "inGraph": true
+      },
+      {
+        "key": "< 2.5",
+        "color": "#bfdcf8",
+        "type": "under",
+        "inLegend": true,
+        "description": "FAO considers national level PoU estimates lower than 2.5 percent as being insufficiently reliable to be reported"
+      },
+      {
+        "key": "Target",
+        "color": "red",
+        "type": "mark",
+        "inLegend": true,
+        "description": "Below 5% of the population"
+      },
+      {
+        "label": "Figure description",
+        "description": "The Prevalence of Undernourishment (PoU) is based on the distribution of habitual dietary energy consumption of hypothetical average individuals. The PoU calculates the probability that the habitual dietary energy consumption of individuals is below the lower limit of acceptable energy requirements to be in good health and have socially desirable physical activity."
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "location": "ARG",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "BRA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "COL",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "DNK",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "ETH",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "IDN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "IND",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "MEX",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "NPL",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "R_ASP",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "R_CSA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "R_NMC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "R_NEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "R_SSA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "RUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "RWA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2000,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "ARG",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "BRA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "COL",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "DNK",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "ETH",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "IDN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "IND",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "MEX",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "NPL",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "R_ASP",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "R_CSA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "R_NMC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "R_NEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "R_SSA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "RUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "RWA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2005,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "DNK",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "R_NEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "RUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2010,
+        "location": "RWA",
+        "computed": 29.26
+      },
+      {
+        "valueX": 2010,
+        "location": "R_SSA",
+        "computed": 19.79
+      },
+      {
+        "valueX": 2010,
+        "location": "ETH",
+        "computed": 19.02
+      },
+      {
+        "valueX": 2010,
+        "location": "IND",
+        "computed": 16.04
+      },
+      {
+        "valueX": 2010,
+        "location": "COL",
+        "computed": 12.809999999999999
+      },
+      {
+        "valueX": 2010,
+        "location": "IDN",
+        "computed": 12.32
+      },
+      {
+        "valueX": 2010,
+        "location": "R_CSA",
+        "computed": 8.05
+      },
+      {
+        "valueX": 2010,
+        "location": "R_ASP",
+        "computed": 6.94
+      },
+      {
+        "valueX": 2010,
+        "location": "R_NMC",
+        "computed": 6.9
+      },
+      {
+        "valueX": 2010,
+        "location": "NPL",
+        "computed": 6.79
+      },
+      {
+        "valueX": 2010,
+        "location": "ARG",
+        "computed": 3.2799999999999994
+      },
+      {
+        "valueX": 2010,
+        "location": "MEX",
+        "computed": 3.27
+      },
+      {
+        "valueX": 2010,
+        "location": "BRA",
+        "computed": 3.12
+      },
+      {
+        "valueX": 2010,
+        "location": "FIN",
+        "computed": 2.76
+      },
+      {
+        "valueX": 2015,
+        "location": "ARG",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "BRA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "DNK",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "R_NEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "RUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2015,
+        "location": "RWA",
+        "computed": 27.42
+      },
+      {
+        "valueX": 2015,
+        "location": "R_SSA",
+        "computed": 21.44
+      },
+      {
+        "valueX": 2015,
+        "location": "IND",
+        "computed": 14.34
+      },
+      {
+        "valueX": 2015,
+        "location": "IDN",
+        "computed": 11.51
+      },
+      {
+        "valueX": 2015,
+        "location": "ETH",
+        "computed": 11.39
+      },
+      {
+        "valueX": 2015,
+        "location": "R_CSA",
+        "computed": 7.359999999999999
+      },
+      {
+        "valueX": 2015,
+        "location": "R_NMC",
+        "computed": 6.84
+      },
+      {
+        "valueX": 2015,
+        "location": "COL",
+        "computed": 5.84
+      },
+      {
+        "valueX": 2015,
+        "location": "R_ASP",
+        "computed": 4.73
+      },
+      {
+        "valueX": 2015,
+        "location": "NPL",
+        "computed": 4.71
+      },
+      {
+        "valueX": 2015,
+        "location": "MEX",
+        "computed": 3.4300000000000006
+      },
+      {
+        "valueX": 2020,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "DNK",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "MEX",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "RUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2020,
+        "location": "RWA",
+        "computed": 29.14
+      },
+      {
+        "valueX": 2020,
+        "location": "R_SSA",
+        "computed": 22.97
+      },
+      {
+        "valueX": 2020,
+        "location": "ETH",
+        "computed": 21.39
+      },
+      {
+        "valueX": 2020,
+        "location": "IND",
+        "computed": 15.17
+      },
+      {
+        "valueX": 2020,
+        "location": "IDN",
+        "computed": 9.57
+      },
+      {
+        "valueX": 2020,
+        "location": "R_CSA",
+        "computed": 8.69
+      },
+      {
+        "valueX": 2020,
+        "location": "R_NMC",
+        "computed": 8.36
+      },
+      {
+        "valueX": 2020,
+        "location": "COL",
+        "computed": 7.290000000000001
+      },
+      {
+        "valueX": 2020,
+        "location": "NPL",
+        "computed": 4.23
+      },
+      {
+        "valueX": 2020,
+        "location": "BRA",
+        "computed": 3.49
+      },
+      {
+        "valueX": 2020,
+        "location": "R_ASP",
+        "computed": 3.46
+      },
+      {
+        "valueX": 2020,
+        "location": "ARG",
+        "computed": 3.1300000000000003
+      },
+      {
+        "valueX": 2020,
+        "location": "R_NEU",
+        "computed": 2.72
+      },
+      {
+        "valueX": 2025,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "MEX",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "RUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2025,
+        "location": "R_SSA",
+        "computed": 22.13
+      },
+      {
+        "valueX": 2025,
+        "location": "ETH",
+        "computed": 21.92
+      },
+      {
+        "valueX": 2025,
+        "location": "IND",
+        "computed": 15.15
+      },
+      {
+        "valueX": 2025,
+        "location": "RWA",
+        "computed": 15.15
+      },
+      {
+        "valueX": 2025,
+        "location": "R_CSA",
+        "computed": 8.16
+      },
+      {
+        "valueX": 2025,
+        "location": "R_NMC",
+        "computed": 7.519999999999999
+      },
+      {
+        "valueX": 2025,
+        "location": "COL",
+        "computed": 6.819999999999999
+      },
+      {
+        "valueX": 2025,
+        "location": "IDN",
+        "computed": 6.25
+      },
+      {
+        "valueX": 2025,
+        "location": "NPL",
+        "computed": 4.82
+      },
+      {
+        "valueX": 2025,
+        "location": "R_ASP",
+        "computed": 3.52
+      },
+      {
+        "valueX": 2025,
+        "location": "DNK",
+        "computed": 3.47
+      },
+      {
+        "valueX": 2025,
+        "location": "ARG",
+        "computed": 3.36
+      },
+      {
+        "valueX": 2025,
+        "location": "R_NEU",
+        "computed": 2.85
+      },
+      {
+        "valueX": 2025,
+        "location": "BRA",
+        "computed": 2.74
+      },
+      {
+        "valueX": 2030,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "BRA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2030,
+        "location": "ETH",
+        "computed": 22.52
+      },
+      {
+        "valueX": 2030,
+        "location": "R_SSA",
+        "computed": 20.82
+      },
+      {
+        "valueX": 2030,
+        "location": "IND",
+        "computed": 14.92
+      },
+      {
+        "valueX": 2030,
+        "location": "RWA",
+        "computed": 12.47
+      },
+      {
+        "valueX": 2030,
+        "location": "IDN",
+        "computed": 10.01
+      },
+      {
+        "valueX": 2030,
+        "location": "R_CSA",
+        "computed": 7.470000000000001
+      },
+      {
+        "valueX": 2030,
+        "location": "R_NMC",
+        "computed": 6.77
+      },
+      {
+        "valueX": 2030,
+        "location": "COL",
+        "computed": 6.38
+      },
+      {
+        "valueX": 2030,
+        "location": "DNK",
+        "computed": 5.8
+      },
+      {
+        "valueX": 2030,
+        "location": "NPL",
+        "computed": 5.14
+      },
+      {
+        "valueX": 2030,
+        "location": "ARG",
+        "computed": 3.51
+      },
+      {
+        "valueX": 2030,
+        "location": "RUS",
+        "computed": 3.32
+      },
+      {
+        "valueX": 2030,
+        "location": "R_ASP",
+        "computed": 3.16
+      },
+      {
+        "valueX": 2030,
+        "location": "MEX",
+        "computed": 3.02
+      },
+      {
+        "valueX": 2030,
+        "location": "R_NEU",
+        "computed": 3.02
+      },
+      {
+        "valueX": 2035,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "BRA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2035,
+        "location": "ETH",
+        "computed": 23.27
+      },
+      {
+        "valueX": 2035,
+        "location": "R_SSA",
+        "computed": 19.53
+      },
+      {
+        "valueX": 2035,
+        "location": "IND",
+        "computed": 14.67
+      },
+      {
+        "valueX": 2035,
+        "location": "IDN",
+        "computed": 13.36
+      },
+      {
+        "valueX": 2035,
+        "location": "RWA",
+        "computed": 12.26
+      },
+      {
+        "valueX": 2035,
+        "location": "DNK",
+        "computed": 9.08
+      },
+      {
+        "valueX": 2035,
+        "location": "R_CSA",
+        "computed": 6.69
+      },
+      {
+        "valueX": 2035,
+        "location": "R_NMC",
+        "computed": 5.99
+      },
+      {
+        "valueX": 2035,
+        "location": "COL",
+        "computed": 5.98
+      },
+      {
+        "valueX": 2035,
+        "location": "NPL",
+        "computed": 5.52
+      },
+      {
+        "valueX": 2035,
+        "location": "RUS",
+        "computed": 5.37
+      },
+      {
+        "valueX": 2035,
+        "location": "MEX",
+        "computed": 4.54
+      },
+      {
+        "valueX": 2035,
+        "location": "ARG",
+        "computed": 3.6000000000000005
+      },
+      {
+        "valueX": 2035,
+        "location": "R_NEU",
+        "computed": 3.07
+      },
+      {
+        "valueX": 2035,
+        "location": "R_ASP",
+        "computed": 2.69
+      },
+      {
+        "valueX": 2040,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "BRA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "R_ASP",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2040,
+        "location": "ETH",
+        "computed": 24.02
+      },
+      {
+        "valueX": 2040,
+        "location": "R_SSA",
+        "computed": 18.21
+      },
+      {
+        "valueX": 2040,
+        "location": "IDN",
+        "computed": 16.37
+      },
+      {
+        "valueX": 2040,
+        "location": "IND",
+        "computed": 14.400000000000002
+      },
+      {
+        "valueX": 2040,
+        "location": "DNK",
+        "computed": 13.530000000000001
+      },
+      {
+        "valueX": 2040,
+        "location": "RWA",
+        "computed": 12.06
+      },
+      {
+        "valueX": 2040,
+        "location": "RUS",
+        "computed": 8.56
+      },
+      {
+        "valueX": 2040,
+        "location": "MEX",
+        "computed": 7.61
+      },
+      {
+        "valueX": 2040,
+        "location": "R_CSA",
+        "computed": 5.89
+      },
+      {
+        "valueX": 2040,
+        "location": "NPL",
+        "computed": 5.85
+      },
+      {
+        "valueX": 2040,
+        "location": "COL",
+        "computed": 5.55
+      },
+      {
+        "valueX": 2040,
+        "location": "R_NMC",
+        "computed": 5.21
+      },
+      {
+        "valueX": 2040,
+        "location": "ARG",
+        "computed": 3.65
+      },
+      {
+        "valueX": 2040,
+        "location": "R_NEU",
+        "computed": 3.03
+      },
+      {
+        "valueX": 2045,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "BRA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "R_ASP",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2045,
+        "location": "ETH",
+        "computed": 24.59
+      },
+      {
+        "valueX": 2045,
+        "location": "DNK",
+        "computed": 19.13
+      },
+      {
+        "valueX": 2045,
+        "location": "R_SSA",
+        "computed": 18.17
+      },
+      {
+        "valueX": 2045,
+        "location": "IDN",
+        "computed": 14.67
+      },
+      {
+        "valueX": 2045,
+        "location": "IND",
+        "computed": 14.029999999999998
+      },
+      {
+        "valueX": 2045,
+        "location": "MEX",
+        "computed": 13.849999999999998
+      },
+      {
+        "valueX": 2045,
+        "location": "RUS",
+        "computed": 13.33
+      },
+      {
+        "valueX": 2045,
+        "location": "RWA",
+        "computed": 12.8
+      },
+      {
+        "valueX": 2045,
+        "location": "NPL",
+        "computed": 6.09
+      },
+      {
+        "valueX": 2045,
+        "location": "R_CSA",
+        "computed": 5.2
+      },
+      {
+        "valueX": 2045,
+        "location": "COL",
+        "computed": 5.11
+      },
+      {
+        "valueX": 2045,
+        "location": "R_NMC",
+        "computed": 4.5
+      },
+      {
+        "valueX": 2045,
+        "location": "ARG",
+        "computed": 3.73
+      },
+      {
+        "valueX": 2045,
+        "location": "R_NEU",
+        "computed": 2.96
+      },
+      {
+        "valueX": 2050,
+        "location": "AUS",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "BRA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "CAN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "CHN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "DEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "FIN",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "GBR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "GRC",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "NOR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "R_ASP",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "R_OEU",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "SWE",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "TUR",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "USA",
+        "computed": 2.5
+      },
+      {
+        "valueX": 2050,
+        "location": "DNK",
+        "computed": 25.19
+      },
+      {
+        "valueX": 2050,
+        "location": "ETH",
+        "computed": 24.99
+      },
+      {
+        "valueX": 2050,
+        "location": "RUS",
+        "computed": 20.31
+      },
+      {
+        "valueX": 2050,
+        "location": "R_SSA",
+        "computed": 18.07
+      },
+      {
+        "valueX": 2050,
+        "location": "RWA",
+        "computed": 17.19
+      },
+      {
+        "valueX": 2050,
+        "location": "MEX",
+        "computed": 14.38
+      },
+      {
+        "valueX": 2050,
+        "location": "IDN",
+        "computed": 13.59
+      },
+      {
+        "valueX": 2050,
+        "location": "IND",
+        "computed": 13.58
+      },
+      {
+        "valueX": 2050,
+        "location": "NPL",
+        "computed": 6.23
+      },
+      {
+        "valueX": 2050,
+        "location": "COL",
+        "computed": 4.66
+      },
+      {
+        "valueX": 2050,
+        "location": "R_CSA",
+        "computed": 4.59
+      },
+      {
+        "valueX": 2050,
+        "location": "R_NMC",
+        "computed": 3.9
+      },
+      {
+        "valueX": 2050,
+        "location": "ARG",
+        "computed": 3.73
+      },
+      {
+        "valueX": 2050,
+        "location": "R_NEU",
+        "computed": 2.93
+      }
+    ],
+    "keys": [
+      "computed"
+    ],
+    "byCountry": true,
+    "withMarker": {
+      "value": 5
+    },
+    "withUnder": true,
+    "notes": "The prevalence of undernourishment assumes a lognormal distribution, defined by mean dietary energy consumption (DEC), CV (taken from the FAO and kept constant at 2020 levels), and MDER per capita"
+  },
+  {
+    "title": "Evolution of calories intake by country",
+    "description": "The evolution of average daily intake of calories per capita by country, based on the 2020 baseline scenario",
+    "axisY": "kcal / cap / day",
+    "axisX": "year",
+    "legend": [
+      {
+        "label": "Figure description",
+        "description": "This figure illustrates the changes in average per capita kilocalorie intake for each country compared to its Minimum Dietary Energy Requirement (MDER). Our food security objective is to achieve and maintain a target range of 10% to 50% above the MDER starting from 2030, aligning with Sustainable Development Goal (SDG) 2, which aims to ensure universal food and nutrition security by 2030.\n          The average per capita kilocalorie intake reflects the amount of food actually consumed, calculated after accounting for food waste. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014), we set a goal for the average daily energy intake per capita to exceed the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, which varies by age, sex, and activity level.\n          Although this target does not address food access inequalities within countries, it serves as a clear and measurable benchmark for tracking progress toward global food security."
+      },
+      {
+        "key": "Computed",
+        "color": "hsl(240, 70%, 50%)",
+        "inLegend": true,
+        "inGraph": true
+      },
+      {
+        "key": "Upper bound target",
+        "color": "#6de8b8",
+        "type": "upper",
+        "description": "50% above the MDER",
+        "inLegend": true
+      },
+      {
+        "key": "Lower bound target",
+        "color": "#ce9300",
+        "type": "lower",
+        "description": "10% above the MDER",
+        "inLegend": true
+      },
+      {
+        "key": "Historical",
+        "color": "#f9e14b",
+        "type": "historical",
+        "inLegend": true
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "location": "ARG",
+        "historical": 2872.559752,
+        "computed": 2856.257232,
+        "Upper bound target": 2806.5031360004696,
+        "Lower bound target": 2058.102299733678
+      },
+      {
+        "valueX": 2000,
+        "location": "AUS",
+        "historical": 2308.907387,
+        "computed": 2297.809705,
+        "Upper bound target": 2938.3490559675,
+        "Lower bound target": 2154.7893077095
+      },
+      {
+        "valueX": 2000,
+        "location": "BRA",
+        "historical": 2591.256723,
+        "computed": 2588.422012,
+        "Upper bound target": 2829.0353339121602,
+        "Lower bound target": 2074.6259115355842
+      },
+      {
+        "valueX": 2000,
+        "location": "CAN",
+        "historical": 2737.102471,
+        "computed": 2720.957013,
+        "Upper bound target": 2958.834870934305,
+        "Lower bound target": 2169.812238685157
+      },
+      {
+        "valueX": 2000,
+        "location": "CHN",
+        "historical": 2410.832403,
+        "computed": 2406.556277,
+        "Upper bound target": 2918.30682247668,
+        "Lower bound target": 2140.091669816232
+      },
+      {
+        "valueX": 2000,
+        "location": "COL",
+        "historical": 2025.992893,
+        "computed": 2006.597472,
+        "Upper bound target": 2728.577060247855,
+        "Lower bound target": 2000.9565108484271
+      },
+      {
+        "valueX": 2000,
+        "location": "DEU",
+        "historical": 2907.786827,
+        "computed": 2877.953816,
+        "Upper bound target": 2987.1733205875803,
+        "Lower bound target": 2190.593768430892
+      },
+      {
+        "valueX": 2000,
+        "location": "DNK",
+        "historical": 2811.698437,
+        "computed": 2801.464025,
+        "Upper bound target": 2998.8253040713503,
+        "Lower bound target": 2199.13855631899
+      },
+      {
+        "valueX": 2000,
+        "location": "ETH",
+        "historical": 1888.435071,
+        "computed": 1681.417955,
+        "Upper bound target": 2460.797200427265,
+        "Lower bound target": 1804.5846136466612
+      },
+      {
+        "valueX": 2000,
+        "location": "FIN",
+        "historical": 2703.917642,
+        "computed": 2689.625388,
+        "Upper bound target": 2975.9035283877897,
+        "Lower bound target": 2182.329254151046
+      },
+      {
+        "valueX": 2000,
+        "location": "GBR",
+        "historical": 2934.263704,
+        "computed": 2928.365326,
+        "Upper bound target": 2922.123744857835,
+        "Lower bound target": 2142.890746229079
+      },
+      {
+        "valueX": 2000,
+        "location": "GRC",
+        "historical": 2841.323506,
+        "computed": 2824.101766,
+        "Upper bound target": 2995.247039733315,
+        "Lower bound target": 2196.514495804431
+      },
+      {
+        "valueX": 2000,
+        "location": "IDN",
+        "historical": 1976.252281,
+        "computed": 1953.899561,
+        "Upper bound target": 2670.80123278662,
+        "Lower bound target": 1958.587570710188
+      },
+      {
+        "valueX": 2000,
+        "location": "IND",
+        "historical": 2140.296781,
+        "computed": 2136.549919,
+        "Upper bound target": 2634.3670751009404,
+        "Lower bound target": 1931.869188407356
+      },
+      {
+        "valueX": 2000,
+        "location": "MEX",
+        "historical": 1926.573671,
+        "computed": 1928.73444,
+        "Upper bound target": 2696.66180133003,
+        "Lower bound target": 1977.5519876420221
+      },
+      {
+        "valueX": 2000,
+        "location": "NOR",
+        "historical": 2897.670138,
+        "computed": 2952.439533,
+        "Upper bound target": 2958.1595108544448,
+        "Lower bound target": 2169.316974626593
+      },
+      {
+        "valueX": 2000,
+        "location": "NPL",
+        "historical": 2095.319285,
+        "computed": 2108.676933,
+        "Upper bound target": 2530.55809143171,
+        "Lower bound target": 1855.7426003832538
+      },
+      {
+        "valueX": 2000,
+        "location": "R_ASP",
+        "historical": 2297.095276,
+        "computed": 2299.147709,
+        "Upper bound target": 2786.541008232585,
+        "Lower bound target": 2043.463406037229
+      },
+      {
+        "valueX": 2000,
+        "location": "R_CSA",
+        "historical": 2024.279382,
+        "computed": 2024.923089,
+        "Upper bound target": 2738.35448093892,
+        "Lower bound target": 2008.126619355208
+      },
+      {
+        "valueX": 2000,
+        "location": "R_NMC",
+        "historical": 2392.317541,
+        "computed": 2390.35922,
+        "Upper bound target": 2659.8840328617302,
+        "Lower bound target": 1950.581624098602
+      },
+      {
+        "valueX": 2000,
+        "location": "R_NEU",
+        "historical": 2500.467983,
+        "computed": 2459.151711,
+        "Upper bound target": 2965.745369494185,
+        "Lower bound target": 2174.879937629069
+      },
+      {
+        "valueX": 2000,
+        "location": "R_OEU",
+        "historical": 2921.184222,
+        "computed": 2910.001356,
+        "Upper bound target": 2951.535842794755,
+        "Lower bound target": 2164.459618049487
+      },
+      {
+        "valueX": 2000,
+        "location": "R_SSA",
+        "historical": 2106.999249,
+        "computed": 2102.686218,
+        "Upper bound target": 2813.1953921421896,
+        "Lower bound target": 2063.009954237606
+      },
+      {
+        "valueX": 2000,
+        "location": "RUS",
+        "historical": 2792.582457,
+        "computed": 2754.824368,
+        "Upper bound target": 2934.759929383275,
+        "Lower bound target": 2152.1572815477352
+      },
+      {
+        "valueX": 2000,
+        "location": "RWA",
+        "historical": 1677.680767,
+        "computed": 1655.236861,
+        "Upper bound target": 2453.551660335075,
+        "Lower bound target": 1799.271217579055
+      },
+      {
+        "valueX": 2000,
+        "location": "SWE",
+        "historical": 2656.557684,
+        "computed": 2666.610454,
+        "Upper bound target": 2971.28206596351,
+        "Lower bound target": 2178.940181706574
+      },
+      {
+        "valueX": 2000,
+        "location": "TUR",
+        "historical": 3278.088981,
+        "computed": 3271.178102,
+        "Upper bound target": 2806.96527152718,
+        "Lower bound target": 2058.4411991199318
+      },
+      {
+        "valueX": 2000,
+        "location": "USA",
+        "historical": 2912.382004,
+        "computed": 2903.823834,
+        "Upper bound target": 2908.1527749127954,
+        "Lower bound target": 2132.645368269383
+      },
+      {
+        "valueX": 2005,
+        "location": "ARG",
+        "historical": 2731.6537,
+        "computed": 2714.690227,
+        "Upper bound target": 2821.6545846873596,
+        "Lower bound target": 2069.213362104064
+      },
+      {
+        "valueX": 2005,
+        "location": "AUS",
+        "historical": 2429.232962,
+        "computed": 2418.780749,
+        "Upper bound target": 2946.3421548296697,
+        "Lower bound target": 2160.6509135417577
+      },
+      {
+        "valueX": 2005,
+        "location": "BRA",
+        "historical": 2776.198305,
+        "computed": 2773.63484,
+        "Upper bound target": 2858.24427762006,
+        "Lower bound target": 2096.0458035880442
+      },
+      {
+        "valueX": 2005,
+        "location": "CAN",
+        "historical": 2705.337478,
+        "computed": 2692.187747,
+        "Upper bound target": 2973.35910469623,
+        "Lower bound target": 2180.463343443902
+      },
+      {
+        "valueX": 2005,
+        "location": "CHN",
+        "historical": 2478.686629,
+        "computed": 2472.972002,
+        "Upper bound target": 2950.6657779663747,
+        "Lower bound target": 2163.821570508675
+      },
+      {
+        "valueX": 2005,
+        "location": "COL",
+        "historical": 2018.362559,
+        "computed": 2012.008782,
+        "Upper bound target": 2758.7225512365753,
+        "Lower bound target": 2023.063204240155
+      },
+      {
+        "valueX": 2005,
+        "location": "DEU",
+        "historical": 2998.004136,
+        "computed": 3029.983223,
+        "Upper bound target": 2992.22525474589,
+        "Lower bound target": 2194.298520146986
+      },
+      {
+        "valueX": 2005,
+        "location": "DNK",
+        "historical": 2878.96904,
+        "computed": 2868.209007,
+        "Upper bound target": 2996.021176737285,
+        "Lower bound target": 2197.082196274009
+      },
+      {
+        "valueX": 2005,
+        "location": "ETH",
+        "historical": 2067.26662,
+        "computed": 1853.066764,
+        "Upper bound target": 2477.56559431395,
+        "Lower bound target": 1816.88143583023
+      },
+      {
+        "valueX": 2005,
+        "location": "FIN",
+        "historical": 2721.944775,
+        "computed": 2707.771276,
+        "Upper bound target": 2981.05275797112,
+        "Lower bound target": 2186.1053558454882
+      },
+      {
+        "valueX": 2005,
+        "location": "GBR",
+        "historical": 2962.054481,
+        "computed": 2952.271955,
+        "Upper bound target": 2933.4987532362748,
+        "Lower bound target": 2151.232419039935
+      },
+      {
+        "valueX": 2005,
+        "location": "GRC",
+        "historical": 2816.953764,
+        "computed": 2800.248273,
+        "Upper bound target": 2995.05494665461,
+        "Lower bound target": 2196.373627546714
+      },
+      {
+        "valueX": 2005,
+        "location": "IDN",
+        "historical": 2023.306094,
+        "computed": 2017.915243,
+        "Upper bound target": 2691.0810505602153,
+        "Lower bound target": 1973.459437077491
+      },
+      {
+        "valueX": 2005,
+        "location": "IND",
+        "historical": 2042.285254,
+        "computed": 2035.583081,
+        "Upper bound target": 2657.1310348436105,
+        "Lower bound target": 1948.562758885314
+      },
+      {
+        "valueX": 2005,
+        "location": "MEX",
+        "historical": 2892.336342,
+        "computed": 2886.008572,
+        "Upper bound target": 2719.40170277658,
+        "Lower bound target": 1994.227915369492
+      },
+      {
+        "valueX": 2005,
+        "location": "NOR",
+        "historical": 3009.669141,
+        "computed": 3090.460141,
+        "Upper bound target": 2966.0066551691248,
+        "Lower bound target": 2175.071547124025
+      },
+      {
+        "valueX": 2005,
+        "location": "NPL",
+        "historical": 2254.522227,
+        "computed": 2246.42091,
+        "Upper bound target": 2555.0642918440803,
+        "Lower bound target": 1873.713814018992
+      },
+      {
+        "valueX": 2005,
+        "location": "R_ASP",
+        "historical": 2379.003349,
+        "computed": 2379.676357,
+        "Upper bound target": 2793.56742090909,
+        "Lower bound target": 2048.616108666666
+      },
+      {
+        "valueX": 2005,
+        "location": "R_CSA",
+        "historical": 2090.957366,
+        "computed": 2091.006008,
+        "Upper bound target": 2753.4730887327455,
+        "Lower bound target": 2019.213598404013
+      },
+      {
+        "valueX": 2005,
+        "location": "R_NMC",
+        "historical": 2401.075935,
+        "computed": 2402.407907,
+        "Upper bound target": 2692.9468918701446,
+        "Lower bound target": 1974.827720704773
+      },
+      {
+        "valueX": 2005,
+        "location": "R_NEU",
+        "historical": 2658.286748,
+        "computed": 2604.258311,
+        "Upper bound target": 2988.860930895315,
+        "Lower bound target": 2191.8313493232313
+      },
+      {
+        "valueX": 2005,
+        "location": "R_OEU",
+        "historical": 2923.383198,
+        "computed": 2913.643407,
+        "Upper bound target": 2956.8412752711597,
+        "Lower bound target": 2168.350268532184
+      },
+      {
+        "valueX": 2005,
+        "location": "R_SSA",
+        "historical": 2191.269259,
+        "computed": 2190.916517,
+        "Upper bound target": 2818.181158370265,
+        "Lower bound target": 2066.666182804861
+      },
+      {
+        "valueX": 2005,
+        "location": "RUS",
+        "historical": 3027.098937,
+        "computed": 2988.955273,
+        "Upper bound target": 2958.617056617015,
+        "Lower bound target": 2169.652508185811
+      },
+      {
+        "valueX": 2005,
+        "location": "RWA",
+        "historical": 1854.04057,
+        "computed": 1822.881304,
+        "Upper bound target": 2474.560764685545,
+        "Lower bound target": 1814.677894102733
+      },
+      {
+        "valueX": 2005,
+        "location": "SWE",
+        "historical": 2652.57697,
+        "computed": 2661.800805,
+        "Upper bound target": 2975.75361955833,
+        "Lower bound target": 2182.219321009442
+      },
+      {
+        "valueX": 2005,
+        "location": "TUR",
+        "historical": 3239.426177,
+        "computed": 3231.38671,
+        "Upper bound target": 2837.7164528843846,
+        "Lower bound target": 2080.9920654485486
+      },
+      {
+        "valueX": 2005,
+        "location": "USA",
+        "historical": 2974.014253,
+        "computed": 3016.553533,
+        "Upper bound target": 2914.61830842114,
+        "Lower bound target": 2137.386759508836
+      },
+      {
+        "valueX": 2010,
+        "location": "AUS",
+        "historical": 2620.718998,
+        "computed": 2610.308097,
+        "Upper bound target": 2942.4731231638802,
+        "Lower bound target": 2157.813623653512
+      },
+      {
+        "valueX": 2010,
+        "location": "CAN",
+        "historical": 2823.876738,
+        "computed": 2857.889396,
+        "Upper bound target": 2968.83406102917,
+        "Lower bound target": 2177.144978088058
+      },
+      {
+        "valueX": 2010,
+        "location": "CHN",
+        "historical": 2610.346238,
+        "computed": 2604.626644,
+        "Upper bound target": 2953.0480837148853,
+        "Lower bound target": 2165.568594724249
+      },
+      {
+        "valueX": 2010,
+        "location": "DEU",
+        "historical": 3037.123143,
+        "computed": 3012.657101,
+        "Upper bound target": 2999.4809068222053,
+        "Lower bound target": 2199.619331669617
+      },
+      {
+        "valueX": 2010,
+        "location": "DNK",
+        "historical": 2854.270679,
+        "computed": 2828.643589,
+        "Upper bound target": 2993.78845231314,
+        "Lower bound target": 2195.444865029636
+      },
+      {
+        "valueX": 2010,
+        "location": "GBR",
+        "historical": 2851.910346,
+        "computed": 2839.875174,
+        "Upper bound target": 2925.9415995869404,
+        "Lower bound target": 2145.690506363756
+      },
+      {
+        "valueX": 2010,
+        "location": "GRC",
+        "historical": 2771.576983,
+        "computed": 2752.168447,
+        "Upper bound target": 2979.934073137485,
+        "Lower bound target": 2185.2849869674887
+      },
+      {
+        "valueX": 2010,
+        "location": "NOR",
+        "historical": 2780.864791,
+        "computed": 2857.815115,
+        "Upper bound target": 2968.7952483785853,
+        "Lower bound target": 2177.116515477629
+      },
+      {
+        "valueX": 2010,
+        "location": "R_NEU",
+        "historical": 2701.934751,
+        "computed": 2634.673107,
+        "Upper bound target": 2984.1078872082453,
+        "Lower bound target": 2188.3457839527127
+      },
+      {
+        "valueX": 2010,
+        "location": "R_OEU",
+        "historical": 2918.099234,
+        "computed": 2905.685049,
+        "Upper bound target": 2947.9964962767144,
+        "Lower bound target": 2161.864097269591
+      },
+      {
+        "valueX": 2010,
+        "location": "RUS",
+        "historical": 3080.962685,
+        "computed": 3040.011208,
+        "Upper bound target": 2944.586075372325,
+        "Lower bound target": 2159.3631219397053
+      },
+      {
+        "valueX": 2010,
+        "location": "SWE",
+        "historical": 2693.562482,
+        "computed": 2699.469509,
+        "Upper bound target": 2965.9313427912,
+        "Lower bound target": 2175.01631804688
+      },
+      {
+        "valueX": 2010,
+        "location": "TUR",
+        "historical": 3364.873004,
+        "computed": 3357.388531,
+        "Upper bound target": 2858.7078458324554,
+        "Lower bound target": 2096.385753610467
+      },
+      {
+        "valueX": 2010,
+        "location": "USA",
+        "historical": 2909.408575,
+        "computed": 2907.595961,
+        "Upper bound target": 2914.36731142395,
+        "Lower bound target": 2137.20269504423
+      },
+      {
+        "valueX": 2010,
+        "location": "RWA",
+        "historical": 1903.506262,
+        "computed": 1869.409867,
+        "Upper bound target": 2489.6915666274303,
+        "Lower bound target": 1825.773815526782
+      },
+      {
+        "valueX": 2010,
+        "location": "R_SSA",
+        "historical": 2287.373791,
+        "computed": 2293.282197,
+        "Upper bound target": 2809.41833295342,
+        "Lower bound target": 2060.240110832508
+      },
+      {
+        "valueX": 2010,
+        "location": "ETH",
+        "historical": 2409.247593,
+        "computed": 2382.208826,
+        "Upper bound target": 2505.2404817247148,
+        "Lower bound target": 1837.176353264791
+      },
+      {
+        "valueX": 2010,
+        "location": "IND",
+        "historical": 2210.08626,
+        "computed": 2200.775051,
+        "Upper bound target": 2680.4101091533353,
+        "Lower bound target": 1965.6340800457792
+      },
+      {
+        "valueX": 2010,
+        "location": "COL",
+        "historical": 2043.065688,
+        "computed": 1986.251631,
+        "Upper bound target": 2790.3942961669945,
+        "Lower bound target": 2046.289150522463
+      },
+      {
+        "valueX": 2010,
+        "location": "IDN",
+        "historical": 2422.635944,
+        "computed": 2393.000522,
+        "Upper bound target": 2702.171131525095,
+        "Lower bound target": 1981.592163118403
+      },
+      {
+        "valueX": 2010,
+        "location": "R_CSA",
+        "historical": 2256.848562,
+        "computed": 2254.991669,
+        "Upper bound target": 2764.720812996465,
+        "Lower bound target": 2027.461929530741
+      },
+      {
+        "valueX": 2010,
+        "location": "R_ASP",
+        "historical": 2489.94268,
+        "computed": 2488.419811,
+        "Upper bound target": 2793.93497627052,
+        "Lower bound target": 2048.885649265048
+      },
+      {
+        "valueX": 2010,
+        "location": "R_NMC",
+        "historical": 2554.215208,
+        "computed": 2550.411434,
+        "Upper bound target": 2711.97624560784,
+        "Lower bound target": 1988.7825801124159
+      },
+      {
+        "valueX": 2010,
+        "location": "NPL",
+        "historical": 2440.762801,
+        "computed": 2444.722244,
+        "Upper bound target": 2583.7021002875704,
+        "Lower bound target": 1894.714873544218
+      },
+      {
+        "valueX": 2010,
+        "location": "ARG",
+        "historical": 2729.333937,
+        "computed": 2717.531961,
+        "Upper bound target": 2832.421392685335,
+        "Lower bound target": 2077.109021302579
+      },
+      {
+        "valueX": 2010,
+        "location": "MEX",
+        "historical": 2789.244301,
+        "computed": 2762.281786,
+        "Upper bound target": 2742.241823582775,
+        "Lower bound target": 2010.9773372940354
+      },
+      {
+        "valueX": 2010,
+        "location": "BRA",
+        "historical": 2956.714651,
+        "computed": 2953.915426,
+        "Upper bound target": 2882.718295948335,
+        "Lower bound target": 2113.993417028779
+      },
+      {
+        "valueX": 2010,
+        "location": "FIN",
+        "historical": 2630.678101,
+        "computed": 2443.275248,
+        "Upper bound target": 2968.9960317670198,
+        "Lower bound target": 2177.263756629148
+      },
+      {
+        "valueX": 2015,
+        "location": "ARG",
+        "historical": 2877.880119,
+        "computed": 2870.261966,
+        "Upper bound target": 2837.7316022923796,
+        "Lower bound target": 2081.003175014412
+      },
+      {
+        "valueX": 2015,
+        "location": "AUS",
+        "historical": 2591.775856,
+        "computed": 2600.708991,
+        "Upper bound target": 2935.52934910068,
+        "Lower bound target": 2152.721522673832
+      },
+      {
+        "valueX": 2015,
+        "location": "BRA",
+        "historical": 2951.965394,
+        "computed": 2949.279762,
+        "Upper bound target": 2898.8745809082,
+        "Lower bound target": 2125.84135933268
+      },
+      {
+        "valueX": 2015,
+        "location": "CAN",
+        "historical": 2828.931472,
+        "computed": 2903.106464,
+        "Upper bound target": 2960.14804097682,
+        "Lower bound target": 2170.775230049668
+      },
+      {
+        "valueX": 2015,
+        "location": "CHN",
+        "historical": 2766.271476,
+        "computed": 2765.740767,
+        "Upper bound target": 2938.5468078811055,
+        "Lower bound target": 2154.934325779477
+      },
+      {
+        "valueX": 2015,
+        "location": "DEU",
+        "historical": 3017.23563,
+        "computed": 2996.04341,
+        "Upper bound target": 2995.6144220053347,
+        "Lower bound target": 2196.783909470579
+      },
+      {
+        "valueX": 2015,
+        "location": "DNK",
+        "historical": 2897.374549,
+        "computed": 2887.842122,
+        "Upper bound target": 3004.1451705160052,
+        "Lower bound target": 2203.039791711737
+      },
+      {
+        "valueX": 2015,
+        "location": "FIN",
+        "historical": 2702.546379,
+        "computed": 2668.198145,
+        "Upper bound target": 2961.45907232847,
+        "Lower bound target": 2171.736653040878
+      },
+      {
+        "valueX": 2015,
+        "location": "GBR",
+        "historical": 2864.415565,
+        "computed": 2850.409337,
+        "Upper bound target": 2920.03496426859,
+        "Lower bound target": 2141.358973796966
+      },
+      {
+        "valueX": 2015,
+        "location": "GRC",
+        "historical": 2737.983781,
+        "computed": 2721.563463,
+        "Upper bound target": 2974.520418959805,
+        "Lower bound target": 2181.3149739038568
+      },
+      {
+        "valueX": 2015,
+        "location": "NOR",
+        "historical": 2725.232966,
+        "computed": 2822.469898,
+        "Upper bound target": 2975.9781139199554,
+        "Lower bound target": 2182.3839502079672
+      },
+      {
+        "valueX": 2015,
+        "location": "R_NEU",
+        "historical": 2614.753175,
+        "computed": 2637.331109,
+        "Upper bound target": 2969.9633312848805,
+        "Lower bound target": 2177.973109608912
+      },
+      {
+        "valueX": 2015,
+        "location": "R_OEU",
+        "historical": 2899.742004,
+        "computed": 2891.731559,
+        "Upper bound target": 2942.542924285935,
+        "Lower bound target": 2157.8648111430193
+      },
+      {
+        "valueX": 2015,
+        "location": "RUS",
+        "historical": 3069.064739,
+        "computed": 3022.519811,
+        "Upper bound target": 2913.3865560486447,
+        "Lower bound target": 2136.483474435673
+      },
+      {
+        "valueX": 2015,
+        "location": "SWE",
+        "historical": 2724.817985,
+        "computed": 2720.407237,
+        "Upper bound target": 2958.790356114765,
+        "Lower bound target": 2169.779594484161
+      },
+      {
+        "valueX": 2015,
+        "location": "TUR",
+        "historical": 3452.957153,
+        "computed": 3446.331094,
+        "Upper bound target": 2872.769946105705,
+        "Lower bound target": 2106.697960477517
+      },
+      {
+        "valueX": 2015,
+        "location": "USA",
+        "historical": 2935.15857,
+        "computed": 2929.556549,
+        "Upper bound target": 2914.173510676905,
+        "Lower bound target": 2137.0605744963973
+      },
+      {
+        "valueX": 2015,
+        "location": "RWA",
+        "historical": 1940.894642,
+        "computed": 1918.843036,
+        "Upper bound target": 2513.72317108791,
+        "Lower bound target": 1843.396992131134
+      },
+      {
+        "valueX": 2015,
+        "location": "R_SSA",
+        "historical": 2245.324189,
+        "computed": 2253.789294,
+        "Upper bound target": 2802.1872193373697,
+        "Lower bound target": 2054.937294180738
+      },
+      {
+        "valueX": 2015,
+        "location": "IND",
+        "historical": 2275.752706,
+        "computed": 2264.677898,
+        "Upper bound target": 2706.65923977483,
+        "Lower bound target": 1984.883442501542
+      },
+      {
+        "valueX": 2015,
+        "location": "IDN",
+        "historical": 2541.491858,
+        "computed": 2435.510291,
+        "Upper bound target": 2711.895112640595,
+        "Lower bound target": 1988.723082603103
+      },
+      {
+        "valueX": 2015,
+        "location": "ETH",
+        "historical": 2642.411864,
+        "computed": 2618.424015,
+        "Upper bound target": 2543.03216289762,
+        "Lower bound target": 1864.890252791588
+      },
+      {
+        "valueX": 2015,
+        "location": "R_CSA",
+        "historical": 2305.526533,
+        "computed": 2303.80587,
+        "Upper bound target": 2770.57229479197,
+        "Lower bound target": 2031.7530161807779
+      },
+      {
+        "valueX": 2015,
+        "location": "R_NMC",
+        "historical": 2582.425437,
+        "computed": 2585.819666,
+        "Upper bound target": 2709.951139891995,
+        "Lower bound target": 1987.297502587463
+      },
+      {
+        "valueX": 2015,
+        "location": "COL",
+        "historical": 2261.582766,
+        "computed": 2206.833702,
+        "Upper bound target": 2813.0986553296952,
+        "Lower bound target": 2062.939013908443
+      },
+      {
+        "valueX": 2015,
+        "location": "R_ASP",
+        "historical": 2583.441607,
+        "computed": 2582.650113,
+        "Upper bound target": 2794.04560685727,
+        "Lower bound target": 2048.966778361998
+      },
+      {
+        "valueX": 2015,
+        "location": "NPL",
+        "historical": 2594.037553,
+        "computed": 2575.102161,
+        "Upper bound target": 2601.570025795845,
+        "Lower bound target": 1907.818018916953
+      },
+      {
+        "valueX": 2015,
+        "location": "MEX",
+        "historical": 2814.358535,
+        "computed": 2775.318452,
+        "Upper bound target": 2764.4955671737202,
+        "Lower bound target": 2027.296749260728
+      },
+      {
+        "valueX": 2020,
+        "location": "AUS",
+        "historical": 2552.404805,
+        "computed": 2546.406121,
+        "Upper bound target": 2937.833731397415,
+        "Lower bound target": 2154.411403024771
+      },
+      {
+        "valueX": 2020,
+        "location": "CAN",
+        "historical": 2970.961035,
+        "computed": 3117.959959,
+        "Upper bound target": 2956.6314789947555,
+        "Lower bound target": 2168.196417929487
+      },
+      {
+        "valueX": 2020,
+        "location": "CHN",
+        "historical": 2815.910688,
+        "computed": 2820.903899,
+        "Upper bound target": 2940.24896460228,
+        "Lower bound target": 2156.182574041672
+      },
+      {
+        "valueX": 2020,
+        "location": "DEU",
+        "historical": 3127.236156,
+        "computed": 3098.077237,
+        "Upper bound target": 2978.1788708092204,
+        "Lower bound target": 2183.9978385934282
+      },
+      {
+        "valueX": 2020,
+        "location": "DNK",
+        "historical": 3043.846673,
+        "computed": 3027.11313,
+        "Upper bound target": 3004.25533689972,
+        "Lower bound target": 2203.120580393128
+      },
+      {
+        "valueX": 2020,
+        "location": "FIN",
+        "historical": 2783.448444,
+        "computed": 2734.030781,
+        "Upper bound target": 2970.2824255254004,
+        "Lower bound target": 2178.20711205196
+      },
+      {
+        "valueX": 2020,
+        "location": "GBR",
+        "historical": 2844.944384,
+        "computed": 2828.015781,
+        "Upper bound target": 2921.96089910646,
+        "Lower bound target": 2142.771326011404
+      },
+      {
+        "valueX": 2020,
+        "location": "GRC",
+        "historical": 2744.878427,
+        "computed": 2717.221171,
+        "Upper bound target": 2972.92148584434,
+        "Lower bound target": 2180.142422952516
+      },
+      {
+        "valueX": 2020,
+        "location": "MEX",
+        "historical": 2903.128775,
+        "computed": 2802.361119,
+        "Upper bound target": 2787.0150386625,
+        "Lower bound target": 2043.8110283525
+      },
+      {
+        "valueX": 2020,
+        "location": "NOR",
+        "historical": 2858.092866,
+        "computed": 2944.419988,
+        "Upper bound target": 2982.881277099495,
+        "Lower bound target": 2187.446269872963
+      },
+      {
+        "valueX": 2020,
+        "location": "R_OEU",
+        "historical": 3066.441705,
+        "computed": 3050.160552,
+        "Upper bound target": 2941.565559264075,
+        "Lower bound target": 2157.1480767936546
+      },
+      {
+        "valueX": 2020,
+        "location": "RUS",
+        "historical": 3032.43829,
+        "computed": 2988.658233,
+        "Upper bound target": 2903.0056076177098,
+        "Lower bound target": 2128.870778919654
+      },
+      {
+        "valueX": 2020,
+        "location": "SWE",
+        "historical": 2777.235217,
+        "computed": 2796.749778,
+        "Upper bound target": 2959.16661336408,
+        "Lower bound target": 2170.055516466992
+      },
+      {
+        "valueX": 2020,
+        "location": "TUR",
+        "historical": 3586.631917,
+        "computed": 3590.233824,
+        "Upper bound target": 2877.632389715415,
+        "Lower bound target": 2110.263752457971
+      },
+      {
+        "valueX": 2020,
+        "location": "USA",
+        "historical": 3076.599587,
+        "computed": 3065.841594,
+        "Upper bound target": 2915.899995094575,
+        "Lower bound target": 2138.326663069355
+      },
+      {
+        "valueX": 2020,
+        "location": "RWA",
+        "historical": 1978.712961,
+        "computed": 1941.953868,
+        "Upper bound target": 2537.376897842355,
+        "Lower bound target": 1860.743058417727
+      },
+      {
+        "valueX": 2020,
+        "location": "R_SSA",
+        "historical": 2278.516061,
+        "computed": 2281.754697,
+        "Upper bound target": 2801.97514291818,
+        "Lower bound target": 2054.781771473332
+      },
+      {
+        "valueX": 2020,
+        "location": "ETH",
+        "historical": 2664.200865,
+        "computed": 2634.792072,
+        "Upper bound target": 2567.61931877706,
+        "Lower bound target": 1882.920833769844
+      },
+      {
+        "valueX": 2020,
+        "location": "IND",
+        "historical": 2386.375465,
+        "computed": 2373.906867,
+        "Upper bound target": 2725.6621006247697,
+        "Lower bound target": 1998.818873791498
+      },
+      {
+        "valueX": 2020,
+        "location": "IDN",
+        "historical": 2716.947195,
+        "computed": 2510.464999,
+        "Upper bound target": 2726.8201025553153,
+        "Lower bound target": 1999.668075207231
+      },
+      {
+        "valueX": 2020,
+        "location": "R_CSA",
+        "historical": 2330.40645,
+        "computed": 2328.343358,
+        "Upper bound target": 2785.5814558041297,
+        "Lower bound target": 2042.7597342563618
+      },
+      {
+        "valueX": 2020,
+        "location": "R_NMC",
+        "historical": 2620.738685,
+        "computed": 2618.614848,
+        "Upper bound target": 2716.663271114115,
+        "Lower bound target": 1992.219732150351
+      },
+      {
+        "valueX": 2020,
+        "location": "COL",
+        "historical": 2357.209424,
+        "computed": 2340.225627,
+        "Upper bound target": 2829.2797489630198,
+        "Lower bound target": 2074.805149239548
+      },
+      {
+        "valueX": 2020,
+        "location": "NPL",
+        "historical": 2751.447724,
+        "computed": 2740.959828,
+        "Upper bound target": 2630.6159697971552,
+        "Lower bound target": 1929.1183778512468
+      },
+      {
+        "valueX": 2020,
+        "location": "BRA",
+        "historical": 2945.569357,
+        "computed": 2940.865712,
+        "Upper bound target": 2907.31314011463,
+        "Lower bound target": 2132.029636084062
+      },
+      {
+        "valueX": 2020,
+        "location": "R_ASP",
+        "historical": 2674.719861,
+        "computed": 2676.026525,
+        "Upper bound target": 2796.14187591255,
+        "Lower bound target": 2050.50404233587
+      },
+      {
+        "valueX": 2020,
+        "location": "ARG",
+        "historical": 2972.556997,
+        "computed": 2961.161012,
+        "Upper bound target": 2852.7639413663696,
+        "Lower bound target": 2092.026890335338
+      },
+      {
+        "valueX": 2020,
+        "location": "R_NEU",
+        "historical": 2655.45628,
+        "computed": 2594.957792,
+        "Upper bound target": 2969.260369809285,
+        "Lower bound target": 2177.457604526809
+      },
+      {
+        "valueX": 2025,
+        "location": "AUS",
+        "historical": 2564.674875,
+        "computed": 2558.645037,
+        "Upper bound target": 2942.686446458325,
+        "Lower bound target": 2157.970060736105
+      },
+      {
+        "valueX": 2025,
+        "location": "CAN",
+        "historical": 3030.818427,
+        "computed": 3005.900801,
+        "Upper bound target": 2952.77564939907,
+        "Lower bound target": 2165.368809559318
+      },
+      {
+        "valueX": 2025,
+        "location": "CHN",
+        "historical": 2905.200545,
+        "computed": 2906.476122,
+        "Upper bound target": 2964.220568905875,
+        "Lower bound target": 2173.761750530975
+      },
+      {
+        "valueX": 2025,
+        "location": "DEU",
+        "historical": 3127.236156,
+        "computed": 2874.929845,
+        "Upper bound target": 2965.11491680149,
+        "Lower bound target": 2174.417605654426
+      },
+      {
+        "valueX": 2025,
+        "location": "FIN",
+        "historical": 2785.452181,
+        "computed": 2733.824605,
+        "Upper bound target": 2977.1588119080598,
+        "Lower bound target": 2183.249795399244
+      },
+      {
+        "valueX": 2025,
+        "location": "GBR",
+        "historical": 2844.944384,
+        "computed": 2825.677572,
+        "Upper bound target": 2930.032819898745,
+        "Lower bound target": 2148.690734592413
+      },
+      {
+        "valueX": 2025,
+        "location": "GRC",
+        "historical": 2744.878427,
+        "computed": 2708.34986,
+        "Upper bound target": 2977.40449398759,
+        "Lower bound target": 2183.429962257566
+      },
+      {
+        "valueX": 2025,
+        "location": "MEX",
+        "historical": 2903.128775,
+        "computed": 2805.563968,
+        "Upper bound target": 2808.6221621640148,
+        "Lower bound target": 2059.656252253611
+      },
+      {
+        "valueX": 2025,
+        "location": "NOR",
+        "historical": 2858.092866,
+        "computed": 2942.737428,
+        "Upper bound target": 2989.20165291822,
+        "Lower bound target": 2192.081212140028
+      },
+      {
+        "valueX": 2025,
+        "location": "R_OEU",
+        "historical": 3066.441705,
+        "computed": 3049.053726,
+        "Upper bound target": 2942.5750484936248,
+        "Lower bound target": 2157.888368895325
+      },
+      {
+        "valueX": 2025,
+        "location": "RUS",
+        "historical": 3032.43829,
+        "computed": 2914.370728,
+        "Upper bound target": 2913.7397621658897,
+        "Lower bound target": 2136.7424922549862
+      },
+      {
+        "valueX": 2025,
+        "location": "SWE",
+        "historical": 2772.912609,
+        "computed": 2780.620081,
+        "Upper bound target": 2965.946613354825,
+        "Lower bound target": 2175.027516460205
+      },
+      {
+        "valueX": 2025,
+        "location": "TUR",
+        "historical": 3586.631917,
+        "computed": 3575.608575,
+        "Upper bound target": 2890.969191852585,
+        "Lower bound target": 2120.044074025229
+      },
+      {
+        "valueX": 2025,
+        "location": "USA",
+        "historical": 3076.599587,
+        "computed": 3064.198333,
+        "Upper bound target": 2919.0464025760502,
+        "Lower bound target": 2140.63402855577
+      },
+      {
+        "valueX": 2025,
+        "location": "R_SSA",
+        "historical": 2322.387046,
+        "computed": 2313.616691,
+        "Upper bound target": 2808.7294997635645,
+        "Lower bound target": 2059.734966493281
+      },
+      {
+        "valueX": 2025,
+        "location": "ETH",
+        "historical": 2659.097213,
+        "computed": 2627.728354,
+        "Upper bound target": 2585.325977087475,
+        "Lower bound target": 1895.9057165308152
+      },
+      {
+        "valueX": 2025,
+        "location": "IND",
+        "historical": 2406.261927,
+        "computed": 2390.340565,
+        "Upper bound target": 2740.1674395424197,
+        "Lower bound target": 2009.456122331108
+      },
+      {
+        "valueX": 2025,
+        "location": "RWA",
+        "historical": 2445.859536,
+        "computed": 2394.51311,
+        "Upper bound target": 2561.5671085921053,
+        "Lower bound target": 1878.482546300877
+      },
+      {
+        "valueX": 2025,
+        "location": "R_CSA",
+        "historical": 2381.931102,
+        "computed": 2378.575179,
+        "Upper bound target": 2807.449939873005,
+        "Lower bound target": 2058.796622573537
+      },
+      {
+        "valueX": 2025,
+        "location": "R_NMC",
+        "historical": 2689.200327,
+        "computed": 2684.782285,
+        "Upper bound target": 2735.9612626908747,
+        "Lower bound target": 2006.3715926399748
+      },
+      {
+        "valueX": 2025,
+        "location": "COL",
+        "historical": 2397.220946,
+        "computed": 2379.778526,
+        "Upper bound target": 2834.347516077255,
+        "Lower bound target": 2078.521511789987
+      },
+      {
+        "valueX": 2025,
+        "location": "IDN",
+        "historical": 2716.947195,
+        "computed": 2689.099913,
+        "Upper bound target": 2740.1451269552254,
+        "Lower bound target": 2009.439759767165
+      },
+      {
+        "valueX": 2025,
+        "location": "NPL",
+        "historical": 2718.667724,
+        "computed": 2690.447295,
+        "Upper bound target": 2656.090429634385,
+        "Lower bound target": 1947.7996483985492
+      },
+      {
+        "valueX": 2025,
+        "location": "R_ASP",
+        "historical": 2674.719861,
+        "computed": 2672.209413,
+        "Upper bound target": 2800.2186349654053,
+        "Lower bound target": 2053.493665641297
+      },
+      {
+        "valueX": 2025,
+        "location": "DNK",
+        "historical": 3043.846673,
+        "computed": 2871.721921,
+        "Upper bound target": 2996.2710488120397,
+        "Lower bound target": 2197.2654357954957
+      },
+      {
+        "valueX": 2025,
+        "location": "ARG",
+        "historical": 2972.556997,
+        "computed": 2958.473819,
+        "Upper bound target": 2874.593279589585,
+        "Lower bound target": 2108.035071699029
+      },
+      {
+        "valueX": 2025,
+        "location": "R_NEU",
+        "historical": 2655.45628,
+        "computed": 2594.465329,
+        "Upper bound target": 2973.044520288795,
+        "Lower bound target": 2180.232648211783
+      },
+      {
+        "valueX": 2025,
+        "location": "BRA",
+        "historical": 3036.254172,
+        "computed": 3029.506608,
+        "Upper bound target": 2914.766127449355,
+        "Lower bound target": 2137.495160129527
+      },
+      {
+        "valueX": 2030,
+        "location": "AUS",
+        "historical": 2570.80991,
+        "computed": 2564.802321,
+        "Upper bound target": 2945.5597679661446,
+        "Lower bound target": 2160.077163175173
+      },
+      {
+        "valueX": 2030,
+        "location": "BRA",
+        "historical": 3126.938987,
+        "computed": 3119.331808,
+        "Upper bound target": 2918.7714162781353,
+        "Lower bound target": 2140.432371937299
+      },
+      {
+        "valueX": 2030,
+        "location": "CAN",
+        "historical": 3090.675819,
+        "computed": 3065.434484,
+        "Upper bound target": 2950.05188978559,
+        "Lower bound target": 2163.371385842766
+      },
+      {
+        "valueX": 2030,
+        "location": "CHN",
+        "historical": 2994.490402,
+        "computed": 2996.599876,
+        "Upper bound target": 2967.9380179824448,
+        "Lower bound target": 2176.487879853793
+      },
+      {
+        "valueX": 2030,
+        "location": "DEU",
+        "historical": 3127.236156,
+        "computed": 2862.403281,
+        "Upper bound target": 2957.496059615535,
+        "Lower bound target": 2168.8304437180586
+      },
+      {
+        "valueX": 2030,
+        "location": "FIN",
+        "historical": 2787.455917,
+        "computed": 2736.202745,
+        "Upper bound target": 2978.870989245405,
+        "Lower bound target": 2184.505392113297
+      },
+      {
+        "valueX": 2030,
+        "location": "GBR",
+        "historical": 2844.944384,
+        "computed": 2825.395332,
+        "Upper bound target": 2932.902867053415,
+        "Lower bound target": 2150.795435839171
+      },
+      {
+        "valueX": 2030,
+        "location": "GRC",
+        "historical": 2744.878427,
+        "computed": 2708.265463,
+        "Upper bound target": 2973.32579203746,
+        "Lower bound target": 2180.438914160804
+      },
+      {
+        "valueX": 2030,
+        "location": "NOR",
+        "historical": 2858.092866,
+        "computed": 2920.218197,
+        "Upper bound target": 2986.180874210685,
+        "Lower bound target": 2189.865974421169
+      },
+      {
+        "valueX": 2030,
+        "location": "R_OEU",
+        "historical": 3066.441705,
+        "computed": 3049.061816,
+        "Upper bound target": 2938.4249714797647,
+        "Lower bound target": 2154.844979085161
+      },
+      {
+        "valueX": 2030,
+        "location": "SWE",
+        "historical": 2768.59,
+        "computed": 2787.024476,
+        "Upper bound target": 2970.693947295675,
+        "Lower bound target": 2178.508894683495
+      },
+      {
+        "valueX": 2030,
+        "location": "TUR",
+        "historical": 3586.631917,
+        "computed": 3575.17699,
+        "Upper bound target": 2901.8982518847897,
+        "Lower bound target": 2128.058718048846
+      },
+      {
+        "valueX": 2030,
+        "location": "USA",
+        "historical": 3019.941822,
+        "computed": 3006.753545,
+        "Upper bound target": 2917.863231580935,
+        "Lower bound target": 2139.766369826019
+      },
+      {
+        "valueX": 2030,
+        "location": "ETH",
+        "historical": 2653.993561,
+        "computed": 2623.205876,
+        "Upper bound target": 2607.75595587603,
+        "Lower bound target": 1912.354367642422
+      },
+      {
+        "valueX": 2030,
+        "location": "R_SSA",
+        "historical": 2366.258031,
+        "computed": 2356.97098,
+        "Upper bound target": 2813.470011127845,
+        "Lower bound target": 2063.211341493753
+      },
+      {
+        "valueX": 2030,
+        "location": "IND",
+        "historical": 2426.148389,
+        "computed": 2410.025079,
+        "Upper bound target": 2750.95044192045,
+        "Lower bound target": 2017.3636574083298
+      },
+      {
+        "valueX": 2030,
+        "location": "RWA",
+        "historical": 2568.036333,
+        "computed": 2535.243033,
+        "Upper bound target": 2585.817966983805,
+        "Lower bound target": 1896.2665091214571
+      },
+      {
+        "valueX": 2030,
+        "location": "IDN",
+        "historical": 2716.947195,
+        "computed": 2515.739408,
+        "Upper bound target": 2748.815574259155,
+        "Lower bound target": 2015.798087790047
+      },
+      {
+        "valueX": 2030,
+        "location": "R_CSA",
+        "historical": 2433.455755,
+        "computed": 2430.044464,
+        "Upper bound target": 2820.749850737085,
+        "Lower bound target": 2068.549890540529
+      },
+      {
+        "valueX": 2030,
+        "location": "R_NMC",
+        "historical": 2757.66197,
+        "computed": 2753.134344,
+        "Upper bound target": 2756.965921288065,
+        "Lower bound target": 2021.7750089445808
+      },
+      {
+        "valueX": 2030,
+        "location": "COL",
+        "historical": 2437.232468,
+        "computed": 2419.796456,
+        "Upper bound target": 2840.2113852804155,
+        "Lower bound target": 2082.821682538971
+      },
+      {
+        "valueX": 2030,
+        "location": "DNK",
+        "historical": 3043.846673,
+        "computed": 2755.064389,
+        "Upper bound target": 2985.664349004285,
+        "Lower bound target": 2189.4871892698093
+      },
+      {
+        "valueX": 2030,
+        "location": "NPL",
+        "historical": 2718.667724,
+        "computed": 2690.305719,
+        "Upper bound target": 2676.1837219827153,
+        "Lower bound target": 1962.534729453991
+      },
+      {
+        "valueX": 2030,
+        "location": "ARG",
+        "historical": 2972.556997,
+        "computed": 2959.20313,
+        "Upper bound target": 2887.117845450015,
+        "Lower bound target": 2117.2197533300114
+      },
+      {
+        "valueX": 2030,
+        "location": "RUS",
+        "historical": 3032.43829,
+        "computed": 2768.933632,
+        "Upper bound target": 2928.1824683809655,
+        "Lower bound target": 2147.333810146041
+      },
+      {
+        "valueX": 2030,
+        "location": "R_ASP",
+        "historical": 2708.586681,
+        "computed": 2705.534379,
+        "Upper bound target": 2800.42923526443,
+        "Lower bound target": 2053.648105860582
+      },
+      {
+        "valueX": 2030,
+        "location": "MEX",
+        "historical": 2817.167732,
+        "computed": 2724.642895,
+        "Upper bound target": 2820.0576468242402,
+        "Lower bound target": 2068.042274337776
+      },
+      {
+        "valueX": 2030,
+        "location": "R_NEU",
+        "historical": 2655.45628,
+        "computed": 2594.557524,
+        "Upper bound target": 2980.92890836782,
+        "Lower bound target": 2186.014532803068
+      },
+      {
+        "valueX": 2035,
+        "location": "AUS",
+        "historical": 2576.944945,
+        "computed": 2570.961321,
+        "Upper bound target": 2947.19872573107,
+        "Lower bound target": 2161.279065536118
+      },
+      {
+        "valueX": 2035,
+        "location": "BRA",
+        "historical": 3217.623801,
+        "computed": 3199.761088,
+        "Upper bound target": 2919.864141110265,
+        "Lower bound target": 2141.2337034808606
+      },
+      {
+        "valueX": 2035,
+        "location": "CAN",
+        "historical": 3150.533212,
+        "computed": 3124.968352,
+        "Upper bound target": 2948.63811137931,
+        "Lower bound target": 2162.334615011494
+      },
+      {
+        "valueX": 2035,
+        "location": "CHN",
+        "historical": 3083.780258,
+        "computed": 3086.611833,
+        "Upper bound target": 2960.98653978507,
+        "Lower bound target": 2171.390129175718
+      },
+      {
+        "valueX": 2035,
+        "location": "DEU",
+        "historical": 3127.236156,
+        "computed": 2867.232912,
+        "Upper bound target": 2961.1346636654253,
+        "Lower bound target": 2171.498753354645
+      },
+      {
+        "valueX": 2035,
+        "location": "FIN",
+        "historical": 2789.459654,
+        "computed": 2738.564011,
+        "Upper bound target": 2978.18182862001,
+        "Lower bound target": 2184.000007654674
+      },
+      {
+        "valueX": 2035,
+        "location": "GBR",
+        "historical": 2844.944384,
+        "computed": 2825.117005,
+        "Upper bound target": 2933.32067919966,
+        "Lower bound target": 2151.101831413084
+      },
+      {
+        "valueX": 2035,
+        "location": "GRC",
+        "historical": 2744.878427,
+        "computed": 2708.177612,
+        "Upper bound target": 2962.59231340005,
+        "Lower bound target": 2172.56769649337
+      },
+      {
+        "valueX": 2035,
+        "location": "NOR",
+        "historical": 2858.092866,
+        "computed": 2900.760699,
+        "Upper bound target": 2980.528657865625,
+        "Lower bound target": 2185.7210157681247
+      },
+      {
+        "valueX": 2035,
+        "location": "R_OEU",
+        "historical": 3066.441705,
+        "computed": 3049.096821,
+        "Upper bound target": 2931.29183710959,
+        "Lower bound target": 2149.614013880366
+      },
+      {
+        "valueX": 2035,
+        "location": "SWE",
+        "historical": 2768.59,
+        "computed": 2779.599148,
+        "Upper bound target": 2973.24624959625,
+        "Lower bound target": 2180.38058303725
+      },
+      {
+        "valueX": 2035,
+        "location": "TUR",
+        "historical": 3586.631917,
+        "computed": 3575.0197,
+        "Upper bound target": 2909.707966024335,
+        "Lower bound target": 2133.785841751179
+      },
+      {
+        "valueX": 2035,
+        "location": "USA",
+        "historical": 2936.931609,
+        "computed": 2922.56621,
+        "Upper bound target": 2915.256010589655,
+        "Lower bound target": 2137.854407765747
+      },
+      {
+        "valueX": 2035,
+        "location": "ETH",
+        "historical": 2648.889908,
+        "computed": 2618.683467,
+        "Upper bound target": 2634.85152327273,
+        "Lower bound target": 1932.2244504000018
+      },
+      {
+        "valueX": 2035,
+        "location": "R_SSA",
+        "historical": 2410.129015,
+        "computed": 2400.25448,
+        "Upper bound target": 2816.46209713839,
+        "Lower bound target": 2065.4055379014862
+      },
+      {
+        "valueX": 2035,
+        "location": "IND",
+        "historical": 2446.034851,
+        "computed": 2429.683821,
+        "Upper bound target": 2761.04511363939,
+        "Lower bound target": 2024.766416668886
+      },
+      {
+        "valueX": 2035,
+        "location": "IDN",
+        "historical": 2716.947195,
+        "computed": 2402.372083,
+        "Upper bound target": 2751.64013473167,
+        "Lower bound target": 2017.869432136558
+      },
+      {
+        "valueX": 2035,
+        "location": "RWA",
+        "historical": 2596.783814,
+        "computed": 2568.451922,
+        "Upper bound target": 2609.74398408042,
+        "Lower bound target": 1913.8122549923082
+      },
+      {
+        "valueX": 2035,
+        "location": "DNK",
+        "historical": 3043.846673,
+        "computed": 2653.82841,
+        "Upper bound target": 2982.1844749759202,
+        "Lower bound target": 2186.9352816490077
+      },
+      {
+        "valueX": 2035,
+        "location": "R_CSA",
+        "historical": 2484.980407,
+        "computed": 2481.513938,
+        "Upper bound target": 2825.0924764381502,
+        "Lower bound target": 2071.73448272131
+      },
+      {
+        "valueX": 2035,
+        "location": "R_NMC",
+        "historical": 2826.123613,
+        "computed": 2821.460834,
+        "Upper bound target": 2770.7274577907547,
+        "Lower bound target": 2031.866802379887
+      },
+      {
+        "valueX": 2035,
+        "location": "COL",
+        "historical": 2477.243991,
+        "computed": 2459.813878,
+        "Upper bound target": 2846.4449391084754,
+        "Lower bound target": 2087.392955346215
+      },
+      {
+        "valueX": 2035,
+        "location": "NPL",
+        "historical": 2718.667724,
+        "computed": 2690.095316,
+        "Upper bound target": 2698.712188071165,
+        "Lower bound target": 1979.055604585521
+      },
+      {
+        "valueX": 2035,
+        "location": "RUS",
+        "historical": 3032.43829,
+        "computed": 2639.675902,
+        "Upper bound target": 2931.17336608932,
+        "Lower bound target": 2149.527135132168
+      },
+      {
+        "valueX": 2035,
+        "location": "MEX",
+        "historical": 2691.224809,
+        "computed": 2605.815337,
+        "Upper bound target": 2823.037531648755,
+        "Lower bound target": 2070.227523209087
+      },
+      {
+        "valueX": 2035,
+        "location": "ARG",
+        "historical": 2972.556997,
+        "computed": 2959.203001,
+        "Upper bound target": 2890.6422188393253,
+        "Lower bound target": 2119.804293815505
+      },
+      {
+        "valueX": 2035,
+        "location": "R_NEU",
+        "historical": 2655.45628,
+        "computed": 2594.61389,
+        "Upper bound target": 2976.7830268785,
+        "Lower bound target": 2182.9742197109003
+      },
+      {
+        "valueX": 2035,
+        "location": "R_ASP",
+        "historical": 2758.20551,
+        "computed": 2754.224961,
+        "Upper bound target": 2799.133970486805,
+        "Lower bound target": 2052.698245023657
+      },
+      {
+        "valueX": 2040,
+        "location": "AUS",
+        "historical": 2583.07998,
+        "computed": 2577.120105,
+        "Upper bound target": 2948.005902159,
+        "Lower bound target": 2161.8709949166
+      },
+      {
+        "valueX": 2040,
+        "location": "BRA",
+        "historical": 3308.308616,
+        "computed": 3298.685638,
+        "Upper bound target": 2917.007513238225,
+        "Lower bound target": 2139.138843041365
+      },
+      {
+        "valueX": 2040,
+        "location": "CAN",
+        "historical": 3210.390604,
+        "computed": 3184.502185,
+        "Upper bound target": 2947.572144182445,
+        "Lower bound target": 2161.552905733793
+      },
+      {
+        "valueX": 2040,
+        "location": "CHN",
+        "historical": 3173.070115,
+        "computed": 3176.525484,
+        "Upper bound target": 2949.9853898548345,
+        "Lower bound target": 2163.322619226879
+      },
+      {
+        "valueX": 2040,
+        "location": "DEU",
+        "historical": 3127.236156,
+        "computed": 2875.537653,
+        "Upper bound target": 2964.20493561459,
+        "Lower bound target": 2173.750286117366
+      },
+      {
+        "valueX": 2040,
+        "location": "FIN",
+        "historical": 2791.46339,
+        "computed": 2740.908731,
+        "Upper bound target": 2972.60170523568,
+        "Lower bound target": 2179.9079171728317
+      },
+      {
+        "valueX": 2040,
+        "location": "GBR",
+        "historical": 2844.944384,
+        "computed": 2824.844455,
+        "Upper bound target": 2930.839241048535,
+        "Lower bound target": 2149.282110102259
+      },
+      {
+        "valueX": 2040,
+        "location": "GRC",
+        "historical": 2744.878427,
+        "computed": 2708.091227,
+        "Upper bound target": 2947.820828431545,
+        "Lower bound target": 2161.735274183133
+      },
+      {
+        "valueX": 2040,
+        "location": "NOR",
+        "historical": 2858.092866,
+        "computed": 2883.843519,
+        "Upper bound target": 2975.72485025994,
+        "Lower bound target": 2182.198223523956
+      },
+      {
+        "valueX": 2040,
+        "location": "R_ASP",
+        "historical": 2823.576349,
+        "computed": 2818.380232,
+        "Upper bound target": 2797.9978979288253,
+        "Lower bound target": 2051.865125147805
+      },
+      {
+        "valueX": 2040,
+        "location": "R_OEU",
+        "historical": 3066.441705,
+        "computed": 3049.116087,
+        "Upper bound target": 2922.890073130635,
+        "Lower bound target": 2143.4527202957993
+      },
+      {
+        "valueX": 2040,
+        "location": "SWE",
+        "historical": 2768.59,
+        "computed": 2773.65304,
+        "Upper bound target": 2972.05456871583,
+        "Lower bound target": 2179.506683724942
+      },
+      {
+        "valueX": 2040,
+        "location": "TUR",
+        "historical": 3586.631917,
+        "computed": 3574.425458,
+        "Upper bound target": 2907.74530703712,
+        "Lower bound target": 2132.346558493888
+      },
+      {
+        "valueX": 2040,
+        "location": "USA",
+        "historical": 2827.568947,
+        "computed": 2811.654769,
+        "Upper bound target": 2913.190337595255,
+        "Lower bound target": 2136.3395809031867
+      },
+      {
+        "valueX": 2040,
+        "location": "ETH",
+        "historical": 2643.786256,
+        "computed": 2614.161119,
+        "Upper bound target": 2661.636509264595,
+        "Lower bound target": 1951.866773460703
+      },
+      {
+        "valueX": 2040,
+        "location": "R_SSA",
+        "historical": 2454,
+        "computed": 2443.476047,
+        "Upper bound target": 2816.2269806544,
+        "Lower bound target": 2065.23311914656
+      },
+      {
+        "valueX": 2040,
+        "location": "IDN",
+        "historical": 2716.947195,
+        "computed": 2317.796489,
+        "Upper bound target": 2751.59239887153,
+        "Lower bound target": 2017.8344258391219
+      },
+      {
+        "valueX": 2040,
+        "location": "IND",
+        "historical": 2465.921313,
+        "computed": 2449.317799,
+        "Upper bound target": 2770.139096236395,
+        "Lower bound target": 2031.435337240023
+      },
+      {
+        "valueX": 2040,
+        "location": "DNK",
+        "historical": 3043.846673,
+        "computed": 2564.230322,
+        "Upper bound target": 2986.02964844937,
+        "Lower bound target": 2189.7550755295383
+      },
+      {
+        "valueX": 2040,
+        "location": "RWA",
+        "historical": 2625.531296,
+        "computed": 2597.725655,
+        "Upper bound target": 2629.86080176575,
+        "Lower bound target": 1928.56458796155
+      },
+      {
+        "valueX": 2040,
+        "location": "RUS",
+        "historical": 3032.43829,
+        "computed": 2494.525069,
+        "Upper bound target": 2919.7834862466902,
+        "Lower bound target": 2141.174556580906
+      },
+      {
+        "valueX": 2040,
+        "location": "MEX",
+        "historical": 2525.300006,
+        "computed": 2444.614965,
+        "Upper bound target": 2823.385939849515,
+        "Lower bound target": 2070.483022556311
+      },
+      {
+        "valueX": 2040,
+        "location": "R_CSA",
+        "historical": 2536.505059,
+        "computed": 2532.981089,
+        "Upper bound target": 2823.3448787654847,
+        "Lower bound target": 2070.452911094689
+      },
+      {
+        "valueX": 2040,
+        "location": "NPL",
+        "historical": 2718.667724,
+        "computed": 2689.827598,
+        "Upper bound target": 2717.697127491015,
+        "Lower bound target": 1992.9778934934109
+      },
+      {
+        "valueX": 2040,
+        "location": "COL",
+        "historical": 2517.255513,
+        "computed": 2499.831123,
+        "Upper bound target": 2849.029204683855,
+        "Lower bound target": 2089.288083434827
+      },
+      {
+        "valueX": 2040,
+        "location": "R_NMC",
+        "historical": 2894.585255,
+        "computed": 2889.760877,
+        "Upper bound target": 2777.26227488424,
+        "Lower bound target": 2036.659001581776
+      },
+      {
+        "valueX": 2040,
+        "location": "ARG",
+        "historical": 2972.556997,
+        "computed": 2959.203132,
+        "Upper bound target": 2888.2579668885596,
+        "Lower bound target": 2118.055842384944
+      },
+      {
+        "valueX": 2040,
+        "location": "R_NEU",
+        "historical": 2655.45628,
+        "computed": 2594.61384,
+        "Upper bound target": 2964.7029666697504,
+        "Lower bound target": 2174.11550889115
+      },
+      {
+        "valueX": 2045,
+        "location": "AUS",
+        "historical": 2583.07998,
+        "computed": 2577.117686,
+        "Upper bound target": 2944.3328986776596,
+        "Lower bound target": 2159.177459030284
+      },
+      {
+        "valueX": 2045,
+        "location": "BRA",
+        "historical": 3398.993431,
+        "computed": 3388.130794,
+        "Upper bound target": 2911.91819349885,
+        "Lower bound target": 2135.4066752324898
+      },
+      {
+        "valueX": 2045,
+        "location": "CAN",
+        "historical": 3270.247996,
+        "computed": 3244.036503,
+        "Upper bound target": 2945.8355164708196,
+        "Lower bound target": 2160.279378745268
+      },
+      {
+        "valueX": 2045,
+        "location": "CHN",
+        "historical": 3262.359972,
+        "computed": 3266.355344,
+        "Upper bound target": 2933.24879216373,
+        "Lower bound target": 2151.049114253402
+      },
+      {
+        "valueX": 2045,
+        "location": "DEU",
+        "historical": 3127.236156,
+        "computed": 2883.464765,
+        "Upper bound target": 2961.87648806694,
+        "Lower bound target": 2172.0427579157563
+      },
+      {
+        "valueX": 2045,
+        "location": "FIN",
+        "historical": 2793.467127,
+        "computed": 2743.073173,
+        "Upper bound target": 2967.206263136415,
+        "Lower bound target": 2175.951259633371
+      },
+      {
+        "valueX": 2045,
+        "location": "GBR",
+        "historical": 2844.944384,
+        "computed": 2824.591206,
+        "Upper bound target": 2925.49412417175,
+        "Lower bound target": 2145.36235772595
+      },
+      {
+        "valueX": 2045,
+        "location": "GRC",
+        "historical": 2744.878427,
+        "computed": 2708.036067,
+        "Upper bound target": 2937.9301032384146,
+        "Lower bound target": 2154.4820757081707
+      },
+      {
+        "valueX": 2045,
+        "location": "NOR",
+        "historical": 2858.092866,
+        "computed": 2868.447972,
+        "Upper bound target": 2972.57330249352,
+        "Lower bound target": 2179.887088495248
+      },
+      {
+        "valueX": 2045,
+        "location": "R_ASP",
+        "historical": 2904.699196,
+        "computed": 2898.125353,
+        "Upper bound target": 2797.70561436006,
+        "Lower bound target": 2051.650783864044
+      },
+      {
+        "valueX": 2045,
+        "location": "R_OEU",
+        "historical": 3066.441705,
+        "computed": 3049.124553,
+        "Upper bound target": 2915.9748737885097,
+        "Lower bound target": 2138.381574111574
+      },
+      {
+        "valueX": 2045,
+        "location": "SWE",
+        "historical": 2768.59,
+        "computed": 2766.468376,
+        "Upper bound target": 2967.592418930835,
+        "Lower bound target": 2176.234440549279
+      },
+      {
+        "valueX": 2045,
+        "location": "TUR",
+        "historical": 3586.631917,
+        "computed": 3573.985149,
+        "Upper bound target": 2899.64580685065,
+        "Lower bound target": 2126.4069250238103
+      },
+      {
+        "valueX": 2045,
+        "location": "USA",
+        "historical": 2691.853837,
+        "computed": 2674.022581,
+        "Upper bound target": 2912.548801744215,
+        "Lower bound target": 2135.869121279091
+      },
+      {
+        "valueX": 2045,
+        "location": "ETH",
+        "historical": 2638.682604,
+        "computed": 2609.638826,
+        "Upper bound target": 2682.660843873615,
+        "Lower bound target": 1967.2846188406509
+      },
+      {
+        "valueX": 2045,
+        "location": "DNK",
+        "historical": 3043.846673,
+        "computed": 2484.132501,
+        "Upper bound target": 2994.44013325026,
+        "Lower bound target": 2195.922764383524
+      },
+      {
+        "valueX": 2045,
+        "location": "R_SSA",
+        "historical": 2454,
+        "computed": 2443.400225,
+        "Upper bound target": 2812.5086026580248,
+        "Lower bound target": 2062.506308615885
+      },
+      {
+        "valueX": 2045,
+        "location": "IDN",
+        "historical": 2716.947195,
+        "computed": 2365.64931,
+        "Upper bound target": 2751.79487561109,
+        "Lower bound target": 2017.982908781466
+      },
+      {
+        "valueX": 2045,
+        "location": "IND",
+        "historical": 2485.807775,
+        "computed": 2468.950727,
+        "Upper bound target": 2775.5119268871,
+        "Lower bound target": 2035.3754130505397
+      },
+      {
+        "valueX": 2045,
+        "location": "MEX",
+        "historical": 2319.393323,
+        "computed": 2245.337722,
+        "Upper bound target": 2824.7087585108848,
+        "Lower bound target": 2071.453089574649
+      },
+      {
+        "valueX": 2045,
+        "location": "RUS",
+        "historical": 3032.43829,
+        "computed": 2341.647365,
+        "Upper bound target": 2899.6618671278998,
+        "Lower bound target": 2126.41870256046
+      },
+      {
+        "valueX": 2045,
+        "location": "RWA",
+        "historical": 2654.278778,
+        "computed": 2581.661044,
+        "Upper bound target": 2645.60323634547,
+        "Lower bound target": 1940.109039986678
+      },
+      {
+        "valueX": 2045,
+        "location": "NPL",
+        "historical": 2718.667724,
+        "computed": 2689.511264,
+        "Upper bound target": 2729.370924102855,
+        "Lower bound target": 2001.538677675427
+      },
+      {
+        "valueX": 2045,
+        "location": "R_CSA",
+        "historical": 2588.029712,
+        "computed": 2584.464325,
+        "Upper bound target": 2822.95538158218,
+        "Lower bound target": 2070.167279826932
+      },
+      {
+        "valueX": 2045,
+        "location": "COL",
+        "historical": 2557.267035,
+        "computed": 2539.848527,
+        "Upper bound target": 2847.7423316874,
+        "Lower bound target": 2088.34437657076
+      },
+      {
+        "valueX": 2045,
+        "location": "R_NMC",
+        "historical": 2963.046898,
+        "computed": 2958.034693,
+        "Upper bound target": 2781.10531036572,
+        "Lower bound target": 2039.477227601528
+      },
+      {
+        "valueX": 2045,
+        "location": "ARG",
+        "historical": 2972.556997,
+        "computed": 2959.204433,
+        "Upper bound target": 2887.27820759109,
+        "Lower bound target": 2117.337352233466
+      },
+      {
+        "valueX": 2045,
+        "location": "R_NEU",
+        "historical": 2655.45628,
+        "computed": 2594.613794,
+        "Upper bound target": 2949.216254363625,
+        "Lower bound target": 2162.7585865333253
+      },
+      {
+        "valueX": 2050,
+        "location": "AUS",
+        "historical": 2583.07998,
+        "computed": 2577.116059,
+        "Upper bound target": 2939.59987202433,
+        "Lower bound target": 2155.706572817842
+      },
+      {
+        "valueX": 2050,
+        "location": "BRA",
+        "historical": 3489.678246,
+        "computed": 3477.762832,
+        "Upper bound target": 2906.255442658845,
+        "Lower bound target": 2131.253991283153
+      },
+      {
+        "valueX": 2050,
+        "location": "CAN",
+        "historical": 3330.105388,
+        "computed": 3303.569989,
+        "Upper bound target": 2944.275780250545,
+        "Lower bound target": 2159.135572183733
+      },
+      {
+        "valueX": 2050,
+        "location": "CHN",
+        "historical": 3351.649829,
+        "computed": 3356.104691,
+        "Upper bound target": 2915.04193255695,
+        "Lower bound target": 2137.6974172084297
+      },
+      {
+        "valueX": 2050,
+        "location": "DEU",
+        "historical": 3127.236156,
+        "computed": 2887.12111,
+        "Upper bound target": 2954.169846899265,
+        "Lower bound target": 2166.3912210594613
+      },
+      {
+        "valueX": 2050,
+        "location": "FIN",
+        "historical": 2795.470863,
+        "computed": 2744.721244,
+        "Upper bound target": 2965.862982593535,
+        "Lower bound target": 2174.966187235259
+      },
+      {
+        "valueX": 2050,
+        "location": "GBR",
+        "historical": 2844.944384,
+        "computed": 2821.554536,
+        "Upper bound target": 2922.1410213759295,
+        "Lower bound target": 2142.903415675682
+      },
+      {
+        "valueX": 2050,
+        "location": "GRC",
+        "historical": 2744.878427,
+        "computed": 2707.933679,
+        "Upper bound target": 2938.0320297198605,
+        "Lower bound target": 2154.556821794564
+      },
+      {
+        "valueX": 2050,
+        "location": "NOR",
+        "historical": 2858.092866,
+        "computed": 2854.96955,
+        "Upper bound target": 2970.7752233776646,
+        "Lower bound target": 2178.568497143621
+      },
+      {
+        "valueX": 2050,
+        "location": "R_ASP",
+        "historical": 2911,
+        "computed": 2904.18623,
+        "Upper bound target": 2798.6281071462304,
+        "Lower bound target": 2052.3272785739023
+      },
+      {
+        "valueX": 2050,
+        "location": "R_OEU",
+        "historical": 3066.441705,
+        "computed": 3049.130416,
+        "Upper bound target": 2911.660417900125,
+        "Lower bound target": 2135.217639793425
+      },
+      {
+        "valueX": 2050,
+        "location": "SWE",
+        "historical": 2768.59,
+        "computed": 2764.208637,
+        "Upper bound target": 2961.729175059375,
+        "Lower bound target": 2171.934728376875
+      },
+      {
+        "valueX": 2050,
+        "location": "TUR",
+        "historical": 3586.631917,
+        "computed": 3573.631031,
+        "Upper bound target": 2891.74828962594,
+        "Lower bound target": 2120.615412392356
+      },
+      {
+        "valueX": 2050,
+        "location": "USA",
+        "historical": 2681.312857,
+        "computed": 2663.329373,
+        "Upper bound target": 2913.3840882392547,
+        "Lower bound target": 2136.481664708787
+      },
+      {
+        "valueX": 2050,
+        "location": "DNK",
+        "historical": 3043.846673,
+        "computed": 2415.018018,
+        "Upper bound target": 2998.3396843245746,
+        "Lower bound target": 2198.7824351713552
+      },
+      {
+        "valueX": 2050,
+        "location": "ETH",
+        "historical": 2633.578951,
+        "computed": 2605.116586,
+        "Upper bound target": 2698.3560420428253,
+        "Lower bound target": 1978.794430831405
+      },
+      {
+        "valueX": 2050,
+        "location": "RUS",
+        "historical": 3032.43829,
+        "computed": 2188.419684,
+        "Upper bound target": 2882.191805508915,
+        "Lower bound target": 2113.607324039871
+      },
+      {
+        "valueX": 2050,
+        "location": "R_SSA",
+        "historical": 2454,
+        "computed": 2443.317713,
+        "Upper bound target": 2806.81027372746,
+        "Lower bound target": 2058.3275340668038
+      },
+      {
+        "valueX": 2050,
+        "location": "RWA",
+        "historical": 2654.278778,
+        "computed": 2428.603068,
+        "Upper bound target": 2659.8364311782852,
+        "Lower bound target": 1950.546716197409
+      },
+      {
+        "valueX": 2050,
+        "location": "MEX",
+        "historical": 2303.400571,
+        "computed": 2233.154544,
+        "Upper bound target": 2825.7227363979305,
+        "Lower bound target": 2072.1966733584823
+      },
+      {
+        "valueX": 2050,
+        "location": "IDN",
+        "historical": 2716.947195,
+        "computed": 2401.240465,
+        "Upper bound target": 2754.7980895273354,
+        "Lower bound target": 2020.185265653379
+      },
+      {
+        "valueX": 2050,
+        "location": "IND",
+        "historical": 2505.694238,
+        "computed": 2488.567392,
+        "Upper bound target": 2777.4916304786548,
+        "Lower bound target": 2036.8271956843469
+      },
+      {
+        "valueX": 2050,
+        "location": "NPL",
+        "historical": 2718.667724,
+        "computed": 2689.156044,
+        "Upper bound target": 2735.16946827,
+        "Lower bound target": 2005.790943398
+      },
+      {
+        "valueX": 2050,
+        "location": "COL",
+        "historical": 2597.278557,
+        "computed": 2579.867005,
+        "Upper bound target": 2842.976870815215,
+        "Lower bound target": 2084.8497052644907
+      },
+      {
+        "valueX": 2050,
+        "location": "R_CSA",
+        "historical": 2639.554364,
+        "computed": 2635.953676,
+        "Upper bound target": 2823.05653894245,
+        "Lower bound target": 2070.24146189113
+      },
+      {
+        "valueX": 2050,
+        "location": "R_NMC",
+        "historical": 3031.508541,
+        "computed": 3026.281353,
+        "Upper bound target": 2786.3894599301548,
+        "Lower bound target": 2043.3522706154472
+      },
+      {
+        "valueX": 2050,
+        "location": "ARG",
+        "historical": 2972.556997,
+        "computed": 2959.204588,
+        "Upper bound target": 2886.94976801835,
+        "Lower bound target": 2117.09649654679
+      },
+      {
+        "valueX": 2050,
+        "location": "R_NEU",
+        "historical": 2655.45628,
+        "computed": 2594.613748,
+        "Upper bound target": 2937.91547847123,
+        "Lower bound target": 2154.471350878902
+      }
+    ],
+    "keys": [
+      "computed"
+    ],
+    "byCountry": true,
+    "upperLower": true,
+    "withHistorical": true,
+    "notes": "Source: FAOSTAT is used for historical data, it is not accounting for food loss and waste and might be different than values on FAOSTAT because of merging differences"
+  }
+]
