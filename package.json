@@ -24,6 +24,7 @@
     "fixNumbers": "tsx fixNumbers.ts",
     "updateFood": "tsx updateFoodText.ts",
     "updateLand": "tsx updateLand.ts",
+    "updateNitro": "tsx updateNitro.ts",
     "start": "tsx src/index.ts"
   },
   "keywords": [],

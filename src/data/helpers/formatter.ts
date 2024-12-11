@@ -12,7 +12,7 @@ import { generateTradeReport } from "./generateTradeReport";
 export type LegendItem = {
   key: string;
   color: string;
-  type?: 'upper' | 'mark' | 'lower' | 'historical' | 'under';
+  type?: 'upper' | 'mark' | 'lower' | 'historical' | 'under' | 'target';
   inLegend?: boolean;
   inGraph?: boolean;
   description?: string;
