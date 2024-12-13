@@ -25,6 +25,7 @@
     "updateFood": "tsx updateFoodText.ts",
     "updateLand": "tsx updateLand.ts",
     "updateWater":"tsx updateWater.ts",
+    "updateNitro": "tsx updateNitro.ts",
     "start": "tsx src/index.ts"
   },
   "keywords": [],

@@ -19,11 +19,10 @@ rem Loop through all .json files in the folder
 for %%f in (*.json) do (
     rem Brotli compress each .json file individually
     brotli -Z "%%f" -o "%%~nf.json.br"
-    
+
     rem Move the Brotli compressed file to the target folder
     move "%%~nf.json.br" "%target_folder%"
 )
 
 endlocal
 echo Done!
-pause
