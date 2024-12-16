@@ -24,6 +24,7 @@
     "fixNumbers": "tsx fixNumbers.ts",
     "updateFood": "tsx updateFoodText.ts",
     "updateLand": "tsx updateLand.ts",
+    "updateWater":"tsx updateWater.ts",
     "updateNitro": "tsx updateNitro.ts",
     "updateSocio": "tsx updateSocio.ts",
     "start": "tsx src/index.ts"
