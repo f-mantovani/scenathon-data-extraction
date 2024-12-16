@@ -27,6 +27,7 @@
     "updateWater":"tsx updateWater.ts",
     "updateNitro": "tsx updateNitro.ts",
     "updateSocio": "tsx updateSocio.ts",
+    "updateTrade": "tsx updateTrade.ts",
     "start": "tsx src/index.ts"
   },
   "keywords": [],

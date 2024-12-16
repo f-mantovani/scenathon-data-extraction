@@ -14,7 +14,7 @@ const colors = {
 
 (async function () {
   const allFilePaths = await glob(
-    "./src/data/store/2020-food_security-CT-Yes.json"
+    "./src/data/store/*-food_security-*.json",
   );
 
   for await (const filePath of allFilePaths) {
@@ -40,7 +40,8 @@ const colors = {
           el.legend = [
             {
               label: "Figure description",
-              description: `The Prevalence of Undernourishment (PoU) is based on the distribution of habitual dietary energy consumption of hypothetical average individuals. The PoU calculates the probability that the habitual dietary energy consumption of individuals is below the lower limit of acceptable energy requirements to be in good health and have socially desirable physical activity.`,
+              description: `The Prevalence of Undernourishment (PoU) is based on the distribution of habitual dietary energy consumption of hypothetical average individuals. The PoU calculates the probability that the habitual dietary energy consumption of individuals is
+              below the lower limit of acceptable energy requirements to be in good health and have socially desirable physical activity. The methodology followed is explained in further detail in Annex 1B of the FAO’s The State of Food Security and Nutrition in the World.`,
             },
             {
               key: "Computed",
@@ -57,7 +58,7 @@ const colors = {
                 "FAO considers national level PoU estimates lower than 2.5 percent as being insufficiently reliable to be reported",
             },
             {
-              key: "Target",
+              key: "FABLE Target",
               color: colors.marker,
               type: "mark",
               inLegend: true,
@@ -67,17 +68,19 @@ const colors = {
           el.notes = `The prevalence of undernourishment assumes a lognormal distribution, defined by mean dietary energy consumption (DEC), CV (taken from the FAO and kept constant at 2020 levels), and MDER per capita`;
           el.axisY = "Prevalence of undernourishment (%)";
         }
+        // Rows 10, 11 and 12
         if (i == 1) {
-          // Rows 10, 11 and 12
           el.title = `Average daily intake per capita in 2030`;
           el.description = `The average daily intake of calories per capita in 2030, based on the 2020 baseline scenario`;
           el.legend = [
             {
               inLegend: false,
               label: `Figure description`,
-              description: `This figure compares the average per capita kilocalorie intake in countries and regions with their respective Minimum Dietary Energy Requirement (MDER). Our food security objective sets a target range of 10% to 50% above the MDER.
-              The average per capita kilocalorie intake reflects the food actually consumed, calculated after accounting for food waste. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, we target an average daily energy intake per capita that exceeds the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.
-              While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.`,
+              description: `<p>This figure compares the average per capita kilocalorie intake across listed countries and regions with their respective Minimum Dietary Energy Requirement (MDER) in 2030.</p>
+                            <br />
+                            <p>The average per capita kilocalorie intake reflects actual food consumption when food waste is taken into account. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, FABLE's food security objective sets a target range of 10% to 50% above the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.</p>
+                            <br />
+                            <p>While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.</p>`,
             },
             {
               key: "Computed",
@@ -110,8 +113,8 @@ const colors = {
             delete e.lowerBound;
           });
         }
+        // Rows 21, 22, 23 and 24
         if (i == 2) {
-          // Rows 22, 23 and 24
           el.title = `Prevalence of undernourishment by country`;
           el.description = `The evolution of prevalence of unernourishment by country based on the country's 2020 population and inequalities characteristics`;
           el.data.forEach((e) => {
@@ -122,7 +125,8 @@ const colors = {
           el.legend = [
             {
               label: "Figure description",
-              description: `The Prevalence of Undernourishment (PoU) is based on the distribution of habitual dietary energy consumption of hypothetical average individuals. The PoU calculates the probability that the habitual dietary energy consumption of individuals is below the lower limit of acceptable energy requirements to be in good health and have socially desirable physical activity.`,
+              description: `The Prevalence of Undernourishment (PoU) is based on the distribution of habitual dietary energy consumption of hypothetical average individuals. The PoU calculates the probability that the habitual dietary energy consumption of individuals is
+              below the lower limit of acceptable energy requirements to be in good health and have socially desirable physical activity. The methodology followed is explained in further detail in Annex 1B of FAO’s The State of Food Security and Nutrition in the World.`,
             },
             {
               key: "Computed",
@@ -139,7 +143,7 @@ const colors = {
                 "FAO considers national level PoU estimates lower than 2.5 percent as being insufficiently reliable to be reported",
             },
             {
-              key: "Target",
+              key: "FABLE Target",
               color: "red",
               type: "mark",
               inLegend: true,
@@ -149,16 +153,18 @@ const colors = {
           el.notes = `The prevalence of undernourishment assumes a lognormal distribution, defined by mean dietary energy consumption (DEC), CV (taken from the FAO and kept constant at 2020 levels), and MDER per capita`;
           el.axisY = "Prevalence of undernourishment (%)";
         }
+        // Rows 13, 14, 15 and 16
         if (i == 3) {
-          // Rows 13, 14, 15 and 16
           el.title = `Evolution of calories intake by country`;
           el.description = `The evolution of average daily intake of calories per capita by country, based on the 2020 baseline scenario`;
           el.legend = [
             {
               label: "Figure description",
-              description: `This figure illustrates the changes in average per capita kilocalorie intake for each country compared to its Minimum Dietary Energy Requirement (MDER). Our food security objective is to achieve and maintain a target range of 10% to 50% above the MDER starting from 2030, aligning with Sustainable Development Goal (SDG) 2, which aims to ensure universal food and nutrition security by 2030.
-          The average per capita kilocalorie intake reflects the amount of food actually consumed, calculated after accounting for food waste. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014), we set a goal for the average daily energy intake per capita to exceed the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, which varies by age, sex, and activity level.
-          Although this target does not address food access inequalities within countries, it serves as a clear and measurable benchmark for tracking progress toward global food security.`,
+              description: `<p>This figure illustrates changes in average per capita kilocalorie intake for each country compared to respective Minimum Dietary Energy Requirements (MDER).</p>
+              <br />
+              <p>The average per capita kilocalorie intake reflects actual food consumption when food waste is taken into account. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, FABLE's food security objective sets a target range of 10% to 50% above the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.</p>
+              <br />
+              <p>Although this target does not address food access inequalities within countries, it serves as a clear and measurable benchmark for tracking progress toward global food security.</p>`,
             },
             {
               key: "Computed",
@@ -214,11 +220,11 @@ const colors = {
           el.legend = [
             {
               label: "Figure description",
-              description: `This figure compares the average per capita kilocalorie intake in countries and regions with their respective Minimum Dietary Energy Requirement (MDER) in 2030.
-
-              The average per capita kilocalorie intake reflects the food actually consumed, calculated after accounting for food waste. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, we target an average daily energy intake per capita that exceeds the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.
-
-              While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.`,
+              description: `<p>This figure compares the average per capita kilocalorie intake across listed countries and regions with their respective Minimum Dietary Energy Requirement (MDER) in 2030. </p>
+              <br />
+              <p>The average per capita kilocalorie intake reflects actual food consumption when food waste is taken into account. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, FABLE sets a target for average daily energy intake per capita that exceeds the MDER in each listed country and region by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.</p>
+              <br />
+              <p>While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.</p>`,
             },
             {
               key: "Computed",
@@ -246,11 +252,11 @@ const colors = {
           el.legend = [
             {
               label: "Figure description",
-              description: `This figure compares the average per capita kilocalorie intake in countries and regions with their respective Minimum Dietary Energy Requirement (MDER) in 2030.
-
-              The average per capita kilocalorie intake reflects the food actually consumed, calculated after accounting for food waste. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, we target an average daily energy intake per capita that exceeds the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.
-
-              While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.`,
+              description: `<p>This figure illustrates changes in average per capita kilocalorie intake for each listed country compared to respective Minimum Dietary Energy Requirements (MDER).</p>
+              <br />
+              <p>The average per capita kilocalorie intake reflects actual food consumption when food waste is taken into account. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, FABLE set a target average daily energy intake per capita that exceeds the MDER in listed country and region by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.</p>
+              <br />
+              <p>While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.<p>`,
             },
             {
               key: "Computed",
@@ -281,7 +287,7 @@ const colors = {
                 country.year === e.valueX &&
                 country.location === e.location &&
                 country.tradeadjustment === trade &&
-                country.pathway_id === pathway
+                country.pathway_id === pathway,
             );
             e.Computed = e["Kcal Feasability"];
             e.MDER = found?.kcal_mder;
@@ -298,11 +304,11 @@ const colors = {
         el.legend = [
           {
             label: "Figure description",
-            description: `This figure compares the average per capita kilocalorie intake in countries and regions with their respective Minimum Dietary Energy Requirement (MDER).
-
-            The average per capita kilocalorie intake reflects the food actually consumed, calculated after accounting for food waste. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, we target an average daily energy intake per capita that exceeds the MDER in all countries by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.
-
-            While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.`,
+            description: `<p>This figure compares the average per capita kilocalorie intake across listed countries and regions with their respective Minimum Dietary Energy Requirement (MDER) in 2030. </p>
+            <br />
+            <p>The average per capita kilocalorie intake reflects actual food consumption when food waste is taken into account. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, FABLE sets a target for average daily energy intake per capita that exceeds the MDER in each listed country and region by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.</p>
+            <br />
+            <p>While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.</p>`,
           },
           {
             key: "Computed",
@@ -330,7 +336,7 @@ const colors = {
 
     await fs.writeFile(
       `./src/data/tester/${final}`,
-      JSON.stringify(file, null, 2)
+      JSON.stringify(file, null, 2),
     );
   }
 })();

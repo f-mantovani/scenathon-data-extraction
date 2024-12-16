@@ -1,7 +1,7 @@
-import data from "./2020-data-test.json";
+import data from "./2020-data-full.json";
 import { promises as fsp } from "node:fs";
 import { locationConverter } from "./src/data/helpers/locationConverter";
-import biodiversityData from "./2020-biodiversityData.json";
+// import biodiversityData from "./2020-biodiversityData.json";
 // import forestData from "./2021-forestData-country.json";
 
 (async () => {
@@ -15,20 +15,20 @@ import biodiversityData from "./2020-biodiversityData.json";
     //@ts-expect-error
     d.location = locationConverter[d.Country];
 
-    const biodiversitySlice = biodiversityData.find(
-      (c: any) =>
-        c.tradeadjustment === d.tradeadjustment && c.pathway_id === d.pathway_id
-    );
+    // const biodiversitySlice = biodiversityData.find(
+    //   (c: any) =>
+    //     c.tradeadjustment === d.tradeadjustment && c.pathway_id === d.pathway_id
+    // );
 
-    //  Placing the biodiversity data from the 2021 scenathon website
-    const biodiversityTarget = biodiversitySlice?.data.find(
-      (c: any) =>
-        //@ts-expect-error
-      locationConverter[c.Country] === locationConverter[d.Country] &&
-      c.Year === d.Year
-    );
-    //@ts-expect-error
-    d.biodiversity_land = biodiversityTarget?.Protected_land ?? 0;
+    // //  Placing the biodiversity data from the 2021 scenathon website
+    // const biodiversityTarget = biodiversitySlice?.data.find(
+    //   (c: any) =>
+    //     //@ts-expect-error
+    //   locationConverter[c.Country] === locationConverter[d.Country] &&
+    //   c.Year === d.Year
+    // );
+    // //@ts-expect-error
+    // d.biodiversity_land = biodiversityTarget?.Protected_land ?? 0;
 
     // //  Placing the NetForestChange data from the 2021 scenathon website
     // const forestTarget = forestData.find(
@@ -62,6 +62,6 @@ import biodiversityData from "./2020-biodiversityData.json";
   });
 
   await fsp
-    .writeFile("2020-data-test.json", JSON.stringify(data, null, 2))
+    .writeFile("2020-data-full.json", JSON.stringify(data, null, 2))
     .catch((e) => console.error(`Something went wrong: ${e}`));
 })();

@@ -32,8 +32,8 @@ const colors = new Colors();
     const year = Number(final?.split("-")[0]);
 
     file.forEach((el: Base, i: number) => {
+      // Rows 78, 79, 80, 81 and 82
       if (year == 2019) {
-        // Rows 78, 79, 80, 81 and 82
         if (i == 0) {
           // Row 78
           el.title = "Biodiversity";
@@ -56,7 +56,7 @@ const colors = new Colors();
 
         if (i == 1) {
           // Rows 79, 80, 81 and 82
-          el.title = "Net Forest Cover Change";
+          el.title = "Net forest cover change";
           el.keys = ["Forest gain", "Forest loss"];
           el.legend = [
             {
@@ -105,11 +105,11 @@ const colors = new Colors();
         // Closing for 2019
       }
 
+      // Rows 32 to 47
       if (year == 2020 || year == 2021) {
-        // Rows 32 to 47
+        // Rows 42, 43, 44, 45, 46 and 47
         if (i == 0) {
-          // Rows 42, 43, 44, 45, 46 and 47
-          el.title = "Land Cover";
+          el.title = "Land cover";
           el.description = "Evolution of the land cover from 2000 to 2050";
           el.legend = [
             {
@@ -223,18 +223,18 @@ const colors = new Colors();
           }));
         }
 
+        // Row 38
         if (i == 2) {
-          // Row 38
           // needs confirmation, the text seems to be incorrect
-          el.title = "Biodiversity by Country";
-          // el.description = 'Evolution of the share of land where natural processes predominate (LNPP), i.e. area where there is low human interruption and biodiveristy can flourish, from 2000 to 2050'
-          // el.notes = 'Historical values are computed by the FABLE Secretariat. Values from 2000 to 2010 are constant to the 2010 level. '
-          // el.axisY = 'Percentage of LNPP over total land'
+          el.title = "Biodiversity by country";
+          el.description = 'Evolution of the share of land where natural processes predominate (LNPP), i.e. area where there is low human interruption and biodiveristy can flourish, from 2000 to 2050'
+          el.notes = 'Historical values are computed by the FABLE Secretariat. Values from 2000 to 2010 are constant to the 2010 level. '
+          el.axisY = 'Percentage of LNPP over total land'
         }
 
+        // Rows 32, 33, 34, 35 and 36
         if (i == 3) {
-          // Rows 32, 33, 34, 35 and 36
-          el.title = "Net Forest Cover Change";
+          el.title = "Net forest cover change";
           el.description =
             "Evolution of cumulative forest losses and gains globally from 2000 to 2050.";
           el.legend = [
@@ -272,7 +272,7 @@ const colors = new Colors();
         }
 
         if (i == 4) {
-          el.title = "Net Forest Cover Change by Country";
+          el.title = "Net forest cover change by country";
           el.description = "Contribution by country to net forest change.";
         }
 
@@ -280,12 +280,11 @@ const colors = new Colors();
       }
 
       if (year == 2023) {
-        // Rows 9 to 24
+        // Rows 15, 16, 17, 18, 19 and 20
         if (i == 0) {
-          // Rows 15, 16, 17, 18, 19 and 20
           el.title = "Land inside protected areas or OECMs";
           el.description =
-            "Evolution of land under protected areas (PA) or Other Effective Conservation Measures (OECM), from 2000 to 2050 differentiating per land cover type";
+            "Evolution of land considered a Protected Area (PA) or Other Effective Conservation Measures (OECM), from 2000 to 2050 differentiating per land cover type"
           el.notes =
             "Historical values come from WDPA. Values from 2000 to 2010 are constant to the 2010 level.";
           el.legend = [
@@ -342,11 +341,11 @@ const colors = new Colors();
           el.axisY = "Million hectares";
         }
 
+        // Rows 9, 10, 11, 12, 13, 14
         if (i == 1) {
-          // Rows 9, 10, 11, 12, 13, 14
           el.title = "Land where natural processes predominate";
           el.description =
-            "Evolution of land where natural processes predominate (LNPP), i.e. area where there is low human interruption and biodiveristy can flourish, from 2000 to 2050 differentiating per land cover type";
+            "Evolution of land where natural processes predominate (LNPP), i.e. area where there is low human interruption and where biodiveristy can flourish, from 2000 to 2050,differentiating per land cover type"
           el.notes =
             "Historical values are computed by the FABLE Secretariat. Values from 2000 to 2010 are constant to the 2010 level. ";
           el.axisY = "Million hectares";
@@ -404,8 +403,8 @@ const colors = new Colors();
           // closinng 1
         }
 
+        // Row 21
         if (i == 2) {
-          // Row 21
           el.title = "Land under forest cover";
           el.legend = [
             {
@@ -427,7 +426,7 @@ const colors = new Colors();
             "Mature forests": e["Forest loss"],
           }));
         }
-
+        // Rows 22, 23 and 24
         if (i == 3) {
           el.title = "Cropland area under agroecological practices";
           el.description =
@@ -471,6 +470,7 @@ const colors = new Colors();
 
       // This is the closing for the forEach
     });
+    
     await fs.writeFile(
       `./src/data/tester/${final}`,
       JSON.stringify(file, null, 2)

@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Specify the folder containing the JSON files
 source_folder="./"
 

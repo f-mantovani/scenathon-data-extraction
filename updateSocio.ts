@@ -130,8 +130,8 @@ const colors = new Colors();
 
       if (i === 2) {
         el.data.forEach(e => {
-          e.Livestock = e['Livestock: Number of Full Time Equivalent workers']
           e.Crops = e['Crop: Number of Full Time Equivalent workers']
+          e.Livestock = e['Livestock: Number of Full Time Equivalent workers']
 
           delete e['Livestock: Number of Full Time Equivalent workers']
           delete e['Crop: Number of Full Time Equivalent workers']
