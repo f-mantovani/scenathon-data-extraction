@@ -104,9 +104,6 @@
         "Other Land": 3574761.2844712096,
         "Urban": 178044.63737161938,
         "New Forest": 77393.39798570747
-      },
-      {
-        "valueX": "undefined"
       }
     ],
     "keys": [
@@ -190,12 +187,6 @@
         "Protected Areas Forest": 849388.1494441964,
         "Protected Areas Other Natural": 368317.59011382796,
         "Protected Areas Other": 540342.8140592315
-      },
-      {
-        "valueX": "undefined",
-        "Protected Areas Forest": 0,
-        "Protected Areas Other Natural": 0,
-        "Protected Areas Other": 0
       }
     ],
     "keys": [
@@ -529,10 +520,6 @@
         "SWE": 0.11,
         "USA": 1.09,
         "ZAF": 0.11
-      },
-      {
-        "valueX": "undefined",
-        "IND": 0
       }
     ],
     "keys": [
@@ -970,10 +957,6 @@
         "SWE": 0,
         "USA": 712.5,
         "ZAF": 0
-      },
-      {
-        "valueX": "undefined",
-        "IND": 0
       }
     ],
     "keys": [

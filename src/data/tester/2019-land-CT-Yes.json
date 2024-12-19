@@ -1,0 +1,180 @@
+[
+  {
+    "title": "Biodiversity",
+    "description": "Sum of forests share plus non-managed non-forest land in country land area",
+    "axisY": "% of total land",
+    "axisX": "year",
+    "legend": [
+      {
+        "key": "Biodiversity land",
+        "color": "hsl(240, 70%, 50%)",
+        "inLegend": true,
+        "inGraph": true
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "Biodiversity land": 57.343469624823165
+      },
+      {
+        "valueX": 2005,
+        "Biodiversity land": 58.23618021196082
+      },
+      {
+        "valueX": 2010,
+        "Biodiversity land": 58.07396918218857
+      },
+      {
+        "valueX": 2015,
+        "Biodiversity land": 56.48044443605571
+      },
+      {
+        "valueX": 2020,
+        "Biodiversity land": 55.60580130501786
+      },
+      {
+        "valueX": 2025,
+        "Biodiversity land": 55.43295582038124
+      },
+      {
+        "valueX": 2030,
+        "Biodiversity land": 55.94629885792063
+      },
+      {
+        "valueX": 2035,
+        "Biodiversity land": 56.87048518308045
+      },
+      {
+        "valueX": 2040,
+        "Biodiversity land": 58.03789562051441
+      },
+      {
+        "valueX": 2045,
+        "Biodiversity land": 59.28704149080729
+      },
+      {
+        "valueX": 2050,
+        "Biodiversity land": 60.56832373436468
+      }
+    ],
+    "keys": [
+      "Biodiversity land"
+    ]
+  },
+  {
+    "title": "Net forest cover change",
+    "description": "Forest change",
+    "axisY": "Million hectares",
+    "axisX": "year",
+    "legend": [
+      {
+        "label": "Figure description",
+        "description": "Forest losses are driven by cropland, pasture and/or urban expansion and forest gains by due to afforestation or reforestation. Net forest change is the sum of gains and losses in total forest cover. Results are given per 5-year periods (2005 corresponds to years 2001 to 2005)."
+      },
+      {
+        "key": "Forest gain",
+        "color": "hsl(120, 70%, 50%)",
+        "inLegend": true,
+        "inGraph": true,
+        "description": "Loss in mature forests"
+      },
+      {
+        "key": "Forest loss",
+        "color": "hsl(15, 70%, 50%)",
+        "inLegend": true,
+        "inGraph": true,
+        "description": "Afforested or reforested areas"
+      },
+      {
+        "key": "Net forest change",
+        "type": "lower",
+        "color": "hsl(240, 70%, 50%)",
+        "inLegend": true
+      },
+      {
+        "key": "GWF deforestation",
+        "color": "hsl(340, 70%, 80%)",
+        "inLegend": true,
+        "description": "Global forest watch deforestation data",
+        "type": "upper"
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "Forest gain": 0,
+        "Forest loss": 0,
+        "Net forest change": 0
+      },
+      {
+        "valueX": 2005,
+        "Forest gain": 32086.44,
+        "Forest loss": -90997.43,
+        "Net forest change": -58910.99,
+        "GWF deforestation": -14516
+      },
+      {
+        "valueX": 2010,
+        "Forest gain": 16832.21,
+        "Forest loss": -59247.33,
+        "Net forest change": -42415.12,
+        "GWF deforestation": -16660
+      },
+      {
+        "valueX": 2015,
+        "Forest gain": 34836.55,
+        "Forest loss": -65654.55,
+        "Net forest change": -30818,
+        "GWF deforestation": -18864
+      },
+      {
+        "valueX": 2020,
+        "Forest gain": 48165.54,
+        "Forest loss": -38505.49,
+        "Net forest change": 9660.05
+      },
+      {
+        "valueX": 2025,
+        "Forest gain": 33780.36,
+        "Forest loss": -41699.11,
+        "Net forest change": -7918.76
+      },
+      {
+        "valueX": 2030,
+        "Forest gain": 46580.05,
+        "Forest loss": -28224.71,
+        "Net forest change": 18355.34
+      },
+      {
+        "valueX": 2035,
+        "Forest gain": 42399.74,
+        "Forest loss": -13151.78,
+        "Net forest change": 29247.97
+      },
+      {
+        "valueX": 2040,
+        "Forest gain": 50899.44,
+        "Forest loss": -9742.22,
+        "Net forest change": 41157.22
+      },
+      {
+        "valueX": 2045,
+        "Forest gain": 49539.74,
+        "Forest loss": -8598.31,
+        "Net forest change": 40941.44
+      },
+      {
+        "valueX": 2050,
+        "Forest gain": 33220.97,
+        "Forest loss": -6810.14,
+        "Net forest change": 26410.83
+      }
+    ],
+    "keys": [
+      "Forest gain",
+      "Forest loss"
+    ],
+    "upperLower": true
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "title": "Annual GHG emissions from crops and livestock",
+    "description": "Annual GHG emissions from crops and livestock.",
+    "axisY": "Gt CO2e",
+    "axisX": "year",
+    "legend": [
+      {
+        "key": "FAO agriculture global",
+        "color": "black",
+        "type": "lower",
+        "inLegend": true
+      },
+      {
+        "key": "Total GHG agriculture",
+        "color": "hsl(300, 70%, 50%)",
+        "type": "upper",
+        "inLegend": true
+      },
+      {
+        "key": "Livestock CH4",
+        "color": "#9b2226",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "Livestock N2O",
+        "color": "hsl(35, 70%, 40%)",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "Crop N2O",
+        "color": "#4d908e",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "Crop CO2",
+        "color": "hsl(60, 70%, 50%)",
+        "inGraph": true,
+        "inLegend": true
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "Livestock CH4": 3.25,
+        "Livestock N2O": 3.4,
+        "Crop N2O": 1.3,
+        "Crop CH4": 0.5,
+        "Crop CO2": 1,
+        "FAO agriculture global": 10.88,
+        "Total GHG agriculture": 9.46
+      },
+      {
+        "valueX": 2005,
+        "Livestock CH4": 3.55,
+        "Livestock N2O": 3.61,
+        "Crop N2O": 1.5,
+        "Crop CH4": 0.5,
+        "Crop CO2": 1.09,
+        "FAO agriculture global": 11.47,
+        "Total GHG agriculture": 10.25
+      },
+      {
+        "valueX": 2010,
+        "Livestock CH4": 3.88,
+        "Livestock N2O": 3.81,
+        "Crop N2O": 1.87,
+        "Crop CH4": 0.52,
+        "Crop CO2": 1.29,
+        "FAO agriculture global": 12.03,
+        "Total GHG agriculture": 11.38
+      },
+      {
+        "valueX": 2015,
+        "Livestock CH4": 4.25,
+        "Livestock N2O": 4.1,
+        "Crop N2O": 1.91,
+        "Crop CH4": 0.54,
+        "Crop CO2": 1.33,
+        "FAO agriculture global": 10.56,
+        "Total GHG agriculture": 12.14
+      },
+      {
+        "valueX": 2020,
+        "Livestock CH4": 4.46,
+        "Livestock N2O": 4.28,
+        "Crop N2O": 1.98,
+        "Crop CH4": 0.55,
+        "Crop CO2": 1.37,
+        "Total GHG agriculture": 12.64
+      },
+      {
+        "valueX": 2025,
+        "Livestock CH4": 4.58,
+        "Livestock N2O": 4.37,
+        "Crop N2O": 2,
+        "Crop CH4": 0.55,
+        "Crop CO2": 1.38,
+        "Total GHG agriculture": 12.89
+      },
+      {
+        "valueX": 2030,
+        "Livestock CH4": 4.64,
+        "Livestock N2O": 4.4,
+        "Crop N2O": 2.01,
+        "Crop CH4": 0.54,
+        "Crop CO2": 1.37,
+        "Total GHG agriculture": 12.95
+      },
+      {
+        "valueX": 2035,
+        "Livestock CH4": 4.64,
+        "Livestock N2O": 4.38,
+        "Crop N2O": 2.01,
+        "Crop CH4": 0.53,
+        "Crop CO2": 1.35,
+        "Total GHG agriculture": 12.9
+      },
+      {
+        "valueX": 2040,
+        "Livestock CH4": 4.58,
+        "Livestock N2O": 4.31,
+        "Crop N2O": 1.99,
+        "Crop CH4": 0.52,
+        "Crop CO2": 1.31,
+        "Total GHG agriculture": 12.71
+      },
+      {
+        "valueX": 2045,
+        "Livestock CH4": 4.5,
+        "Livestock N2O": 4.22,
+        "Crop N2O": 1.97,
+        "Crop CH4": 0.49,
+        "Crop CO2": 1.27,
+        "Total GHG agriculture": 12.45
+      },
+      {
+        "valueX": 2050,
+        "Livestock CH4": 4.41,
+        "Livestock N2O": 4.12,
+        "Crop N2O": 1.93,
+        "Crop CH4": 0.46,
+        "Crop CO2": 1.21,
+        "Total GHG agriculture": 12.14
+      }
+    ],
+    "keys": [
+      "Livestock CH4",
+      "Livestock N2O",
+      "Crop N2O",
+      "Crop CO2"
+    ],
+    "upperLower": true
+  },
+  {
+    "title": "Average annual GHG emissions from land use change and peat oxidation in Gt CO2e by country.",
+    "description": "Average annual GHG emissions from land use change and peat oxidation in Gt CO2e by country.",
+    "axisY": "Gt CO2e",
+    "axisX": "year",
+    "legend": [
+      {
+        "key": "FAO LU global",
+        "color": "black",
+        "type": "lower",
+        "inLegend": true
+      },
+      {
+        "key": "Total GHG land",
+        "color": "hsl(300, 70%, 50%)",
+        "type": "upper",
+        "inLegend": true
+      },
+      {
+        "key": "Forest loss",
+        "color": "hsl(120, 70%, 25%)",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "Other LUC",
+        "color": "hsl(60, 70%, 50%)",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "Sequestration",
+        "color": "#4d908e",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "Peat",
+        "color": "#9b2226",
+        "inGraph": true,
+        "inLegend": true
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "Forest loss": 0,
+        "Other LUC": 0,
+        "Sequestration": 0,
+        "Peat": 0,
+        "Total GHG land": 0
+      },
+      {
+        "valueX": 2005,
+        "Forest loss": 5.11,
+        "Other LUC": 0.91,
+        "Sequestration": -0.29,
+        "Peat": 0.1,
+        "FAO LU global": 2.97,
+        "Total GHG land": 5.82
+      },
+      {
+        "valueX": 2010,
+        "Forest loss": 3.5,
+        "Other LUC": 0.82,
+        "Sequestration": -0.49,
+        "Peat": 0.31,
+        "FAO LU global": 2.19,
+        "Total GHG land": 4.13
+      },
+      {
+        "valueX": 2015,
+        "Forest loss": 3.52,
+        "Other LUC": 0.71,
+        "Sequestration": -0.68,
+        "Peat": 0.37,
+        "FAO LU global": 3.39,
+        "Total GHG land": 3.93
+      },
+      {
+        "valueX": 2020,
+        "Forest loss": 2.69,
+        "Other LUC": 0.6,
+        "Sequestration": -0.92,
+        "Peat": 0.44,
+        "Total GHG land": 2.81
+      },
+      {
+        "valueX": 2025,
+        "Forest loss": 2.16,
+        "Other LUC": 0.35,
+        "Sequestration": -1.2,
+        "Peat": 0.5,
+        "Total GHG land": 1.81
+      },
+      {
+        "valueX": 2030,
+        "Forest loss": 1.33,
+        "Other LUC": 0.41,
+        "Sequestration": -1.67,
+        "Peat": 0.56,
+        "Total GHG land": 0.64
+      },
+      {
+        "valueX": 2035,
+        "Forest loss": 0.75,
+        "Other LUC": 0.41,
+        "Sequestration": -2.16,
+        "Peat": 0.57,
+        "Total GHG land": -0.44
+      },
+      {
+        "valueX": 2040,
+        "Forest loss": 0.67,
+        "Other LUC": 0.41,
+        "Sequestration": -2.78,
+        "Peat": 0.57,
+        "Total GHG land": -1.12
+      },
+      {
+        "valueX": 2045,
+        "Forest loss": 0.69,
+        "Other LUC": 0.39,
+        "Sequestration": -3.51,
+        "Peat": 0.57,
+        "Total GHG land": -1.87
+      },
+      {
+        "valueX": 2050,
+        "Forest loss": 0.7,
+        "Other LUC": 0.12,
+        "Sequestration": -4.41,
+        "Peat": 0.57,
+        "Total GHG land": -3.01
+      }
+    ],
+    "keys": [
+      "Forest loss",
+      "Other LUC",
+      "Sequestration",
+      "Peat"
+    ],
+    "groupMode": "grouped",
+    "upperLower": true
+  }
+]

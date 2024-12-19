@@ -1,0 +1,2120 @@
+[
+  {
+    "title": "Average daily intake per capita in 2030",
+    "description": "The average daily intake of calories per capita in 2030, based on the 2020 baseline scenario.",
+    "axisY": "kcal / cap / day",
+    "axisX": "country",
+    "legend": [
+      {
+        "label": "Figure description",
+        "description": "<p>This figure compares the average per capita kilocalorie intake across listed countries and regions with their respective Minimum Dietary Energy Requirement (MDER) in 2030. </p>\n              <br />\n              <p>The average per capita kilocalorie intake reflects actual food consumption when food waste is taken into account. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, FABLE sets a target for average daily energy intake per capita that exceeds the MDER in each listed country and region by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.</p>\n              <br />\n              <p>While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.</p>"
+      },
+      {
+        "key": "Computed",
+        "inGraph": true,
+        "inLegend": true,
+        "color": "hsl(240, 70%, 50%)"
+      },
+      {
+        "key": "MDER",
+        "inLegend": true,
+        "color": "#6de8b8",
+        "type": "lower"
+      }
+    ],
+    "data": [
+      {
+        "valueX": "ARG",
+        "Computed": 2791.559810056462,
+        "MDER": 2069.673890270048
+      },
+      {
+        "valueX": "AUS",
+        "Computed": 3094.809145532143,
+        "MDER": 2080.968587816183
+      },
+      {
+        "valueX": "BRA",
+        "Computed": 3192.668989984449,
+        "MDER": 2098.675387963503
+      },
+      {
+        "valueX": "CAN",
+        "Computed": 2960.61819966863,
+        "MDER": 2091.953117461633
+      },
+      {
+        "valueX": "CHN",
+        "Computed": 2913.682907218768,
+        "MDER": 2109.632242626842
+      },
+      {
+        "valueX": "COL",
+        "Computed": 2673.936325408762,
+        "MDER": 2092.372169773299
+      },
+      {
+        "valueX": "DEU",
+        "Computed": 3030.289818104101,
+        "MDER": 2082.619145196242
+      },
+      {
+        "valueX": "ETH",
+        "Computed": 2150.628832006598,
+        "MDER": 2019.809532328554
+      },
+      {
+        "valueX": "FIN",
+        "Computed": 2728.165796093187,
+        "MDER": 2077.463424111293
+      },
+      {
+        "valueX": "GBR",
+        "Computed": 2767.273978035275,
+        "MDER": 2078.447879986526
+      },
+      {
+        "valueX": "IDN",
+        "Computed": 2484.595708832714,
+        "MDER": 2080.906721837245
+      },
+      {
+        "valueX": "MEX",
+        "Computed": 2489.568028378359,
+        "MDER": 1857.541569403296
+      },
+      {
+        "valueX": "MYS",
+        "Computed": 2717.823609596559,
+        "MDER": 2092.031250112044
+      },
+      {
+        "valueX": "NOR",
+        "Computed": 2612.158692986898,
+        "MDER": 2092.724261826485
+      },
+      {
+        "valueX": "RUS",
+        "Computed": 2977.378956873824,
+        "MDER": 2073.225786848492
+      },
+      {
+        "valueX": "RWA",
+        "Computed": 2073.23590959063,
+        "MDER": 2021.20963049956
+      },
+      {
+        "valueX": "SWE",
+        "Computed": 2815.587032438164,
+        "MDER": 2080.831958547194
+      },
+      {
+        "valueX": "USA",
+        "Computed": 2802.920814386097,
+        "MDER": 2075.432667563327
+      },
+      {
+        "valueX": "ZAF",
+        "Computed": 2826.038884827198,
+        "MDER": 1844.827363924265
+      },
+      {
+        "valueX": "R_ASP",
+        "Computed": 2601.506775767803,
+        "MDER": 2066.20719661444
+      },
+      {
+        "valueX": "R_CSA",
+        "Computed": 2528.623495416048,
+        "MDER": 2082.816176590056
+      },
+      {
+        "valueX": "R_NEU",
+        "Computed": 3175.7358842859,
+        "MDER": 2086.732940217104
+      },
+      {
+        "valueX": "R_NMC",
+        "Computed": 2783.964308962289,
+        "MDER": 2138.793190276037
+      },
+      {
+        "valueX": "R_OEU",
+        "Computed": 3134.837455562293,
+        "MDER": 2015.088303791277
+      },
+      {
+        "valueX": "R_SSA",
+        "Computed": 2426.878868392486,
+        "MDER": 1929.150258666505
+      }
+    ],
+    "keys": [
+      "Computed"
+    ],
+    "upperLower": true
+  },
+  {
+    "title": "Evolution of calories intake by country",
+    "description": "The average daily intake of calories per capita in 2030, based on the 2020 baseline scenario.",
+    "axisY": "kcal / cap / day",
+    "axisX": "year",
+    "legend": [
+      {
+        "label": "Figure description",
+        "description": "<p>This figure illustrates changes in average per capita kilocalorie intake for each listed country compared to respective Minimum Dietary Energy Requirements (MDER).</p>\n              <br />\n              <p>The average per capita kilocalorie intake reflects actual food consumption when food waste is taken into account. Based on the FAO's definition of the population at risk of hunger (Cafiero, 2014) and in line with Sustainable Development Goal (SDG) 2, which aims to achieve universal food and nutrition security by 2030, FABLE set a target average daily energy intake per capita that exceeds the MDER in listed country and region by 2030. The MDER represents the minimum caloric intake required for good health, varying by age, sex, and activity level.</p>\n              <br />\n              <p>While this target does not address food access inequalities within countries, it provides a clear and measurable benchmark for assessing progress toward global food security.<p>"
+      },
+      {
+        "key": "Computed",
+        "inGraph": true,
+        "inLegend": true,
+        "color": "hsl(240, 70%, 50%)"
+      },
+      {
+        "key": "MDER",
+        "inLegend": true,
+        "color": "#6de8b8",
+        "type": "lower"
+      },
+      {
+        "key": "Historical",
+        "inLegend": true,
+        "color": "#f9e14b",
+        "type": "historical"
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "location": "ARG",
+        "historical": 3002.344545121724,
+        "Computed": 2982.675247661532,
+        "MDER": 2041.724468042878
+      },
+      {
+        "valueX": 2000,
+        "location": "AUS",
+        "historical": 2566.574649543261,
+        "Computed": 2567.722502644109,
+        "MDER": 2085.304614120655
+      },
+      {
+        "valueX": 2000,
+        "location": "BRA",
+        "historical": 2800.769469052978,
+        "Computed": 2780.001869830389,
+        "MDER": 2050.767435798135
+      },
+      {
+        "valueX": 2000,
+        "location": "CAN",
+        "historical": 2793.273026025905,
+        "Computed": 2787.530803438999,
+        "MDER": 2099.646158914164
+      },
+      {
+        "valueX": 2000,
+        "location": "CHN",
+        "historical": 2366.877002976491,
+        "Computed": 2362.168227520567,
+        "MDER": 2109.297386801355
+      },
+      {
+        "valueX": 2000,
+        "location": "COL",
+        "historical": 2548.417893623475,
+        "Computed": 2550.558355728345,
+        "MDER": 2043.374657007613
+      },
+      {
+        "valueX": 2000,
+        "location": "DEU",
+        "historical": 3106.102242647318,
+        "Computed": 3047.040938645883,
+        "MDER": 2103.218348749361
+      },
+      {
+        "valueX": 2000,
+        "location": "ETH",
+        "historical": 1668.811676460219,
+        "Computed": 1661.711908137082,
+        "MDER": 1900.603288769885
+      },
+      {
+        "valueX": 2000,
+        "location": "FIN",
+        "historical": 2698.965561257671,
+        "Computed": 2686.480538778671,
+        "MDER": 2088.16888472197
+      },
+      {
+        "valueX": 2000,
+        "location": "GBR",
+        "historical": 2926.032299114663,
+        "Computed": 2919.729064496689,
+        "MDER": 2080.679085408221
+      },
+      {
+        "valueX": 2000,
+        "location": "IDN",
+        "historical": 2340.786492834691,
+        "Computed": 2331.02471355751,
+        "MDER": 2055.28537525765
+      },
+      {
+        "valueX": 2000,
+        "location": "MEX",
+        "historical": 2753.292739099914,
+        "Computed": 2744.385343205757,
+        "MDER": 1790.404632071744
+      },
+      {
+        "valueX": 2000,
+        "location": "MYS",
+        "historical": 2676.392211983789,
+        "Computed": 2676.565171086787,
+        "MDER": 2029.785316840919
+      },
+      {
+        "valueX": 2000,
+        "location": "NOR",
+        "historical": 2828.999896054161,
+        "Computed": 2882.859743668852,
+        "MDER": 2076.860206139742
+      },
+      {
+        "valueX": 2000,
+        "location": "R_ASP",
+        "historical": 2331.388432087265,
+        "Computed": 2329.406312115538,
+        "MDER": 2038.500887660171
+      },
+      {
+        "valueX": 2000,
+        "location": "R_CSA",
+        "historical": 2276.454258623884,
+        "Computed": 2272.354102286172,
+        "MDER": 2018.248717101271
+      },
+      {
+        "valueX": 2000,
+        "location": "R_NEU",
+        "historical": 3214.390273290934,
+        "Computed": 3206.915704208789,
+        "MDER": 2073.082245956974
+      },
+      {
+        "valueX": 2000,
+        "location": "R_NMC",
+        "historical": 2622.797900120459,
+        "Computed": 2619.525734024337,
+        "MDER": 2008.062545604521
+      },
+      {
+        "valueX": 2000,
+        "location": "R_OEU",
+        "historical": 2921.607044170547,
+        "Computed": 2909.423893037765,
+        "MDER": 2094.264458288769
+      },
+      {
+        "valueX": 2000,
+        "location": "R_SSA",
+        "historical": 2143.683304748352,
+        "Computed": 2137.536705090369,
+        "MDER": 1911.052471153996
+      },
+      {
+        "valueX": 2000,
+        "location": "RUS",
+        "historical": 2571.24385102055,
+        "Computed": 2562.270940592637,
+        "MDER": 2035.010664104409
+      },
+      {
+        "valueX": 2000,
+        "location": "RWA",
+        "historical": 1598.662997899858,
+        "Computed": 1574.129420557865,
+        "MDER": 1939.808688338712
+      },
+      {
+        "valueX": 2000,
+        "location": "SWE",
+        "historical": 3624.567913030035,
+        "Computed": 3548.282377548363,
+        "MDER": 2086.284903174436
+      },
+      {
+        "valueX": 2000,
+        "location": "USA",
+        "historical": 2879.044124527151,
+        "Computed": 2866.612110063105,
+        "MDER": 2093.312562466361
+      },
+      {
+        "valueX": 2000,
+        "location": "ZAF",
+        "historical": 2734.219197618816,
+        "Computed": 2725.656088029708,
+        "MDER": 1805.659997104136
+      },
+      {
+        "valueX": 2005,
+        "location": "ARG",
+        "historical": 2811.919988595528,
+        "Computed": 2787.035993068426,
+        "MDER": 2046.863155357374
+      },
+      {
+        "valueX": 2005,
+        "location": "AUS",
+        "historical": 2644.582186771618,
+        "Computed": 2644.351693600818,
+        "MDER": 2091.388816023162
+      },
+      {
+        "valueX": 2005,
+        "location": "BRA",
+        "historical": 2997.705599530871,
+        "Computed": 2959.963062432832,
+        "MDER": 2068.621136387699
+      },
+      {
+        "valueX": 2005,
+        "location": "CAN",
+        "historical": 2806.387826557024,
+        "Computed": 2795.831851860137,
+        "MDER": 2107.101922978828
+      },
+      {
+        "valueX": 2005,
+        "location": "CHN",
+        "historical": 2446.009854275308,
+        "Computed": 2439.979973830802,
+        "MDER": 2129.784460913133
+      },
+      {
+        "valueX": 2005,
+        "location": "COL",
+        "historical": 2517.531806149674,
+        "Computed": 2518.619264822771,
+        "MDER": 2059.086849713536
+      },
+      {
+        "valueX": 2005,
+        "location": "DEU",
+        "historical": 3190.131121563781,
+        "Computed": 3144.356137566893,
+        "MDER": 2107.354270547218
+      },
+      {
+        "valueX": 2005,
+        "location": "ETH",
+        "historical": 1825.673286098729,
+        "Computed": 1817.61825062447,
+        "MDER": 1911.905775720755
+      },
+      {
+        "valueX": 2005,
+        "location": "FIN",
+        "historical": 2689.734936025502,
+        "Computed": 2674.657274150559,
+        "MDER": 2090.324430830361
+      },
+      {
+        "valueX": 2005,
+        "location": "GBR",
+        "historical": 2993.613501601186,
+        "Computed": 2981.601142330474,
+        "MDER": 2090.229696405434
+      },
+      {
+        "valueX": 2005,
+        "location": "IDN",
+        "historical": 2378.025495848895,
+        "Computed": 2365.682345739286,
+        "MDER": 2055.129853270616
+      },
+      {
+        "valueX": 2005,
+        "location": "MEX",
+        "historical": 2786.22537568155,
+        "Computed": 2777.667347178189,
+        "MDER": 1804.204218574691
+      },
+      {
+        "valueX": 2005,
+        "location": "MYS",
+        "historical": 2644.281583406715,
+        "Computed": 2644.755338525601,
+        "MDER": 2058.903118592988
+      },
+      {
+        "valueX": 2005,
+        "location": "NOR",
+        "historical": 2956.531338018341,
+        "Computed": 3025.79104115762,
+        "MDER": 2082.010688290782
+      },
+      {
+        "valueX": 2005,
+        "location": "R_ASP",
+        "historical": 2405.269159914072,
+        "Computed": 2403.083573306523,
+        "MDER": 2048.238325322528
+      },
+      {
+        "valueX": 2005,
+        "location": "R_CSA",
+        "historical": 2265.697748359134,
+        "Computed": 2260.857544882759,
+        "MDER": 2030.738116676848
+      },
+      {
+        "valueX": 2005,
+        "location": "R_NEU",
+        "historical": 3297.555305906785,
+        "Computed": 3287.524382304486,
+        "MDER": 2082.660054703505
+      },
+      {
+        "valueX": 2005,
+        "location": "R_NMC",
+        "historical": 2649.529854603638,
+        "Computed": 2646.120091525627,
+        "MDER": 2040.124051947558
+      },
+      {
+        "valueX": 2005,
+        "location": "R_OEU",
+        "historical": 2926.687481287589,
+        "Computed": 2915.891920846374,
+        "MDER": 2097.174658584783
+      },
+      {
+        "valueX": 2005,
+        "location": "R_SSA",
+        "historical": 2229.150435806318,
+        "Computed": 2222.878648643105,
+        "MDER": 1907.981778139349
+      },
+      {
+        "valueX": 2005,
+        "location": "RUS",
+        "historical": 2834.040366898524,
+        "Computed": 2825.598600036019,
+        "MDER": 2049.008982336382
+      },
+      {
+        "valueX": 2005,
+        "location": "RWA",
+        "historical": 1758.974527250002,
+        "Computed": 1726.225357550469,
+        "MDER": 1951.851635480239
+      },
+      {
+        "valueX": 2005,
+        "location": "SWE",
+        "historical": 3729.745734319266,
+        "Computed": 3588.034245941089,
+        "MDER": 2092.699515092282
+      },
+      {
+        "valueX": 2005,
+        "location": "USA",
+        "historical": 2896.626488333171,
+        "Computed": 2927.532589940603,
+        "MDER": 2081.390885096358
+      },
+      {
+        "valueX": 2005,
+        "location": "ZAF",
+        "historical": 2799.814082078727,
+        "Computed": 2789.454325618949,
+        "MDER": 1819.31917775154
+      },
+      {
+        "valueX": 2010,
+        "location": "ARG",
+        "historical": 2806.698043287785,
+        "Computed": 2790.628584753109,
+        "MDER": 2051.789197017894
+      },
+      {
+        "valueX": 2010,
+        "location": "AUS",
+        "historical": 2780.453476409599,
+        "Computed": 2779.660269786275,
+        "MDER": 2090.808579596594
+      },
+      {
+        "valueX": 2010,
+        "location": "BRA",
+        "historical": 3054.15666399525,
+        "Computed": 3022.294304211305,
+        "MDER": 2084.102301613225
+      },
+      {
+        "valueX": 2010,
+        "location": "CAN",
+        "historical": 2647.336732903902,
+        "Computed": 2640.954024829408,
+        "MDER": 2103.662452103781
+      },
+      {
+        "valueX": 2010,
+        "location": "CHN",
+        "historical": 2576.396149509499,
+        "Computed": 2687.453071612969,
+        "MDER": 2130.37164386984
+      },
+      {
+        "valueX": 2010,
+        "location": "COL",
+        "historical": 2521.776565382163,
+        "Computed": 2522.48414570676,
+        "MDER": 2071.868097439904
+      },
+      {
+        "valueX": 2010,
+        "location": "DEU",
+        "historical": 3193.751001679387,
+        "Computed": 3148.335664603133,
+        "MDER": 2105.906068938523
+      },
+      {
+        "valueX": 2010,
+        "location": "ETH",
+        "historical": 1985.647978477735,
+        "Computed": 1975.972919423532,
+        "MDER": 1938.460906825693
+      },
+      {
+        "valueX": 2010,
+        "location": "FIN",
+        "historical": 2744.840356105688,
+        "Computed": 2728.321691974647,
+        "MDER": 2086.610836366131
+      },
+      {
+        "valueX": 2010,
+        "location": "GBR",
+        "historical": 2915.041919820392,
+        "Computed": 2908.287100031569,
+        "MDER": 2086.350772811376
+      },
+      {
+        "valueX": 2010,
+        "location": "IDN",
+        "historical": 2570.513137301604,
+        "Computed": 2561.200781407633,
+        "MDER": 2058.556190381755
+      },
+      {
+        "valueX": 2010,
+        "location": "MEX",
+        "historical": 2658.763715074491,
+        "Computed": 2651.120218543072,
+        "MDER": 1822.552696094936
+      },
+      {
+        "valueX": 2010,
+        "location": "MYS",
+        "historical": 2717.345529829077,
+        "Computed": 2718.826189705708,
+        "MDER": 2084.539846259467
+      },
+      {
+        "valueX": 2010,
+        "location": "NOR",
+        "historical": 2851.903502413115,
+        "Computed": 2924.128014578534,
+        "MDER": 2087.80266105703
+      },
+      {
+        "valueX": 2010,
+        "location": "R_ASP",
+        "historical": 2372.290043698054,
+        "Computed": 2370.087024730312,
+        "MDER": 2056.879102757417
+      },
+      {
+        "valueX": 2010,
+        "location": "R_CSA",
+        "historical": 2271.055450278904,
+        "Computed": 2266.897815554897,
+        "MDER": 2034.347284030123
+      },
+      {
+        "valueX": 2010,
+        "location": "R_NEU",
+        "historical": 2975.587745541004,
+        "Computed": 2966.508531438217,
+        "MDER": 2082.152741951337
+      },
+      {
+        "valueX": 2010,
+        "location": "R_NMC",
+        "historical": 2623.516829499896,
+        "Computed": 2619.548410136176,
+        "MDER": 2052.609554273993
+      },
+      {
+        "valueX": 2010,
+        "location": "R_OEU",
+        "historical": 2570.889345521137,
+        "Computed": 2558.379907520111,
+        "MDER": 2088.507485186391
+      },
+      {
+        "valueX": 2010,
+        "location": "R_SSA",
+        "historical": 2253.791780520599,
+        "Computed": 2247.492152433386,
+        "MDER": 1904.199695828108
+      },
+      {
+        "valueX": 2010,
+        "location": "RUS",
+        "historical": 2989.620362783258,
+        "Computed": 2977.841637395286,
+        "MDER": 2056.984202380334
+      },
+      {
+        "valueX": 2010,
+        "location": "RWA",
+        "historical": 1937.69631344076,
+        "Computed": 1899.429928940325,
+        "MDER": 1949.995628895044
+      },
+      {
+        "valueX": 2010,
+        "location": "SWE",
+        "historical": 3599.833148171124,
+        "Computed": 3524.632977938033,
+        "MDER": 2090.858635270954
+      },
+      {
+        "valueX": 2010,
+        "location": "USA",
+        "historical": 2803.306582292023,
+        "Computed": 2802.661289320936,
+        "MDER": 2079.482536488664
+      },
+      {
+        "valueX": 2010,
+        "location": "ZAF",
+        "historical": 2875.068157489256,
+        "Computed": 2861.489811534969,
+        "MDER": 1827.632598674015
+      },
+      {
+        "valueX": 2015,
+        "location": "ARG",
+        "historical": 2806.698043287785,
+        "Computed": 2790.992821756488,
+        "MDER": 2055.584706527033
+      },
+      {
+        "valueX": 2015,
+        "location": "AUS",
+        "historical": 2806.568021493931,
+        "Computed": 2806.12968614479,
+        "MDER": 2084.75413312506
+      },
+      {
+        "valueX": 2015,
+        "location": "BRA",
+        "historical": 2970.680672039831,
+        "Computed": 2939.990918187307,
+        "MDER": 2091.601202749368
+      },
+      {
+        "valueX": 2015,
+        "location": "CAN",
+        "historical": 2727.331197683672,
+        "Computed": 2720.716324005129,
+        "MDER": 2097.931129673216
+      },
+      {
+        "valueX": 2015,
+        "location": "CHN",
+        "historical": 2608.629769710076,
+        "Computed": 2740.615499913126,
+        "MDER": 2114.953881454221
+      },
+      {
+        "valueX": 2015,
+        "location": "COL",
+        "historical": 2559.473525810998,
+        "Computed": 2560.377412570466,
+        "MDER": 2081.004420106333
+      },
+      {
+        "valueX": 2015,
+        "location": "DEU",
+        "historical": 3177.78224667099,
+        "Computed": 3132.286557105834,
+        "MDER": 2100.34475721453
+      },
+      {
+        "valueX": 2015,
+        "location": "ETH",
+        "historical": 2030.962420799519,
+        "Computed": 2019.627743539428,
+        "MDER": 1964.781594634155
+      },
+      {
+        "valueX": 2015,
+        "location": "FIN",
+        "historical": 2744.840356105688,
+        "Computed": 2728.322429035388,
+        "MDER": 2082.227464662326
+      },
+      {
+        "valueX": 2015,
+        "location": "GBR",
+        "historical": 2915.041919820392,
+        "Computed": 2904.104534764524,
+        "MDER": 2078.596836495325
+      },
+      {
+        "valueX": 2015,
+        "location": "IDN",
+        "historical": 2555.154841442163,
+        "Computed": 2542.167941418088,
+        "MDER": 2061.8100843023
+      },
+      {
+        "valueX": 2015,
+        "location": "MEX",
+        "historical": 2658.236805786806,
+        "Computed": 2650.557402013969,
+        "MDER": 1834.136041073643
+      },
+      {
+        "valueX": 2015,
+        "location": "MYS",
+        "historical": 2717.345529829077,
+        "Computed": 2718.052356460261,
+        "MDER": 2098.628663121176
+      },
+      {
+        "valueX": 2015,
+        "location": "NOR",
+        "historical": 2797.332238625905,
+        "Computed": 2871.913436853213,
+        "MDER": 2092.685558577238
+      },
+      {
+        "valueX": 2015,
+        "location": "R_ASP",
+        "historical": 2477.918867044045,
+        "Computed": 2474.758637481936,
+        "MDER": 2055.67833787069
+      },
+      {
+        "valueX": 2015,
+        "location": "R_CSA",
+        "historical": 2385.195602643874,
+        "Computed": 2380.57158150259,
+        "MDER": 2035.789738725281
+      },
+      {
+        "valueX": 2015,
+        "location": "R_NEU",
+        "historical": 3166.477835295789,
+        "Computed": 3157.199303263335,
+        "MDER": 2081.850130531874
+      },
+      {
+        "valueX": 2015,
+        "location": "R_NMC",
+        "historical": 2728.405880913286,
+        "Computed": 2724.212140697115,
+        "MDER": 2050.526102970316
+      },
+      {
+        "valueX": 2015,
+        "location": "R_OEU",
+        "historical": 2977.380009644111,
+        "Computed": 2964.353101921247,
+        "MDER": 2092.987729973469
+      },
+      {
+        "valueX": 2015,
+        "location": "R_SSA",
+        "historical": 2286.495168747717,
+        "Computed": 2277.303025779373,
+        "MDER": 1907.293252884795
+      },
+      {
+        "valueX": 2015,
+        "location": "RUS",
+        "historical": 2989.620362783258,
+        "Computed": 2977.343800141049,
+        "MDER": 2060.425856887417
+      },
+      {
+        "valueX": 2015,
+        "location": "RWA",
+        "historical": 1978.142316538471,
+        "Computed": 1943.914902927867,
+        "MDER": 1959.398613669011
+      },
+      {
+        "valueX": 2015,
+        "location": "SWE",
+        "historical": 3254.867538898345,
+        "Computed": 3172.713328523838,
+        "MDER": 2083.075557875291
+      },
+      {
+        "valueX": 2015,
+        "location": "USA",
+        "historical": 2803.306582292023,
+        "Computed": 2802.92081452681,
+        "MDER": 2083.547938505537
+      },
+      {
+        "valueX": 2015,
+        "location": "ZAF",
+        "historical": 2891.91117192682,
+        "Computed": 2877.504245595718,
+        "MDER": 1831.694413455897
+      },
+      {
+        "valueX": 2020,
+        "location": "ARG",
+        "historical": 2806.698043287785,
+        "Computed": 2791.149287634988,
+        "MDER": 2060.597439988019
+      },
+      {
+        "valueX": 2020,
+        "location": "AUS",
+        "historical": 2911.026201831261,
+        "Computed": 2910.901919889148,
+        "MDER": 2077.700088655962
+      },
+      {
+        "valueX": 2020,
+        "location": "BRA",
+        "historical": 3142.108055578514,
+        "Computed": 3108.178335909904,
+        "MDER": 2096.979365513386
+      },
+      {
+        "valueX": 2020,
+        "location": "CAN",
+        "historical": 2807.325662463442,
+        "Computed": 2800.697333058057,
+        "MDER": 2094.398512089558
+      },
+      {
+        "valueX": 2020,
+        "location": "CHN",
+        "historical": 2640.863389910653,
+        "Computed": 2738.087817279954,
+        "MDER": 2105.111366812598
+      },
+      {
+        "valueX": 2020,
+        "location": "COL",
+        "historical": 2597.170486239831,
+        "Computed": 2598.23038257872,
+        "MDER": 2086.975797248632
+      },
+      {
+        "valueX": 2020,
+        "location": "DEU",
+        "historical": 3161.813491662594,
+        "Computed": 3106.156333001326,
+        "MDER": 2089.843993022768
+      },
+      {
+        "valueX": 2020,
+        "location": "ETH",
+        "historical": 2076.276863121302,
+        "Computed": 2063.293676015612,
+        "MDER": 1985.879204875677
+      },
+      {
+        "valueX": 2020,
+        "location": "FIN",
+        "historical": 2744.840356105688,
+        "Computed": 2728.284896599174,
+        "MDER": 2077.816698828413
+      },
+      {
+        "valueX": 2020,
+        "location": "GBR",
+        "historical": 2915.041919820392,
+        "Computed": 2889.334041347725,
+        "MDER": 2074.254241870893
+      },
+      {
+        "valueX": 2020,
+        "location": "IDN",
+        "historical": 2539.796545582723,
+        "Computed": 2505.385029731291,
+        "MDER": 2068.897942275866
+      },
+      {
+        "valueX": 2020,
+        "location": "MEX",
+        "historical": 2622.798632341991,
+        "Computed": 2581.963247981807,
+        "MDER": 1843.502315308988
+      },
+      {
+        "valueX": 2020,
+        "location": "MYS",
+        "historical": 2717.345529829077,
+        "Computed": 2717.977089110898,
+        "MDER": 2094.97603192138
+      },
+      {
+        "valueX": 2020,
+        "location": "NOR",
+        "historical": 2742.760974838693,
+        "Computed": 2781.712765994518,
+        "MDER": 2095.586933769051
+      },
+      {
+        "valueX": 2020,
+        "location": "R_ASP",
+        "historical": 2541.493531373931,
+        "Computed": 2537.656676966889,
+        "MDER": 2058.971000880219
+      },
+      {
+        "valueX": 2020,
+        "location": "R_CSA",
+        "historical": 2458.827515891791,
+        "Computed": 2453.665043435489,
+        "MDER": 2035.571748988099
+      },
+      {
+        "valueX": 2020,
+        "location": "R_NEU",
+        "historical": 3172.658368375026,
+        "Computed": 3163.377161568297,
+        "MDER": 2110.385500528743
+      },
+      {
+        "valueX": 2020,
+        "location": "R_NMC",
+        "historical": 2748.419086373325,
+        "Computed": 2744.141324220471,
+        "MDER": 2069.562261867363
+      },
+      {
+        "valueX": 2020,
+        "location": "R_OEU",
+        "historical": 3034.652934878481,
+        "Computed": 3021.1811559638,
+        "MDER": 2070.755892857754
+      },
+      {
+        "valueX": 2020,
+        "location": "R_SSA",
+        "historical": 2361.415372945794,
+        "Computed": 2351.300577135972,
+        "MDER": 1917.135603212659
+      },
+      {
+        "valueX": 2020,
+        "location": "RUS",
+        "historical": 2989.620362783258,
+        "Computed": 2977.355517044279,
+        "MDER": 2063.640327355443
+      },
+      {
+        "valueX": 2020,
+        "location": "RWA",
+        "historical": 2018.588319636182,
+        "Computed": 1987.021905148788,
+        "MDER": 1981.552818931942
+      },
+      {
+        "valueX": 2020,
+        "location": "SWE",
+        "historical": 3068.261112277095,
+        "Computed": 2993.516759420275,
+        "MDER": 2078.103365775028
+      },
+      {
+        "valueX": 2020,
+        "location": "USA",
+        "historical": 2803.306582292023,
+        "Computed": 2802.920814478997,
+        "MDER": 2081.690185767994
+      },
+      {
+        "valueX": 2020,
+        "location": "ZAF",
+        "historical": 2908.754186364385,
+        "Computed": 2818.405465342407,
+        "MDER": 1835.348878453772
+      },
+      {
+        "valueX": 2025,
+        "location": "ARG",
+        "historical": 2806.698043287785,
+        "Computed": 2791.290553571586,
+        "MDER": 2065.647378637587
+      },
+      {
+        "valueX": 2025,
+        "location": "AUS",
+        "historical": 2989.369837084259,
+        "Computed": 2989.38728521111,
+        "MDER": 2077.866726315776
+      },
+      {
+        "valueX": 2025,
+        "location": "BRA",
+        "historical": 3186.083751370145,
+        "Computed": 3150.490208308267,
+        "MDER": 2098.42100554806
+      },
+      {
+        "valueX": 2025,
+        "location": "CAN",
+        "historical": 2887.320127243212,
+        "Computed": 2880.655855154163,
+        "MDER": 2092.027350209594
+      },
+      {
+        "valueX": 2025,
+        "location": "CHN",
+        "historical": 2705.330630311805,
+        "Computed": 2801.872229428505,
+        "MDER": 2106.342493469365
+      },
+      {
+        "valueX": 2025,
+        "location": "COL",
+        "historical": 2634.867446668665,
+        "Computed": 2636.083353530433,
+        "MDER": 2091.264375470137
+      },
+      {
+        "valueX": 2025,
+        "location": "DEU",
+        "historical": 3129.8759816458,
+        "Computed": 3084.380611028868,
+        "MDER": 2085.288786207155
+      },
+      {
+        "valueX": 2025,
+        "location": "ETH",
+        "historical": 2121.591305443085,
+        "Computed": 2106.960674962872,
+        "MDER": 2003.105279472261
+      },
+      {
+        "valueX": 2025,
+        "location": "FIN",
+        "historical": 2744.840356105688,
+        "Computed": 2728.234293623471,
+        "MDER": 2076.802086885104
+      },
+      {
+        "valueX": 2025,
+        "location": "GBR",
+        "historical": 2915.041919820392,
+        "Computed": 2822.476151051205,
+        "MDER": 2074.940055677956
+      },
+      {
+        "valueX": 2025,
+        "location": "IDN",
+        "historical": 2524.438249723283,
+        "Computed": 2495.504458070058,
+        "MDER": 2075.87742728224
+      },
+      {
+        "valueX": 2025,
+        "location": "MEX",
+        "historical": 2586.833549609491,
+        "Computed": 2528.536138370328,
+        "MDER": 1850.821241366341
+      },
+      {
+        "valueX": 2025,
+        "location": "MYS",
+        "historical": 2717.345529829077,
+        "Computed": 2717.901012402381,
+        "MDER": 2090.686812078466
+      },
+      {
+        "valueX": 2025,
+        "location": "NOR",
+        "historical": 2688.189711051481,
+        "Computed": 2696.877442880944,
+        "MDER": 2094.543610012848
+      },
+      {
+        "valueX": 2025,
+        "location": "R_ASP",
+        "historical": 2574.095923337975,
+        "Computed": 2569.604886329489,
+        "MDER": 2063.643219984483
+      },
+      {
+        "valueX": 2025,
+        "location": "R_CSA",
+        "historical": 2496.587471403544,
+        "Computed": 2491.142149254199,
+        "MDER": 2061.52578234082
+      },
+      {
+        "valueX": 2025,
+        "location": "R_NEU",
+        "historical": 3178.838901454263,
+        "Computed": 3169.556066912092,
+        "MDER": 2096.277085633466
+      },
+      {
+        "valueX": 2025,
+        "location": "R_NMC",
+        "historical": 2768.432291833364,
+        "Computed": 2764.053321149609,
+        "MDER": 2105.368790552363
+      },
+      {
+        "valueX": 2025,
+        "location": "R_OEU",
+        "historical": 3091.925860112849,
+        "Computed": 3077.966781222429,
+        "MDER": 2045.181663627067
+      },
+      {
+        "valueX": 2025,
+        "location": "R_SSA",
+        "historical": 2399.835990483269,
+        "Computed": 2389.057428647507,
+        "MDER": 1923.790156806899
+      },
+      {
+        "valueX": 2025,
+        "location": "RUS",
+        "historical": 2989.620362783258,
+        "Computed": 2977.367235958299,
+        "MDER": 2068.026232503093
+      },
+      {
+        "valueX": 2025,
+        "location": "RWA",
+        "historical": 2059.034322733894,
+        "Computed": 2028.301448710478,
+        "MDER": 2004.962444901542
+      },
+      {
+        "valueX": 2025,
+        "location": "SWE",
+        "historical": 2891.131042988932,
+        "Computed": 2815.56553332871,
+        "MDER": 2076.948941365695
+      },
+      {
+        "valueX": 2025,
+        "location": "USA",
+        "historical": 2803.306582292023,
+        "Computed": 2802.920814372542,
+        "MDER": 2078.137361065553
+      },
+      {
+        "valueX": 2025,
+        "location": "ZAF",
+        "historical": 2925.597200801948,
+        "Computed": 2807.473177614253,
+        "MDER": 1839.7250943393
+      },
+      {
+        "valueX": 2030,
+        "location": "ARG",
+        "historical": 2806.698043287785,
+        "Computed": 2791.559810056462,
+        "MDER": 2069.673890270048
+      },
+      {
+        "valueX": 2030,
+        "location": "AUS",
+        "historical": 3093.82801742159,
+        "Computed": 3094.809145532143,
+        "MDER": 2080.968587816183
+      },
+      {
+        "valueX": 2030,
+        "location": "BRA",
+        "historical": 3230.059447161777,
+        "Computed": 3192.668989984449,
+        "MDER": 2098.675387963503
+      },
+      {
+        "valueX": 2030,
+        "location": "CAN",
+        "historical": 2967.314592022983,
+        "Computed": 2960.61819966863,
+        "MDER": 2091.953117461633
+      },
+      {
+        "valueX": 2030,
+        "location": "CHN",
+        "historical": 2802.031490913535,
+        "Computed": 2913.682907218768,
+        "MDER": 2109.632242626842
+      },
+      {
+        "valueX": 2030,
+        "location": "COL",
+        "historical": 2672.564407097499,
+        "Computed": 2673.936325408762,
+        "MDER": 2092.372169773299
+      },
+      {
+        "valueX": 2030,
+        "location": "DEU",
+        "historical": 3081.969716620609,
+        "Computed": 3030.289818104101,
+        "MDER": 2082.619145196242
+      },
+      {
+        "valueX": 2030,
+        "location": "ETH",
+        "historical": 2166.905747764867,
+        "Computed": 2150.628832006598,
+        "MDER": 2019.809532328554
+      },
+      {
+        "valueX": 2030,
+        "location": "FIN",
+        "historical": 2744.840356105688,
+        "Computed": 2728.165796093187,
+        "MDER": 2077.463424111293
+      },
+      {
+        "valueX": 2030,
+        "location": "GBR",
+        "historical": 2915.041919820392,
+        "Computed": 2767.273978035275,
+        "MDER": 2078.447879986526
+      },
+      {
+        "valueX": 2030,
+        "location": "IDN",
+        "historical": 2509.079953863842,
+        "Computed": 2484.595708832714,
+        "MDER": 2080.906721837245
+      },
+      {
+        "valueX": 2030,
+        "location": "MEX",
+        "historical": 2532.885925510742,
+        "Computed": 2489.568028378359,
+        "MDER": 1857.541569403296
+      },
+      {
+        "valueX": 2030,
+        "location": "MYS",
+        "historical": 2717.345529829077,
+        "Computed": 2717.823609596559,
+        "MDER": 2092.031250112044
+      },
+      {
+        "valueX": 2030,
+        "location": "NOR",
+        "historical": 2633.618447264269,
+        "Computed": 2612.158692986898,
+        "MDER": 2092.724261826485
+      },
+      {
+        "valueX": 2030,
+        "location": "R_ASP",
+        "historical": 2606.69831530202,
+        "Computed": 2601.506775767803,
+        "MDER": 2066.20719661444
+      },
+      {
+        "valueX": 2030,
+        "location": "R_CSA",
+        "historical": 2534.347426915297,
+        "Computed": 2528.623495416048,
+        "MDER": 2082.816176590056
+      },
+      {
+        "valueX": 2030,
+        "location": "R_NEU",
+        "historical": 3185.019434533501,
+        "Computed": 3175.7358842859,
+        "MDER": 2086.732940217104
+      },
+      {
+        "valueX": 2030,
+        "location": "R_NMC",
+        "historical": 2788.445497293402,
+        "Computed": 2783.964308962289,
+        "MDER": 2138.793190276037
+      },
+      {
+        "valueX": 2030,
+        "location": "R_OEU",
+        "historical": 3149.198785347218,
+        "Computed": 3134.837455562293,
+        "MDER": 2015.088303791277
+      },
+      {
+        "valueX": 2030,
+        "location": "R_SSA",
+        "historical": 2438.256608020744,
+        "Computed": 2426.878868392486,
+        "MDER": 1929.150258666505
+      },
+      {
+        "valueX": 2030,
+        "location": "RUS",
+        "historical": 2989.620362783258,
+        "Computed": 2977.378956873824,
+        "MDER": 2073.225786848492
+      },
+      {
+        "valueX": 2030,
+        "location": "RWA",
+        "historical": 2099.480325831604,
+        "Computed": 2073.23590959063,
+        "MDER": 2021.20963049956
+      },
+      {
+        "valueX": 2030,
+        "location": "SWE",
+        "historical": 2891.011446783776,
+        "Computed": 2815.587032438164,
+        "MDER": 2080.831958547194
+      },
+      {
+        "valueX": 2030,
+        "location": "USA",
+        "historical": 2803.306582292023,
+        "Computed": 2802.920814386097,
+        "MDER": 2075.432667563327
+      },
+      {
+        "valueX": 2030,
+        "location": "ZAF",
+        "historical": 2942.440215239514,
+        "Computed": 2826.038884827198,
+        "MDER": 1844.827363924265
+      },
+      {
+        "valueX": 2035,
+        "location": "ARG",
+        "historical": 2806.698043287785,
+        "Computed": 2791.686299994896,
+        "MDER": 2072.981783187708
+      },
+      {
+        "valueX": 2035,
+        "location": "AUS",
+        "historical": 3198.286197758921,
+        "Computed": 3199.187595500052,
+        "MDER": 2083.166994626952
+      },
+      {
+        "valueX": 2035,
+        "location": "BRA",
+        "historical": 3274.035142953409,
+        "Computed": 3234.255059875353,
+        "MDER": 2098.07622443616
+      },
+      {
+        "valueX": 2035,
+        "location": "CAN",
+        "historical": 3047.309056802753,
+        "Computed": 3040.596250646777,
+        "MDER": 2092.227872776517
+      },
+      {
+        "valueX": 2035,
+        "location": "CHN",
+        "historical": 2930.965971715842,
+        "Computed": 3070.432863974249,
+        "MDER": 2106.567042642341
+      },
+      {
+        "valueX": 2035,
+        "location": "COL",
+        "historical": 2710.261367526332,
+        "Computed": 2711.789299271323,
+        "MDER": 2091.361334196263
+      },
+      {
+        "valueX": 2035,
+        "location": "DEU",
+        "historical": 3018.09469658702,
+        "Computed": 2960.250760536864,
+        "MDER": 2081.573095455936
+      },
+      {
+        "valueX": 2035,
+        "location": "ETH",
+        "historical": 2212.22019008665,
+        "Computed": 2193.103574261943,
+        "MDER": 2035.687941545113
+      },
+      {
+        "valueX": 2035,
+        "location": "FIN",
+        "historical": 2744.840356105688,
+        "Computed": 2728.135918805267,
+        "MDER": 2078.544513618959
+      },
+      {
+        "valueX": 2035,
+        "location": "GBR",
+        "historical": 2915.041919820392,
+        "Computed": 2723.779726814462,
+        "MDER": 2080.071116243623
+      },
+      {
+        "valueX": 2035,
+        "location": "IDN",
+        "historical": 2493.721658004402,
+        "Computed": 2484.003834099614,
+        "MDER": 2083.106968686632
+      },
+      {
+        "valueX": 2035,
+        "location": "MEX",
+        "historical": 2460.955760045741,
+        "Computed": 2450.994096744899,
+        "MDER": 1862.181378415432
+      },
+      {
+        "valueX": 2035,
+        "location": "MYS",
+        "historical": 2717.345529829077,
+        "Computed": 2717.755449349601,
+        "MDER": 2097.136480075707
+      },
+      {
+        "valueX": 2035,
+        "location": "NOR",
+        "historical": 2579.047183477058,
+        "Computed": 2517.921608718581,
+        "MDER": 2090.358920065788
+      },
+      {
+        "valueX": 2035,
+        "location": "R_ASP",
+        "historical": 2639.300707266063,
+        "Computed": 2633.455795426139,
+        "MDER": 2066.26802055082
+      },
+      {
+        "valueX": 2035,
+        "location": "R_CSA",
+        "historical": 2572.10738242705,
+        "Computed": 2566.105821895103,
+        "MDER": 2100.242971900961
+      },
+      {
+        "valueX": 2035,
+        "location": "R_NEU",
+        "historical": 3191.199967612738,
+        "Computed": 3181.916679917083,
+        "MDER": 2083.431406822214
+      },
+      {
+        "valueX": 2035,
+        "location": "R_NMC",
+        "historical": 2808.458702753441,
+        "Computed": 2803.876128853919,
+        "MDER": 2164.25744458497
+      },
+      {
+        "valueX": 2035,
+        "location": "R_OEU",
+        "historical": 3206.471710581586,
+        "Computed": 3191.665618951677,
+        "MDER": 1981.195515315836
+      },
+      {
+        "valueX": 2035,
+        "location": "R_SSA",
+        "historical": 2476.677225558219,
+        "Computed": 2464.709253785819,
+        "MDER": 1932.217562561332
+      },
+      {
+        "valueX": 2035,
+        "location": "RUS",
+        "historical": 2989.620362783258,
+        "Computed": 2977.390679781099,
+        "MDER": 2077.048835091676
+      },
+      {
+        "valueX": 2035,
+        "location": "RWA",
+        "historical": 2139.926328929316,
+        "Computed": 2116.34291181155,
+        "MDER": 2029.523401893672
+      },
+      {
+        "valueX": 2035,
+        "location": "SWE",
+        "historical": 2891.080509924516,
+        "Computed": 2815.523731807857,
+        "MDER": 2083.626799543914
+      },
+      {
+        "valueX": 2035,
+        "location": "USA",
+        "historical": 2803.306582292023,
+        "Computed": 2802.920814398477,
+        "MDER": 2074.775559037905
+      },
+      {
+        "valueX": 2035,
+        "location": "ZAF",
+        "historical": 2959.283229677078,
+        "Computed": 2856.502512791497,
+        "MDER": 1848.637722472562
+      },
+      {
+        "valueX": 2040,
+        "location": "ARG",
+        "historical": 2806.698043287785,
+        "Computed": 2791.846540566029,
+        "MDER": 2075.066296786333
+      },
+      {
+        "valueX": 2040,
+        "location": "AUS",
+        "historical": 3302.744378096251,
+        "Computed": 3303.562192586556,
+        "MDER": 2082.436856625185
+      },
+      {
+        "valueX": 2040,
+        "location": "BRA",
+        "historical": 3318.010838745041,
+        "Computed": 3275.554028633253,
+        "MDER": 2096.44139965187
+      },
+      {
+        "valueX": 2040,
+        "location": "CAN",
+        "historical": 3127.303521582523,
+        "Computed": 3120.570894712724,
+        "MDER": 2091.209688974235
+      },
+      {
+        "valueX": 2040,
+        "location": "CHN",
+        "historical": 3092.134072718724,
+        "Computed": 3263.831881026626,
+        "MDER": 2098.681411602689
+      },
+      {
+        "valueX": 2040,
+        "location": "COL",
+        "historical": 2747.958327955165,
+        "Computed": 2749.642274379703,
+        "MDER": 2089.564174933961
+      },
+      {
+        "valueX": 2040,
+        "location": "DEU",
+        "historical": 2938.250921545037,
+        "Computed": 2892.75684810026,
+        "MDER": 2081.877659448177
+      },
+      {
+        "valueX": 2040,
+        "location": "ETH",
+        "historical": 2212.22019008665,
+        "Computed": 2191.354299333068,
+        "MDER": 2049.420454425279
+      },
+      {
+        "valueX": 2040,
+        "location": "FIN",
+        "historical": 2744.840356105688,
+        "Computed": 2728.103778983179,
+        "MDER": 2079.266227610645
+      },
+      {
+        "valueX": 2040,
+        "location": "GBR",
+        "historical": 2915.041919820392,
+        "Computed": 2680.987218420781,
+        "MDER": 2078.894757709696
+      },
+      {
+        "valueX": 2040,
+        "location": "IDN",
+        "historical": 2478.363362144961,
+        "Computed": 2469.153079456459,
+        "MDER": 2083.397302839526
+      },
+      {
+        "valueX": 2040,
+        "location": "MEX",
+        "historical": 2371.043053214491,
+        "Computed": 2363.26263601115,
+        "MDER": 1864.436722596881
+      },
+      {
+        "valueX": 2040,
+        "location": "MYS",
+        "historical": 2717.345529829077,
+        "Computed": 2717.687616007793,
+        "MDER": 2101.195049491941
+      },
+      {
+        "valueX": 2040,
+        "location": "NOR",
+        "historical": 2524.475919689847,
+        "Computed": 2458.226818308435,
+        "MDER": 2088.903043949199
+      },
+      {
+        "valueX": 2040,
+        "location": "R_ASP",
+        "historical": 2671.903099230107,
+        "Computed": 2665.34872843657,
+        "MDER": 2064.434393793704
+      },
+      {
+        "valueX": 2040,
+        "location": "R_CSA",
+        "historical": 2609.867337938802,
+        "Computed": 2603.590417217856,
+        "MDER": 2116.134982760153
+      },
+      {
+        "valueX": 2040,
+        "location": "R_NEU",
+        "historical": 3197.380500691975,
+        "Computed": 3188.098201604206,
+        "MDER": 2077.715592565818
+      },
+      {
+        "valueX": 2040,
+        "location": "R_NMC",
+        "historical": 2828.47190821348,
+        "Computed": 2823.787668564769,
+        "MDER": 2183.079391713234
+      },
+      {
+        "valueX": 2040,
+        "location": "R_OEU",
+        "historical": 3263.744635815956,
+        "Computed": 3248.493737513271,
+        "MDER": 1945.276504076984
+      },
+      {
+        "valueX": 2040,
+        "location": "R_SSA",
+        "historical": 2515.097843095695,
+        "Computed": 2502.635740186659,
+        "MDER": 1934.022169876927
+      },
+      {
+        "valueX": 2040,
+        "location": "RUS",
+        "historical": 2989.620362783258,
+        "Computed": 2977.402404670313,
+        "MDER": 2078.52906082951
+      },
+      {
+        "valueX": 2040,
+        "location": "RWA",
+        "historical": 2180.372332027027,
+        "Computed": 2159.449914032472,
+        "MDER": 2036.560092677625
+      },
+      {
+        "valueX": 2040,
+        "location": "SWE",
+        "historical": 2891.300257943316,
+        "Computed": 2815.377321965744,
+        "MDER": 2083.494822153692
+      },
+      {
+        "valueX": 2040,
+        "location": "USA",
+        "historical": 2803.306582292023,
+        "Computed": 2802.920814409462,
+        "MDER": 2076.018575959931
+      },
+      {
+        "valueX": 2040,
+        "location": "ZAF",
+        "historical": 2976.126244114643,
+        "Computed": 2915.445631556196,
+        "MDER": 1850.744388677467
+      },
+      {
+        "valueX": 2045,
+        "location": "ARG",
+        "historical": 2806.698043287785,
+        "Computed": 2791.995850319173,
+        "MDER": 2076.195796312756
+      },
+      {
+        "valueX": 2045,
+        "location": "AUS",
+        "historical": 3302.744378096251,
+        "Computed": 3303.577381384864,
+        "MDER": 2080.109537054749
+      },
+      {
+        "valueX": 2045,
+        "location": "BRA",
+        "historical": 3361.986534536672,
+        "Computed": 3316.674033950334,
+        "MDER": 2093.689112403682
+      },
+      {
+        "valueX": 2045,
+        "location": "CAN",
+        "historical": 3207.297986362292,
+        "Computed": 3200.550077713867,
+        "MDER": 2088.615402585217
+      },
+      {
+        "valueX": 2045,
+        "location": "CHN",
+        "historical": 3221.06855352103,
+        "Computed": 3482.652288984042,
+        "MDER": 2092.926165053566
+      },
+      {
+        "valueX": 2045,
+        "location": "COL",
+        "historical": 2785.655288384,
+        "Computed": 2787.495251078744,
+        "MDER": 2087.113158365587
+      },
+      {
+        "valueX": 2045,
+        "location": "DEU",
+        "historical": 2890.344656519846,
+        "Computed": 2844.850935059834,
+        "MDER": 2081.353541964969
+      },
+      {
+        "valueX": 2045,
+        "location": "ETH",
+        "historical": 2212.22019008665,
+        "Computed": 2189.798775729788,
+        "MDER": 2059.729884409441
+      },
+      {
+        "valueX": 2045,
+        "location": "FIN",
+        "historical": 2744.840356105688,
+        "Computed": 2727.89964764309,
+        "MDER": 2078.547421266934
+      },
+      {
+        "valueX": 2045,
+        "location": "GBR",
+        "historical": 2915.041919820392,
+        "Computed": 2650.329802040481,
+        "MDER": 2076.337096071864
+      },
+      {
+        "valueX": 2045,
+        "location": "IDN",
+        "historical": 2463.005066285521,
+        "Computed": 2454.306751902187,
+        "MDER": 2083.769204101859
+      },
+      {
+        "valueX": 2045,
+        "location": "MEX",
+        "historical": 2299.112887749492,
+        "Computed": 2291.026495495166,
+        "MDER": 1864.75601391472
+      },
+      {
+        "valueX": 2045,
+        "location": "MYS",
+        "historical": 2717.345529829077,
+        "Computed": 2717.616513940666,
+        "MDER": 2101.032576205024
+      },
+      {
+        "valueX": 2045,
+        "location": "NOR",
+        "historical": 2469.904655902636,
+        "Computed": 2387.271948778955,
+        "MDER": 2089.065796405928
+      },
+      {
+        "valueX": 2045,
+        "location": "R_ASP",
+        "historical": 2704.505491194151,
+        "Computed": 2697.228955368246,
+        "MDER": 2061.927279594755
+      },
+      {
+        "valueX": 2045,
+        "location": "R_CSA",
+        "historical": 2647.627293450555,
+        "Computed": 2641.074394297159,
+        "MDER": 2131.042015505241
+      },
+      {
+        "valueX": 2045,
+        "location": "R_NEU",
+        "historical": 3203.561033771213,
+        "Computed": 3194.28038671808,
+        "MDER": 2071.641775457054
+      },
+      {
+        "valueX": 2045,
+        "location": "R_NMC",
+        "historical": 2848.485113673518,
+        "Computed": 2843.699184369235,
+        "MDER": 2200.326079601185
+      },
+      {
+        "valueX": 2045,
+        "location": "R_OEU",
+        "historical": 3321.017561050326,
+        "Computed": 3305.321887079125,
+        "MDER": 1909.185257182438
+      },
+      {
+        "valueX": 2045,
+        "location": "R_SSA",
+        "historical": 2553.51846063317,
+        "Computed": 2540.530694317287,
+        "MDER": 1935.385373553607
+      },
+      {
+        "valueX": 2045,
+        "location": "RUS",
+        "historical": 2989.620362783258,
+        "Computed": 2977.414131531975,
+        "MDER": 2078.612246869469
+      },
+      {
+        "valueX": 2045,
+        "location": "RWA",
+        "historical": 2220.818335124738,
+        "Computed": 2202.556916253392,
+        "MDER": 2045.902001999282
+      },
+      {
+        "valueX": 2045,
+        "location": "SWE",
+        "historical": 2891.653781287438,
+        "Computed": 2815.136147267362,
+        "MDER": 2081.080929163824
+      },
+      {
+        "valueX": 2045,
+        "location": "USA",
+        "historical": 2803.306582292023,
+        "Computed": 2802.920814419035,
+        "MDER": 2077.373590431175
+      },
+      {
+        "valueX": 2045,
+        "location": "ZAF",
+        "historical": 2992.969258552206,
+        "Computed": 2972.526294546798,
+        "MDER": 1851.437467476746
+      },
+      {
+        "valueX": 2050,
+        "location": "ARG",
+        "historical": 2806.698043287785,
+        "Computed": 2792.151347995048,
+        "MDER": 2077.205619093028
+      },
+      {
+        "valueX": 2050,
+        "location": "AUS",
+        "historical": 3302.744378096251,
+        "Computed": 3303.598253025064,
+        "MDER": 2077.688955549904
+      },
+      {
+        "valueX": 2050,
+        "location": "BRA",
+        "historical": 3405.962230328305,
+        "Computed": 3357.435899403433,
+        "MDER": 2089.838380709871
+      },
+      {
+        "valueX": 2050,
+        "location": "CAN",
+        "historical": 3287.292451142062,
+        "Computed": 3280.52585500799,
+        "MDER": 2085.508658285268
+      },
+      {
+        "valueX": 2050,
+        "location": "CHN",
+        "historical": 3221.06855352103,
+        "Computed": 3643.70168807085,
+        "MDER": 2090.215532969093
+      },
+      {
+        "valueX": 2050,
+        "location": "COL",
+        "historical": 2823.352248812833,
+        "Computed": 2825.34822945449,
+        "MDER": 2084.437746626777
+      },
+      {
+        "valueX": 2050,
+        "location": "DEU",
+        "historical": 2874.375901511449,
+        "Computed": 2828.882342165388,
+        "MDER": 2079.219436593988
+      },
+      {
+        "valueX": 2050,
+        "location": "ETH",
+        "historical": 2212.22019008665,
+        "Computed": 2188.613792869124,
+        "MDER": 2067.25368662244
+      },
+      {
+        "valueX": 2050,
+        "location": "FIN",
+        "historical": 2744.840356105688,
+        "Computed": 2727.386635132855,
+        "MDER": 2077.726121399828
+      },
+      {
+        "valueX": 2050,
+        "location": "GBR",
+        "historical": 2915.041919820392,
+        "Computed": 2621.216217407198,
+        "MDER": 2074.71955085314
+      },
+      {
+        "valueX": 2050,
+        "location": "IDN",
+        "historical": 2447.64677042608,
+        "Computed": 2439.511937203159,
+        "MDER": 2084.51900865656
+      },
+      {
+        "valueX": 2050,
+        "location": "MEX",
+        "historical": 2299.112887749492,
+        "Computed": 2288.075459726425,
+        "MDER": 1863.894576421474
+      },
+      {
+        "valueX": 2050,
+        "location": "MYS",
+        "historical": 2717.345529829077,
+        "Computed": 2717.541891899587,
+        "MDER": 2096.293584281245
+      },
+      {
+        "valueX": 2050,
+        "location": "NOR",
+        "historical": 2415.333392115424,
+        "Computed": 2317.757404836393,
+        "MDER": 2089.475004158878
+      },
+      {
+        "valueX": 2050,
+        "location": "R_ASP",
+        "historical": 2737.107883158195,
+        "Computed": 2729.094362715289,
+        "MDER": 2060.390515160551
+      },
+      {
+        "valueX": 2050,
+        "location": "R_CSA",
+        "historical": 2685.387248962307,
+        "Computed": 2678.558959063312,
+        "MDER": 2145.445919249217
+      },
+      {
+        "valueX": 2050,
+        "location": "R_NEU",
+        "historical": 3209.74156685045,
+        "Computed": 3200.463170905894,
+        "MDER": 2067.339096869211
+      },
+      {
+        "valueX": 2050,
+        "location": "R_NMC",
+        "historical": 2868.498319133557,
+        "Computed": 2863.610654089388,
+        "MDER": 2220.314864292392
+      },
+      {
+        "valueX": 2050,
+        "location": "R_OEU",
+        "historical": 3378.290486284694,
+        "Computed": 3362.150071146877,
+        "MDER": 1873.762710734971
+      },
+      {
+        "valueX": 2050,
+        "location": "R_SSA",
+        "historical": 2591.939078170644,
+        "Computed": 2578.328547228621,
+        "MDER": 1936.096217140356
+      },
+      {
+        "valueX": 2050,
+        "location": "RUS",
+        "historical": 2989.620362783258,
+        "Computed": 2977.425860357411,
+        "MDER": 2078.721925562781
+      },
+      {
+        "valueX": 2050,
+        "location": "RWA",
+        "historical": 2261.264338222449,
+        "Computed": 2245.663918474314,
+        "MDER": 2056.752661224089
+      },
+      {
+        "valueX": 2050,
+        "location": "SWE",
+        "historical": 2892.161227612236,
+        "Computed": 2815.624280023806,
+        "MDER": 2079.03661421101
+      },
+      {
+        "valueX": 2050,
+        "location": "USA",
+        "historical": 2803.306582292023,
+        "Computed": 2802.920814427839,
+        "MDER": 2077.635749341447
+      },
+      {
+        "valueX": 2050,
+        "location": "ZAF",
+        "historical": 3009.812272989771,
+        "Computed": 2988.365641263162,
+        "MDER": 1851.88179274146
+      }
+    ],
+    "keys": [
+      "Computed"
+    ],
+    "byCountry": true,
+    "upperLower": true,
+    "withHistorical": true
+  }
+]

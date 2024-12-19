@@ -1,0 +1,4244 @@
+[
+  {
+    "title": "Nitrogen Application",
+    "description": "Share of nitrogen application by fertilizer and application technique",
+    "axisY": "1000 tonnes",
+    "axisX": "year",
+    "legend": [
+      {
+        "label": "Figure description",
+        "description": "This figure shows the amount of nitrogen applied to soils and pastures from inorganic and organic sources. While FABLE does not  have direct reduction targets aimed at inorganic mineral fertilizer, we nevertheless see a relative growth of organic, manure-based fertilizer application between 2000 and 2020."
+      },
+      {
+        "key": "Nitrogen from synthetic fertilizer",
+        "color": "hsl(60, 70%, 50%)",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "Nitrogen from manure on soil",
+        "color": "hsl(293, 38.70%, 44.10%)",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "Nitrogen from manure on pasture",
+        "color": "hsl(120, 70%, 25%)",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "FABLE target",
+        "color": "#E3180B",
+        "inLegend": true,
+        "type": "target"
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 0.472804125,
+        "Nitrogen from manure on soil": 0.15815272060000002,
+        "Nitrogen from manure on pasture": 2.21859459120265
+      },
+      {
+        "valueX": 2000,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 1.01551401,
+        "Nitrogen from manure on soil": 0.153254851,
+        "Nitrogen from manure on pasture": 3.9372911254695
+      },
+      {
+        "valueX": 2000,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 1.352534766,
+        "Nitrogen from manure on soil": 0.9829721577,
+        "Nitrogen from manure on pasture": 7.489466874827079
+      },
+      {
+        "valueX": 2000,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 1.501507915,
+        "Nitrogen from manure on soil": 0.2332466651,
+        "Nitrogen from manure on pasture": 0.588006359426551
+      },
+      {
+        "valueX": 2000,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 24.716192319999998,
+        "Nitrogen from manure on soil": 4.281543396,
+        "Nitrogen from manure on pasture": 8.30997682603545
+      },
+      {
+        "valueX": 2000,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.2044497992,
+        "Nitrogen from manure on soil": 0.1763336997,
+        "Nitrogen from manure on pasture": 1.09838848640921
+      },
+      {
+        "valueX": 2000,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 1.2818963429999999,
+        "Nitrogen from manure on soil": 0.7008936711,
+        "Nitrogen from manure on pasture": 0.68920701106174
+      },
+      {
+        "valueX": 2000,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.1792876369,
+        "Nitrogen from manure on soil": 0.1601876813,
+        "Nitrogen from manure on pasture": 0.11800584135348499
+      },
+      {
+        "valueX": 2000,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 0.19180578610000001,
+        "Nitrogen from manure on soil": 0.0521079834,
+        "Nitrogen from manure on pasture": 1.6837488220324799
+      },
+      {
+        "valueX": 2000,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.1133466346,
+        "Nitrogen from manure on soil": 0.05026523517,
+        "Nitrogen from manure on pasture": 0.043207430314804
+      },
+      {
+        "valueX": 2000,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.5416696958,
+        "Nitrogen from manure on soil": 0.555618747,
+        "Nitrogen from manure on pasture": 0.901263283834734
+      },
+      {
+        "valueX": 2000,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.2802722723,
+        "Nitrogen from manure on soil": 0.06127547364,
+        "Nitrogen from manure on pasture": 0.231942751766307
+      },
+      {
+        "valueX": 2000,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 1.281763618,
+        "Nitrogen from manure on soil": 0.3926280215,
+        "Nitrogen from manure on pasture": 0.761500395999893
+      },
+      {
+        "valueX": 2000,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 10.54255791,
+        "Nitrogen from manure on soil": 1.864173171,
+        "Nitrogen from manure on pasture": 5.3980346243095605
+      },
+      {
+        "valueX": 2000,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 0.3880547348,
+        "Nitrogen from manure on soil": 0.3967939055,
+        "Nitrogen from manure on pasture": 1.4844941139923802
+      },
+      {
+        "valueX": 2000,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.025920601640000002,
+        "Nitrogen from manure on soil": 0.03664173868,
+        "Nitrogen from manure on pasture": 0.0777407708957867
+      },
+      {
+        "valueX": 2000,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.05720379622,
+        "Nitrogen from manure on soil": 0.0447656063,
+        "Nitrogen from manure on pasture": 0.237660174370269
+      },
+      {
+        "valueX": 2000,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 5.311819911,
+        "Nitrogen from manure on soil": 1.463602789,
+        "Nitrogen from manure on pasture": 3.84126355030271
+      },
+      {
+        "valueX": 2000,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 0.984846995,
+        "Nitrogen from manure on soil": 0.8381700823,
+        "Nitrogen from manure on pasture": 3.55423046207212
+      },
+      {
+        "valueX": 2000,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 3.9548121590000003,
+        "Nitrogen from manure on soil": 1.161256753,
+        "Nitrogen from manure on pasture": 5.69581558202551
+      },
+      {
+        "valueX": 2000,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 0.12696063929999998,
+        "Nitrogen from manure on soil": 1.0680338509999998,
+        "Nitrogen from manure on pasture": 0.770483960121182
+      },
+      {
+        "valueX": 2000,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 9.113023347,
+        "Nitrogen from manure on soil": 3.852553588,
+        "Nitrogen from manure on pasture": 3.61028996029478
+      },
+      {
+        "valueX": 2000,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 1.4868517110000001,
+        "Nitrogen from manure on soil": 0.7138307437,
+        "Nitrogen from manure on pasture": 9.56395369988573
+      },
+      {
+        "valueX": 2000,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 0.8118749606,
+        "Nitrogen from manure on soil": 1.37654036,
+        "Nitrogen from manure on pasture": 1.3871032040058702
+      },
+      {
+        "valueX": 2000,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.000991493692,
+        "Nitrogen from manure on soil": 0.004150245765,
+        "Nitrogen from manure on pasture": 0.0462183943017762
+      },
+      {
+        "valueX": 2000,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.06695692715,
+        "Nitrogen from manure on soil": 0.06083540763,
+        "Nitrogen from manure on pasture": 0.0650440120754092
+      },
+      {
+        "valueX": 2000,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.3459722079999998,
+        "Nitrogen from manure on soil": 0.060345744539999996,
+        "Nitrogen from manure on pasture": 1.13177004086032
+      },
+      {
+        "valueX": 2000,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 7.327761547,
+        "Nitrogen from manure on soil": 1.840436859,
+        "Nitrogen from manure on pasture": 4.35991663883087
+      },
+      {
+        "valueX": 2000,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 74.67865386330199,
+        "Nitrogen from manure on soil": 22.740611148625,
+        "Nitrogen from manure on pasture": 69.2946189880782
+      },
+      {
+        "valueX": 2005,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 0.6751640056,
+        "Nitrogen from manure on soil": 0.1468133576,
+        "Nitrogen from manure on pasture": 2.6210478935084502
+      },
+      {
+        "valueX": 2005,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 0.7994391427,
+        "Nitrogen from manure on soil": 0.1148690941,
+        "Nitrogen from manure on pasture": 3.67239283251278
+      },
+      {
+        "valueX": 2005,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 2.198178925,
+        "Nitrogen from manure on soil": 1.237566227,
+        "Nitrogen from manure on pasture": 8.979645066507919
+      },
+      {
+        "valueX": 2005,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 1.448960654,
+        "Nitrogen from manure on soil": 0.2582377227,
+        "Nitrogen from manure on pasture": 0.665934152460939
+      },
+      {
+        "valueX": 2005,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 31.90008255,
+        "Nitrogen from manure on soil": 4.672684074,
+        "Nitrogen from manure on pasture": 8.09087655153008
+      },
+      {
+        "valueX": 2005,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.2802821107,
+        "Nitrogen from manure on soil": 0.2134289062,
+        "Nitrogen from manure on pasture": 1.13413510074582
+      },
+      {
+        "valueX": 2005,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 1.063839167,
+        "Nitrogen from manure on soil": 0.6325090248,
+        "Nitrogen from manure on pasture": 0.6614275725869889
+      },
+      {
+        "valueX": 2005,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.1777644066,
+        "Nitrogen from manure on soil": 0.1601127762,
+        "Nitrogen from manure on pasture": 0.11308986260579501
+      },
+      {
+        "valueX": 2005,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 0.20789136719999998,
+        "Nitrogen from manure on soil": 0.05762579792,
+        "Nitrogen from manure on pasture": 2.25746131980714
+      },
+      {
+        "valueX": 2005,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.1051112496,
+        "Nitrogen from manure on soil": 0.047274415589999993,
+        "Nitrogen from manure on pasture": 0.039718902048714706
+      },
+      {
+        "valueX": 2005,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.4309431095,
+        "Nitrogen from manure on soil": 0.4962098874,
+        "Nitrogen from manure on pasture": 0.8150576345640339
+      },
+      {
+        "valueX": 2005,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.2317068392,
+        "Nitrogen from manure on soil": 0.06104724726,
+        "Nitrogen from manure on pasture": 0.22977966548585
+      },
+      {
+        "valueX": 2005,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 1.7061523079999998,
+        "Nitrogen from manure on soil": 0.4578932385,
+        "Nitrogen from manure on pasture": 0.818460729621005
+      },
+      {
+        "valueX": 2005,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 14.79937614,
+        "Nitrogen from manure on soil": 1.975734848,
+        "Nitrogen from manure on pasture": 5.69516395996558
+      },
+      {
+        "valueX": 2005,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 0.9494712582,
+        "Nitrogen from manure on soil": 0.4182790748,
+        "Nitrogen from manure on pasture": 1.5350408949448
+      },
+      {
+        "valueX": 2005,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.0257938494,
+        "Nitrogen from manure on soil": 0.036508332500000004,
+        "Nitrogen from manure on pasture": 0.0748845180103655
+      },
+      {
+        "valueX": 2005,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.008203536515,
+        "Nitrogen from manure on soil": 0.046669556040000004,
+        "Nitrogen from manure on pasture": 0.25706330589631804
+      },
+      {
+        "valueX": 2005,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 5.9611821570000005,
+        "Nitrogen from manure on soil": 1.589459568,
+        "Nitrogen from manure on pasture": 4.05763071867489
+      },
+      {
+        "valueX": 2005,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.195462588,
+        "Nitrogen from manure on soil": 0.9975709321,
+        "Nitrogen from manure on pasture": 3.70864750218072
+      },
+      {
+        "valueX": 2005,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 5.108287433,
+        "Nitrogen from manure on soil": 1.37415618,
+        "Nitrogen from manure on pasture": 6.30466711962967
+      },
+      {
+        "valueX": 2005,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 1.3357910750000002,
+        "Nitrogen from manure on soil": 0.7747479623000001,
+        "Nitrogen from manure on pasture": 0.715309111153717
+      },
+      {
+        "valueX": 2005,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 7.91384983,
+        "Nitrogen from manure on soil": 3.6017282610000003,
+        "Nitrogen from manure on pasture": 3.42923261408354
+      },
+      {
+        "valueX": 2005,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 1.78430908,
+        "Nitrogen from manure on soil": 0.7541775738000001,
+        "Nitrogen from manure on pasture": 10.8082321888942
+      },
+      {
+        "valueX": 2005,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 0.9263555719,
+        "Nitrogen from manure on soil": 1.120975704,
+        "Nitrogen from manure on pasture": 1.27167754915782
+      },
+      {
+        "valueX": 2005,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.007390821407,
+        "Nitrogen from manure on soil": 0.007878868495,
+        "Nitrogen from manure on pasture": 0.0737879587700322
+      },
+      {
+        "valueX": 2005,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.062449879199999996,
+        "Nitrogen from manure on soil": 0.06302386897000001,
+        "Nitrogen from manure on pasture": 0.059211540626772
+      },
+      {
+        "valueX": 2005,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.459899735,
+        "Nitrogen from manure on soil": 0.06406829784,
+        "Nitrogen from manure on pasture": 1.02092522796281
+      },
+      {
+        "valueX": 2005,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 7.501053521,
+        "Nitrogen from manure on soil": 1.877995681,
+        "Nitrogen from manure on pasture": 4.223350475530871
+      },
+      {
+        "valueX": 2005,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 90.264392310722,
+        "Nitrogen from manure on soil": 23.259246478115003,
+        "Nitrogen from manure on pasture": 73.3338519694676
+      },
+      {
+        "valueX": 2010,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 0.8847850508,
+        "Nitrogen from manure on soil": 0.1336011677,
+        "Nitrogen from manure on pasture": 2.95561730460054
+      },
+      {
+        "valueX": 2010,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 1.689868007,
+        "Nitrogen from manure on soil": 0.2573691142,
+        "Nitrogen from manure on pasture": 0.538035290612801
+      },
+      {
+        "valueX": 2010,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 39.82543744,
+        "Nitrogen from manure on soil": 4.955866941999999,
+        "Nitrogen from manure on pasture": 7.64349489136257
+      },
+      {
+        "valueX": 2010,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 1.066840426,
+        "Nitrogen from manure on soil": 0.718150948,
+        "Nitrogen from manure on pasture": 0.5518130797632851
+      },
+      {
+        "valueX": 2010,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.14456422459999999,
+        "Nitrogen from manure on soil": 0.15930748919999999,
+        "Nitrogen from manure on pasture": 0.111304239305138
+      },
+      {
+        "valueX": 2010,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.4600885575,
+        "Nitrogen from manure on soil": 0.5204475602,
+        "Nitrogen from manure on pasture": 0.681250933273977
+      },
+      {
+        "valueX": 2010,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.191592281,
+        "Nitrogen from manure on soil": 0.06449504817,
+        "Nitrogen from manure on pasture": 0.223088402459593
+      },
+      {
+        "valueX": 2010,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.02186938729,
+        "Nitrogen from manure on soil": 0.03993113473,
+        "Nitrogen from manure on pasture": 0.067971631105238
+      },
+      {
+        "valueX": 2010,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 2.208631132,
+        "Nitrogen from manure on soil": 0.7789663957,
+        "Nitrogen from manure on pasture": 0.622103088195564
+      },
+      {
+        "valueX": 2010,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 5.6501066060000005,
+        "Nitrogen from manure on soil": 3.5580546159999997,
+        "Nitrogen from manure on pasture": 3.27433719402316
+      },
+      {
+        "valueX": 2010,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 0.9343251993,
+        "Nitrogen from manure on soil": 1.022036925,
+        "Nitrogen from manure on pasture": 1.31477570133458
+      },
+      {
+        "valueX": 2010,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.305255183,
+        "Nitrogen from manure on soil": 0.05952448484,
+        "Nitrogen from manure on pasture": 0.96761239118111
+      },
+      {
+        "valueX": 2010,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 8.475500754,
+        "Nitrogen from manure on soil": 2.093605215,
+        "Nitrogen from manure on pasture": 3.96789890830064
+      },
+      {
+        "valueX": 2010,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.0065099732379999995,
+        "Nitrogen from manure on soil": 0.01241716452,
+        "Nitrogen from manure on pasture": 0.10718557608991701
+      },
+      {
+        "valueX": 2010,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 2.0912583479999998,
+        "Nitrogen from manure on soil": 0.8125708459,
+        "Nitrogen from manure on pasture": 12.9307255102916
+      },
+      {
+        "valueX": 2010,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 0.4097302702,
+        "Nitrogen from manure on soil": 0.1065959531,
+        "Nitrogen from manure on pasture": 2.9550809127968702
+      },
+      {
+        "valueX": 2010,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 17.571412069999997,
+        "Nitrogen from manure on soil": 1.988031766,
+        "Nitrogen from manure on pasture": 5.95393046972851
+      },
+      {
+        "valueX": 2010,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.4928088297,
+        "Nitrogen from manure on soil": 0.3352591088,
+        "Nitrogen from manure on pasture": 1.1437871034710099
+      },
+      {
+        "valueX": 2010,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 2.628196379,
+        "Nitrogen from manure on soil": 0.5753863665,
+        "Nitrogen from manure on pasture": 0.967861126287729
+      },
+      {
+        "valueX": 2010,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.415332019,
+        "Nitrogen from manure on soil": 0.9527614175,
+        "Nitrogen from manure on pasture": 3.93945224670658
+      },
+      {
+        "valueX": 2010,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 103.102495691058,
+        "Nitrogen from manure on soil": 24.364652971679998,
+        "Nitrogen from manure on pasture": 76.1853900482681
+      },
+      {
+        "valueX": 2010,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 6.383139750000001,
+        "Nitrogen from manure on soil": 1.658615278,
+        "Nitrogen from manure on pasture": 4.3932912003258195
+      },
+      {
+        "valueX": 2010,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 4.905310471,
+        "Nitrogen from manure on soil": 1.5606358809999998,
+        "Nitrogen from manure on pasture": 7.3688171645845
+      },
+      {
+        "valueX": 2010,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.04014875881,
+        "Nitrogen from manure on soil": 0.05116518497,
+        "Nitrogen from manure on pasture": 0.278564168444993
+      },
+      {
+        "valueX": 2010,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.06824310006,
+        "Nitrogen from manure on soil": 0.06689306361,
+        "Nitrogen from manure on pasture": 0.0510750954618528
+      },
+      {
+        "valueX": 2010,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 0.5522896541,
+        "Nitrogen from manure on soil": 0.16224863490000002,
+        "Nitrogen from manure on pasture": 2.27481246672358
+      },
+      {
+        "valueX": 2010,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 0.9484955394,
+        "Nitrogen from manure on soil": 0.4253347063,
+        "Nitrogen from manure on pasture": 1.6287191336384501
+      },
+      {
+        "valueX": 2010,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 2.646393787,
+        "Nitrogen from manure on soil": 1.2483471369999999,
+        "Nitrogen from manure on pasture": 9.23765868673948
+      },
+      {
+        "valueX": 2010,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.08436249306,
+        "Nitrogen from manure on soil": 0.04703342284,
+        "Nitrogen from manure on pasture": 0.035126131459024997
+      },
+      {
+        "valueX": 2015,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 0.7243593922,
+        "Nitrogen from manure on soil": 0.18761378039999999,
+        "Nitrogen from manure on pasture": 2.39736322517015
+      },
+      {
+        "valueX": 2015,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 1.106586202,
+        "Nitrogen from manure on soil": 0.1476962905,
+        "Nitrogen from manure on pasture": 3.03961828032019
+      },
+      {
+        "valueX": 2015,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 3.202174089,
+        "Nitrogen from manure on soil": 1.130698656,
+        "Nitrogen from manure on pasture": 9.67325965644339
+      },
+      {
+        "valueX": 2015,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 2.461786792,
+        "Nitrogen from manure on soil": 0.2568102713,
+        "Nitrogen from manure on pasture": 0.493925805902474
+      },
+      {
+        "valueX": 2015,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 47.33689075,
+        "Nitrogen from manure on soil": 4.748427961,
+        "Nitrogen from manure on pasture": 7.435532366892501
+      },
+      {
+        "valueX": 2015,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 1.094823755,
+        "Nitrogen from manure on soil": 0.7274366739,
+        "Nitrogen from manure on pasture": 0.547366252009397
+      },
+      {
+        "valueX": 2015,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.1708588164,
+        "Nitrogen from manure on soil": 0.1599362379,
+        "Nitrogen from manure on pasture": 0.102238521523838
+      },
+      {
+        "valueX": 2015,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.08101972533999999,
+        "Nitrogen from manure on soil": 0.04559240835,
+        "Nitrogen from manure on pasture": 0.0385469218814427
+      },
+      {
+        "valueX": 2015,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.5219866117999999,
+        "Nitrogen from manure on soil": 0.5516942391,
+        "Nitrogen from manure on pasture": 0.6768681586478951
+      },
+      {
+        "valueX": 2015,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.1495048676,
+        "Nitrogen from manure on soil": 0.05936609424,
+        "Nitrogen from manure on pasture": 0.207674330199161
+      },
+      {
+        "valueX": 2015,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.02353066332,
+        "Nitrogen from manure on soil": 0.041392200950000006,
+        "Nitrogen from manure on pasture": 0.0651634128537142
+      },
+      {
+        "valueX": 2015,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 2.56639479,
+        "Nitrogen from manure on soil": 0.7477625926,
+        "Nitrogen from manure on pasture": 0.608892314680821
+      },
+      {
+        "valueX": 2015,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 6.725627634,
+        "Nitrogen from manure on soil": 3.606659816,
+        "Nitrogen from manure on pasture": 3.1513623446206696
+      },
+      {
+        "valueX": 2015,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 1.192513686,
+        "Nitrogen from manure on soil": 0.9460556049000001,
+        "Nitrogen from manure on pasture": 1.3934193485349
+      },
+      {
+        "valueX": 2015,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.5051120020000002,
+        "Nitrogen from manure on soil": 0.07465513156,
+        "Nitrogen from manure on pasture": 1.3583917624590098
+      },
+      {
+        "valueX": 2015,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 9.229681181,
+        "Nitrogen from manure on soil": 2.106495716,
+        "Nitrogen from manure on pasture": 3.74570211287467
+      },
+      {
+        "valueX": 2015,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.024906131590000002,
+        "Nitrogen from manure on soil": 0.02237273159,
+        "Nitrogen from manure on pasture": 0.109091950532976
+      },
+      {
+        "valueX": 2015,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 2.72510881,
+        "Nitrogen from manure on soil": 0.9120113152,
+        "Nitrogen from manure on pasture": 15.0902099760625
+      },
+      {
+        "valueX": 2015,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 17.29923993,
+        "Nitrogen from manure on soil": 2.043079621,
+        "Nitrogen from manure on pasture": 5.88479412164829
+      },
+      {
+        "valueX": 2015,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 3.2452580330000003,
+        "Nitrogen from manure on soil": 0.7211306271,
+        "Nitrogen from manure on pasture": 1.22772027165776
+      },
+      {
+        "valueX": 2015,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 0.6448084107,
+        "Nitrogen from manure on soil": 0.1156418269,
+        "Nitrogen from manure on pasture": 3.28768272169791
+      },
+      {
+        "valueX": 2015,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.69037255,
+        "Nitrogen from manure on soil": 0.9614974456,
+        "Nitrogen from manure on pasture": 4.07356038083875
+      },
+      {
+        "valueX": 2015,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 119.3149713432,
+        "Nitrogen from manure on soil": 24.875429173460002,
+        "Nitrogen from manure on pasture": 80.15568337764421
+      },
+      {
+        "valueX": 2015,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 5.887178871,
+        "Nitrogen from manure on soil": 1.785425549,
+        "Nitrogen from manure on pasture": 7.8551074930484805
+      },
+      {
+        "valueX": 2015,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.6638524169,
+        "Nitrogen from manure on soil": 0.2448532763,
+        "Nitrogen from manure on pasture": 0.991982026362805
+      },
+      {
+        "valueX": 2015,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 7.742550663,
+        "Nitrogen from manure on soil": 1.90863432,
+        "Nitrogen from manure on pasture": 4.72084399669557
+      },
+      {
+        "valueX": 2015,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.11981016959999999,
+        "Nitrogen from manure on soil": 0.05741532845,
+        "Nitrogen from manure on pasture": 0.308778260484829
+      },
+      {
+        "valueX": 2015,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.06190619175,
+        "Nitrogen from manure on soil": 0.05599708672,
+        "Nitrogen from manure on pasture": 0.0582565620366045
+      },
+      {
+        "valueX": 2015,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 1.117128208,
+        "Nitrogen from manure on soil": 0.5090763709,
+        "Nitrogen from manure on pasture": 1.61233080156349
+      },
+      {
+        "valueX": 2020,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 0.9678667273,
+        "Nitrogen from manure on soil": 0.13206922969999998,
+        "Nitrogen from manure on pasture": 2.68306114690932
+      },
+      {
+        "valueX": 2020,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 3.159811019,
+        "Nitrogen from manure on soil": 0.2640674752,
+        "Nitrogen from manure on pasture": 0.490869882374501
+      },
+      {
+        "valueX": 2020,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 40.63912021,
+        "Nitrogen from manure on soil": 4.743523215,
+        "Nitrogen from manure on pasture": 6.9458084469914
+      },
+      {
+        "valueX": 2020,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 0.8608706794,
+        "Nitrogen from manure on soil": 0.6972510588,
+        "Nitrogen from manure on pasture": 0.457728816686661
+      },
+      {
+        "valueX": 2020,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.1514734975,
+        "Nitrogen from manure on soil": 0.1533196068,
+        "Nitrogen from manure on pasture": 0.116768316403323
+      },
+      {
+        "valueX": 2020,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.08467249676000001,
+        "Nitrogen from manure on soil": 0.04474593973,
+        "Nitrogen from manure on pasture": 0.0354965462947238
+      },
+      {
+        "valueX": 2020,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.4454679468,
+        "Nitrogen from manure on soil": 0.5280667974000001,
+        "Nitrogen from manure on pasture": 0.68057208358081
+      },
+      {
+        "valueX": 2020,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.1433250073,
+        "Nitrogen from manure on soil": 0.05420737539,
+        "Nitrogen from manure on pasture": 0.183331621312797
+      },
+      {
+        "valueX": 2020,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 1.217497932,
+        "Nitrogen from manure on soil": 0.5786227759,
+        "Nitrogen from manure on pasture": 1.70036211030347
+      },
+      {
+        "valueX": 2020,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.02761964502,
+        "Nitrogen from manure on soil": 0.04429330335,
+        "Nitrogen from manure on pasture": 0.0634765375815333
+      },
+      {
+        "valueX": 2020,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 7.011881563,
+        "Nitrogen from manure on soil": 3.571556189,
+        "Nitrogen from manure on pasture": 3.10292199284257
+      },
+      {
+        "valueX": 2020,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 1.7793803270000002,
+        "Nitrogen from manure on soil": 0.9355268046,
+        "Nitrogen from manure on pasture": 1.3466557752892199
+      },
+      {
+        "valueX": 2020,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.686648328,
+        "Nitrogen from manure on soil": 0.09936055056,
+        "Nitrogen from manure on pasture": 1.72708220169606
+      },
+      {
+        "valueX": 2020,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 9.029580769,
+        "Nitrogen from manure on soil": 2.265444564,
+        "Nitrogen from manure on pasture": 3.9323469253322902
+      },
+      {
+        "valueX": 2020,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.03680920616,
+        "Nitrogen from manure on soil": 0.01865373992,
+        "Nitrogen from manure on pasture": 0.10281531560231301
+      },
+      {
+        "valueX": 2020,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 3.972640112,
+        "Nitrogen from manure on soil": 0.9581448497,
+        "Nitrogen from manure on pasture": 17.4525458775875
+      },
+      {
+        "valueX": 2020,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 0.8384277812,
+        "Nitrogen from manure on soil": 0.1200765311,
+        "Nitrogen from manure on pasture": 4.36576502108716
+      },
+      {
+        "valueX": 2020,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 20.15992647,
+        "Nitrogen from manure on soil": 2.039329402,
+        "Nitrogen from manure on pasture": 6.32638274620638
+      },
+      {
+        "valueX": 2020,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 3.6559069020000003,
+        "Nitrogen from manure on soil": 1.099127293,
+        "Nitrogen from manure on pasture": 1.30249906481577
+      },
+      {
+        "valueX": 2020,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.751997085,
+        "Nitrogen from manure on soil": 1.020060455,
+        "Nitrogen from manure on pasture": 4.0373847022237
+      },
+      {
+        "valueX": 2020,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 6.914378842,
+        "Nitrogen from manure on soil": 2.240545642,
+        "Nitrogen from manure on pasture": 8.59237424465637
+      },
+      {
+        "valueX": 2020,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 123.62451015926999,
+        "Nitrogen from manure on soil": 25.681722187840002,
+        "Nitrogen from manure on pasture": 85.1465756608601
+      },
+      {
+        "valueX": 2020,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.8559576668,
+        "Nitrogen from manure on soil": 0.3422996396,
+        "Nitrogen from manure on pasture": 1.1541731436079001
+      },
+      {
+        "valueX": 2020,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.24983186559999998,
+        "Nitrogen from manure on soil": 0.09565109057,
+        "Nitrogen from manure on pasture": 0.327282463207683
+      },
+      {
+        "valueX": 2020,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.06969754942999999,
+        "Nitrogen from manure on soil": 0.05881073782,
+        "Nitrogen from manure on pasture": 0.0493286604147997
+      },
+      {
+        "valueX": 2020,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 4.658837529,
+        "Nitrogen from manure on soil": 0.8612291953,
+        "Nitrogen from manure on pasture": 10.1903270725652
+      },
+      {
+        "valueX": 2020,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 8.498536610999999,
+        "Nitrogen from manure on soil": 1.851700868,
+        "Nitrogen from manure on pasture": 4.70030730848517
+      },
+      {
+        "valueX": 2020,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 1.241959805,
+        "Nitrogen from manure on soil": 0.1783768885,
+        "Nitrogen from manure on pasture": 2.5214807548302702
+      },
+      {
+        "valueX": 2020,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 3.514386586,
+        "Nitrogen from manure on soil": 0.6856609699,
+        "Nitrogen from manure on pasture": 0.557426881971238
+      },
+      {
+        "valueX": 2025,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 0.9740555119000001,
+        "Nitrogen from manure on soil": 0.1325162809,
+        "Nitrogen from manure on pasture": 2.73933597654209
+      },
+      {
+        "valueX": 2025,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 3.305517864,
+        "Nitrogen from manure on soil": 0.2786393519,
+        "Nitrogen from manure on pasture": 0.485926574612241
+      },
+      {
+        "valueX": 2025,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 35.60924183,
+        "Nitrogen from manure on soil": 4.181813279,
+        "Nitrogen from manure on pasture": 7.2551001179114305
+      },
+      {
+        "valueX": 2025,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 0.8002576087,
+        "Nitrogen from manure on soil": 0.6575763919,
+        "Nitrogen from manure on pasture": 0.3099746221511
+      },
+      {
+        "valueX": 2025,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.08239479956,
+        "Nitrogen from manure on soil": 0.0434221215,
+        "Nitrogen from manure on pasture": 0.0300334262938695
+      },
+      {
+        "valueX": 2025,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.3835327904,
+        "Nitrogen from manure on soil": 0.5201839703000001,
+        "Nitrogen from manure on pasture": 0.62155990782675
+      },
+      {
+        "valueX": 2025,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.1516476147,
+        "Nitrogen from manure on soil": 0.06180832302,
+        "Nitrogen from manure on pasture": 0.171681786706516
+      },
+      {
+        "valueX": 2025,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.02327969462,
+        "Nitrogen from manure on soil": 0.03914509459,
+        "Nitrogen from manure on pasture": 0.06734138121460449
+      },
+      {
+        "valueX": 2025,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 6.572349295,
+        "Nitrogen from manure on soil": 3.834536216,
+        "Nitrogen from manure on pasture": 2.3313663178986097
+      },
+      {
+        "valueX": 2025,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 1.700072875,
+        "Nitrogen from manure on soil": 0.9352512472,
+        "Nitrogen from manure on pasture": 1.2946826844027701
+      },
+      {
+        "valueX": 2025,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.544042483,
+        "Nitrogen from manure on soil": 0.10469772140000001,
+        "Nitrogen from manure on pasture": 1.71916392916281
+      },
+      {
+        "valueX": 2025,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 9.293936428,
+        "Nitrogen from manure on soil": 2.454547577,
+        "Nitrogen from manure on pasture": 3.48693156312136
+      },
+      {
+        "valueX": 2025,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 4.100064678,
+        "Nitrogen from manure on soil": 1.078651798,
+        "Nitrogen from manure on pasture": 18.137466851043797
+      },
+      {
+        "valueX": 2025,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 0.8869696076,
+        "Nitrogen from manure on soil": 0.1065150629,
+        "Nitrogen from manure on pasture": 4.59745433463998
+      },
+      {
+        "valueX": 2025,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 21.82727935,
+        "Nitrogen from manure on soil": 2.2098092379999996,
+        "Nitrogen from manure on pasture": 6.02062097877873
+      },
+      {
+        "valueX": 2025,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.05995190697,
+        "Nitrogen from manure on soil": 0.02366959279,
+        "Nitrogen from manure on pasture": 0.24617636513296098
+      },
+      {
+        "valueX": 2025,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 6.230857669,
+        "Nitrogen from manure on soil": 2.470146573,
+        "Nitrogen from manure on pasture": 8.51547038203848
+      },
+      {
+        "valueX": 2025,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.801105314,
+        "Nitrogen from manure on soil": 1.06714726,
+        "Nitrogen from manure on pasture": 3.83711823669783
+      },
+      {
+        "valueX": 2025,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 119.61103741400001,
+        "Nitrogen from manure on soil": 26.96509665947,
+        "Nitrogen from manure on pasture": 84.4403609790326
+      },
+      {
+        "valueX": 2025,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.8974289230000001,
+        "Nitrogen from manure on soil": 0.3608656733,
+        "Nitrogen from manure on pasture": 1.13622491303381
+      },
+      {
+        "valueX": 2025,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 4.0513141070000005,
+        "Nitrogen from manure on soil": 1.2547056399999998,
+        "Nitrogen from manure on pasture": 1.3328755823311702
+      },
+      {
+        "valueX": 2025,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.26140578859999997,
+        "Nitrogen from manure on soil": 0.1000290404,
+        "Nitrogen from manure on pasture": 0.351730601460196
+      },
+      {
+        "valueX": 2025,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 7.555398582,
+        "Nitrogen from manure on soil": 2.2660726540000002,
+        "Nitrogen from manure on pasture": 4.498389642236869
+      },
+      {
+        "valueX": 2025,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.06452672405,
+        "Nitrogen from manure on soil": 0.05360658427,
+        "Nitrogen from manure on pasture": 0.0476862767242771
+      },
+      {
+        "valueX": 2025,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 5.204897259,
+        "Nitrogen from manure on soil": 0.973567223,
+        "Nitrogen from manure on pasture": 10.4290128072667
+      },
+      {
+        "valueX": 2025,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 1.126556426,
+        "Nitrogen from manure on soil": 0.2032137816,
+        "Nitrogen from manure on pasture": 2.59882384614537
+      },
+      {
+        "valueX": 2025,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 1.293437557,
+        "Nitrogen from manure on soil": 0.6303395435,
+        "Nitrogen from manure on pasture": 1.70577314014258
+      },
+      {
+        "valueX": 2025,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 3.6556619799999996,
+        "Nitrogen from manure on soil": 0.764770842,
+        "Nitrogen from manure on pasture": 0.38577983304193203
+      },
+      {
+        "valueX": 2025,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.1538527469,
+        "Nitrogen from manure on soil": 0.15784857800000002,
+        "Nitrogen from manure on pasture": 0.0866589004737303
+      },
+      {
+        "valueX": 2030,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 0.8847145146000001,
+        "Nitrogen from manure on soil": 0.1209183111,
+        "Nitrogen from manure on pasture": 2.6448939804663603
+      },
+      {
+        "valueX": 2030,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 3.376167486,
+        "Nitrogen from manure on soil": 0.285484372,
+        "Nitrogen from manure on pasture": 0.447030998769671
+      },
+      {
+        "valueX": 2030,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 32.5700525,
+        "Nitrogen from manure on soil": 3.854031027,
+        "Nitrogen from manure on pasture": 7.52661045979215
+      },
+      {
+        "valueX": 2030,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 0.7670733507,
+        "Nitrogen from manure on soil": 0.6443807382,
+        "Nitrogen from manure on pasture": 0.246060333677306
+      },
+      {
+        "valueX": 2030,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.07918873499,
+        "Nitrogen from manure on soil": 0.0416721551,
+        "Nitrogen from manure on pasture": 0.0273173765033617
+      },
+      {
+        "valueX": 2030,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.3325358149,
+        "Nitrogen from manure on soil": 0.5022695407,
+        "Nitrogen from manure on pasture": 0.513292865804861
+      },
+      {
+        "valueX": 2030,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.15094803110000002,
+        "Nitrogen from manure on soil": 0.06410722887,
+        "Nitrogen from manure on pasture": 0.141033812425684
+      },
+      {
+        "valueX": 2030,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.02347931285,
+        "Nitrogen from manure on soil": 0.03954919778,
+        "Nitrogen from manure on pasture": 0.0650806689055934
+      },
+      {
+        "valueX": 2030,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 6.247016905000001,
+        "Nitrogen from manure on soil": 3.893584756,
+        "Nitrogen from manure on pasture": 1.74818767262362
+      },
+      {
+        "valueX": 2030,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 1.7000978379999998,
+        "Nitrogen from manure on soil": 0.9648062753000001,
+        "Nitrogen from manure on pasture": 1.20215370650902
+      },
+      {
+        "valueX": 2030,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.590657862,
+        "Nitrogen from manure on soil": 0.1221962497,
+        "Nitrogen from manure on pasture": 1.67034953189601
+      },
+      {
+        "valueX": 2030,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 8.591789827000001,
+        "Nitrogen from manure on soil": 2.4195607580000003,
+        "Nitrogen from manure on pasture": 3.4158685553566803
+      },
+      {
+        "valueX": 2030,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 0.9224331448,
+        "Nitrogen from manure on soil": 0.1153558393,
+        "Nitrogen from manure on pasture": 4.93324553241152
+      },
+      {
+        "valueX": 2030,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 4.3420854030000005,
+        "Nitrogen from manure on soil": 1.172745561,
+        "Nitrogen from manure on pasture": 18.344043108039802
+      },
+      {
+        "valueX": 2030,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 23.61559651,
+        "Nitrogen from manure on soil": 2.3855889080000003,
+        "Nitrogen from manure on pasture": 5.57595298419782
+      },
+      {
+        "valueX": 2030,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.05617432059,
+        "Nitrogen from manure on soil": 0.02509686762,
+        "Nitrogen from manure on pasture": 0.284470348053423
+      },
+      {
+        "valueX": 2030,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 5.952166103,
+        "Nitrogen from manure on soil": 2.791774375,
+        "Nitrogen from manure on pasture": 8.67871608191843
+      },
+      {
+        "valueX": 2030,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.832400096,
+        "Nitrogen from manure on soil": 1.09452909,
+        "Nitrogen from manure on pasture": 3.5548488993522303
+      },
+      {
+        "valueX": 2030,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 117.68034698942,
+        "Nitrogen from manure on soil": 27.65520398158,
+        "Nitrogen from manure on pasture": 82.3913516409274
+      },
+      {
+        "valueX": 2030,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.9430220349999999,
+        "Nitrogen from manure on soil": 0.3809188174,
+        "Nitrogen from manure on pasture": 1.1124423707061202
+      },
+      {
+        "valueX": 2030,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 1.215183965,
+        "Nitrogen from manure on soil": 0.23379035410000001,
+        "Nitrogen from manure on pasture": 2.33871344603515
+      },
+      {
+        "valueX": 2030,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 4.259182521,
+        "Nitrogen from manure on soil": 1.3284323690000002,
+        "Nitrogen from manure on pasture": 1.19521426632874
+      },
+      {
+        "valueX": 2030,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.27433957459999997,
+        "Nitrogen from manure on soil": 0.1049851854,
+        "Nitrogen from manure on pasture": 0.37590703343786297
+      },
+      {
+        "valueX": 2030,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 7.472768261000001,
+        "Nitrogen from manure on soil": 2.39462282,
+        "Nitrogen from manure on pasture": 4.60516999949199
+      },
+      {
+        "valueX": 2030,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 5.5304754439999995,
+        "Nitrogen from manure on soil": 1.034753727,
+        "Nitrogen from manure on pasture": 9.54096966017267
+      },
+      {
+        "valueX": 2030,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.07295392819,
+        "Nitrogen from manure on soil": 0.05971881091,
+        "Nitrogen from manure on pasture": 0.045727220060315404
+      },
+      {
+        "valueX": 2030,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 1.2683478620000002,
+        "Nitrogen from manure on soil": 0.6552933468,
+        "Nitrogen from manure on pasture": 1.78613963896505
+      },
+      {
+        "valueX": 2030,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.1569154331,
+        "Nitrogen from manure on soil": 0.1636792823,
+        "Nitrogen from manure on pasture": 0.0685070679312737
+      },
+      {
+        "valueX": 2030,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 3.452580211,
+        "Nitrogen from manure on soil": 0.761358018,
+        "Nitrogen from manure on pasture": 0.303404021094632
+      },
+      {
+        "valueX": 2035,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 0.8116650859,
+        "Nitrogen from manure on soil": 0.11141550169999999,
+        "Nitrogen from manure on pasture": 2.5231402580083198
+      },
+      {
+        "valueX": 2035,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 3.433893383,
+        "Nitrogen from manure on soil": 0.2913706618,
+        "Nitrogen from manure on pasture": 0.378681994486936
+      },
+      {
+        "valueX": 2035,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 31.03975612,
+        "Nitrogen from manure on soil": 3.674830785,
+        "Nitrogen from manure on pasture": 7.54692587015696
+      },
+      {
+        "valueX": 2035,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 0.7261243552,
+        "Nitrogen from manure on soil": 0.6245771454,
+        "Nitrogen from manure on pasture": 0.15223755292823798
+      },
+      {
+        "valueX": 2035,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.07591920891,
+        "Nitrogen from manure on soil": 0.03988650784,
+        "Nitrogen from manure on pasture": 0.0244704652506739
+      },
+      {
+        "valueX": 2035,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.2928983921,
+        "Nitrogen from manure on soil": 0.49772550969999996,
+        "Nitrogen from manure on pasture": 0.417053577570572
+      },
+      {
+        "valueX": 2035,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.1504756592,
+        "Nitrogen from manure on soil": 0.06703531038,
+        "Nitrogen from manure on pasture": 0.10154697786964001
+      },
+      {
+        "valueX": 2035,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.02360532997,
+        "Nitrogen from manure on soil": 0.039795222010000006,
+        "Nitrogen from manure on pasture": 0.06334537112163
+      },
+      {
+        "valueX": 2035,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 6.122681719999999,
+        "Nitrogen from manure on soil": 3.838994965,
+        "Nitrogen from manure on pasture": 1.268398952781
+      },
+      {
+        "valueX": 2035,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 1.701313793,
+        "Nitrogen from manure on soil": 0.9972126764,
+        "Nitrogen from manure on pasture": 1.09171140674045
+      },
+      {
+        "valueX": 2035,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.638584216,
+        "Nitrogen from manure on soil": 0.1410605759,
+        "Nitrogen from manure on pasture": 1.60947656460388
+      },
+      {
+        "valueX": 2035,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 7.991567541999999,
+        "Nitrogen from manure on soil": 2.41589762,
+        "Nitrogen from manure on pasture": 3.0476348014048398
+      },
+      {
+        "valueX": 2035,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 0.9672683883,
+        "Nitrogen from manure on soil": 0.1251839898,
+        "Nitrogen from manure on pasture": 5.233768710755901
+      },
+      {
+        "valueX": 2035,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 4.6125556219999995,
+        "Nitrogen from manure on soil": 1.2706704400000002,
+        "Nitrogen from manure on pasture": 18.5604277049171
+      },
+      {
+        "valueX": 2035,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 23.5594329,
+        "Nitrogen from manure on soil": 2.379644624,
+        "Nitrogen from manure on pasture": 5.51771788618776
+      },
+      {
+        "valueX": 2035,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 1.306562854,
+        "Nitrogen from manure on soil": 0.2644054691,
+        "Nitrogen from manure on pasture": 2.05203514431039
+      },
+      {
+        "valueX": 2035,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 4.198038873000001,
+        "Nitrogen from manure on soil": 1.30298978,
+        "Nitrogen from manure on pasture": 0.9987848138199981
+      },
+      {
+        "valueX": 2035,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.05369149848,
+        "Nitrogen from manure on soil": 0.025251754940000003,
+        "Nitrogen from manure on pasture": 0.287747203755199
+      },
+      {
+        "valueX": 2035,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 5.959917647,
+        "Nitrogen from manure on soil": 2.982453615,
+        "Nitrogen from manure on pasture": 8.84645700558678
+      },
+      {
+        "valueX": 2035,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 115.87921414373,
+        "Nitrogen from manure on soil": 28.04028380633,
+        "Nitrogen from manure on pasture": 79.2279980139735
+      },
+      {
+        "valueX": 2035,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.855990217,
+        "Nitrogen from manure on soil": 1.117948295,
+        "Nitrogen from manure on pasture": 3.19462707004405
+      },
+      {
+        "valueX": 2035,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.9922803715,
+        "Nitrogen from manure on soil": 0.4022455503,
+        "Nitrogen from manure on pasture": 1.07507548455013
+      },
+      {
+        "valueX": 2035,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.2761634503,
+        "Nitrogen from manure on soil": 0.1051906301,
+        "Nitrogen from manure on pasture": 0.405437095077105
+      },
+      {
+        "valueX": 2035,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 7.360326549000001,
+        "Nitrogen from manure on soil": 2.51752313,
+        "Nitrogen from manure on pasture": 4.576379521878129
+      },
+      {
+        "valueX": 2035,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 5.833337041,
+        "Nitrogen from manure on soil": 1.095164747,
+        "Nitrogen from manure on pasture": 8.23645950313597
+      },
+      {
+        "valueX": 2035,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 1.2305285510000001,
+        "Nitrogen from manure on soil": 0.6763253562999999,
+        "Nitrogen from manure on pasture": 1.78980152466781
+      },
+      {
+        "valueX": 2035,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.08110097207,
+        "Nitrogen from manure on soil": 0.06556131865999999,
+        "Nitrogen from manure on pasture": 0.042182083173703
+      },
+      {
+        "valueX": 2035,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.1596629138,
+        "Nitrogen from manure on soil": 0.169359868,
+        "Nitrogen from manure on pasture": 0.0469033496495302
+      },
+      {
+        "valueX": 2035,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 3.42387149,
+        "Nitrogen from manure on soil": 0.800562757,
+        "Nitrogen from manure on pasture": 0.139570119540808
+      },
+      {
+        "valueX": 2040,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 0.7548136545999999,
+        "Nitrogen from manure on soil": 0.10404573430000001,
+        "Nitrogen from manure on pasture": 2.39604132645041
+      },
+      {
+        "valueX": 2040,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 3.4739349309999996,
+        "Nitrogen from manure on soil": 0.295925391,
+        "Nitrogen from manure on pasture": 0.28069565515993
+      },
+      {
+        "valueX": 2040,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 29.76760818,
+        "Nitrogen from manure on soil": 3.5202258189999998,
+        "Nitrogen from manure on pasture": 7.47512008218439
+      },
+      {
+        "valueX": 2040,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 0.6703096272,
+        "Nitrogen from manure on soil": 0.5907375015,
+        "Nitrogen from manure on pasture": 0.00520639207359454
+      },
+      {
+        "valueX": 2040,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.0724692775,
+        "Nitrogen from manure on soil": 0.038004535160000005,
+        "Nitrogen from manure on pasture": 0.0214760982535004
+      },
+      {
+        "valueX": 2040,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.1502672425,
+        "Nitrogen from manure on soil": 0.07069076953,
+        "Nitrogen from manure on pasture": 0.0550951042879321
+      },
+      {
+        "valueX": 2040,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.023692929029999997,
+        "Nitrogen from manure on soil": 0.03995872852,
+        "Nitrogen from manure on pasture": 0.0618460635894559
+      },
+      {
+        "valueX": 2040,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 5.989928733,
+        "Nitrogen from manure on soil": 3.777053704,
+        "Nitrogen from manure on pasture": 0.787889824090572
+      },
+      {
+        "valueX": 2040,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 1.703298517,
+        "Nitrogen from manure on soil": 1.032673686,
+        "Nitrogen from manure on pasture": 0.969264749345899
+      },
+      {
+        "valueX": 2040,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.681626003,
+        "Nitrogen from manure on soil": 0.1608373982,
+        "Nitrogen from manure on pasture": 1.5301582109544298
+      },
+      {
+        "valueX": 2040,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 7.507775939,
+        "Nitrogen from manure on soil": 2.4359584329999997,
+        "Nitrogen from manure on pasture": 2.42033707935357
+      },
+      {
+        "valueX": 2040,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 1.010697089,
+        "Nitrogen from manure on soil": 0.1346057283,
+        "Nitrogen from manure on pasture": 5.4910047277391
+      },
+      {
+        "valueX": 2040,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 1.399702252,
+        "Nitrogen from manure on soil": 0.295073935,
+        "Nitrogen from manure on pasture": 1.80059878893903
+      },
+      {
+        "valueX": 2040,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 4.13070882,
+        "Nitrogen from manure on soil": 1.276239723,
+        "Nitrogen from manure on pasture": 0.780883160327271
+      },
+      {
+        "valueX": 2040,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 4.922558049999999,
+        "Nitrogen from manure on soil": 1.384094644,
+        "Nitrogen from manure on pasture": 18.7326373606087
+      },
+      {
+        "valueX": 2040,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 23.09844717,
+        "Nitrogen from manure on soil": 2.334306227,
+        "Nitrogen from manure on pasture": 5.399325193624819
+      },
+      {
+        "valueX": 2040,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.05220351081,
+        "Nitrogen from manure on soil": 0.02681515671,
+        "Nitrogen from manure on pasture": 0.28323583280500797
+      },
+      {
+        "valueX": 2040,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 6.078122755000001,
+        "Nitrogen from manure on soil": 3.170125879,
+        "Nitrogen from manure on pasture": 8.89146844256889
+      },
+      {
+        "valueX": 2040,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.2918510143,
+        "Nitrogen from manure on soil": 0.11111351139999999,
+        "Nitrogen from manure on pasture": 0.429869606710348
+      },
+      {
+        "valueX": 2040,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 113.87877509583001,
+        "Nitrogen from manure on soil": 28.36069519689,
+        "Nitrogen from manure on pasture": 74.76146517701011
+      },
+      {
+        "valueX": 2040,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.885996453,
+        "Nitrogen from manure on soil": 1.147180337,
+        "Nitrogen from manure on pasture": 2.78046806414104
+      },
+      {
+        "valueX": 2040,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 7.220173158,
+        "Nitrogen from manure on soil": 2.644291447,
+        "Nitrogen from manure on pasture": 4.42761383070327
+      },
+      {
+        "valueX": 2040,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.885304675,
+        "Nitrogen from manure on soil": 0.3636910484,
+        "Nitrogen from manure on pasture": 1.08182843920802
+      },
+      {
+        "valueX": 2040,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 6.1448496960000005,
+        "Nitrogen from manure on soil": 1.156535031,
+        "Nitrogen from manure on pasture": 6.52037628067961
+      },
+      {
+        "valueX": 2040,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 1.18799846,
+        "Nitrogen from manure on soil": 0.6980821693,
+        "Nitrogen from manure on pasture": 1.75972831396573
+      },
+      {
+        "valueX": 2040,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.08934715529000001,
+        "Nitrogen from manure on soil": 0.07143905137,
+        "Nitrogen from manure on pasture": 0.037244874180112394
+      },
+      {
+        "valueX": 2040,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 3.267802867,
+        "Nitrogen from manure on soil": 0.8124524334000001,
+        "Nitrogen from manure on pasture": 0
+      },
+      {
+        "valueX": 2040,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.1620686305,
+        "Nitrogen from manure on soil": 0.1748612216,
+        "Nitrogen from manure on pasture": 0.02274916016369
+      },
+      {
+        "valueX": 2040,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.2552183061,
+        "Nitrogen from manure on soil": 0.49367595319999996,
+        "Nitrogen from manure on pasture": 0.31930251490175
+      },
+      {
+        "valueX": 2045,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 0.7057316842,
+        "Nitrogen from manure on soil": 0.09767603463999999,
+        "Nitrogen from manure on pasture": 2.25137697973079
+      },
+      {
+        "valueX": 2045,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 3.495333881,
+        "Nitrogen from manure on soil": 0.2990681955,
+        "Nitrogen from manure on pasture": 0.15694567903440698
+      },
+      {
+        "valueX": 2045,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 28.42063365,
+        "Nitrogen from manure on soil": 3.357001095,
+        "Nitrogen from manure on pasture": 7.3583894944789
+      },
+      {
+        "valueX": 2045,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.06979625188,
+        "Nitrogen from manure on soil": 0.03653322724,
+        "Nitrogen from manure on pasture": 0.017906270773151798
+      },
+      {
+        "valueX": 2045,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.1502990163,
+        "Nitrogen from manure on soil": 0.07519533733,
+        "Nitrogen from manure on pasture": 0.00334750680577267
+      },
+      {
+        "valueX": 2045,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.02387482594,
+        "Nitrogen from manure on soil": 0.04033941502,
+        "Nitrogen from manure on pasture": 0.0601290903753398
+      },
+      {
+        "valueX": 2045,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 5.849656358,
+        "Nitrogen from manure on soil": 3.708324528,
+        "Nitrogen from manure on pasture": 0.31987954566487503
+      },
+      {
+        "valueX": 2045,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 1.705286792,
+        "Nitrogen from manure on soil": 1.071117295,
+        "Nitrogen from manure on pasture": 0.838833929789529
+      },
+      {
+        "valueX": 2045,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.71761194,
+        "Nitrogen from manure on soil": 0.18098036629999997,
+        "Nitrogen from manure on pasture": 1.43539979301544
+      },
+      {
+        "valueX": 2045,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 6.737484064,
+        "Nitrogen from manure on soil": 2.4082808879999997,
+        "Nitrogen from manure on pasture": 1.66021417812066
+      },
+      {
+        "valueX": 2045,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 1.493586137,
+        "Nitrogen from manure on soil": 0.32574167979999996,
+        "Nitrogen from manure on pasture": 1.5766206860182799
+      },
+      {
+        "valueX": 2045,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 3.939653383,
+        "Nitrogen from manure on soil": 1.2047286320000001,
+        "Nitrogen from manure on pasture": 0.661444574717738
+      },
+      {
+        "valueX": 2045,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 1.039343165,
+        "Nitrogen from manure on soil": 0.1399469895,
+        "Nitrogen from manure on pasture": 5.6851542754428
+      },
+      {
+        "valueX": 2045,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 5.067889942,
+        "Nitrogen from manure on soil": 1.4296149310000001,
+        "Nitrogen from manure on pasture": 19.0874837106562
+      },
+      {
+        "valueX": 2045,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 22.94054784,
+        "Nitrogen from manure on soil": 2.317696644,
+        "Nitrogen from manure on pasture": 5.1701646012873494
+      },
+      {
+        "valueX": 2045,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.3104059898,
+        "Nitrogen from manure on soil": 0.11811520210000001,
+        "Nitrogen from manure on pasture": 0.45408197427957997
+      },
+      {
+        "valueX": 2045,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.0550791134,
+        "Nitrogen from manure on soil": 0.029524149609999998,
+        "Nitrogen from manure on pasture": 0.295075237497185
+      },
+      {
+        "valueX": 2045,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 6.1855289309999995,
+        "Nitrogen from manure on soil": 3.365672525,
+        "Nitrogen from manure on pasture": 8.78795186632685
+      },
+      {
+        "valueX": 2045,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 111.60908480766,
+        "Nitrogen from manure on soil": 28.50331635139,
+        "Nitrogen from manure on pasture": 69.9193454974447
+      },
+      {
+        "valueX": 2045,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 7.075734972999999,
+        "Nitrogen from manure on soil": 2.696208427,
+        "Nitrogen from manure on pasture": 4.257991751915379
+      },
+      {
+        "valueX": 2045,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 1.141397169,
+        "Nitrogen from manure on soil": 0.7214250632,
+        "Nitrogen from manure on pasture": 1.6887013392066899
+      },
+      {
+        "valueX": 2045,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 6.498229322,
+        "Nitrogen from manure on soil": 1.2241249479999998,
+        "Nitrogen from manure on pasture": 4.52422321034522
+      },
+      {
+        "valueX": 2045,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.878098537,
+        "Nitrogen from manure on soil": 0.36304617710000003,
+        "Nitrogen from manure on pasture": 1.03836750498927
+      },
+      {
+        "valueX": 2045,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.911780803,
+        "Nitrogen from manure on soil": 1.1742939220000002,
+        "Nitrogen from manure on pasture": 2.33996225915098
+      },
+      {
+        "valueX": 2045,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.09752923704,
+        "Nitrogen from manure on soil": 0.07718139465,
+        "Nitrogen from manure on pasture": 0.0289927867420129
+      },
+      {
+        "valueX": 2045,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 3.1120316889999997,
+        "Nitrogen from manure on soil": 0.8263967795,
+        "Nitrogen from manure on pasture": 0
+      },
+      {
+        "valueX": 2045,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.2194910561,
+        "Nitrogen from manure on soil": 0.49026513169999997,
+        "Nitrogen from manure on pasture": 0.220707251080286
+      },
+      {
+        "valueX": 2045,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 0.602909522,
+        "Nitrogen from manure on soil": 0.5446348665,
+        "Nitrogen from manure on pasture": 0
+      },
+      {
+        "valueX": 2045,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.164139535,
+        "Nitrogen from manure on soil": 0.1801825067,
+        "Nitrogen from manure on pasture": 0
+      },
+      {
+        "valueX": 2050,
+        "location": "AUS",
+        "Nitrogen from synthetic fertilizer": 0.6656632244999999,
+        "Nitrogen from manure on soil": 0.09244425758,
+        "Nitrogen from manure on pasture": 2.10252565018
+      },
+      {
+        "valueX": 2050,
+        "location": "CHN",
+        "Nitrogen from synthetic fertilizer": 26.66217174,
+        "Nitrogen from manure on soil": 3.1500326789999997,
+        "Nitrogen from manure on pasture": 7.2149818159586
+      },
+      {
+        "valueX": 2050,
+        "location": "FIN",
+        "Nitrogen from synthetic fertilizer": 0.06699806522,
+        "Nitrogen from manure on soil": 0.03499472918,
+        "Nitrogen from manure on pasture": 0.0143144359924827
+      },
+      {
+        "valueX": 2050,
+        "location": "GRC",
+        "Nitrogen from synthetic fertilizer": 0.1588497677,
+        "Nitrogen from manure on soil": 0.08321985424,
+        "Nitrogen from manure on pasture": 0
+      },
+      {
+        "valueX": 2050,
+        "location": "NOR",
+        "Nitrogen from synthetic fertilizer": 0.02401754747,
+        "Nitrogen from manure on soil": 0.04063593217,
+        "Nitrogen from manure on pasture": 0.0585772326979974
+      },
+      {
+        "valueX": 2050,
+        "location": "R_OEU",
+        "Nitrogen from synthetic fertilizer": 5.701905743,
+        "Nitrogen from manure on soil": 3.632790626,
+        "Nitrogen from manure on pasture": 0
+      },
+      {
+        "valueX": 2050,
+        "location": "RUS",
+        "Nitrogen from synthetic fertilizer": 1.7047528319999998,
+        "Nitrogen from manure on soil": 1.11119923,
+        "Nitrogen from manure on pasture": 0.7005390591506719
+      },
+      {
+        "valueX": 2050,
+        "location": "TUR",
+        "Nitrogen from synthetic fertilizer": 1.747563245,
+        "Nitrogen from manure on soil": 0.2020858361,
+        "Nitrogen from manure on pasture": 1.3252939066394398
+      },
+      {
+        "valueX": 2050,
+        "location": "USA",
+        "Nitrogen from synthetic fertilizer": 6.096572117,
+        "Nitrogen from manure on soil": 2.37068266,
+        "Nitrogen from manure on pasture": 1.59198941166996
+      },
+      {
+        "valueX": 2050,
+        "location": "ARG",
+        "Nitrogen from synthetic fertilizer": 1.588270675,
+        "Nitrogen from manure on soil": 0.356441263,
+        "Nitrogen from manure on pasture": 1.37540905004178
+      },
+      {
+        "valueX": 2050,
+        "location": "IDN",
+        "Nitrogen from synthetic fertilizer": 3.71861189,
+        "Nitrogen from manure on soil": 1.12346744,
+        "Nitrogen from manure on pasture": 0.525596152117355
+      },
+      {
+        "valueX": 2050,
+        "location": "ETH",
+        "Nitrogen from synthetic fertilizer": 1.0640593429999998,
+        "Nitrogen from manure on soil": 0.1463692363,
+        "Nitrogen from manure on pasture": 5.7778809690996304
+      },
+      {
+        "valueX": 2050,
+        "location": "R_SSA",
+        "Nitrogen from synthetic fertilizer": 5.148896211,
+        "Nitrogen from manure on soil": 1.4582673529999999,
+        "Nitrogen from manure on pasture": 19.1366666718186
+      },
+      {
+        "valueX": 2050,
+        "location": "IND",
+        "Nitrogen from synthetic fertilizer": 22.66545651,
+        "Nitrogen from manure on soil": 2.2898735219999997,
+        "Nitrogen from manure on pasture": 4.877824032247781
+      },
+      {
+        "valueX": 2050,
+        "location": "NPL",
+        "Nitrogen from synthetic fertilizer": 0.32041888069999996,
+        "Nitrogen from manure on soil": 0.1219920062,
+        "Nitrogen from manure on pasture": 0.45171332746438997
+      },
+      {
+        "valueX": 2050,
+        "location": "MEX",
+        "Nitrogen from synthetic fertilizer": 1.091135795,
+        "Nitrogen from manure on soil": 0.7460419826,
+        "Nitrogen from manure on pasture": 1.6036181672521599
+      },
+      {
+        "valueX": 2050,
+        "location": "R_ASP",
+        "Nitrogen from synthetic fertilizer": 6.962445407000001,
+        "Nitrogen from manure on soil": 2.767857464,
+        "Nitrogen from manure on pasture": 3.9874989885574
+      },
+      {
+        "valueX": 2050,
+        "location": "RWA",
+        "Nitrogen from synthetic fertilizer": 0.05697156023,
+        "Nitrogen from manure on soil": 0.03219223943,
+        "Nitrogen from manure on pasture": 0.29788308476236103
+      },
+      {
+        "valueX": 2050,
+        "location": "R_NMC",
+        "Nitrogen from synthetic fertilizer": 6.168982893,
+        "Nitrogen from manure on soil": 3.6126248949999997,
+        "Nitrogen from manure on pasture": 8.483561079341591
+      },
+      {
+        "valueX": 2050,
+        "location": "WORLD",
+        "Nitrogen from synthetic fertilizer": 108.66328739902,
+        "Nitrogen from manure on soil": 28.625383933419997,
+        "Nitrogen from manure on pasture": 67.0548868734554,
+        "targets": [
+          {
+            "value": 68,
+            "byYear": 2050
+          }
+        ]
+      },
+      {
+        "valueX": 2050,
+        "location": "BRA",
+        "Nitrogen from synthetic fertilizer": 6.684153306,
+        "Nitrogen from manure on soil": 1.2644466170000002,
+        "Nitrogen from manure on pasture": 4.3772149310738895
+      },
+      {
+        "valueX": 2050,
+        "location": "COL",
+        "Nitrogen from synthetic fertilizer": 0.8698098858,
+        "Nitrogen from manure on soil": 0.36174239770000005,
+        "Nitrogen from manure on pasture": 0.987783835690476
+      },
+      {
+        "valueX": 2050,
+        "location": "R_CSA",
+        "Nitrogen from synthetic fertilizer": 1.930757163,
+        "Nitrogen from manure on soil": 1.1976881719999999,
+        "Nitrogen from manure on pasture": 1.89063648885967
+      },
+      {
+        "valueX": 2050,
+        "location": "SWE",
+        "Nitrogen from synthetic fertilizer": 0.103123405,
+        "Nitrogen from manure on soil": 0.08086769892,
+        "Nitrogen from manure on pasture": 0.0149748596969374
+      },
+      {
+        "valueX": 2050,
+        "location": "GBR",
+        "Nitrogen from synthetic fertilizer": 0.1853359802,
+        "Nitrogen from manure on soil": 0.4867520687,
+        "Nitrogen from manure on pasture": 0.12148570084163801
+      },
+      {
+        "valueX": 2050,
+        "location": "R_NEU",
+        "Nitrogen from synthetic fertilizer": 2.9588523650000003,
+        "Nitrogen from manure on soil": 0.8272259673,
+        "Nitrogen from manure on pasture": 0
+      },
+      {
+        "valueX": 2050,
+        "location": "DNK",
+        "Nitrogen from synthetic fertilizer": 0.1668675731,
+        "Nitrogen from manure on soil": 0.1862780167,
+        "Nitrogen from manure on pasture": 0
+      },
+      {
+        "valueX": 2050,
+        "location": "DEU",
+        "Nitrogen from synthetic fertilizer": 0.5854326711,
+        "Nitrogen from manure on soil": 0.5414823644000001,
+        "Nitrogen from manure on pasture": 0
+      },
+      {
+        "valueX": 2050,
+        "location": "CAN",
+        "Nitrogen from synthetic fertilizer": 3.5652116030000003,
+        "Nitrogen from manure on soil": 0.3056874249,
+        "Nitrogen from manure on pasture": 0.136918022300571
+      }
+    ],
+    "keys": [
+      "Nitrogen from synthetic fertilizer",
+      "Nitrogen from manure on soil",
+      "Nitrogen from manure on pasture"
+    ],
+    "byCountry": true,
+    "withTarget": true
+  },
+  {
+    "title": "Phosphorus Application",
+    "description": "Share of phosphorous application by fertilizer and application technique",
+    "axisY": "1000 tonnes",
+    "axisX": "year",
+    "legend": [
+      {
+        "label": "Figure description",
+        "description": "This figure shows the amount of phosphorous applied to soils. While FABLE does not have direct targets related to phosphorous reduction the amount is influenced by the overall mineral fertilizer application."
+      },
+      {
+        "key": "Total phosphorous",
+        "color": "hsl(84, 70%, 65%)",
+        "inGraph": true,
+        "inLegend": true
+      },
+      {
+        "key": "Historical value",
+        "color": "hsl(240, 70%, 50%)",
+        "inLegend": true,
+        "type": "historical"
+      },
+      {
+        "key": "FABLE target",
+        "color": "#E3180B",
+        "inLegend": true,
+        "type": "target"
+      }
+    ],
+    "data": [
+      {
+        "valueX": 2000,
+        "historical": 333.8,
+        "location": "ARG",
+        "Total phosphorous": 186.6458995
+      },
+      {
+        "valueX": 2000,
+        "historical": 1116.33865,
+        "location": "AUS",
+        "Total phosphorous": 423.3229637
+      },
+      {
+        "valueX": 2000,
+        "historical": 2338,
+        "location": "BRA",
+        "Total phosphorous": 1338.207553
+      },
+      {
+        "valueX": 2000,
+        "historical": 570.532,
+        "location": "CAN",
+        "Total phosphorous": 303.2907557
+      },
+      {
+        "valueX": 2000,
+        "historical": 8609.7,
+        "location": "CHN",
+        "Total phosphorous": 4734.163467
+      },
+      {
+        "valueX": 2000,
+        "historical": 131.8,
+        "location": "COL",
+        "Total phosphorous": 80.01110708
+      },
+      {
+        "valueX": 2000,
+        "historical": 351.317,
+        "location": "DEU",
+        "Total phosphorous": 224.0923152
+      },
+      {
+        "valueX": 2000,
+        "historical": 36,
+        "location": "DNK",
+        "Total phosphorous": 41.07336704
+      },
+      {
+        "valueX": 2000,
+        "historical": 80.98,
+        "location": "ETH",
+        "Total phosphorous": 34.52937911
+      },
+      {
+        "valueX": 2000,
+        "historical": 52,
+        "location": "FIN",
+        "Total phosphorous": 24.24446102
+      },
+      {
+        "valueX": 2000,
+        "historical": 279,
+        "location": "GBR",
+        "Total phosphorous": 104.138986
+      },
+      {
+        "valueX": 2000,
+        "historical": 113,
+        "location": "GRC",
+        "Total phosphorous": 59.97640739
+      },
+      {
+        "valueX": 2000,
+        "historical": 263.1,
+        "location": "IDN",
+        "Total phosphorous": 153.3745147
+      },
+      {
+        "valueX": 2000,
+        "historical": 4214.6,
+        "location": "IND",
+        "Total phosphorous": 1933.398898
+      },
+      {
+        "valueX": 2000,
+        "historical": 315,
+        "location": "MEX",
+        "Total phosphorous": 97.33541264
+      },
+      {
+        "valueX": 2000,
+        "historical": 30,
+        "location": "NOR",
+        "Total phosphorous": 10.94009359
+      },
+      {
+        "valueX": 2000,
+        "historical": 18.161,
+        "location": "NPL",
+        "Total phosphorous": 8.273896799
+      },
+      {
+        "valueX": 2000,
+        "historical": 2752.978,
+        "location": "R_ASP",
+        "Total phosphorous": 1395.898158
+      },
+      {
+        "valueX": 2000,
+        "historical": 565.583,
+        "location": "R_CSA",
+        "Total phosphorous": 349.3198712
+      },
+      {
+        "valueX": 2000,
+        "historical": 1979.635,
+        "location": "R_NMC",
+        "Total phosphorous": 455.5802131
+      },
+      {
+        "valueX": 2000,
+        "historical": 193.947,
+        "location": "R_NEU",
+        "Total phosphorous": 27.34832099
+      },
+      {
+        "valueX": 2000,
+        "historical": 2723.211,
+        "location": "R_OEU",
+        "Total phosphorous": 1883.930297
+      },
+      {
+        "valueX": 2000,
+        "historical": 473.099,
+        "location": "R_SSA",
+        "Total phosphorous": 315.3449613
+      },
+      {
+        "valueX": 2000,
+        "historical": 280,
+        "location": "RUS",
+        "Total phosphorous": 130.2639138
+      },
+      {
+        "valueX": 2000,
+        "historical": 0.1,
+        "location": "RWA",
+        "Total phosphorous": 0.0902667414836914
+      },
+      {
+        "valueX": 2000,
+        "historical": 39.042,
+        "location": "SWE",
+        "Total phosphorous": 33.18383212
+      },
+      {
+        "valueX": 2000,
+        "historical": 628.639,
+        "location": "TUR",
+        "Total phosphorous": 224.4116458
+      },
+      {
+        "valueX": 2000,
+        "historical": 3882.64538,
+        "location": "USA",
+        "Total phosphorous": 2606.356911
+      },
+      {
+        "valueX": 2000,
+        "historical": 32372.20803,
+        "location": "WORLD",
+        "Total phosphorous": 17178.7478685205
+      },
+      {
+        "valueX": 2005,
+        "historical": 513.245,
+        "location": "ARG",
+        "Total phosphorous": 278.1716202
+      },
+      {
+        "valueX": 2005,
+        "historical": 1041.7396,
+        "location": "AUS",
+        "Total phosphorous": 295.9017583
+      },
+      {
+        "valueX": 2005,
+        "historical": 2879.51109,
+        "location": "BRA",
+        "Total phosphorous": 2054.861037
+      },
+      {
+        "valueX": 2005,
+        "historical": 693.121,
+        "location": "CAN",
+        "Total phosphorous": 324.009822
+      },
+      {
+        "valueX": 2005,
+        "historical": 11637.78679,
+        "location": "CHN",
+        "Total phosphorous": 6528.199994
+      },
+      {
+        "valueX": 2005,
+        "historical": 171.88038,
+        "location": "COL",
+        "Total phosphorous": 133.1551826
+      },
+      {
+        "valueX": 2005,
+        "historical": 273.937,
+        "location": "DEU",
+        "Total phosphorous": 172.7479135
+      },
+      {
+        "valueX": 2005,
+        "historical": 41.662,
+        "location": "DNK",
+        "Total phosphorous": 42.38470029
+      },
+      {
+        "valueX": 2005,
+        "historical": 59.3,
+        "location": "ETH",
+        "Total phosphorous": 26.93195362
+      },
+      {
+        "valueX": 2005,
+        "historical": 44,
+        "location": "FIN",
+        "Total phosphorous": 21.82929174
+      },
+      {
+        "valueX": 2005,
+        "historical": 259,
+        "location": "GBR",
+        "Total phosphorous": 84.08391751
+      },
+      {
+        "valueX": 2005,
+        "historical": 87.0922,
+        "location": "GRC",
+        "Total phosphorous": 47.31135062
+      },
+      {
+        "valueX": 2005,
+        "historical": 327.794,
+        "location": "IDN",
+        "Total phosphorous": 204.3909333
+      },
+      {
+        "valueX": 2005,
+        "historical": 5209.967,
+        "location": "IND",
+        "Total phosphorous": 2697.462276
+      },
+      {
+        "valueX": 2005,
+        "historical": 380.7,
+        "location": "MEX",
+        "Total phosphorous": 166.2676447
+      },
+      {
+        "valueX": 2005,
+        "historical": 28.64,
+        "location": "NOR",
+        "Total phosphorous": 10.5826433
+      },
+      {
+        "valueX": 2005,
+        "historical": 4.994,
+        "location": "NPL",
+        "Total phosphorous": 2.390080462
+      },
+      {
+        "valueX": 2005,
+        "historical": 2896.0304,
+        "location": "R_ASP",
+        "Total phosphorous": 1552.907547
+      },
+      {
+        "valueX": 2005,
+        "historical": 674.14981,
+        "location": "R_CSA",
+        "Total phosphorous": 450.6200929
+      },
+      {
+        "valueX": 2005,
+        "historical": 2203.15189,
+        "location": "R_NMC",
+        "Total phosphorous": 558.7096886
+      },
+      {
+        "valueX": 2005,
+        "historical": 372.26456,
+        "location": "R_NEU",
+        "Total phosphorous": 178.4716065
+      },
+      {
+        "valueX": 2005,
+        "historical": 2554.984,
+        "location": "R_OEU",
+        "Total phosphorous": 1632.138404
+      },
+      {
+        "valueX": 2005,
+        "historical": 426.81965,
+        "location": "R_SSA",
+        "Total phosphorous": 292.3062809
+      },
+      {
+        "valueX": 2005,
+        "historical": 346.84,
+        "location": "RUS",
+        "Total phosphorous": 142.6540081
+      },
+      {
+        "valueX": 2005,
+        "historical": 1.087,
+        "location": "RWA",
+        "Total phosphorous": 0.871867119
+      },
+      {
+        "valueX": 2005,
+        "historical": 35.3,
+        "location": "SWE",
+        "Total phosphorous": 26.89691911
+      },
+      {
+        "valueX": 2005,
+        "historical": 601.606,
+        "location": "TUR",
+        "Total phosphorous": 221.8815416
+      },
+      {
+        "valueX": 2005,
+        "historical": 4062.9174,
+        "location": "USA",
+        "Total phosphorous": 2662.257999
+      },
+      {
+        "valueX": 2005,
+        "historical": 37829.52077,
+        "location": "WORLD",
+        "Total phosphorous": 20810.398073971
+      },
+      {
+        "valueX": 2010,
+        "historical": 823.64239,
+        "location": "AUS",
+        "Total phosphorous": 314.2577839
+      },
+      {
+        "valueX": 2010,
+        "historical": 650.749,
+        "location": "CAN",
+        "Total phosphorous": 372.4691045
+      },
+      {
+        "valueX": 2010,
+        "historical": 14392.79527,
+        "location": "CHN",
+        "Total phosphorous": 8311.816389
+      },
+      {
+        "valueX": 2010,
+        "historical": 286.348,
+        "location": "DEU",
+        "Total phosphorous": 172.109682
+      },
+      {
+        "valueX": 2010,
+        "historical": 32.982,
+        "location": "DNK",
+        "Total phosphorous": 33.30912661
+      },
+      {
+        "valueX": 2010,
+        "historical": 184,
+        "location": "GBR",
+        "Total phosphorous": 83.60530662
+      },
+      {
+        "valueX": 2010,
+        "historical": 68.92431,
+        "location": "GRC",
+        "Total phosphorous": 37.94493468
+      },
+      {
+        "valueX": 2010,
+        "historical": 18.064,
+        "location": "NOR",
+        "Total phosphorous": 8.120964517
+      },
+      {
+        "valueX": 2010,
+        "historical": 524.8267,
+        "location": "R_NEU",
+        "Total phosphorous": 280.1824955
+      },
+      {
+        "valueX": 2010,
+        "historical": 1814.946,
+        "location": "R_OEU",
+        "Total phosphorous": 1112.215669
+      },
+      {
+        "valueX": 2010,
+        "historical": 436.98,
+        "location": "RUS",
+        "Total phosphorous": 142.7762561
+      },
+      {
+        "valueX": 2010,
+        "historical": 605.668,
+        "location": "TUR",
+        "Total phosphorous": 200.3797365
+      },
+      {
+        "valueX": 2010,
+        "historical": 3896.44901,
+        "location": "USA",
+        "Total phosphorous": 2951.412852
+      },
+      {
+        "valueX": 2010,
+        "historical": 4.20052,
+        "location": "RWA",
+        "Total phosphorous": 2.984453973
+      },
+      {
+        "valueX": 2010,
+        "historical": 561.46928,
+        "location": "R_SSA",
+        "Total phosphorous": 318.3724501
+      },
+      {
+        "valueX": 2010,
+        "historical": 162.062,
+        "location": "ETH",
+        "Total phosphorous": 65.27773346
+      },
+      {
+        "valueX": 2010,
+        "historical": 8195.773,
+        "location": "IND",
+        "Total phosphorous": 4268.809223
+      },
+      {
+        "valueX": 2010,
+        "historical": 198.05613,
+        "location": "COL",
+        "Total phosphorous": 236.8183651
+      },
+      {
+        "valueX": 2010,
+        "historical": 499.22,
+        "location": "IDN",
+        "Total phosphorous": 372.8370832
+      },
+      {
+        "valueX": 2010,
+        "historical": 778.27261,
+        "location": "R_CSA",
+        "Total phosphorous": 474.7073011
+      },
+      {
+        "valueX": 2010,
+        "historical": 43153.32685,
+        "location": "WORLD",
+        "Total phosphorous": 24564.206235734
+      },
+      {
+        "valueX": 2010,
+        "historical": 2669.66096,
+        "location": "R_ASP",
+        "Total phosphorous": 1452.794801
+      },
+      {
+        "valueX": 2010,
+        "historical": 1993.95864,
+        "location": "R_NMC",
+        "Total phosphorous": 498.4954023
+      },
+      {
+        "valueX": 2010,
+        "historical": 10.13,
+        "location": "NPL",
+        "Total phosphorous": 5.530273714
+      },
+      {
+        "valueX": 2010,
+        "historical": 22.387,
+        "location": "SWE",
+        "Total phosphorous": 21.92713247
+      },
+      {
+        "valueX": 2010,
+        "historical": 683.667,
+        "location": "ARG",
+        "Total phosphorous": 213.2664566
+      },
+      {
+        "valueX": 2010,
+        "historical": 303.5,
+        "location": "MEX",
+        "Total phosphorous": 158.5571415
+      },
+      {
+        "valueX": 2010,
+        "historical": 3307.59503,
+        "location": "BRA",
+        "Total phosphorous": 2437.28319
+      },
+      {
+        "valueX": 2010,
+        "historical": 27,
+        "location": "FIN",
+        "Total phosphorous": 15.94492729
+      },
+      {
+        "valueX": 2015,
+        "historical": 424.76128,
+        "location": "ARG",
+        "Total phosphorous": 298.4276405
+      },
+      {
+        "valueX": 2015,
+        "historical": 928.05448,
+        "location": "AUS",
+        "Total phosphorous": 356.3545622
+      },
+      {
+        "valueX": 2015,
+        "historical": 4323.01382,
+        "location": "BRA",
+        "Total phosphorous": 3078.367494
+      },
+      {
+        "valueX": 2015,
+        "historical": 1004,
+        "location": "CAN",
+        "Total phosphorous": 621.1687536
+      },
+      {
+        "valueX": 2015,
+        "historical": 12765.57258,
+        "location": "CHN",
+        "Total phosphorous": 8661.714321
+      },
+      {
+        "valueX": 2015,
+        "historical": 287.762,
+        "location": "DEU",
+        "Total phosphorous": 177.0903807
+      },
+      {
+        "valueX": 2015,
+        "historical": 33.093,
+        "location": "DNK",
+        "Total phosphorous": 37.7437374
+      },
+      {
+        "valueX": 2015,
+        "historical": 25.17194,
+        "location": "FIN",
+        "Total phosphorous": 15.4316408
+      },
+      {
+        "valueX": 2015,
+        "historical": 196,
+        "location": "GBR",
+        "Total phosphorous": 93.41199684
+      },
+      {
+        "valueX": 2015,
+        "historical": 50.483,
+        "location": "GRC",
+        "Total phosphorous": 30.52428538
+      },
+      {
+        "valueX": 2015,
+        "historical": 21.269,
+        "location": "NOR",
+        "Total phosphorous": 8.131459002
+      },
+      {
+        "valueX": 2015,
+        "historical": 485.55923,
+        "location": "R_NEU",
+        "Total phosphorous": 307.0703522
+      },
+      {
+        "valueX": 2015,
+        "historical": 2045.92776,
+        "location": "R_OEU",
+        "Total phosphorous": 1302.604287
+      },
+      {
+        "valueX": 2015,
+        "historical": 467.89,
+        "location": "RUS",
+        "Total phosphorous": 184.1677017
+      },
+      {
+        "valueX": 2015,
+        "historical": 584.569,
+        "location": "TUR",
+        "Total phosphorous": 215.1883169
+      },
+      {
+        "valueX": 2015,
+        "historical": 3944.392,
+        "location": "USA",
+        "Total phosphorous": 3227.267312
+      },
+      {
+        "valueX": 2015,
+        "historical": 7.31404,
+        "location": "RWA",
+        "Total phosphorous": 7.312302889
+      },
+      {
+        "valueX": 2015,
+        "historical": 736.24916,
+        "location": "R_SSA",
+        "Total phosphorous": 444.8169669
+      },
+      {
+        "valueX": 2015,
+        "historical": 6978.8,
+        "location": "IND",
+        "Total phosphorous": 3721.121389
+      },
+      {
+        "valueX": 2015,
+        "historical": 1436.73553,
+        "location": "IDN",
+        "Total phosphorous": 964.7714269
+      },
+      {
+        "valueX": 2015,
+        "historical": 196.58484,
+        "location": "ETH",
+        "Total phosphorous": 77.09871379
+      },
+      {
+        "valueX": 2015,
+        "historical": 970.73883,
+        "location": "R_CSA",
+        "Total phosphorous": 612.3825636
+      },
+      {
+        "valueX": 2015,
+        "historical": 43876.69622,
+        "location": "WORLD",
+        "Total phosphorous": 27428.681368051
+      },
+      {
+        "valueX": 2015,
+        "historical": 2223.77772,
+        "location": "R_NMC",
+        "Total phosphorous": 607.4585894
+      },
+      {
+        "valueX": 2015,
+        "historical": 231.52222,
+        "location": "COL",
+        "Total phosphorous": 323.8271307
+      },
+      {
+        "valueX": 2015,
+        "historical": 2969.42037,
+        "location": "R_ASP",
+        "Total phosphorous": 1780.629508
+      },
+      {
+        "valueX": 2015,
+        "historical": 46.82662,
+        "location": "NPL",
+        "Total phosphorous": 28.06697889
+      },
+      {
+        "valueX": 2015,
+        "historical": 28.602,
+        "location": "SWE",
+        "Total phosphorous": 21.05796206
+      },
+      {
+        "valueX": 2015,
+        "historical": 462.6058,
+        "location": "MEX",
+        "Total phosphorous": 225.4735947
+      },
+      {
+        "valueX": 2020,
+        "historical": 957.50311,
+        "location": "AUS",
+        "Total phosphorous": 316.3917262
+      },
+      {
+        "valueX": 2020,
+        "historical": 1194,
+        "location": "CAN",
+        "Total phosphorous": 779.9479876
+      },
+      {
+        "valueX": 2020,
+        "historical": 9918.63544,
+        "location": "CHN",
+        "Total phosphorous": 7039.486134
+      },
+      {
+        "valueX": 2020,
+        "historical": 192.182,
+        "location": "DEU",
+        "Total phosphorous": 140.7957725
+      },
+      {
+        "valueX": 2020,
+        "historical": 37.23275,
+        "location": "DNK",
+        "Total phosphorous": 34.30750975
+      },
+      {
+        "valueX": 2020,
+        "historical": 26.27205,
+        "location": "FIN",
+        "Total phosphorous": 15.87323839
+      },
+      {
+        "valueX": 2020,
+        "historical": 174,
+        "location": "GBR",
+        "Total phosphorous": 81.75472995
+      },
+      {
+        "valueX": 2020,
+        "historical": 64.87911,
+        "location": "GRC",
+        "Total phosphorous": 30.90572391
+      },
+      {
+        "valueX": 2020,
+        "historical": 454.18265,
+        "location": "MEX",
+        "Total phosphorous": 232.7899865
+      },
+      {
+        "valueX": 2020,
+        "historical": 20.618,
+        "location": "NOR",
+        "Total phosphorous": 8.777681984
+      },
+      {
+        "valueX": 2020,
+        "historical": 2329.73271,
+        "location": "R_OEU",
+        "Total phosphorous": 1411.858227
+      },
+      {
+        "valueX": 2020,
+        "historical": 686.451,
+        "location": "RUS",
+        "Total phosphorous": 259.6866668
+      },
+      {
+        "valueX": 2020,
+        "historical": 763.639,
+        "location": "TUR",
+        "Total phosphorous": 261.5443859
+      },
+      {
+        "valueX": 2020,
+        "historical": 3973.50993,
+        "location": "USA",
+        "Total phosphorous": 3167.295743
+      },
+      {
+        "valueX": 2020,
+        "historical": 15.16473,
+        "location": "RWA",
+        "Total phosphorous": 13.64906207
+      },
+      {
+        "valueX": 2020,
+        "historical": 1030.86693,
+        "location": "R_SSA",
+        "Total phosphorous": 621.6398031
+      },
+      {
+        "valueX": 2020,
+        "historical": 164.3652,
+        "location": "ETH",
+        "Total phosphorous": 58.57661338
+      },
+      {
+        "valueX": 2020,
+        "historical": 8977.9,
+        "location": "IND",
+        "Total phosphorous": 4896.88982
+      },
+      {
+        "valueX": 2020,
+        "historical": 1211.22482,
+        "location": "IDN",
+        "Total phosphorous": 795.5691614
+      },
+      {
+        "valueX": 2020,
+        "historical": 1018.45556,
+        "location": "R_CSA",
+        "Total phosphorous": 648.4533065
+      },
+      {
+        "valueX": 2020,
+        "historical": 2406.40919,
+        "location": "R_NMC",
+        "Total phosphorous": 669.0146622
+      },
+      {
+        "valueX": 2020,
+        "historical": 48069.7346,
+        "location": "WORLD",
+        "Total phosphorous": 29468.399533754
+      },
+      {
+        "valueX": 2020,
+        "historical": 257.02816,
+        "location": "COL",
+        "Total phosphorous": 408.6558141
+      },
+      {
+        "valueX": 2020,
+        "historical": 73.73708,
+        "location": "NPL",
+        "Total phosphorous": 51.88206193
+      },
+      {
+        "valueX": 2020,
+        "historical": 38.11,
+        "location": "SWE",
+        "Total phosphorous": 27.10149619
+      },
+      {
+        "valueX": 2020,
+        "historical": 7233.80979,
+        "location": "BRA",
+        "Total phosphorous": 4605.369318
+      },
+      {
+        "valueX": 2020,
+        "historical": 3273.47859,
+        "location": "R_ASP",
+        "Total phosphorous": 1958.326271
+      },
+      {
+        "valueX": 2020,
+        "historical": 868.63509,
+        "location": "ARG",
+        "Total phosphorous": 506.7293018
+      },
+      {
+        "valueX": 2020,
+        "historical": 707.71171,
+        "location": "R_NEU",
+        "Total phosphorous": 425.1273286
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "AUS",
+        "Total phosphorous": 339.335753
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "CAN",
+        "Total phosphorous": 849.3120921
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "CHN",
+        "Total phosphorous": 6298.694706
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "DEU",
+        "Total phosphorous": 129.8582096
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "FIN",
+        "Total phosphorous": 15.67993727
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "GBR",
+        "Total phosphorous": 69.84846744
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "GRC",
+        "Total phosphorous": 31.72468125
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "NOR",
+        "Total phosphorous": 7.86501433
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "R_OEU",
+        "Total phosphorous": 1394.903194
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "RUS",
+        "Total phosphorous": 245.270451
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "TUR",
+        "Total phosphorous": 230.8432076
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "USA",
+        "Total phosphorous": 3287.18709
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "R_SSA",
+        "Total phosphorous": 708.7570396
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "ETH",
+        "Total phosphorous": 66.04289533
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "IND",
+        "Total phosphorous": 5993.995566
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "RWA",
+        "Total phosphorous": 14.59750968
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "R_NMC",
+        "Total phosphorous": 674.5451267
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "R_CSA",
+        "Total phosphorous": 673.4167012
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "WORLD",
+        "Total phosphorous": 30760.02285881
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "COL",
+        "Total phosphorous": 429.0159284
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "IDN",
+        "Total phosphorous": 942.8634157
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "NPL",
+        "Total phosphorous": 58.46003756
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "R_ASP",
+        "Total phosphorous": 1967.371484
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "SWE",
+        "Total phosphorous": 26.6000083
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "BRA",
+        "Total phosphorous": 5119.009427
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "ARG",
+        "Total phosphorous": 455.9318722
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "MEX",
+        "Total phosphorous": 251.2749733
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "R_NEU",
+        "Total phosphorous": 442.9740835
+      },
+      {
+        "valueX": 2025,
+        "historical": 0,
+        "location": "DNK",
+        "Total phosphorous": 34.64398675
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "AUS",
+        "Total phosphorous": 321.5243426
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "CAN",
+        "Total phosphorous": 872.877256
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "CHN",
+        "Total phosphorous": 5850.749439
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "DEU",
+        "Total phosphorous": 124.9558874
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "FIN",
+        "Total phosphorous": 15.24095176
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "GBR",
+        "Total phosphorous": 63.39091537
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "GRC",
+        "Total phosphorous": 33.22794728
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "NOR",
+        "Total phosphorous": 7.938969442
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "R_OEU",
+        "Total phosphorous": 1356.896503
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "RUS",
+        "Total phosphorous": 243.3396915
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "TUR",
+        "Total phosphorous": 238.4558473
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "USA",
+        "Total phosphorous": 3089.601058
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "ETH",
+        "Total phosphorous": 75.09029214
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "R_SSA",
+        "Total phosphorous": 783.0849509
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "IND",
+        "Total phosphorous": 7078.671092
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "RWA",
+        "Total phosphorous": 15.72684723
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "R_NMC",
+        "Total phosphorous": 716.200932
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "R_CSA",
+        "Total phosphorous": 689.7465977
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "WORLD",
+        "Total phosphorous": 31775.221943162
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "COL",
+        "Total phosphorous": 449.8645414
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "ARG",
+        "Total phosphorous": 453.5233903
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "IDN",
+        "Total phosphorous": 1006.748625
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "NPL",
+        "Total phosphorous": 63.87704588
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "R_ASP",
+        "Total phosphorous": 2041.088002
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "BRA",
+        "Total phosphorous": 5437.230011
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "SWE",
+        "Total phosphorous": 29.14654077
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "MEX",
+        "Total phosphorous": 260.4791016
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "DNK",
+        "Total phosphorous": 35.50651559
+      },
+      {
+        "valueX": 2030,
+        "historical": 0,
+        "location": "R_NEU",
+        "Total phosphorous": 421.038649
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "AUS",
+        "Total phosphorous": 306.6297269
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "CAN",
+        "Total phosphorous": 892.5441764
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "CHN",
+        "Total phosphorous": 5566.376239
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "DEU",
+        "Total phosphorous": 118.8375305
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "FIN",
+        "Total phosphorous": 14.7903043
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "GBR",
+        "Total phosphorous": 58.8370985
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "GRC",
+        "Total phosphorous": 34.9325179
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "NOR",
+        "Total phosphorous": 7.978820206
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "R_OEU",
+        "Total phosphorous": 1338.731857
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "RUS",
+        "Total phosphorous": 242.0167348
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "TUR",
+        "Total phosphorous": 246.3799817
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "USA",
+        "Total phosphorous": 2931.05284
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "ETH",
+        "Total phosphorous": 84.77483946
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "R_SSA",
+        "Total phosphorous": 857.7787447
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "IND",
+        "Total phosphorous": 6976.784238
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "ARG",
+        "Total phosphorous": 452.8322687
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "IDN",
+        "Total phosphorous": 980.3249959
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "RWA",
+        "Total phosphorous": 15.53667266
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "R_NMC",
+        "Total phosphorous": 756.2239992
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "WORLD",
+        "Total phosphorous": 31806.927881906
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "R_CSA",
+        "Total phosphorous": 703.7190883
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "COL",
+        "Total phosphorous": 472.5386322
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "NPL",
+        "Total phosphorous": 70.60811777
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "R_ASP",
+        "Total phosphorous": 2110.468787
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "BRA",
+        "Total phosphorous": 5813.898716
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "MEX",
+        "Total phosphorous": 266.5516092
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "SWE",
+        "Total phosphorous": 31.55403876
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "DNK",
+        "Total phosphorous": 36.26549295
+      },
+      {
+        "valueX": 2035,
+        "historical": 0,
+        "location": "R_NEU",
+        "Total phosphorous": 417.9598139
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "AUS",
+        "Total phosphorous": 295.6302374
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "CAN",
+        "Total phosphorous": 906.9999719
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "CHN",
+        "Total phosphorous": 5309.268812
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "DEU",
+        "Total phosphorous": 110.3786672
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "FIN",
+        "Total phosphorous": 14.30439471
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "GRC",
+        "Total phosphorous": 36.90994069
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "NOR",
+        "Total phosphorous": 8.001069762
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "R_OEU",
+        "Total phosphorous": 1317.817591
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "RUS",
+        "Total phosphorous": 241.1210115
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "TUR",
+        "Total phosphorous": 253.7736152
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "USA",
+        "Total phosphorous": 2808.420284
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "ETH",
+        "Total phosphorous": 94.0379652
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "ARG",
+        "Total phosphorous": 453.2581145
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "IDN",
+        "Total phosphorous": 953.5868087
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "R_SSA",
+        "Total phosphorous": 944.5498459
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "IND",
+        "Total phosphorous": 6713.364724
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "RWA",
+        "Total phosphorous": 16.53145326
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "R_NMC",
+        "Total phosphorous": 809.0820435
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "NPL",
+        "Total phosphorous": 79.04708964
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "WORLD",
+        "Total phosphorous": 31704.088161442
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "R_CSA",
+        "Total phosphorous": 721.7338507
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "R_ASP",
+        "Total phosphorous": 2173.001281
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "COL",
+        "Total phosphorous": 419.499059
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "BRA",
+        "Total phosphorous": 6224.267555
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "MEX",
+        "Total phosphorous": 272.2204346
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "SWE",
+        "Total phosphorous": 33.95170496
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "R_NEU",
+        "Total phosphorous": 401.8505522
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "DNK",
+        "Total phosphorous": 36.91809801
+      },
+      {
+        "valueX": 2040,
+        "historical": 0,
+        "location": "GBR",
+        "Total phosphorous": 54.56198591
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "AUS",
+        "Total phosphorous": 285.785131
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "CAN",
+        "Total phosphorous": 915.9230399
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "CHN",
+        "Total phosphorous": 5042.541492
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "FIN",
+        "Total phosphorous": 13.93327723
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "GRC",
+        "Total phosphorous": 39.24342492
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "NOR",
+        "Total phosphorous": 8.081085423
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "R_OEU",
+        "Total phosphorous": 1294.37282
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "RUS",
+        "Total phosphorous": 240.4872581
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "TUR",
+        "Total phosphorous": 259.8075003
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "USA",
+        "Total phosphorous": 2611.890905
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "ARG",
+        "Total phosphorous": 454.1785137
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "IDN",
+        "Total phosphorous": 886.8298219
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "ETH",
+        "Total phosphorous": 98.79755969
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "R_SSA",
+        "Total phosphorous": 977.7571955
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "IND",
+        "Total phosphorous": 6663.894816
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "NPL",
+        "Total phosphorous": 89.31823943
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "RWA",
+        "Total phosphorous": 17.80089738
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "R_NMC",
+        "Total phosphorous": 863.100996
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "WORLD",
+        "Total phosphorous": 31674.588134293
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "R_ASP",
+        "Total phosphorous": 2200.679092
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "MEX",
+        "Total phosphorous": 279.7754016
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "BRA",
+        "Total phosphorous": 6666.171097
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "COL",
+        "Total phosphorous": 414.936364
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "R_CSA",
+        "Total phosphorous": 738.4585443
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "SWE",
+        "Total phosphorous": 36.36723049
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "R_NEU",
+        "Total phosphorous": 386.3563173
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "GBR",
+        "Total phosphorous": 50.57277831
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "DEU",
+        "Total phosphorous": 100.0566358
+      },
+      {
+        "valueX": 2045,
+        "historical": 0,
+        "location": "DNK",
+        "Total phosphorous": 37.47070002
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "AUS",
+        "Total phosphorous": 277.6360688
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "CHN",
+        "Total phosphorous": 4723.863497
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "FIN",
+        "Total phosphorous": 13.53846118
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "GRC",
+        "Total phosphorous": 43.21702719
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "NOR",
+        "Total phosphorous": 8.14282189
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "R_OEU",
+        "Total phosphorous": 1268.409061
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "RUS",
+        "Total phosphorous": 239.6710849
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "TUR",
+        "Total phosphorous": 265.7926722
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "USA",
+        "Total phosphorous": 2422.842943
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "ARG",
+        "Total phosphorous": 455.6035056
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "IDN",
+        "Total phosphorous": 812.3420278
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "ETH",
+        "Total phosphorous": 105.5361184
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "R_SSA",
+        "Total phosphorous": 999.9945023
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "IND",
+        "Total phosphorous": 6580.248962
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "NPL",
+        "Total phosphorous": 93.42842687
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "MEX",
+        "Total phosphorous": 286.7907246
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "R_ASP",
+        "Total phosphorous": 2247.088216
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "RWA",
+        "Total phosphorous": 19.10355074
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "R_NMC",
+        "Total phosphorous": 915.4291822
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "WORLD",
+        "targets": [
+          {
+            "value": 16000,
+            "byYear": 2050
+          }
+        ],
+        "Total phosphorous": 31312.0708959
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "BRA",
+        "Total phosphorous": 6840.009509
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "COL",
+        "Total phosphorous": 409.9470016
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "R_CSA",
+        "Total phosphorous": 752.7973718
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "SWE",
+        "Total phosphorous": 38.09750378
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "GBR",
+        "Total phosphorous": 46.78496582
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "R_NEU",
+        "Total phosphorous": 369.8679444
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "DNK",
+        "Total phosphorous": 38.25711869
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "DEU",
+        "Total phosphorous": 97.74437364
+      },
+      {
+        "valueX": 2050,
+        "historical": 0,
+        "location": "CAN",
+        "Total phosphorous": 939.8862535
+      }
+    ],
+    "keys": [
+      "Total phosphorous"
+    ],
+    "withHistorical": true,
+    "byCountry": true,
+    "withTarget": true
+  }
+]

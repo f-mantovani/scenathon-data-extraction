@@ -37,6 +37,7 @@ export type Base = {
   keys: string[];
   groupMode?: "stacked" | "grouped";
   notes?: string;
+  spTarget?: boolean;
 };
 
 

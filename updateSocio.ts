@@ -18,7 +18,7 @@ class Colors {
 const colors = new Colors();
 
 (async function () {
-  const allPaths = await glob('./src/data/store/2023-socioeconomics-CT-Yes.json')
+  const allPaths = await glob('./src/data/store/*-socioeconomics-*.json')
 
 
   for await (const path of allPaths) {

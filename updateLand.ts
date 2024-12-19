@@ -17,12 +17,13 @@ class Colors {
   forest = this.mature;
   natural_land = this.new;
   crop_pasture = this.pasture;
+  target = '#E3180B'
 }
 
 const colors = new Colors();
 
 (async function () {
-  const allFiles = await glob("./src/data/store/2023-land-CT-Yes.json");
+  const allFiles = await glob("./src/data/store/*-land-*.json");
 
   for await (const filePath of allFiles) {
     const { pathname } = pathToFileURL(filePath);
@@ -321,6 +322,12 @@ const colors = new Colors();
               inLegend: true,
               description: "Land under OECM whatever the land cover type",
             },
+            {
+              key: "FABLE target",
+              color: colors.target,
+              inLegend: true,
+              type: 'target'
+            }
           ];
           el.data = el.data.map((e) => ({
             location: e.location,
@@ -328,7 +335,7 @@ const colors = new Colors();
             Forest: e["Forest protected areas"],
             "Natural land": e["Other natural protected areas"],
             "Cropland and pasture": e["Other protected areas"],
-            "All under OECM": e["OECM areas"],
+            "All under OECM": e["OECM  areas"],
             targets: e.targets,
           }));
           el.keys = [
@@ -383,6 +390,12 @@ const colors = new Colors();
               inLegend: true,
               description: "LNPP in new other natural land",
             },
+            {
+              key: "FABLE target",
+              color: colors.target,
+              inLegend: true,
+              type: 'target'
+            }
           ];
 
           el.data = el.data.map((e) => ({
@@ -400,6 +413,7 @@ const colors = new Colors();
             "New forest",
             "New natural land",
           ];
+          el.spTarget = true
           // closinng 1
         }
 
@@ -455,6 +469,12 @@ const colors = new Colors();
               description:
                 "Cropland area managed under non-agroecological practices",
             },
+            {
+              key: "FABLE target",
+              color: colors.target,
+              inLegend: true,
+              type: 'target'
+            }
           ];
           el.keys = ['Agroecological practices', 'Conventional practices']
           el.data = el.data.map(e => ({

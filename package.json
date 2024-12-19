@@ -28,6 +28,7 @@
     "updateNitro": "tsx updateNitro.ts",
     "updateSocio": "tsx updateSocio.ts",
     "updateTrade": "tsx updateTrade.ts",
+    "updateGHG": "tsx updateGHG.ts",
     "start": "tsx src/index.ts"
   },
   "keywords": [],

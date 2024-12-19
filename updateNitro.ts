@@ -2,18 +2,18 @@ import { fs, glob, pathToFileURL, type Base } from "./writeHelper";
 
 class Colors {
   fertilizer = 'hsl(60, 70%, 50%)';
-  manure_soil = 'hsl(0, 70%, 50%)';
+  manure_soil = 'hsl(293, 38.70%, 44.10%)';
   manure_pasture = 'hsl(120, 70%, 25%)';
   phosphorous = 'hsl(84, 70%, 65%)';
   historical = 'hsl(240, 70%, 50%)';
-  target = 'hsl(180, 70%, 50%)';
+  target = '#E3180B';
 
 }
 
 const colors = new Colors();
 
 (async function () {
-  const allPaths = await glob('./src/data/store/2023-nitro_and_phospho-CT-Yes.json')
+  const allPaths = await glob('./src/data/store/*-nitro_and_phospho-*.json')
 
   for await (const path of allPaths) {
     const { pathname } = pathToFileURL(path)

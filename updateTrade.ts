@@ -5,7 +5,7 @@ import { fs, glob, pathToFileURL, type Base } from "./writeHelper";
 
   for await (const path of allPaths) {
     const { pathname } = pathToFileURL(path);
-    const final = path.split("/").at(-1);
+    const final = pathname.split("/").at(-1);
     const year = Number(final?.split("-")[0]);
     const file = (await import(pathname)).default;
 

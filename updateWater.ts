@@ -1,26 +1,27 @@
 import { fs, glob, pathToFileURL, type Base } from "./writeHelper";
 
 class Colors {
-  fresh_water = "#181FDB";
+  fresh_water = "#4d908e";
   target = "#E3180B";
 }
 
 const colors = new Colors();
 
 (async function () {
-  const allPath = await glob("./src/data/store/2023-water-CT-Yes.json");
+  const allPath = await glob("./src/data/store/*-water-*.json");
 
   for await (const path of allPath) {
     const { pathname } = pathToFileURL(path);
     const file = (await import(pathname)).default;
 
-    const final = path.split("/").at(-1);
+    const final = pathname.split("/").at(-1);
     const year = Number(final?.split("-")[0]);
+    
 
     file.forEach((el: Base, i: number) => {
       if (year === 2020 || year === 2021) {
         if (i === 0) {
-          el.title = "Water use for Agriculture";
+          el.title = "Water use for agriculture";
           el.description =
             "Fresh water used for irrigation of crops and livestock production";
           el.axisY = "Fresh water use (km\u00B3)";
@@ -40,7 +41,7 @@ const colors = new Colors();
         }
 
         if (i === 1) {
-          el.title = "Water use for Agriculture by country";
+          el.title = "Water use for agriculture by country";
           el.description =
             "Fresh water used for irrigation of crops and livestock production";
           el.axisY = "Fresh water use (km\u00B3)";
@@ -73,6 +74,7 @@ const colors = new Colors();
                 'Water use': e['Blue water'],
                 targets: e.targets
             }))
+            el.spTarget = true
         }
 
         if (i === 1) {
